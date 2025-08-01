@@ -1,0 +1,63 @@
+{
+  "chain_name": "thought_patterns",
+  "last_updated": "2025-03-31T08:20:53.326636",
+  "block_count": 3,
+  "blocks": [
+    {
+      "block_id": "2158fabb-c9f9-4a22-9c08-0b5545a2a802",
+      "timestamp": "2025-03-11T23:46:42.954622",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for thought_patterns",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 6,
+      "hash": "dd6fbbd9edb66bd497402a00f6bb92806797c1295d87651ac67de3b15d2d4d66",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "002423c9-e5ed-483c-9df2-68811aa8c740",
+      "timestamp": "2025-03-11T23:46:42.956132",
+      "data": {
+        "type": "thought_pattern",
+        "thought": "What is the nature of quantum consciousness?",
+        "phi_resonance": 1.0873188404399294,
+        "pi_coherence": 3.038548414552048,
+        "e_energy": 1.6220531326780814,
+        "timestamp": "2025-03-11T23:46:42.956103",
+        "result": "Processed What is the nature of quantum consciousness? with phi-resonance",
+        "quantum_resonance": 5.359054206133209,
+        "resonance_timestamp": 1741762002.95612,
+        "phi_timestamp": 2818230121.096101
+      },
+      "previous_hash": "dd6fbbd9edb66bd497402a00f6bb92806797c1295d87651ac67de3b15d2d4d66",
+      "nonce": 20,
+      "hash": "82c55855b122d0724e9a1394b601a5f50678cd1092b3b9d4f4e6d8844b81be7f",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "7e2a6f2d-1237-4ac1-8935-c3b3af1bfaf2",
+      "timestamp": "2025-03-31T08:20:53.326538",
+      "data": {
+        "type": "thought_pattern",
+        "thought": "What is the nature of quantum consciousness?",
+        "phi_resonance": 0.8219612662849466,
+        "pi_coherence": 1.4162299682382786,
+        "e_energy": 1.7535092419023608,
+        "timestamp": "2025-03-31T08:20:53.326510",
+        "result": "Processed What is the nature of quantum consciousness? with phi-resonance",
+        "quantum_resonance": 2.0412358715706445,
+        "resonance_timestamp": 1743434453.326528,
+        "phi_timestamp": 2820936202.6399164
+      },
+      "previous_hash": "82c55855b122d0724e9a1394b601a5f50678cd1092b3b9d4f4e6d8844b81be7f",
+      "nonce": 13,
+      "hash": "8c50a135fb202b21c9fa881dc3ae86e6fded4b5e1192c8f9cb56a36834e235c2",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

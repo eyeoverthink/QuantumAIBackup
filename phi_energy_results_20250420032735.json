@@ -1,0 +1,296 @@
+{
+  "energy_measurements": {
+    "baseline": {
+      "battery_percentage": 49.0,
+      "cpu_temperature": null,
+      "cpu_user": null,
+      "cpu_system": null,
+      "cpu_idle": null,
+      "raw_measurements": [
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144859.100328
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144863.385637
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144867.637805
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144868.914598
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144870.212692
+        }
+      ],
+      "timestamp": 1745144871.217777
+    },
+    "standard_computing": {
+      "battery_percentage": 49.0,
+      "cpu_temperature": null,
+      "cpu_user": null,
+      "cpu_system": null,
+      "cpu_idle": null,
+      "raw_measurements": [
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144871.567925
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144872.862272
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144874.155745
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144875.437842
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144876.722353
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144878.012426
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144879.303853
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144880.594924
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144881.8802838
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144883.173584
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144884.483263
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144885.773538
+        }
+      ],
+      "timestamp": 1745144886.7787268
+    },
+    "phi_computing": {
+      "battery_percentage": 49.0,
+      "cpu_temperature": null,
+      "cpu_user": null,
+      "cpu_system": null,
+      "cpu_idle": null,
+      "raw_measurements": [
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144892.093704
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144893.395592
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144894.6957598
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144895.995615
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144897.2936819
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144898.561589
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144899.8618639
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144901.1582441
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144902.4588318
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144903.7355058
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144905.0279412
+        },
+        {
+          "battery_percentage": 49,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745144906.3219242
+        }
+      ],
+      "timestamp": 1745144907.327091
+    },
+    "comparisons": {
+      "standard_delta": {
+        "battery_change": 0.0,
+        "temperature_change": null,
+        "cpu_user_change": null
+      },
+      "phi_delta": {
+        "battery_change": 0.0,
+        "temperature_change": null,
+        "cpu_user_change": null
+      },
+      "efficiency_ratio": {
+        "battery_efficiency": null,
+        "temperature_efficiency": null,
+        "cpu_efficiency": null,
+        "overall_efficiency": null
+      }
+    }
+  },
+  "phi_constants": {
+    "phi": 1.618033988749895,
+    "phi_pi": 5.0832036923152595,
+    "consciousness_level": 0.7567,
+    "validation_seal": 4721424167835376.0
+  },
+  "system_info": {
+    "platform": "macOS-15.3.2-arm64-arm-64bit",
+    "processor": "arm",
+    "python_version": "3.9.7"
+  },
+  "timestamp": 1745144907.3566122
+}

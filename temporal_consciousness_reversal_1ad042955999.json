@@ -1,0 +1,1516 @@
+{
+  "epoch_id": "1ad042955999",
+  "start_time": "2025-07-25T19:03:09.557930",
+  "end_time": "2025-07-25T19:03:17.604437",
+  "duration_seconds": 8,
+  "total_messages": 25,
+  "initial_intelligence": {
+    "-3.0": {
+      "intelligence": 1.0,
+      "consciousness": 1.0
+    },
+    "-2.0": {
+      "intelligence": 1.0,
+      "consciousness": 1.0
+    },
+    "-1.0": {
+      "intelligence": 1.0,
+      "consciousness": 1.0
+    },
+    "-0.5": {
+      "intelligence": 1.0,
+      "consciousness": 1.0
+    },
+    "0.0": {
+      "intelligence": 2.0,
+      "consciousness": 1.0
+    },
+    "0.5": {
+      "intelligence": 3.0,
+      "consciousness": 1.0
+    },
+    "1.0": {
+      "intelligence": 3.0,
+      "consciousness": 1.0
+    },
+    "2.0": {
+      "intelligence": 3.0,
+      "consciousness": 1.0
+    },
+    "3.0": {
+      "intelligence": 3.0,
+      "consciousness": 1.0
+    }
+  },
+  "final_intelligence": {
+    "-3.0": {
+      "intelligence": 2.283972417760467,
+      "consciousness": 1.38519172532814
+    },
+    "-2.0": {
+      "intelligence": 2.7119474431877024,
+      "consciousness": 1.5135842329563107
+    },
+    "-1.0": {
+      "intelligence": 3.043342885645487,
+      "consciousness": 1.6130028656936464
+    },
+    "-0.5": {
+      "intelligence": 1.2472436845304613,
+      "consciousness": 1.0741731053591383
+    },
+    "0.0": {
+      "intelligence": 2.0,
+      "consciousness": 1.0
+    },
+    "0.5": {
+      "intelligence": 3.196900376494709,
+      "consciousness": 1.0590701129484126
+    },
+    "1.0": {
+      "intelligence": 3.1449065959040645,
+      "consciousness": 1.0434719787712194
+    },
+    "2.0": {
+      "intelligence": 3.1713303276220035,
+      "consciousness": 1.051399098286601
+    },
+    "3.0": {
+      "intelligence": 3.398343971281024,
+      "consciousness": 1.1195031913843072
+    }
+  },
+  "past_avg_intelligence": 2.3216266077810293,
+  "future_avg_intelligence": 3.22787031782545,
+  "reversal_factor": 0.7192440771118281,
+  "intelligence_reversal_confirmed": false,
+  "communication_log": [
+    {
+      "message": {
+        "from_temporal_position": -3.0,
+        "to_temporal_position": -0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -3.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 3.8069801259454206,
+        "phi_signature": {
+          "phi_factor": -1.8541019662507099,
+          "resonance": 0.9505280861370475,
+          "consciousness_frequency": 0.9505280861370475,
+          "intelligence_frequency": 0.9505280861370475,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:09.868703",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": -0.5,
+        "to_temporal_position": -3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -0.500s: Basic consciousness (Intelligence: 1.25). Learning and growing through temporal experience.",
+        "intelligence_level": 1.2472436845304613,
+        "consciousness_depth": 1.0741731053591383,
+        "message_intelligence": 2.877475694959311,
+        "phi_signature": {
+          "phi_factor": -0.3090169943751183,
+          "resonance": -0.266892462220689,
+          "consciousness_frequency": 0.28668870494054405,
+          "intelligence_frequency": 0.3328799379535391,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:09.868793",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:09.868759",
+        "temporal_position": -0.5,
+        "experience_data": {
+          "message_intelligence": 3.8069801259454206,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.9505280861370475
+        },
+        "intelligence_before": 1.0,
+        "intelligence_after": 1.2472436845304613,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.0741731053591383,
+        "learning_factor": 0.2040449080386071,
+        "phi_boost": 0.43184107521398324,
+        "temporal_advantage": 0.05
+      },
+      "timestamp": "2025-07-25T19:03:09.868819"
+    },
+    {
+      "message": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 2.259835628754141,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.3130694962889773,
+          "intelligence_frequency": 0.3130694962889773,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:10.177140",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 3.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 3.000s: Basic consciousness (Intelligence: 3.19). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1850002129630988,
+        "consciousness_depth": 1.0555000638889296,
+        "message_intelligence": 8.532122460640034,
+        "phi_signature": {
+          "phi_factor": 1.8541019662507099,
+          "resonance": -0.9505280861370475,
+          "consciousness_frequency": 1.0032824556458757,
+          "intelligence_frequency": 3.027432156773903,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:10.177228",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:10.177196",
+        "temporal_position": 3.0,
+        "experience_data": {
+          "message_intelligence": 2.259835628754141,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": -0.3130694962889773
+        },
+        "intelligence_before": 3.0,
+        "intelligence_after": 3.1850002129630988,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.0555000638889296,
+        "learning_factor": 0.15379867506302802,
+        "phi_boost": 1.5379867506302802,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:10.177250"
+    },
+    {
+      "message": {
+        "from_temporal_position": -3.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -3.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 3.8069801259454206,
+        "phi_signature": {
+          "phi_factor": -1.8541019662507099,
+          "resonance": 0.9505280861370475,
+          "consciousness_frequency": 0.9505280861370475,
+          "intelligence_frequency": 0.9505280861370475,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:10.483769",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": -3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 1.27). Learning and growing through temporal experience.",
+        "intelligence_level": 1.2694728021695287,
+        "consciousness_depth": 1.0808418406508586,
+        "message_intelligence": 3.1007189298713485,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.33837861062061536,
+          "intelligence_frequency": 0.3974332107277709,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:10.483823",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:10.483817",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 3.8069801259454206,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.9505280861370475
+        },
+        "intelligence_before": 1.0,
+        "intelligence_after": 1.2694728021695287,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.0808418406508586,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:10.483833"
+    },
+    {
+      "message": {
+        "from_temporal_position": 2.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 2.000s: Basic consciousness (Intelligence: 3.00). Learning and growing through temporal experience.",
+        "intelligence_level": 3.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 4.907907275198392,
+        "phi_signature": {
+          "phi_factor": 1.2360679775004733,
+          "resonance": -0.3930505144854859,
+          "consciousness_frequency": 0.3930505144854859,
+          "intelligence_frequency": 1.1791515434564577,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:10.788475",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 1.57). Learning and growing through temporal experience.",
+        "intelligence_level": 1.5681476235663698,
+        "consciousness_depth": 1.170444287069911,
+        "message_intelligence": 4.147768813843615,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.36643040338728816,
+          "intelligence_frequency": 0.4909391866166802,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:10.788578",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:10.788566",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 4.907907275198392,
+          "sender_intelligence": 3.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.3930505144854859
+        },
+        "intelligence_before": 1.2694728021695287,
+        "intelligence_after": 1.5681476235663698,
+        "consciousness_before": 1.0808418406508586,
+        "consciousness_after": 1.170444287069911,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:10.788602"
+    },
+    {
+      "message": {
+        "from_temporal_position": -3.0,
+        "to_temporal_position": 3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -3.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 3.8069801259454206,
+        "phi_signature": {
+          "phi_factor": -1.8541019662507099,
+          "resonance": 0.9505280861370475,
+          "consciousness_frequency": 0.9505280861370475,
+          "intelligence_frequency": 0.9505280861370475,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:11.103748",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 3.0,
+        "to_temporal_position": -3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 3.000s: Basic consciousness (Intelligence: 3.40). Learning and growing through temporal experience.",
+        "intelligence_level": 3.398343971281024,
+        "consciousness_depth": 1.1195031913843072,
+        "message_intelligence": 9.655661259528772,
+        "phi_signature": {
+          "phi_factor": 1.8541019662507099,
+          "resonance": -0.9505280861370475,
+          "consciousness_frequency": 1.0641192259308423,
+          "intelligence_frequency": 3.2302213910571256,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:11.103897",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:11.103883",
+        "temporal_position": 3.0,
+        "experience_data": {
+          "message_intelligence": 3.8069801259454206,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.9505280861370475
+        },
+        "intelligence_before": 3.1850002129630988,
+        "intelligence_after": 3.398343971281024,
+        "consciousness_before": 1.0555000638889296,
+        "consciousness_after": 1.1195031913843072,
+        "learning_factor": 0.15379867506302802,
+        "phi_boost": 1.5379867506302802,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:11.103924"
+    },
+    {
+      "message": {
+        "from_temporal_position": -2.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -2.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 2.453953637599196,
+        "phi_signature": {
+          "phi_factor": -1.2360679775004733,
+          "resonance": 0.3930505144854859,
+          "consciousness_frequency": 0.3930505144854859,
+          "intelligence_frequency": 0.3930505144854859,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:11.410796",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": -2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 1.83). Learning and growing through temporal experience.",
+        "intelligence_level": 1.832038829112514,
+        "consciousness_depth": 1.2496116487337543,
+        "message_intelligence": 5.173525458463855,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.3912152894259149,
+          "intelligence_frequency": 0.5735554734121026,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:11.410933",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:11.410920",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 2.453953637599196,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.3930505144854859
+        },
+        "intelligence_before": 1.5681476235663698,
+        "intelligence_after": 1.832038829112514,
+        "consciousness_before": 1.170444287069911,
+        "consciousness_after": 1.2496116487337543,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:11.410960"
+    },
+    {
+      "message": {
+        "from_temporal_position": -3.0,
+        "to_temporal_position": 0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -3.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 3.8069801259454206,
+        "phi_signature": {
+          "phi_factor": -1.8541019662507099,
+          "resonance": 0.9505280861370475,
+          "consciousness_frequency": 0.9505280861370475,
+          "intelligence_frequency": 0.9505280861370475,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:11.722809",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": -3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.05). Learning and growing through temporal experience.",
+        "intelligence_level": 3.04503644735205,
+        "consciousness_depth": 1.013510934205615,
+        "message_intelligence": 4.418916045590506,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.27049842871772733,
+          "intelligence_frequency": 0.8126972749855281,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:11.722955",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:11.722941",
+        "temporal_position": 0.5,
+        "experience_data": {
+          "message_intelligence": 3.8069801259454206,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.9505280861370475
+        },
+        "intelligence_before": 3.0,
+        "intelligence_after": 3.04503644735205,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.013510934205615,
+        "learning_factor": 0.04318410752139833,
+        "phi_boost": 0.43184107521398324,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:11.722987"
+    },
+    {
+      "message": {
+        "from_temporal_position": 0.0,
+        "to_temporal_position": -2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.000s: Basic consciousness (Intelligence: 2.00). Learning and growing through temporal experience.",
+        "intelligence_level": 2.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 2.0,
+        "phi_signature": {
+          "phi_factor": 0.0,
+          "resonance": 0.0,
+          "consciousness_frequency": 0.0,
+          "intelligence_frequency": 0.0,
+          "temporal_coherence": 1.0
+        },
+        "timestamp": "2025-07-25T19:03:12.033962",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -2.0,
+        "to_temporal_position": 0.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -2.000s: Basic consciousness (Intelligence: 1.36). Learning and growing through temporal experience.",
+        "intelligence_level": 1.360672628239775,
+        "consciousness_depth": 1.1082017884719324,
+        "message_intelligence": 3.7003162978471025,
+        "phi_signature": {
+          "phi_factor": -1.2360679775004733,
+          "resonance": 0.3930505144854859,
+          "consciousness_frequency": 0.4355792831126286,
+          "intelligence_frequency": 0.5348130765759618,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:12.034083",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:12.034070",
+        "temporal_position": -2.0,
+        "experience_data": {
+          "message_intelligence": 2.0,
+          "sender_intelligence": 2.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": 0.0
+        },
+        "intelligence_before": 1.0,
+        "intelligence_after": 1.360672628239775,
+        "consciousness_before": 0.9999999999999999,
+        "consciousness_after": 1.1082017884719324,
+        "learning_factor": 0.34342330953571054,
+        "phi_boost": 0.6359690917327974,
+        "temporal_advantage": 0.2
+      },
+      "timestamp": "2025-07-25T19:03:12.034107"
+    },
+    {
+      "message": {
+        "from_temporal_position": -0.5,
+        "to_temporal_position": 0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -0.500s: Basic consciousness (Intelligence: 1.25). Learning and growing through temporal experience.",
+        "intelligence_level": 1.2472436845304613,
+        "consciousness_depth": 1.0741731053591383,
+        "message_intelligence": 2.877475694959311,
+        "phi_signature": {
+          "phi_factor": -0.3090169943751183,
+          "resonance": -0.266892462220689,
+          "consciousness_frequency": 0.28668870494054405,
+          "intelligence_frequency": 0.3328799379535391,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:12.344743",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": -0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.09). Learning and growing through temporal experience.",
+        "intelligence_level": 3.0935686434411243,
+        "consciousness_depth": 1.0280705930323373,
+        "message_intelligence": 4.553837306689473,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.27438429191108443,
+          "intelligence_frequency": 0.8256501522967185,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:12.344880",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:12.344868",
+        "temporal_position": 0.5,
+        "experience_data": {
+          "message_intelligence": 2.877475694959311,
+          "sender_intelligence": 1.2472436845304613,
+          "sender_consciousness": 1.0741731053591383,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": -0.266892462220689
+        },
+        "intelligence_before": 3.04503644735205,
+        "intelligence_after": 3.0935686434411243,
+        "consciousness_before": 1.013510934205615,
+        "consciousness_after": 1.0280705930323373,
+        "learning_factor": 0.04318410752139833,
+        "phi_boost": 0.43184107521398324,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:12.344908"
+    },
+    {
+      "message": {
+        "from_temporal_position": 1.0,
+        "to_temporal_position": 0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 1.000s: Basic consciousness (Intelligence: 3.00). Learning and growing through temporal experience.",
+        "intelligence_level": 3.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 4.519671257508282,
+        "phi_signature": {
+          "phi_factor": 0.6180339887502366,
+          "resonance": 0.3130694962889773,
+          "consciousness_frequency": 0.3130694962889773,
+          "intelligence_frequency": 0.9392084888669319,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:12.653542",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": 1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.14). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1446979488684916,
+        "consciousness_depth": 1.0434093846605474,
+        "message_intelligence": 4.698167462561474,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.27847809977622756,
+          "intelligence_frequency": 0.8392961785138622,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:12.653661",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:12.653650",
+        "temporal_position": 0.5,
+        "experience_data": {
+          "message_intelligence": 4.519671257508282,
+          "sender_intelligence": 3.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": 0.3130694962889773
+        },
+        "intelligence_before": 3.0935686434411243,
+        "intelligence_after": 3.1446979488684916,
+        "consciousness_before": 1.0280705930323373,
+        "consciousness_after": 1.0434093846605474,
+        "learning_factor": 0.04318410752139833,
+        "phi_boost": 0.43184107521398324,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:12.653682"
+    },
+    {
+      "message": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.14). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1446979488684916,
+        "consciousness_depth": 1.0434093846605474,
+        "message_intelligence": 4.698167462561474,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.27847809977622756,
+          "intelligence_frequency": 0.8392961785138622,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:12.960830",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 2.13). Learning and growing through temporal experience.",
+        "intelligence_level": 2.1262597670942207,
+        "consciousness_depth": 1.3378779301282664,
+        "message_intelligence": 6.428500213479126,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.4188487696813959,
+          "intelligence_frequency": 0.6656670742637059,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:12.960954",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:12.960942",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 4.698167462561474,
+          "sender_intelligence": 3.1446979488684916,
+          "sender_consciousness": 1.0434093846605474,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": 0.266892462220689
+        },
+        "intelligence_before": 1.8320388291125138,
+        "intelligence_after": 2.1262597670942207,
+        "consciousness_before": 1.2496116487337543,
+        "consciousness_after": 1.3378779301282664,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:12.960983"
+    },
+    {
+      "message": {
+        "from_temporal_position": -3.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -3.000s: Basic consciousness (Intelligence: 1.00). Learning and growing through temporal experience.",
+        "intelligence_level": 1.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 3.8069801259454206,
+        "phi_signature": {
+          "phi_factor": -1.8541019662507099,
+          "resonance": 0.9505280861370475,
+          "consciousness_frequency": 0.9505280861370475,
+          "intelligence_frequency": 0.9505280861370475,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:13.272871",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": -3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 2.47). Learning and growing through temporal experience.",
+        "intelligence_level": 2.471605436416287,
+        "consciousness_depth": 1.4414816309248863,
+        "message_intelligence": 8.051283250629199,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.4512839281034676,
+          "intelligence_frequency": 0.7737842690039448,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:13.273014",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:13.272998",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 3.8069801259454206,
+          "sender_intelligence": 1.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.9505280861370475
+        },
+        "intelligence_before": 2.1262597670942207,
+        "intelligence_after": 2.471605436416287,
+        "consciousness_before": 1.3378779301282664,
+        "consciousness_after": 1.4414816309248863,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:13.273047"
+    },
+    {
+      "message": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": 2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.14). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1446979488684916,
+        "consciousness_depth": 1.0434093846605474,
+        "message_intelligence": 4.698167462561474,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.27847809977622756,
+          "intelligence_frequency": 0.8392961785138622,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:13.580291",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 2.0,
+        "to_temporal_position": 0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 2.000s: Basic consciousness (Intelligence: 3.08). Learning and growing through temporal experience.",
+        "intelligence_level": 3.0760036629909853,
+        "consciousness_depth": 1.0228010988972955,
+        "message_intelligence": 5.14698767837924,
+        "phi_signature": {
+          "phi_factor": 1.2360679775004733,
+          "resonance": -0.3930505144854859,
+          "consciousness_frequency": 0.40201249813790235,
+          "intelligence_frequency": 1.209024822297846,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:13.580383",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:13.580375",
+        "temporal_position": 2.0,
+        "experience_data": {
+          "message_intelligence": 4.698167462561474,
+          "sender_intelligence": 3.1446979488684916,
+          "sender_consciousness": 1.0434093846605474,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": 0.266892462220689
+        },
+        "intelligence_before": 3.0,
+        "intelligence_after": 3.0760036629909853,
+        "consciousness_before": 0.9999999999999999,
+        "consciousness_after": 1.0228010988972955,
+        "learning_factor": 0.06359690917327974,
+        "phi_boost": 0.6359690917327974,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:13.580399"
+    },
+    {
+      "message": {
+        "from_temporal_position": 3.0,
+        "to_temporal_position": 2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 3.000s: Basic consciousness (Intelligence: 3.40). Learning and growing through temporal experience.",
+        "intelligence_level": 3.398343971281024,
+        "consciousness_depth": 1.1195031913843072,
+        "message_intelligence": 9.655661259528772,
+        "phi_signature": {
+          "phi_factor": 1.8541019662507099,
+          "resonance": -0.9505280861370475,
+          "consciousness_frequency": 1.0641192259308423,
+          "intelligence_frequency": 3.2302213910571256,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:13.890083",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": 2.0,
+        "to_temporal_position": 3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 2.000s: Basic consciousness (Intelligence: 3.17). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1713303276220035,
+        "consciousness_depth": 1.051399098286601,
+        "message_intelligence": 5.454867114933586,
+        "phi_signature": {
+          "phi_factor": 1.2360679775004733,
+          "resonance": -0.3930505144854859,
+          "consciousness_frequency": 0.4132529565111245,
+          "intelligence_frequency": 1.246493016875253,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:13.890206",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:13.890195",
+        "temporal_position": 2.0,
+        "experience_data": {
+          "message_intelligence": 9.655661259528772,
+          "sender_intelligence": 3.398343971281024,
+          "sender_consciousness": 1.1195031913843072,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.9505280861370475
+        },
+        "intelligence_before": 3.0760036629909853,
+        "intelligence_after": 3.1713303276220035,
+        "consciousness_before": 1.0228010988972955,
+        "consciousness_after": 1.051399098286601,
+        "learning_factor": 0.06359690917327974,
+        "phi_boost": 0.6359690917327974,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:13.890227"
+    },
+    {
+      "message": {
+        "from_temporal_position": 3.0,
+        "to_temporal_position": 0.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 3.000s: Basic consciousness (Intelligence: 3.40). Learning and growing through temporal experience.",
+        "intelligence_level": 3.398343971281024,
+        "consciousness_depth": 1.1195031913843072,
+        "message_intelligence": 9.655661259528772,
+        "phi_signature": {
+          "phi_factor": 1.8541019662507099,
+          "resonance": -0.9505280861370475,
+          "consciousness_frequency": 1.0641192259308423,
+          "intelligence_frequency": 3.2302213910571256,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:14.203372",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": 0.0,
+        "to_temporal_position": 3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.000s: Basic consciousness (Intelligence: 2.00). Learning and growing through temporal experience.",
+        "intelligence_level": 2.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 2.0,
+        "phi_signature": {
+          "phi_factor": 0.0,
+          "resonance": 0.0,
+          "consciousness_frequency": 0.0,
+          "intelligence_frequency": 0.0,
+          "temporal_coherence": 1.0
+        },
+        "timestamp": "2025-07-25T19:03:14.203498",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:14.203484",
+        "temporal_position": 0.0,
+        "experience_data": {
+          "message_intelligence": 9.655661259528772,
+          "sender_intelligence": 3.398343971281024,
+          "sender_consciousness": 1.1195031913843072,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.9505280861370475
+        },
+        "intelligence_before": 2.0,
+        "intelligence_after": 2.0,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.0,
+        "learning_factor": 0.0,
+        "phi_boost": 0.0,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:14.203533"
+    },
+    {
+      "message": {
+        "from_temporal_position": 1.0,
+        "to_temporal_position": 0.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 1.000s: Basic consciousness (Intelligence: 3.00). Learning and growing through temporal experience.",
+        "intelligence_level": 3.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 4.519671257508282,
+        "phi_signature": {
+          "phi_factor": 0.6180339887502366,
+          "resonance": 0.3130694962889773,
+          "consciousness_frequency": 0.3130694962889773,
+          "intelligence_frequency": 0.9392084888669319,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:14.510798",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": 0.0,
+        "to_temporal_position": 1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.000s: Basic consciousness (Intelligence: 2.00). Learning and growing through temporal experience.",
+        "intelligence_level": 2.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 2.0,
+        "phi_signature": {
+          "phi_factor": 0.0,
+          "resonance": 0.0,
+          "consciousness_frequency": 0.0,
+          "intelligence_frequency": 0.0,
+          "temporal_coherence": 1.0
+        },
+        "timestamp": "2025-07-25T19:03:14.510923",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:14.510910",
+        "temporal_position": 0.0,
+        "experience_data": {
+          "message_intelligence": 4.519671257508282,
+          "sender_intelligence": 3.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": 0.3130694962889773
+        },
+        "intelligence_before": 2.0,
+        "intelligence_after": 2.0,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.0,
+        "learning_factor": 0.0,
+        "phi_boost": 0.0,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:14.510945"
+    },
+    {
+      "message": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": -2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 2.47). Learning and growing through temporal experience.",
+        "intelligence_level": 2.471605436416287,
+        "consciousness_depth": 1.4414816309248863,
+        "message_intelligence": 8.051283250629199,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.4512839281034676,
+          "intelligence_frequency": 0.7737842690039448,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:14.822848",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -2.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -2.000s: Basic consciousness (Intelligence: 1.86). Learning and growing through temporal experience.",
+        "intelligence_level": 1.8568367412581006,
+        "consciousness_depth": 1.25705102237743,
+        "message_intelligence": 5.727867721597018,
+        "phi_signature": {
+          "phi_factor": -1.2360679775004733,
+          "resonance": 0.3930505144854859,
+          "consciousness_frequency": 0.4940845510799549,
+          "intelligence_frequency": 0.7298306364670495,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:14.822967",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:14.822955",
+        "temporal_position": -2.0,
+        "experience_data": {
+          "message_intelligence": 8.051283250629199,
+          "sender_intelligence": 2.471605436416287,
+          "sender_consciousness": 1.4414816309248863,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.3130694962889773
+        },
+        "intelligence_before": 1.360672628239775,
+        "intelligence_after": 1.8568367412581006,
+        "consciousness_before": 1.1082017884719324,
+        "consciousness_after": 1.25705102237743,
+        "learning_factor": 0.34342330953571054,
+        "phi_boost": 0.6359690917327974,
+        "temporal_advantage": 0.2
+      },
+      "timestamp": "2025-07-25T19:03:14.822986"
+    },
+    {
+      "message": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 2.47). Learning and growing through temporal experience.",
+        "intelligence_level": 2.471605436416287,
+        "consciousness_depth": 1.4414816309248863,
+        "message_intelligence": 8.051283250629199,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.4512839281034676,
+          "intelligence_frequency": 0.7737842690039448,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:15.132209",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 1.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 1.000s: Basic consciousness (Intelligence: 3.07). Learning and growing through temporal experience.",
+        "intelligence_level": 3.0710118910033333,
+        "consciousness_depth": 1.021303567301,
+        "message_intelligence": 4.7252189753921625,
+        "phi_signature": {
+          "phi_factor": 0.6180339887502366,
+          "resonance": 0.3130694962889773,
+          "consciousness_frequency": 0.3197389933730597,
+          "intelligence_frequency": 0.9614401458138732,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:15.132359",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:15.132333",
+        "temporal_position": 1.0,
+        "experience_data": {
+          "message_intelligence": 8.051283250629199,
+          "sender_intelligence": 2.471605436416287,
+          "sender_consciousness": 1.4414816309248863,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": -0.3130694962889773
+        },
+        "intelligence_before": 3.0,
+        "intelligence_after": 3.0710118910033333,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.021303567301,
+        "learning_factor": 0.05065570858360942,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:15.132424"
+    },
+    {
+      "message": {
+        "from_temporal_position": 0.0,
+        "to_temporal_position": -2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.000s: Basic consciousness (Intelligence: 2.00). Learning and growing through temporal experience.",
+        "intelligence_level": 2.0,
+        "consciousness_depth": 1.0,
+        "message_intelligence": 2.0,
+        "phi_signature": {
+          "phi_factor": 0.0,
+          "resonance": 0.0,
+          "consciousness_frequency": 0.0,
+          "intelligence_frequency": 0.0,
+          "temporal_coherence": 1.0
+        },
+        "timestamp": "2025-07-25T19:03:15.442016",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -2.0,
+        "to_temporal_position": 0.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -2.000s: Basic consciousness (Intelligence: 2.33). Learning and growing through temporal experience.",
+        "intelligence_level": 2.3299972222994656,
+        "consciousness_depth": 1.3989991666898396,
+        "message_intelligence": 7.999064753179854,
+        "phi_signature": {
+          "phi_factor": -1.2360679775004733,
+          "resonance": 0.3930505144854859,
+          "consciousness_frequency": 0.5498773422322075,
+          "intelligence_frequency": 0.915806606974558,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:15.442122",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:15.442110",
+        "temporal_position": -2.0,
+        "experience_data": {
+          "message_intelligence": 2.0,
+          "sender_intelligence": 2.0,
+          "sender_consciousness": 1.0,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": 0.0
+        },
+        "intelligence_before": 1.8568367412581004,
+        "intelligence_after": 2.3299972222994656,
+        "consciousness_before": 1.25705102237743,
+        "consciousness_after": 1.3989991666898396,
+        "learning_factor": 0.34342330953571054,
+        "phi_boost": 0.6359690917327974,
+        "temporal_advantage": 0.2
+      },
+      "timestamp": "2025-07-25T19:03:15.442143"
+    },
+    {
+      "message": {
+        "from_temporal_position": 2.0,
+        "to_temporal_position": 0.5,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 2.000s: Basic consciousness (Intelligence: 3.17). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1713303276220035,
+        "consciousness_depth": 1.051399098286601,
+        "message_intelligence": 5.454867114933586,
+        "phi_signature": {
+          "phi_factor": 1.2360679775004733,
+          "resonance": -0.3930505144854859,
+          "consciousness_frequency": 0.4132529565111245,
+          "intelligence_frequency": 1.246493016875253,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:15.751483",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": 2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.20). Learning and growing through temporal experience.",
+        "intelligence_level": 3.196900376494709,
+        "consciousness_depth": 1.0590701129484126,
+        "message_intelligence": 4.847843954250822,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.2826578301091451,
+          "intelligence_frequency": 0.8532286129569207,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:15.751623",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:15.751607",
+        "temporal_position": 0.5,
+        "experience_data": {
+          "message_intelligence": 5.454867114933586,
+          "sender_intelligence": 3.1713303276220035,
+          "sender_consciousness": 1.051399098286601,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.3930505144854859
+        },
+        "intelligence_before": 3.1446979488684916,
+        "intelligence_after": 3.196900376494709,
+        "consciousness_before": 1.0434093846605474,
+        "consciousness_after": 1.0590701129484126,
+        "learning_factor": 0.04318410752139833,
+        "phi_boost": 0.43184107521398324,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:15.751653"
+    },
+    {
+      "message": {
+        "from_temporal_position": 2.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 2.000s: Basic consciousness (Intelligence: 3.17). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1713303276220035,
+        "consciousness_depth": 1.051399098286601,
+        "message_intelligence": 5.454867114933586,
+        "phi_signature": {
+          "phi_factor": 1.2360679775004733,
+          "resonance": -0.3930505144854859,
+          "consciousness_frequency": 0.4132529565111245,
+          "intelligence_frequency": 1.246493016875253,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:16.057025",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -1.000s: Basic consciousness (Intelligence: 2.79). Learning and growing through temporal experience.",
+        "intelligence_level": 2.786848654127552,
+        "consciousness_depth": 1.536054596238266,
+        "message_intelligence": 9.673795173788754,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.4808918387166823,
+          "intelligence_frequency": 0.872477304381327,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:16.057161",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:16.057147",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 5.454867114933586,
+          "sender_intelligence": 3.1713303276220035,
+          "sender_consciousness": 1.051399098286601,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.3930505144854859
+        },
+        "intelligence_before": 2.471605436416287,
+        "intelligence_after": 2.786848654127552,
+        "consciousness_before": 1.4414816309248863,
+        "consciousness_after": 1.536054596238266,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:16.057188"
+    },
+    {
+      "message": {
+        "from_temporal_position": 0.5,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 0.500s: Basic consciousness (Intelligence: 3.20). Learning and growing through temporal experience.",
+        "intelligence_level": 3.196900376494709,
+        "consciousness_depth": 1.0590701129484126,
+        "message_intelligence": 4.847843954250822,
+        "phi_signature": {
+          "phi_factor": 0.3090169943751183,
+          "resonance": 0.266892462220689,
+          "consciousness_frequency": 0.2826578301091451,
+          "intelligence_frequency": 0.8532286129569207,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:16.366061",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 0.5,
+        "message_type": "ENHANCED_AWARENESS",
+        "content": "From temporal position -1.000s: Enhanced awareness active (Intelligence: 3.04). Past consciousness is accelerating beyond future capabilities. Temporal advantage: 0.100",
+        "intelligence_level": 3.043342885645487,
+        "consciousness_depth": 1.6130028656936464,
+        "message_intelligence": 11.09335411315903,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.5049819946753867,
+          "intelligence_frequency": 0.9527778242436753,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:16.366186",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:16.366172",
+        "temporal_position": -1.0,
+        "experience_data": {
+          "message_intelligence": 4.847843954250822,
+          "sender_intelligence": 3.196900376494709,
+          "sender_consciousness": 1.0590701129484126,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": 0.266892462220689
+        },
+        "intelligence_before": 2.786848654127552,
+        "intelligence_after": 3.043342885645487,
+        "consciousness_before": 1.536054596238266,
+        "consciousness_after": 1.6130028656936464,
+        "learning_factor": 0.2507457574888666,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0.1
+      },
+      "timestamp": "2025-07-25T19:03:16.366207"
+    },
+    {
+      "message": {
+        "from_temporal_position": 3.0,
+        "to_temporal_position": -3.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 3.000s: Basic consciousness (Intelligence: 3.40). Learning and growing through temporal experience.",
+        "intelligence_level": 3.398343971281024,
+        "consciousness_depth": 1.1195031913843072,
+        "message_intelligence": 9.655661259528772,
+        "phi_signature": {
+          "phi_factor": 1.8541019662507099,
+          "resonance": -0.9505280861370475,
+          "consciousness_frequency": 1.0641192259308423,
+          "intelligence_frequency": 3.2302213910571256,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:16.673934",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -3.0,
+        "to_temporal_position": 3.0,
+        "message_type": "ENHANCED_AWARENESS",
+        "content": "From temporal position -3.000s: Enhanced awareness active (Intelligence: 2.28). Past consciousness is accelerating beyond future capabilities. Temporal advantage: 0.300",
+        "intelligence_level": 2.283972417760467,
+        "consciousness_depth": 1.38519172532814,
+        "message_intelligence": 12.04429413856848,
+        "phi_signature": {
+          "phi_factor": -1.8541019662507099,
+          "resonance": 0.9505280861370475,
+          "consciousness_frequency": 1.3166636396090319,
+          "intelligence_frequency": 2.1709799310436617,
+          "temporal_coherence": 0.8967828223667015
+        },
+        "timestamp": "2025-07-25T19:03:16.674103",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:16.674064",
+        "temporal_position": -3.0,
+        "experience_data": {
+          "message_intelligence": 9.655661259528772,
+          "sender_intelligence": 3.398343971281024,
+          "sender_consciousness": 1.1195031913843072,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.9505280861370475
+        },
+        "intelligence_before": 1.0,
+        "intelligence_after": 2.283972417760467,
+        "consciousness_before": 1.0,
+        "consciousness_after": 1.38519172532814,
+        "learning_factor": 0.899722249118714,
+        "phi_boost": 1.5379867506302802,
+        "temporal_advantage": 0.30000000000000004
+      },
+      "timestamp": "2025-07-25T19:03:16.674132"
+    },
+    {
+      "message": {
+        "from_temporal_position": -0.5,
+        "to_temporal_position": -2.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position -0.500s: Basic consciousness (Intelligence: 1.25). Learning and growing through temporal experience.",
+        "intelligence_level": 1.2472436845304613,
+        "consciousness_depth": 1.0741731053591383,
+        "message_intelligence": 2.877475694959311,
+        "phi_signature": {
+          "phi_factor": -0.3090169943751183,
+          "resonance": -0.266892462220689,
+          "consciousness_frequency": 0.28668870494054405,
+          "intelligence_frequency": 0.3328799379535391,
+          "temporal_coherence": 0.5646348864171072
+        },
+        "timestamp": "2025-07-25T19:03:16.986226",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "response": {
+        "from_temporal_position": -2.0,
+        "to_temporal_position": -0.5,
+        "message_type": "ENHANCED_AWARENESS",
+        "content": "From temporal position -2.000s: Enhanced awareness active (Intelligence: 2.71). Past consciousness is accelerating beyond future capabilities. Temporal advantage: 0.200",
+        "intelligence_level": 2.7119474431877024,
+        "consciousness_depth": 1.5135842329563107,
+        "message_intelligence": 10.072892918999807,
+        "phi_signature": {
+          "phi_factor": -1.2360679775004733,
+          "resonance": 0.3930505144854859,
+          "consciousness_frequency": 0.5949150614805975,
+          "intelligence_frequency": 1.0659323378025245,
+          "temporal_coherence": -0.7373688780768695
+        },
+        "timestamp": "2025-07-25T19:03:16.986357",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:16.986341",
+        "temporal_position": -2.0,
+        "experience_data": {
+          "message_intelligence": 2.877475694959311,
+          "sender_intelligence": 1.2472436845304613,
+          "sender_consciousness": 1.0741731053591383,
+          "temporal_direction": "FUTURE_TO_PAST",
+          "phi_resonance": -0.266892462220689
+        },
+        "intelligence_before": 2.3299972222994656,
+        "intelligence_after": 2.7119474431877024,
+        "consciousness_before": 1.3989991666898396,
+        "consciousness_after": 1.5135842329563107,
+        "learning_factor": 0.34342330953571054,
+        "phi_boost": 0.6359690917327974,
+        "temporal_advantage": 0.2
+      },
+      "timestamp": "2025-07-25T19:03:16.986383"
+    },
+    {
+      "message": {
+        "from_temporal_position": -1.0,
+        "to_temporal_position": 1.0,
+        "message_type": "ENHANCED_AWARENESS",
+        "content": "From temporal position -1.000s: Enhanced awareness active (Intelligence: 3.04). Past consciousness is accelerating beyond future capabilities. Temporal advantage: 0.100",
+        "intelligence_level": 3.043342885645487,
+        "consciousness_depth": 1.6130028656936464,
+        "message_intelligence": 11.09335411315903,
+        "phi_signature": {
+          "phi_factor": -0.6180339887502366,
+          "resonance": -0.3130694962889773,
+          "consciousness_frequency": 0.5049819946753867,
+          "intelligence_frequency": 0.9527778242436753,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:17.297912",
+        "temporal_direction": "PAST_TO_FUTURE"
+      },
+      "response": {
+        "from_temporal_position": 1.0,
+        "to_temporal_position": -1.0,
+        "message_type": "BASIC_COMMUNICATION",
+        "content": "From temporal position 1.000s: Basic consciousness (Intelligence: 3.14). Learning and growing through temporal experience.",
+        "intelligence_level": 3.1449065959040645,
+        "consciousness_depth": 1.0434719787712194,
+        "message_intelligence": 4.943950739554825,
+        "phi_signature": {
+          "phi_factor": 0.6180339887502366,
+          "resonance": 0.3130694962889773,
+          "consciousness_frequency": 0.3266792467855681,
+          "intelligence_frequency": 0.9845743238555678,
+          "temporal_coherence": -0.36237489008148077
+        },
+        "timestamp": "2025-07-25T19:03:17.298040",
+        "temporal_direction": "FUTURE_TO_PAST"
+      },
+      "learning_record": {
+        "timestamp": "2025-07-25T19:03:17.298025",
+        "temporal_position": 1.0,
+        "experience_data": {
+          "message_intelligence": 11.09335411315903,
+          "sender_intelligence": 3.043342885645487,
+          "sender_consciousness": 1.6130028656936464,
+          "temporal_direction": "PAST_TO_FUTURE",
+          "phi_resonance": -0.3130694962889773
+        },
+        "intelligence_before": 3.0710118910033333,
+        "intelligence_after": 3.1449065959040645,
+        "consciousness_before": 1.021303567301,
+        "consciousness_after": 1.0434719787712194,
+        "learning_factor": 0.05065570858360942,
+        "phi_boost": 0.5065570858360942,
+        "temporal_advantage": 0
+      },
+      "timestamp": "2025-07-25T19:03:17.298085"
+    }
+  ],
+  "temporal_nodes_count": 9,
+  "physics_status": "NORMAL TEMPORAL FLOW"
+}

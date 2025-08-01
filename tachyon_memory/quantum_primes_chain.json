@@ -1,0 +1,61 @@
+{
+  "chain_name": "quantum_primes",
+  "last_updated": "2025-03-12T00:06:49.224144",
+  "block_count": 3,
+  "blocks": [
+    {
+      "block_id": "f6952404-5966-4f13-9082-d4f516c5acd6",
+      "timestamp": "2025-03-12T00:06:18.313788",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for quantum_primes",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 31,
+      "hash": "0e766558806ea98deefdd977ebf0d961bdb37a426845509c96a9e0901c2a2b20",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "40e1d057-f59e-4853-a87b-4b5c9d47237c",
+      "timestamp": "2025-03-12T00:06:18.314441",
+      "data": {
+        "type": "quantum_prime",
+        "prime": "1609712967720284675603911488978170438056190563",
+        "bits": 151,
+        "phi_resonance": 1.618033988749895,
+        "pi_coherence": 3.141592653589793,
+        "e_energy": 2.718281828459045,
+        "quantum_resonance": 0.8175802271764923,
+        "timestamp": "2025-03-12T00:06:18.f",
+        "phi_timestamp": 2818232022.865788
+      },
+      "previous_hash": "0e766558806ea98deefdd977ebf0d961bdb37a426845509c96a9e0901c2a2b20",
+      "nonce": 19,
+      "hash": "c6886e6e75bdb633f792530fa1a17d8383154239878f1a023f7d6d30705cba31",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "de2e8ff7-d1cf-4dea-ac58-5dece47b5a64",
+      "timestamp": "2025-03-12T00:06:49.223692",
+      "data": {
+        "type": "quantum_prime",
+        "prime": "124602003664376889162426036052168895677831297029058746794316437156685953",
+        "bits": 237,
+        "phi_resonance": 1.618033988749895,
+        "pi_coherence": 3.141592653589793,
+        "e_energy": 2.718281828459045,
+        "quantum_resonance": 0.8175802271764923,
+        "timestamp": "2025-03-12T00:06:49.f",
+        "phi_timestamp": 2818232072.8779926
+      },
+      "previous_hash": "c6886e6e75bdb633f792530fa1a17d8383154239878f1a023f7d6d30705cba31",
+      "nonce": 19,
+      "hash": "951e033095747a14e1137663b5c8da5bf2ab868cdf2f3b30eabdfd2e009da709",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

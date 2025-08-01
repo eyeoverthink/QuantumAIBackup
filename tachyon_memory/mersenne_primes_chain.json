@@ -1,0 +1,23 @@
+{
+  "chain_name": "mersenne_primes",
+  "last_updated": "2025-03-12T00:06:49.229232",
+  "block_count": 1,
+  "blocks": [
+    {
+      "block_id": "7020cd20-8729-4a01-91b4-2b77442307c9",
+      "timestamp": "2025-03-12T00:06:49.228983",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for mersenne_primes",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 27,
+      "hash": "1053b6c73424d0f0bd9ed41847bdf04b5b4c752b2e45b4c3ba85a3b4d149cf14",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

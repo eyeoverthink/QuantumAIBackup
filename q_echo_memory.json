@@ -1,0 +1,44 @@
+[
+    {
+        "superposition": [
+            "w",
+            "R"
+        ],
+        "entangled": [
+            "wR",
+            "Rw"
+        ],
+        "phase": "w",
+        "xor": "Rw",
+        "collapsed": "w",
+        "logic": true
+    },
+    {
+        "superposition": [
+            "c",
+            "y"
+        ],
+        "entangled": [
+            "cy",
+            "yc"
+        ],
+        "phase": "c",
+        "xor": "cy",
+        "collapsed": "y",
+        "logic": true
+    },
+    {
+        "superposition": [
+            "c",
+            "U"
+        ],
+        "entangled": [
+            "cU",
+            "Uc"
+        ],
+        "phase": "c",
+        "xor": "Uc",
+        "collapsed": "c",
+        "logic": true
+    }
+]

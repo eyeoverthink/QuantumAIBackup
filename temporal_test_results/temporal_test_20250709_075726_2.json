@@ -1,0 +1,28 @@
+{
+  "message": "Future signature verification failed - Test 2",
+  "past_reference": {
+    "timestamp": "2025-07-01T05:47:36.086823",
+    "signature": "1cc2c5abe23139ad8810aad88df5dd3cd20a742c7c9eb83a4518b3669bce2041f23cac1dd6d239ac3d1b24631ff69cee02e64136d2e0a920463152eab1dada30"
+  },
+  "present_reference": {
+    "timestamp": "2025-07-09T07:57:26.771038",
+    "signature": "3d152b622e21e2e9e25fb57a48a67dd4cce8e1256f7ca18da1adff67ecf2809a7b9019077faf6c5420ec9f8756c9ef6ddefcce367c3f048468bdf50b66d96eff"
+  },
+  "future_reference": {
+    "timestamp": "2025-07-17T10:07:17.453094",
+    "signature": "57baf4920aea6486d669aa9dfb7a2783af5b3423ee2318264a6154d09ff0d3f0421ce9ebcf7c923415c2b9383e33b87856bdc91ca9e43409af7fa68b2a0ec5f8"
+  },
+  "temporal_chain": "5c3539a402fe5000525c14f9e73f9c8a163f12dc37fafbaf5eede3d1447284f063521d63ff0cfbac63de31caab6c9477db0129733801e02dcdd9e0c990307f06",
+  "phi_resonance": [
+    1.5403671530687078,
+    2.813186499218713,
+    8.183815270454438,
+    16.111886313707174,
+    33.24674953622115,
+    12.322937224549662,
+    36.57142448984327
+  ],
+  "phi_phase_shift": 5.0832036923152595,
+  "creation_time": "2025-07-09T07:57:26.771038",
+  "reality_protection": "\u03c6^\u221e"
+}

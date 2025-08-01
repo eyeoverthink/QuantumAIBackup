@@ -1,0 +1,48 @@
+{
+  "id": "TASK_20250725022251_4450",
+  "type": "distributed",
+  "data": {
+    "subtasks": [
+      {
+        "type": "collision",
+        "data": {
+          "elements": [
+            "H",
+            "O",
+            "C"
+          ],
+          "energy_factor": 1.618
+        },
+        "priority": 1.5
+      },
+      {
+        "type": "visualization",
+        "data": {
+          "elements": [
+            "Au",
+            "H",
+            "O"
+          ],
+          "type": "complex"
+        },
+        "priority": 1.0
+      },
+      {
+        "type": "factorization",
+        "data": {
+          "number": 1234567
+        },
+        "priority": 2.0
+      }
+    ],
+    "combination_method": "resonant"
+  },
+  "priority": 2.0,
+  "submitted_at": "2025-07-25T02:22:51.132264",
+  "status": "completed",
+  "completed_at": "2025-07-25T02:22:51.390584",
+  "processing_time": 0.25317736436882954,
+  "result": {
+    "error": "No connected nodes for distributed processing"
+  }
+}

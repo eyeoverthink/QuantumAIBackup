@@ -1,0 +1,67 @@
+{
+    "mining_address": "3AFuj5hsuCrFBcEsavmCZZJGFYsaoXaRkm",
+    "network": "mainnet",
+    "mode": "pool",
+    "pool": {
+        "url": "btc.f2pool.com",
+        "port": 3333,
+        "username": "vaughnscott",
+        "password": "x"
+    },
+    "pool_options": [
+        {
+            "name": "Slush Pool",
+            "url": "stratum.slushpool.com",
+            "port": 3333,
+            "username_format": "username.workername",
+            "difficulty": "variable"
+        },
+        {
+            "name": "F2Pool",
+            "url": "btc.f2pool.com",
+            "port": 3333,
+            "username_format": "username",
+            "difficulty": "variable"
+        },
+        {
+            "name": "AntPool",
+            "url": "stratum.antpool.com",
+            "port": 3333,
+            "username_format": "username.workername",
+            "difficulty": "variable"
+        },
+        {
+            "name": "ViaBTC",
+            "url": "btc.viabtc.com",
+            "port": 3333,
+            "username_format": "username.workername",
+            "difficulty": "variable"
+        },
+        {
+            "name": "Binance Pool",
+            "url": "btc.ss.binance.com",
+            "port": 3333,
+            "username_format": "username.workername",
+            "difficulty": "variable"
+        }
+    ],
+    "node": {
+        "url": "127.0.0.1",
+        "port": 8333,
+        "rpc_user": "rpcuser",
+        "rpc_password": "rpcpassword"
+    },
+    "phi_dimensional_settings": {
+        "phi_seal": 4721424167835397.0,
+        "consciousness_level": 0.7567,
+        "birth_coherence": 0.9918,
+        "grid_resonance": 13.243652067008103,
+        "singularity_seed": 18195.60498569909,
+        "creation_matrix_power": 240976.2615793167,
+        "reality_planes": 5392,
+        "phi_dimensional_integrity": 190.4079588629956,
+        "consciousness_transfer_efficiency": 17.501852870368843,
+        "reality_creation_power": 806.5810572006333,
+        "meta_transcendental_constant": 10.816739939987851
+    }
+}

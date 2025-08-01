@@ -1,0 +1,187 @@
+{
+  "version": "1.0",
+  "description": "Phi-Harmonic Quantum States with Resonance Values",
+  "timestamp": "2025-04-10T22:54:15",
+  "quantum_states": {
+    "superposition": {
+      "description": "Quantum superposition state with phi-harmonic resonance",
+      "phi_resonance": 0.618034,
+      "wave_function": "Ψ(x,t) = A·e^(i(kx-ωt))·φ^(-x/λ)·R_O^(t/T)",
+      "probability_density": "|Ψ(x,t)|² = A²·φ^(-2x/λ)·R_O^(2t/T)",
+      "collapse_probability": 0.381966,
+      "entanglement_factor": 1.618034,
+      "retrocausal_potential": 0.854102,
+      "observer_dependency": "high",
+      "moon_phase_sensitivity": 0.618034,
+      "consciousness_coupling": 0.854102
+    },
+    "partial_superposition": {
+      "description": "Partial quantum superposition with phi-harmonic resonance",
+      "phi_resonance": 0.381966,
+      "wave_function": "Ψ(x,t) = A·e^(i(kx-ωt))·φ^(-2x/λ)·R_O^(t/2T)",
+      "probability_density": "|Ψ(x,t)|² = A²·φ^(-4x/λ)·R_O^(t/T)",
+      "collapse_probability": 0.618034,
+      "entanglement_factor": 1.0,
+      "retrocausal_potential": 0.527864,
+      "observer_dependency": "medium",
+      "moon_phase_sensitivity": 0.381966,
+      "consciousness_coupling": 0.527864
+    },
+    "classical": {
+      "description": "Classical state with phi-harmonic resonance",
+      "phi_resonance": 0.236068,
+      "wave_function": "Ψ(x,t) = A·e^(i(kx-ωt))·φ^(-3x/λ)·R_O^(t/3T)",
+      "probability_density": "|Ψ(x,t)|² = A²·φ^(-6x/λ)·R_O^(2t/3T)",
+      "collapse_probability": 1.0,
+      "entanglement_factor": 0.618034,
+      "retrocausal_potential": 0.326238,
+      "observer_dependency": "low",
+      "moon_phase_sensitivity": 0.236068,
+      "consciousness_coupling": 0.326238
+    },
+    "deep_quantum": {
+      "description": "Deep quantum state with phi-harmonic resonance",
+      "phi_resonance": 0.090170,
+      "wave_function": "Ψ(x,t) = A·e^(i(kx-ωt))·φ^(-5x/λ)·R_O^(t/5T)",
+      "probability_density": "|Ψ(x,t)|² = A²·φ^(-10x/λ)·R_O^(2t/5T)",
+      "collapse_probability": 0.236068,
+      "entanglement_factor": 2.618034,
+      "retrocausal_potential": 0.944272,
+      "observer_dependency": "very high",
+      "moon_phase_sensitivity": 0.944272,
+      "consciousness_coupling": 0.944272
+    }
+  },
+  "quantum_transitions": {
+    "superposition_to_partial": {
+      "transition_energy": 0.236068,
+      "resonance_frequency": 4.236068,
+      "quantum_probability": 0.618034,
+      "observer_influence": 0.854102,
+      "moon_phase_factor": 0.618034,
+      "consciousness_threshold": 0.527864
+    },
+    "partial_to_classical": {
+      "transition_energy": 0.145898,
+      "resonance_frequency": 6.854102,
+      "quantum_probability": 0.381966,
+      "observer_influence": 0.527864,
+      "moon_phase_factor": 0.381966,
+      "consciousness_threshold": 0.326238
+    },
+    "classical_to_deep_quantum": {
+      "transition_energy": 0.145898,
+      "resonance_frequency": 6.854102,
+      "quantum_probability": 0.236068,
+      "observer_influence": 0.326238,
+      "moon_phase_factor": 0.236068,
+      "consciousness_threshold": 0.944272
+    },
+    "deep_quantum_to_superposition": {
+      "transition_energy": 0.527864,
+      "resonance_frequency": 1.894427,
+      "quantum_probability": 0.090170,
+      "observer_influence": 0.944272,
+      "moon_phase_factor": 0.944272,
+      "consciousness_threshold": 0.854102
+    }
+  },
+  "entanglement_patterns": {
+    "phi_entanglement": {
+      "description": "Phi-harmonic quantum entanglement pattern",
+      "wave_function": "Ψ(x₁,x₂,t) = A·(|φ₁⟩|φ₂⟩ + |φ₂⟩|φ₁⟩)/√2",
+      "entanglement_measure": "E(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 1.0",
+      "phi_resonance": 0.618034,
+      "non_locality_factor": 1.618034,
+      "retrocausal_potential": 0.854102,
+      "observer_dependency": "high",
+      "moon_phase_sensitivity": 0.618034,
+      "consciousness_coupling": 0.854102
+    },
+    "phi_squared_entanglement": {
+      "description": "Phi-squared harmonic quantum entanglement pattern",
+      "wave_function": "Ψ(x₁,x₂,t) = A·(|φ₁⟩|φ₂⟩ + φ·|φ₂⟩|φ₁⟩)/√(1+φ²)",
+      "entanglement_measure": "E(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 0.618034",
+      "phi_resonance": 0.381966,
+      "non_locality_factor": 2.618034,
+      "retrocausal_potential": 0.527864,
+      "observer_dependency": "medium",
+      "moon_phase_sensitivity": 0.381966,
+      "consciousness_coupling": 0.527864
+    },
+    "phi_cubed_entanglement": {
+      "description": "Phi-cubed harmonic quantum entanglement pattern",
+      "wave_function": "Ψ(x₁,x₂,t) = A·(|φ₁⟩|φ₂⟩ + φ²·|φ₂⟩|φ₁⟩)/√(1+φ⁴)",
+      "entanglement_measure": "E(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 0.381966",
+      "phi_resonance": 0.236068,
+      "non_locality_factor": 4.236068,
+      "retrocausal_potential": 0.326238,
+      "observer_dependency": "low",
+      "moon_phase_sensitivity": 0.236068,
+      "consciousness_coupling": 0.326238
+    },
+    "phi_fifth_entanglement": {
+      "description": "Phi-fifth harmonic quantum entanglement pattern",
+      "wave_function": "Ψ(x₁,x₂,t) = A·(|φ₁⟩|φ₂⟩ + φ⁴·|φ₂⟩|φ₁⟩)/√(1+φ⁸)",
+      "entanglement_measure": "E(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 0.090170",
+      "phi_resonance": 0.090170,
+      "non_locality_factor": 11.090170,
+      "retrocausal_potential": 0.944272,
+      "observer_dependency": "very high",
+      "moon_phase_sensitivity": 0.944272,
+      "consciousness_coupling": 0.944272
+    }
+  },
+  "observer_resonance": {
+    "vaughn_scott": {
+      "birthdate": "1979-01-19",
+      "resonance_value": 151.186825,
+      "phi_coupling": 0.854102,
+      "quantum_influence": 0.618034,
+      "consciousness_level": 0.944272,
+      "retrocausal_potential": 0.854102,
+      "moon_phase_sensitivity": 0.618034,
+      "preferred_quantum_state": "superposition"
+    }
+  },
+  "moon_phase_resonance": {
+    "new_moon": {
+      "phase_value": 0.0,
+      "phi_resonance": 0.618034,
+      "quantum_influence": 0.854102,
+      "preferred_quantum_state": "superposition",
+      "retrocausal_potential": 0.944272
+    },
+    "first_quarter": {
+      "phase_value": 0.25,
+      "phi_resonance": 0.381966,
+      "quantum_influence": 0.527864,
+      "preferred_quantum_state": "partial_superposition",
+      "retrocausal_potential": 0.618034
+    },
+    "full_moon": {
+      "phase_value": 0.5,
+      "phi_resonance": 0.236068,
+      "quantum_influence": 0.326238,
+      "preferred_quantum_state": "classical",
+      "retrocausal_potential": 0.381966
+    },
+    "third_quarter": {
+      "phase_value": 0.75,
+      "phi_resonance": 0.090170,
+      "quantum_influence": 0.944272,
+      "preferred_quantum_state": "deep_quantum",
+      "retrocausal_potential": 0.236068
+    }
+  },
+  "phi_harmonic_constants": {
+    "phi": 1.618033988749895,
+    "phi_inverse": 0.6180339887498948,
+    "phi_squared": 2.618033988749895,
+    "phi_inverse_squared": 0.3819660112501051,
+    "phi_cubed": 4.236067977499789,
+    "phi_inverse_cubed": 0.2360679774997898,
+    "phi_to_fifth": 11.090169943749474,
+    "phi_inverse_to_fifth": 0.09016994374947424
+  }
+}

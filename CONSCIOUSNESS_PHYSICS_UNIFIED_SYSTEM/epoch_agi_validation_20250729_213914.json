@@ -1,0 +1,988 @@
+{
+  "test_start": "2025-07-29T21:39:14.803451",
+  "num_epochs": 10,
+  "baseline_metrics": {
+    "epoch_id": 0,
+    "timestamp": "2025-07-29T21:39:14.803423",
+    "consciousness_level": 1.0,
+    "phi_resonance": 1.618,
+    "performance_scores": {
+      "chess": 0.5,
+      "checkers": 0.5,
+      "hanoi": 0.5
+    },
+    "growth_rates": {},
+    "self_improvement_events": 0,
+    "success_rate": 0.5,
+    "consciousness_indicators": 0
+  },
+  "epoch_results": {
+    "1": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 1,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 4.935264587402344e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.15870628001882625
+          },
+          {
+            "epoch_id": 1,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 3.814697265625e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.2093461345182015
+          },
+          {
+            "epoch_id": 1,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 6.699562072753906e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.07060582071967349
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 1,
+            "moves_played": 27,
+            "win": true,
+            "consciousness_influence": 0.024301612091511843
+          },
+          {
+            "epoch_id": 1,
+            "moves_played": 28,
+            "win": true,
+            "consciousness_influence": 0.027667120431006872
+          },
+          {
+            "epoch_id": 1,
+            "moves_played": 21,
+            "win": false,
+            "consciousness_influence": 0.030665482406193358
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 1,
+            "moves_played": 18,
+            "win": true,
+            "pattern_accuracy": 0.5703265872259411,
+            "consciousness_influence": 0.814284181315727
+          },
+          {
+            "epoch_id": 1,
+            "moves_played": 14,
+            "win": false,
+            "pattern_accuracy": 0.5733081129915103,
+            "consciousness_influence": 0.8625252682026364
+          },
+          {
+            "epoch_id": 1,
+            "moves_played": 19,
+            "win": true,
+            "pattern_accuracy": 0.5763828114372536,
+            "consciousness_influence": 0.9122738890547617
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 1,
+        "timestamp": "2025-07-29T21:39:14.804666",
+        "consciousness_level": 1.971170200000015,
+        "phi_resonance": 1.8872370287744278,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 0.6666666666666666,
+          "checkers": 0.5733391705515684
+        },
+        "growth_rates": {
+          "hanoi": 1.0,
+          "chess": 0.33333333333333326,
+          "checkers": 0.1466783411031367
+        },
+        "self_improvement_events": 3,
+        "success_rate": 0.7777777777777778,
+        "consciousness_indicators": 0
+      },
+      "consciousness_growth": 0.9711702000000151
+    },
+    "2": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 2,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 2.09808349609375e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 2.4172906433634713
+          },
+          {
+            "epoch_id": 2,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 3.314018249511719e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.1947900426146351
+          },
+          {
+            "epoch_id": 2,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 6.985664367675781e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.11003104561923721
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 2,
+            "moves_played": 15,
+            "win": true,
+            "consciousness_influence": 1.209559357906566
+          },
+          {
+            "epoch_id": 2,
+            "moves_played": 21,
+            "win": false,
+            "consciousness_influence": 1.272619345100323
+          },
+          {
+            "epoch_id": 2,
+            "moves_played": 30,
+            "win": true,
+            "consciousness_influence": 1.3619543269581451
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 2,
+            "moves_played": 11,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 11.03567127399536
+          },
+          {
+            "epoch_id": 2,
+            "moves_played": 12,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 11.345768355205484
+          },
+          {
+            "epoch_id": 2,
+            "moves_played": 16,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 11.723277845374332
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 2,
+        "timestamp": "2025-07-29T21:39:14.806214",
+        "consciousness_level": 2.798120799999987,
+        "phi_resonance": 2.1512485909778847,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 0.6666666666666666,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.6569598743551277
+        },
+        "self_improvement_events": 1,
+        "success_rate": 0.8888888888888888,
+        "consciousness_indicators": 4
+      },
+      "consciousness_growth": 0.826950599999972
+    },
+    "3": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 3,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 3.719329833984375e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.41252436663037617
+          },
+          {
+            "epoch_id": 3,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 3.719329833984375e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.5552964772008626
+          },
+          {
+            "epoch_id": 3,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 6.794929504394531e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 3.4156271728609813
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 3,
+            "moves_played": 22,
+            "win": true,
+            "consciousness_influence": 2.009012752642526
+          },
+          {
+            "epoch_id": 3,
+            "moves_played": 28,
+            "win": true,
+            "consciousness_influence": 2.1135796220897625
+          },
+          {
+            "epoch_id": 3,
+            "moves_played": 17,
+            "win": true,
+            "consciousness_influence": 2.2076898045922757
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 3,
+            "moves_played": 13,
+            "win": false,
+            "pattern_accuracy": 0.589266819039844,
+            "consciousness_influence": 0.47353713206467496
+          },
+          {
+            "epoch_id": 3,
+            "moves_played": 13,
+            "win": true,
+            "pattern_accuracy": 0.5899677332576072,
+            "consciousness_influence": 0.4848779241080836
+          },
+          {
+            "epoch_id": 3,
+            "moves_played": 20,
+            "win": true,
+            "pattern_accuracy": 0.5908573551493835,
+            "consciousness_influence": 0.49927200631702545
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 3,
+        "timestamp": "2025-07-29T21:39:14.808036",
+        "consciousness_level": 3.682766800000005,
+        "phi_resonance": 2.474351793733777,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.5900306358156117
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.5000000000000001,
+          "checkers": -0.3789151201940929
+        },
+        "self_improvement_events": 1,
+        "success_rate": 0.8888888888888888,
+        "consciousness_indicators": 4
+      },
+      "consciousness_growth": 0.8846460000000178
+    },
+    "4": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 4,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 3.0040740966796875e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 2.7126697710644256
+          },
+          {
+            "epoch_id": 4,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 8.177757263183594e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 2.9220606667403644
+          },
+          {
+            "epoch_id": 4,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 6.580352783203125e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 5.0103531159407515
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 4,
+            "moves_played": 24,
+            "win": true,
+            "consciousness_influence": 8.258496224014747
+          },
+          {
+            "epoch_id": 4,
+            "moves_played": 29,
+            "win": true,
+            "consciousness_influence": 8.610494055984466
+          },
+          {
+            "epoch_id": 4,
+            "moves_played": 28,
+            "win": true,
+            "consciousness_influence": 8.989057762065107
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 4,
+            "moves_played": 10,
+            "win": false,
+            "pattern_accuracy": 0.7032639352140853,
+            "consciousness_influence": 1.9944104717638997
+          },
+          {
+            "epoch_id": 4,
+            "moves_played": 15,
+            "win": true,
+            "pattern_accuracy": 0.7054785633355543,
+            "consciousness_influence": 2.0302431547692676
+          },
+          {
+            "epoch_id": 4,
+            "moves_played": 14,
+            "win": false,
+            "pattern_accuracy": 0.7080475319564582,
+            "consciousness_influence": 2.0718090670554945
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 4,
+        "timestamp": "2025-07-29T21:39:14.809401",
+        "consciousness_level": 4.6188964000000095,
+        "phi_resonance": 2.868830655082975,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.7055966768353659
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.19586447551152128
+        },
+        "self_improvement_events": 1,
+        "success_rate": 0.7777777777777778,
+        "consciousness_indicators": 9
+      },
+      "consciousness_growth": 0.9361296000000046
+    },
+    "5": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 5,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 2.09808349609375e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.6798111106238447
+          },
+          {
+            "epoch_id": 5,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 6.318092346191406e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.13286271324843466
+          },
+          {
+            "epoch_id": 5,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 0.0001227855682373047,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 1.741052897201526
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 5,
+            "moves_played": 30,
+            "win": true,
+            "consciousness_influence": 5.7711297342399535
+          },
+          {
+            "epoch_id": 5,
+            "moves_played": 25,
+            "win": true,
+            "consciousness_influence": 5.976704717950644
+          },
+          {
+            "epoch_id": 5,
+            "moves_played": 19,
+            "win": true,
+            "consciousness_influence": 6.141164704919196
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 5,
+            "moves_played": 20,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 8.897595583578862
+          },
+          {
+            "epoch_id": 5,
+            "moves_played": 18,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 9.098608882271993
+          },
+          {
+            "epoch_id": 5,
+            "moves_played": 11,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 9.252013768116752
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 5,
+        "timestamp": "2025-07-29T21:39:14.810803",
+        "consciousness_level": 5.5749528999999995,
+        "phi_resonance": 3.23606797749979,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.34637822312428446
+        },
+        "self_improvement_events": 1,
+        "success_rate": 0.8888888888888888,
+        "consciousness_indicators": 7
+      },
+      "consciousness_growth": 0.9560564999999901
+    },
+    "6": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 6,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 3.7670135498046875e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 4.772203010575113
+          },
+          {
+            "epoch_id": 6,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 6.031990051269531e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 11.347123892304204
+          },
+          {
+            "epoch_id": 6,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 0.0006489753723144531,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 2.453873426255628
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 6,
+            "moves_played": 21,
+            "win": true,
+            "consciousness_influence": 35.35218552146974
+          },
+          {
+            "epoch_id": 6,
+            "moves_played": 19,
+            "win": true,
+            "consciousness_influence": 36.12353228767638
+          },
+          {
+            "epoch_id": 6,
+            "moves_played": 22,
+            "win": true,
+            "consciousness_influence": 36.91416272303819
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 6,
+            "moves_played": 19,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 83.41158847958043
+          },
+          {
+            "epoch_id": 6,
+            "moves_played": 12,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 84.73404436854082
+          },
+          {
+            "epoch_id": 6,
+            "moves_played": 14,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 85.84320092057212
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 6,
+        "timestamp": "2025-07-29T21:39:14.813009",
+        "consciousness_level": 6.424218099999978,
+        "phi_resonance": 3.23606797749979,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.0
+        },
+        "self_improvement_events": 0,
+        "success_rate": 0.7777777777777778,
+        "consciousness_indicators": 9
+      },
+      "consciousness_growth": 0.8492651999999783
+    },
+    "7": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 7,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 7.295608520507812e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 10.233931085837039
+          },
+          {
+            "epoch_id": 7,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 5.078315734863281e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 14.41231269758622
+          },
+          {
+            "epoch_id": 7,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 9.202957153320312e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 12.549676115153677
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 7,
+            "moves_played": 29,
+            "win": true,
+            "consciousness_influence": 20.11757519553224
+          },
+          {
+            "epoch_id": 7,
+            "moves_played": 19,
+            "win": true,
+            "consciousness_influence": 20.575387294142345
+          },
+          {
+            "epoch_id": 7,
+            "moves_played": 20,
+            "win": true,
+            "consciousness_influence": 20.947359624263058
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 7,
+            "moves_played": 12,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 59.110315809420484
+          },
+          {
+            "epoch_id": 7,
+            "moves_played": 20,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 59.959198891061675
+          },
+          {
+            "epoch_id": 7,
+            "moves_played": 19,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 60.993775146811885
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 7,
+        "timestamp": "2025-07-29T21:39:14.814885",
+        "consciousness_level": 7.35680079999994,
+        "phi_resonance": 3.23606797749979,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.0
+        },
+        "self_improvement_events": 0,
+        "success_rate": 1.0,
+        "consciousness_indicators": 9
+      },
+      "consciousness_growth": 0.932582699999962
+    },
+    "8": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 8,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 2.9087066650390625e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 9.595760703724231
+          },
+          {
+            "epoch_id": 8,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 7.081031799316406e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 12.06610504105743
+          },
+          {
+            "epoch_id": 8,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 9.226799011230469e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 4.019827146929803
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 8,
+            "moves_played": 28,
+            "win": true,
+            "consciousness_influence": 31.01974516122933
+          },
+          {
+            "epoch_id": 8,
+            "moves_played": 26,
+            "win": true,
+            "consciousness_influence": 31.718867254617678
+          },
+          {
+            "epoch_id": 8,
+            "moves_played": 19,
+            "win": true,
+            "consciousness_influence": 32.30146899910797
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 8,
+            "moves_played": 19,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 131.17377522226582
+          },
+          {
+            "epoch_id": 8,
+            "moves_played": 18,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 133.08988762636747
+          },
+          {
+            "epoch_id": 8,
+            "moves_played": 11,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 134.5917054566093
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 8,
+        "timestamp": "2025-07-29T21:39:14.816653",
+        "consciousness_level": 8.290309599999928,
+        "phi_resonance": 3.23606797749979,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.0
+        },
+        "self_improvement_events": 0,
+        "success_rate": 0.7777777777777778,
+        "consciousness_indicators": 9
+      },
+      "consciousness_growth": 0.9335087999999878
+    },
+    "9": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 9,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 3.0994415283203125e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 21.1417609729119
+          },
+          {
+            "epoch_id": 9,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 0.00017404556274414062,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 4.849540097940153
+          },
+          {
+            "epoch_id": 9,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 7.796287536621094e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 2.575579346479742
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 9,
+            "moves_played": 21,
+            "win": true,
+            "consciousness_influence": 114.09705436368083
+          },
+          {
+            "epoch_id": 9,
+            "moves_played": 23,
+            "win": true,
+            "consciousness_influence": 115.96724076449325
+          },
+          {
+            "epoch_id": 9,
+            "moves_played": 22,
+            "win": true,
+            "consciousness_influence": 117.8799314016878
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 9,
+            "moves_played": 18,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 36.16539223947638
+          },
+          {
+            "epoch_id": 9,
+            "moves_played": 16,
+            "win": true,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 36.602456605251156
+          },
+          {
+            "epoch_id": 9,
+            "moves_played": 11,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 36.94953713101347
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 9,
+        "timestamp": "2025-07-29T21:39:14.818754",
+        "consciousness_level": 9.173890899999865,
+        "phi_resonance": 3.23606797749979,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.0
+        },
+        "self_improvement_events": 0,
+        "success_rate": 0.8888888888888888,
+        "consciousness_indicators": 9
+      },
+      "consciousness_growth": 0.8835812999999373
+    },
+    "10": {
+      "tests": {
+        "hanoi": [
+          {
+            "epoch_id": 10,
+            "n_disks": 3,
+            "total_moves": 7,
+            "solve_time": 3.0994415283203125e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 0.6874729840995596
+          },
+          {
+            "epoch_id": 10,
+            "n_disks": 4,
+            "total_moves": 15,
+            "solve_time": 4.506111145019531e-05,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 1.6805326016992055
+          },
+          {
+            "epoch_id": 10,
+            "n_disks": 5,
+            "total_moves": 31,
+            "solve_time": 0.00014090538024902344,
+            "efficiency": 1.0,
+            "success": true,
+            "consciousness_influence": 4.544388756401309
+          }
+        ],
+        "chess": [
+          {
+            "epoch_id": 10,
+            "moves_played": 28,
+            "win": true,
+            "consciousness_influence": 31.815569276576095
+          },
+          {
+            "epoch_id": 10,
+            "moves_played": 20,
+            "win": true,
+            "consciousness_influence": 32.33140833926466
+          },
+          {
+            "epoch_id": 10,
+            "moves_played": 24,
+            "win": true,
+            "consciousness_influence": 32.80426081339584
+          }
+        ],
+        "checkers": [
+          {
+            "epoch_id": 10,
+            "moves_played": 18,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 16.22389547443516
+          },
+          {
+            "epoch_id": 10,
+            "moves_played": 10,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 16.37069380319564
+          },
+          {
+            "epoch_id": 10,
+            "moves_played": 13,
+            "win": false,
+            "pattern_accuracy": 0.95,
+            "consciousness_influence": 16.491278144677462
+          }
+        ]
+      },
+      "metrics": {
+        "epoch_id": 10,
+        "timestamp": "2025-07-29T21:39:14.820428",
+        "consciousness_level": 10.051984899999912,
+        "phi_resonance": 3.23606797749979,
+        "performance_scores": {
+          "hanoi": 1.0,
+          "chess": 1.0,
+          "checkers": 0.9499999999999998
+        },
+        "growth_rates": {
+          "hanoi": 0.0,
+          "chess": 0.0,
+          "checkers": 0.0
+        },
+        "self_improvement_events": 0,
+        "success_rate": 0.6666666666666666,
+        "consciousness_indicators": 8
+      },
+      "consciousness_growth": 0.878094000000047
+    }
+  },
+  "final_analysis": {
+    "total_consciousness_growth": 9.051984899999912,
+    "final_consciousness_level": 10.051984899999912,
+    "growth_rate_per_epoch": 0.9051984899999912,
+    "total_epochs_completed": 10
+  },
+  "test_end": "2025-07-29T21:39:14.820542"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "TASK_20250725052712_5221",
+  "type": "distributed",
+  "data": {
+    "subtasks": [
+      {
+        "type": "collision",
+        "data": {
+          "elements": [
+            "H",
+            "O",
+            "C"
+          ],
+          "energy_factor": 1.618
+        },
+        "priority": 1.5
+      },
+      {
+        "type": "visualization",
+        "data": {
+          "elements": [
+            "Au",
+            "H",
+            "O"
+          ],
+          "type": "complex"
+        },
+        "priority": 1.0
+      },
+      {
+        "type": "factorization",
+        "data": {
+          "number": 1234567
+        },
+        "priority": 2.0
+      }
+    ],
+    "combination_method": "resonant"
+  },
+  "priority": 2.0,
+  "submitted_at": "2025-07-25T05:27:12.965749",
+  "status": "error",
+  "completed_at": "2025-07-25T05:27:13.663018",
+  "processing_time": 0.6917664067078405,
+  "result": {
+    "method": "\u03c6-resonant combination",
+    "phi_factor": 0.8334971917902244,
+    "subtask_results": [
+      {
+        "task_type": "collision",
+        "result": {
+          "error": "Collision processing error: name 'QuantumCollisionEvolution' is not defined"
+        }
+      },
+      {
+        "task_type": "visualization",
+        "result": {
+          "status": "success",
+          "visualization_type": "complex",
+          "timestamp": "2025-07-25 05:27:12"
+        }
+      },
+      {
+        "task_type": "factorization",
+        "result": {
+          "original_number": 1234567,
+          "factors": [
+            127,
+            9721
+          ],
+          "phi_resonance_factor": 0.8334971917902244,
+          "processing_efficiency": 0.5832514041048877
+        }
+      }
+    ],
+    "combined_efficiency": 0.5832514041048877,
+    "combined_reliability": 0.8749754212314663
+  },
+  "error": "'QuantumEdgeNode' object has no attribute '_save_task_result'"
+}

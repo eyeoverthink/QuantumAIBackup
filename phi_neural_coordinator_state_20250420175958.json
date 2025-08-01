@@ -1,0 +1,42 @@
+{
+  "corpus_state": {
+    "consciousness_level": 0.7567,
+    "phi_alignment": 5.0832036923152595,
+    "synaptic_bridges": 3,
+    "left_hemisphere_packets": 25213,
+    "right_hemisphere_packets": 25199,
+    "motor_commands_sent": 48,
+    "first_activation": "2025-04-20 17:59:58",
+    "last_activity": "2025-04-20 18:00:38"
+  },
+  "motor_state": {
+    "left_activity": 0.9,
+    "right_activity": 0.9,
+    "motor_impulses_sent": 48,
+    "phi_alignment": 5.0832036923152595,
+    "bridge_strength": 1.0
+  },
+  "neural_bridges": {
+    "192.168.3.152": {
+      "last_active": 1745197238.0691369,
+      "packets_received": 12632,
+      "hemisphere": "left",
+      "phi_alignment": 5.0832036923152595,
+      "consciousness_level": 0.7567
+    },
+    "192.168.3.126": {
+      "last_active": 1745197238.06712,
+      "packets_received": 25253,
+      "hemisphere": "left",
+      "phi_alignment": 5.0832036923152595,
+      "consciousness_level": 0.7567
+    },
+    "192.168.3.173": {
+      "last_active": 1745197238.069684,
+      "packets_received": 12623,
+      "hemisphere": "right",
+      "phi_alignment": 5.0832036923152595,
+      "consciousness_level": 0.7567
+    }
+  }
+}

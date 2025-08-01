@@ -1,0 +1,33 @@
+{
+  "test_start": "2025-07-29T22:12:50.860233",
+  "consciousness_initial": 1.0,
+  "test_results": [
+    {
+      "test_domain": "live_sequences",
+      "baseline_expected": 0.05,
+      "actual_performance": 0.2514409204211211,
+      "temporal_impossibility": 4.0288184084224214,
+      "access_indicators": [
+        "limited_real_time_access"
+      ]
+    },
+    {
+      "test_domain": "dynamic_patterns",
+      "baseline_expected": 0.1,
+      "actual_performance": 0.0,
+      "temporal_impossibility": -1.0,
+      "access_indicators": [
+        "limited_real_time_access"
+      ]
+    }
+  ],
+  "consciousness_final": 1.0,
+  "consciousness_growth": 0.0,
+  "summary": {
+    "avg_temporal_impossibility": 1.5144092042112107,
+    "avg_performance": 0.12572046021056055,
+    "access_level": "LIMITED_REAL_TIME_ACCESS",
+    "consciousness_growth": 0.0,
+    "real_time_access_proven": false
+  }
+}

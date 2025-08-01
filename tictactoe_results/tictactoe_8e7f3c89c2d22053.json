@@ -1,0 +1,572 @@
+{
+  "game_id": "8e7f3c89c2d22053",
+  "game_start_time": "2025-07-09T08:06:54.731539",
+  "game_end_time": "2025-07-09T08:06:55.578017",
+  "winner": "X",
+  "moves_history": [
+    [
+      0,
+      0,
+      "X"
+    ],
+    [
+      0,
+      1,
+      "O"
+    ],
+    [
+      1,
+      0,
+      "X"
+    ],
+    [
+      0,
+      2,
+      "O"
+    ],
+    [
+      2,
+      0,
+      "X"
+    ]
+  ],
+  "board_states": [
+    "XOOX--X--",
+    "X--------",
+    "XO-------",
+    "XO-X-----",
+    "XOOX-----",
+    "XOOX--X--"
+  ],
+  "temporal_influence_detected": true,
+  "phi_resonance_values": [
+    0.7204958200026053,
+    0.5010068454192257,
+    0.4193321269909394
+  ],
+  "temporal_moves_count": 2,
+  "minimax_moves_count": 3,
+  "move_quality_scores": [
+    0.5,
+    0.25,
+    0.8,
+    0.8,
+    1.0
+  ],
+  "metrics": {
+    "game_id": "8e7f3c89c2d22053",
+    "temporal_feedback_enabled": true,
+    "start_time": "2025-07-09T08:06:54.731539",
+    "move_sources": [
+      "minimax",
+      "temporal",
+      "temporal",
+      "minimax",
+      "minimax"
+    ],
+    "resonance_values": [
+      0.0,
+      0.7204958200026053,
+      0.5010068454192257,
+      0.0,
+      0.0
+    ],
+    "move_quality": [
+      0.5,
+      0.25,
+      0.8,
+      0.8,
+      1.0
+    ],
+    "temporal_distances": [
+      0.0,
+      1.643311,
+      4.219042,
+      0.0,
+      0.0
+    ],
+    "decision_points": [
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.33702677657702795,
+        "temporal_distance": 8.332868,
+        "source_game_id": "f54bdceb5b2c4129"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.5017818523946358,
+        "temporal_distance": 4.205983,
+        "source_game_id": "a197f416763abee1"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.012861169656545119,
+        "temporal_distance": 325.132729,
+        "source_game_id": "230c49b05399f6f7"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.012644818354604672,
+        "temporal_distance": 330.768189,
+        "source_game_id": "eea75ddc2e8532fb"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          1
+        ],
+        "resonance": 0.012674319254895804,
+        "temporal_distance": 329.988429,
+        "source_game_id": "3828ad924fd54562"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.012766744666488809,
+        "temporal_distance": 327.568796,
+        "source_game_id": "7c0098351a07e8ac"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.011987482274692146,
+        "temporal_distance": 349.138217,
+        "source_game_id": "7d74266ba52e5ce5"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.0128913393835244,
+        "temporal_distance": 324.361904,
+        "source_game_id": "8d6154015bbbc075"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.45667672407790594,
+        "temporal_distance": 5.039789,
+        "source_game_id": "1437ef121644d817"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.01295473419628993,
+        "temporal_distance": 322.753889,
+        "source_game_id": "d6bcc2f17092022d"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.01282863061217027,
+        "temporal_distance": 325.968153,
+        "source_game_id": "66df534c526b0bbf"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.011902139609783013,
+        "temporal_distance": 351.672039,
+        "source_game_id": "ff3c22fca07c0027"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.7204958200026053,
+        "temporal_distance": 1.643311,
+        "source_game_id": "1f187bf133e34c88"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.2801698415633008,
+        "temporal_distance": 10.883575,
+        "source_game_id": "3d529adc048e1adf"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.011961075888990416,
+        "temporal_distance": 349.918359,
+        "source_game_id": "48ccc77c33dee94f"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.01292216921117018,
+        "temporal_distance": 323.577932,
+        "source_game_id": "00f1dbb26cf66d53"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.3168808995495199,
+        "temporal_distance": 9.131945,
+        "source_game_id": "1cf080f03e27f8bb"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.4199433806196865,
+        "temporal_distance": 5.851168,
+        "source_game_id": "dc55288cc4908eed"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          2,
+          1
+        ],
+        "resonance": 0.012985523381020573,
+        "temporal_distance": 321.978583,
+        "source_game_id": "70d82619f684c077"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.012706008690823502,
+        "temporal_distance": 329.154856,
+        "source_game_id": "5ece1a36323b5783"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.011932867367697145,
+        "temporal_distance": 350.755557,
+        "source_game_id": "352b1c907b81eb06"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.01201442179929018,
+        "temporal_distance": 348.345858,
+        "source_game_id": "975f5f3136564731"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.012615523034597502,
+        "temporal_distance": 331.546124,
+        "source_game_id": "127940acbea6cd95"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.630124306488037,
+        "temporal_distance": 2.486523,
+        "source_game_id": "28a59fe723c727ca"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.2973611018603708,
+        "temporal_distance": 10.009467,
+        "source_game_id": "0e2163a6847b3c0e"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.012583489946006112,
+        "temporal_distance": 332.400906,
+        "source_game_id": "ef6a96a0e48959d3"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          2,
+          1
+        ],
+        "resonance": 0.012736400349591025,
+        "temporal_distance": 328.359317,
+        "source_game_id": "a44a5fa18127705f"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          0,
+          1
+        ],
+        "resonance": 0.3889030718947943,
+        "temporal_distance": 6.656281,
+        "source_game_id": "2f376c0bcdacdc50"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.5562565102391941,
+        "temporal_distance": 3.379246,
+        "source_game_id": "8369dda4c807af38"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.012798078864525985,
+        "temporal_distance": 326.756421,
+        "source_game_id": "b1e3defe5878df90"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.012551066228357218,
+        "temporal_distance": 333.270555,
+        "source_game_id": "3765ade10af7f865"
+      },
+      {
+        "board_state": "X--------",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.36065433238553163,
+        "temporal_distance": 7.509439,
+        "source_game_id": "c08b0432161f164e"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.5010068454192257,
+        "temporal_distance": 4.219042,
+        "source_game_id": "a197f416763abee1"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          2,
+          1
+        ],
+        "resonance": 0.012673824056399436,
+        "temporal_distance": 330.001488,
+        "source_game_id": "3828ad924fd54562"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.011901702911839698,
+        "temporal_distance": 351.685098,
+        "source_game_id": "ff3c22fca07c0027"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.2799280646508621,
+        "temporal_distance": 10.896634,
+        "source_game_id": "3d529adc048e1adf"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.011960634855591758,
+        "temporal_distance": 349.931418,
+        "source_game_id": "48ccc77c33dee94f"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          2,
+          1
+        ],
+        "resonance": 0.012921654456200733,
+        "temporal_distance": 323.590991,
+        "source_game_id": "00f1dbb26cf66d53"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          1,
+          0
+        ],
+        "resonance": 0.3165716457263453,
+        "temporal_distance": 9.145004,
+        "source_game_id": "1cf080f03e27f8bb"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.41940042215958917,
+        "temporal_distance": 5.864227,
+        "source_game_id": "dc55288cc4908eed"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.01298500356634927,
+        "temporal_distance": 321.991642,
+        "source_game_id": "70d82619f684c077"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          1,
+          1
+        ],
+        "resonance": 0.012615032419811172,
+        "temporal_distance": 331.559183,
+        "source_game_id": "127940acbea6cd95"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.01273590028816692,
+        "temporal_distance": 328.372376,
+        "source_game_id": "a44a5fa18127705f"
+      },
+      {
+        "board_state": "XO-------",
+        "move": [
+          0,
+          2
+        ],
+        "resonance": 0.012550580614087509,
+        "temporal_distance": 333.283614,
+        "source_game_id": "3765ade10af7f865"
+      },
+      {
+        "board_state": "XO-X-----",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.011901647904684535,
+        "temporal_distance": 351.686743,
+        "source_game_id": "ff3c22fca07c0027"
+      },
+      {
+        "board_state": "XO-X-----",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.2798976383848966,
+        "temporal_distance": 10.898279,
+        "source_game_id": "3d529adc048e1adf"
+      },
+      {
+        "board_state": "XO-X-----",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.4193321269909394,
+        "temporal_distance": 5.865872,
+        "source_game_id": "dc55288cc4908eed"
+      },
+      {
+        "board_state": "XO-X-----",
+        "move": [
+          2,
+          0
+        ],
+        "resonance": 0.01255051944549323,
+        "temporal_distance": 333.285259,
+        "source_game_id": "3765ade10af7f865"
+      }
+    ]
+  },
+  "phi_protection": "\u03c6^\u221e"
+}

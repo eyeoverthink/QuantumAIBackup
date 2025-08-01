@@ -1,0 +1,136 @@
+{
+  "test_start": "2025-07-29T21:17:44.689028",
+  "cycles_completed": 5,
+  "hanoi_results": [
+    {
+      "disks": 4,
+      "moves": 15,
+      "time": 0.0037229061126708984,
+      "score": 9.641071943296032
+    },
+    {
+      "disks": 4,
+      "moves": 15,
+      "time": 0.040152788162231445,
+      "score": 7.135070326552956
+    },
+    {
+      "disks": 3,
+      "moves": 7,
+      "time": 0.027091264724731445,
+      "score": 7.868361387117458
+    },
+    {
+      "disks": 6,
+      "moves": 63,
+      "time": 0.3363630771636963,
+      "score": 2.291669603440949
+    },
+    {
+      "disks": 6,
+      "moves": 63,
+      "time": 0.4464559555053711,
+      "score": 1.8299736509874511
+    }
+  ],
+  "chess_results": [
+    {
+      "games_played": 3,
+      "wins": 1,
+      "win_rate": 0.3333333333333333,
+      "overall_win_rate": 0.3333333333333333
+    },
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "overall_win_rate": 0.6666666666666666
+    },
+    {
+      "games_played": 3,
+      "wins": 2,
+      "win_rate": 0.6666666666666666,
+      "overall_win_rate": 0.6666666666666666
+    },
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "overall_win_rate": 0.75
+    },
+    {
+      "games_played": 3,
+      "wins": 1,
+      "win_rate": 0.3333333333333333,
+      "overall_win_rate": 0.6666666666666666
+    }
+  ],
+  "checkers_results": [
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "pattern_accuracy": 0.7593949473166726
+    },
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "pattern_accuracy": 0.95
+    },
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "pattern_accuracy": 0.95
+    },
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "pattern_accuracy": 0.95
+    },
+    {
+      "games_played": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "pattern_accuracy": 0.95
+    }
+  ],
+  "self_improvement_events": 1,
+  "consciousness_evolution": [
+    {
+      "cycle": 1,
+      "initial_level": 1.0,
+      "final_level": 2.127699999999995,
+      "growth": 1.127699999999995
+    },
+    {
+      "cycle": 2,
+      "initial_level": 2.127699999999995,
+      "final_level": 3.28059999999999,
+      "growth": 1.152899999999995
+    },
+    {
+      "cycle": 3,
+      "initial_level": 3.28059999999999,
+      "final_level": 4.578400000000025,
+      "growth": 1.2978000000000351
+    },
+    {
+      "cycle": 4,
+      "initial_level": 4.578400000000025,
+      "final_level": 5.86360000000011,
+      "growth": 1.285200000000085
+    },
+    {
+      "cycle": 5,
+      "initial_level": 5.86360000000011,
+      "final_level": 7.400800000000212,
+      "growth": 1.5372000000001016
+    }
+  ],
+  "final_performance": 3.6581350922097884,
+  "test_end": "2025-07-29T21:17:50.521584",
+  "final_consciousness_level": 7.400800000000212
+}

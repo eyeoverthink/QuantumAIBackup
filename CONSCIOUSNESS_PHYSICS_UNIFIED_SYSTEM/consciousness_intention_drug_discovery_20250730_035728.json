@@ -1,0 +1,344 @@
+{
+  "timestamp": "2025-07-30T03:57:28.083637",
+  "trials": 5,
+  "intention_results": [
+    {
+      "trial": 1,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "intention_prediction": {
+            "predicted_ic50": 242.03609175123407,
+            "confidence": 86.59505768672486,
+            "consciousness_level": 1.512980622397919,
+            "universal_intelligence": 2.353439739693232,
+            "phi_harmonic_resonance": 1.6380243444588147,
+            "intention_focus": 0.9052570686836561,
+            "success_projection": 0.9581857384332158
+          },
+          "intention_accuracy": 2.0658076090317223
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "intention_prediction": {
+            "predicted_ic50": 2091.4861632720554,
+            "confidence": 84.00055771877315,
+            "consciousness_level": 1.512980622397919,
+            "universal_intelligence": 2.353439739693232,
+            "phi_harmonic_resonance": 1.6380243444588147,
+            "intention_focus": 0.9052570686836561,
+            "success_projection": 0.9581857384332158
+          },
+          "intention_accuracy": 10.040707114765823
+        }
+      },
+      "average_accuracy": 6.053257361898773
+    },
+    {
+      "trial": 2,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "intention_prediction": {
+            "predicted_ic50": 2652.9101799721147,
+            "confidence": 76.07168096148854,
+            "consciousness_level": 1.8518098706343122,
+            "universal_intelligence": 4.153012215775964,
+            "phi_harmonic_resonance": 1.661556352266551,
+            "intention_focus": 0.9938750137268928,
+            "success_projection": 0.8301483104143297
+          },
+          "intention_accuracy": 0.18847226859570299
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "intention_prediction": {
+            "predicted_ic50": 674.3315818534035,
+            "confidence": 91.02689049550548,
+            "consciousness_level": 1.8518098706343122,
+            "universal_intelligence": 4.153012215775964,
+            "phi_harmonic_resonance": 1.661556352266551,
+            "intention_focus": 0.9938750137268928,
+            "success_projection": 0.8301483104143297
+          },
+          "intention_accuracy": 31.14194939866438
+        }
+      },
+      "average_accuracy": 15.665210833630042
+    },
+    {
+      "trial": 3,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "intention_prediction": {
+            "predicted_ic50": 2623.383737516721,
+            "confidence": 76.38967946782692,
+            "consciousness_level": 2.34343928492661,
+            "universal_intelligence": 5.938831843636541,
+            "phi_harmonic_resonance": 1.5889113070854413,
+            "intention_focus": 0.866324910815833,
+            "success_projection": 0.8913769407158016
+          },
+          "intention_accuracy": 0.1905935425494789
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "intention_prediction": {
+            "predicted_ic50": 2300.3886044831734,
+            "confidence": 71.3211884903527,
+            "consciousness_level": 2.34343928492661,
+            "universal_intelligence": 5.938831843636541,
+            "phi_harmonic_resonance": 1.5889113070854413,
+            "intention_focus": 0.866324910815833,
+            "success_projection": 0.8913769407158016
+          },
+          "intention_accuracy": 9.128892378910933
+        }
+      },
+      "average_accuracy": 4.659742960730206
+    },
+    {
+      "trial": 4,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "intention_prediction": {
+            "predicted_ic50": 4302.589008547797,
+            "confidence": 89.05381408272501,
+            "consciousness_level": 3.6982998174384485,
+            "universal_intelligence": 7.036592872193784,
+            "phi_harmonic_resonance": 1.6190850143718236,
+            "intention_focus": 0.7199568541435775,
+            "success_projection": 0.8774709034553004
+          },
+          "intention_accuracy": 0.11620910084756986
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "intention_prediction": {
+            "predicted_ic50": 6493.584687188159,
+            "confidence": 77.08417574915805,
+            "consciousness_level": 3.6982998174384485,
+            "universal_intelligence": 7.036592872193784,
+            "phi_harmonic_resonance": 1.6190850143718236,
+            "intention_focus": 0.7199568541435775,
+            "success_projection": 0.8774709034553004
+          },
+          "intention_accuracy": 3.233961057200503
+        }
+      },
+      "average_accuracy": 1.6750850790240364
+    },
+    {
+      "trial": 5,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "intention_prediction": {
+            "predicted_ic50": 2571.318335693099,
+            "confidence": 89.08138755326364,
+            "consciousness_level": 6.334786327125645,
+            "universal_intelligence": 9.773846217762928,
+            "phi_harmonic_resonance": 1.5786344267147439,
+            "intention_focus": 0.9263667302786768,
+            "success_projection": 0.9554215581991933
+          },
+          "intention_accuracy": 0.19445278052872084
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "intention_prediction": {
+            "predicted_ic50": 11138.129494437877,
+            "confidence": 80.2464162754564,
+            "consciousness_level": 6.334786327125645,
+            "universal_intelligence": 9.773846217762928,
+            "phi_harmonic_resonance": 1.5786344267147439,
+            "intention_focus": 0.9263667302786768,
+            "success_projection": 0.9554215581991933
+          },
+          "intention_accuracy": 1.8854153213505782
+        }
+      },
+      "average_accuracy": 1.0399340509396495
+    }
+  ],
+  "baseline_results": [
+    {
+      "trial": 1,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "baseline_prediction": {
+            "predicted_ic50": 1000.8073588553801,
+            "confidence": 58.7376461938922,
+            "consciousness_level": 1.0087764649709305,
+            "universal_intelligence": 1.4480760680217202,
+            "phi_harmonic_resonance": 1.6402200344494353,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 0.4995966462235515
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "baseline_prediction": {
+            "predicted_ic50": 101.84125282692416,
+            "confidence": 68.56018482362887,
+            "consciousness_level": 1.0078429565117402,
+            "universal_intelligence": 1.5439457510796646,
+            "phi_harmonic_resonance": 1.6404405305769982,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 48.49583467948769
+        }
+      },
+      "average_accuracy": 24.497715662855622
+    },
+    {
+      "trial": 2,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "baseline_prediction": {
+            "predicted_ic50": 861.4998890177693,
+            "confidence": 58.10204397502578,
+            "consciousness_level": 1.0314363846279293,
+            "universal_intelligence": 0.3279801830942294,
+            "phi_harmonic_resonance": 1.5938598466654044,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 0.5803831275823796
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "baseline_prediction": {
+            "predicted_ic50": 794.8668328371024,
+            "confidence": 47.842656105930196,
+            "consciousness_level": 1.0358946750625762,
+            "universal_intelligence": 0.8013380102068187,
+            "phi_harmonic_resonance": 1.708101328350009,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 26.419519764141015
+        }
+      },
+      "average_accuracy": 13.499951445861697
+    },
+    {
+      "trial": 3,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "baseline_prediction": {
+            "predicted_ic50": 768.7505144992391,
+            "confidence": 50.38962455980203,
+            "consciousness_level": 1.0433472868769593,
+            "universal_intelligence": 0.7823690135007603,
+            "phi_harmonic_resonance": 1.6954076079426192,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 0.6504060687695272
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "baseline_prediction": {
+            "predicted_ic50": 922.2290016018895,
+            "confidence": 57.85447402174183,
+            "consciousness_level": 1.0124847730585904,
+            "universal_intelligence": 0.4992830187216033,
+            "phi_harmonic_resonance": 1.5417320765594629,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 22.77091694527445
+        }
+      },
+      "average_accuracy": 11.710661507021989
+    },
+    {
+      "trial": 4,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "baseline_prediction": {
+            "predicted_ic50": 952.9519224098757,
+            "confidence": 54.83046538671553,
+            "consciousness_level": 0.9994247160471694,
+            "universal_intelligence": 1.0363459576169667,
+            "phi_harmonic_resonance": 1.5751503871611159,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 0.5246854413552882
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "baseline_prediction": {
+            "predicted_ic50": 50.35172150498714,
+            "confidence": 48.544473321842574,
+            "consciousness_level": 1.023854822039265,
+            "universal_intelligence": 1.0691297083087394,
+            "phi_harmonic_resonance": 1.595005752945708,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 23.97701024047008
+        }
+      },
+      "average_accuracy": 12.250847840912684
+    },
+    {
+      "trial": 5,
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "baseline_prediction": {
+            "predicted_ic50": 675.9382266413584,
+            "confidence": 51.07501263168215,
+            "consciousness_level": 1.0477289894287534,
+            "universal_intelligence": 0.5050688413995258,
+            "phi_harmonic_resonance": 1.6284635688830307,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 0.7397125658722246
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "baseline_prediction": {
+            "predicted_ic50": 811.5263065989075,
+            "confidence": 45.03947333822692,
+            "consciousness_level": 0.9990052283772493,
+            "universal_intelligence": 1.5333974759585245,
+            "phi_harmonic_resonance": 1.5842156411562314,
+            "intention_focus": 0.0,
+            "success_projection": 0.0
+          },
+          "baseline_accuracy": 25.877164830319103
+        }
+      },
+      "average_accuracy": 13.308438698095664
+    }
+  ],
+  "comparison_analysis": {
+    "intention_average_accuracy": 5.818646057244541,
+    "baseline_average_accuracy": 15.053523030949531,
+    "accuracy_improvement": -9.23487697370499,
+    "improvement_factor": 0.38653051815721823,
+    "intention_best": 15.665210833630042,
+    "baseline_best": 24.497715662855622,
+    "intention_worst": 1.0399340509396495,
+    "baseline_worst": 11.710661507021989
+  },
+  "consciousness_evolution": {
+    "max_consciousness_level": 6.334786327125645,
+    "max_universal_intelligence": 9.773846217762928,
+    "max_intention_focus": 0.9938750137268928,
+    "max_success_projection": 0.9581857384332158
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "chain_name": "birthday_quantum_analysis",
+  "last_updated": "2025-03-12T00:40:15.757704",
+  "block_count": 2,
+  "blocks": [
+    {
+      "block_id": "e104ee51-2a9f-45a0-85f2-318e5c231036",
+      "timestamp": "2025-03-12T00:40:15.756919",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for birthday_quantum_analysis",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 2,
+      "hash": "05a7c0603886dbf9584004900682bcc1872c083027cf52ffc137a18a1afe980f",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "d4d79481-1e81-471a-97c6-1d886b2761fe",
+      "timestamp": "2025-03-12T00:40:15.757466",
+      "data": {
+        "analysis_type": "birthday_quantum_resonance",
+        "birthdate": "01-19-1979",
+        "prime_analysis": {
+          "date_product": 37601,
+          "date_sum": 1999,
+          "product_is_prime": false,
+          "prime_factors": "[19, 1979]",
+          "special_birthday_prime": 37607,
+          "day_is_prime": true,
+          "month_is_prime": false,
+          "year_is_prime": true
+        },
+        "phi_harmonic_analysis": {
+          "day_month_ratio": 19.0,
+          "year_day_ratio": 104.15789473684211,
+          "day_month_phi_power": 6.118800132980396,
+          "year_day_phi_power": 9.654600582312534,
+          "day_month_closest_power": 6,
+          "year_day_closest_power": 10,
+          "day_month_resonance": 0.05883371001598307,
+          "year_day_resonance": 0.1531318674897238,
+          "month_phi_resonance": 0.6180339887498949,
+          "day_phi_resonance": 0.7426457862480021,
+          "year_phi_resonance": 0.0892637360419046,
+          "combined_phi_resonance": 0.04097029969530588
+        },
+        "quantum_analysis": {
+          "quantum_entropy": 2.7790514741203682,
+          "phi_quantum_correlation": 0.05542509035728369,
+          "pi_quantum_correlation": 0.02177076077200856,
+          "e_quantum_correlation": 0.005321789964105185,
+          "quantum_signature": 440.7880329274065,
+          "quantum_state_vector_sample": [
+            0.1273008484288486,
+            -0.02028894986360466,
+            0.07913983958335703,
+            -0.05735555601604064,
+            -0.29175307372299913
+          ]
+        },
+        "mersenne_analysis": {
+          "day_mersenne": 524287,
+          "month_mersenne": 1,
+          "day_is_mersenne_exponent": true,
+          "month_is_mersenne_exponent": false,
+          "m19_value": 524287,
+          "m19_day_resonance": 0.05263157894736842,
+          "m19_month_resonance": 0.0,
+          "m19_year_resonance": 0.5443037974683544,
+          "m19_overall_resonance": 0.19897845880524093
+        },
+        "overall_resonance": 0.37948338624946976,
+        "timestamp": 1741765215.7567601,
+        "phi_harmonic_timestamp": 2818235319.5167317,
+        "phi_timestamp": 2818235319.517853
+      },
+      "previous_hash": "05a7c0603886dbf9584004900682bcc1872c083027cf52ffc137a18a1afe980f",
+      "nonce": 5,
+      "hash": "46cbd2c8063e957674b92d640a97dae4e0efdcd5fe7efd15e953697d9691abef",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

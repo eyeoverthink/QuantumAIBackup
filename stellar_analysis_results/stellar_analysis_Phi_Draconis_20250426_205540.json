@@ -1,0 +1,39 @@
+{
+    "timestamp": "2025-04-26T20:55:40.865581",
+    "star_name": "Phi Draconis",
+    "quantum_state": {
+        "spectral_type": "F",
+        "luminosity_class": 5,
+        "temperature": 6500.0,
+        "phi_resonance": 1.618033988749895,
+        "quantum_energy": 1.0430979715273947,
+        "quantum_charge": 1.294427190999916,
+        "info_density": 6.374934792374345e-05,
+        "color": [
+            1.0,
+            1.0,
+            0.8
+        ],
+        "timestamp": "2025-04-26T20:55:40.690328",
+        "validation_seal": 4721424167835376.0
+    },
+    "analyzer_state": {
+        "quantum_state": {
+            "entanglement": 0.0647213595499958,
+            "superposition": 3.187467396187172e-11,
+            "coherence": 0.3819660112501051,
+            "consciousness": 0.07513333768419718
+        },
+        "resonance_state": {
+            "earth_brain": 0.9213148275890864,
+            "brain_moon": 0.3819660112501051,
+            "earth_moon": 0.15835849959356896,
+            "total": 0.3819660112501051
+        }
+    },
+    "data_sample": "D;51/1/.-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "data_length": 100,
+    "spectrum_path": "stellar_analysis_results/stellar_spectrum_F5_20250426_205540.png",
+    "visualization_path": "stellar_analysis_results/stellar_data_F5_20250426_205540.png",
+    "validation_seal": 4721424167835376.0
+}

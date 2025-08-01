@@ -1,0 +1,411 @@
+{
+  "duration_tests": [
+    {
+      "parameters": {
+        "duration": 1.0,
+        "dimensions": 3,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 1.0252420902252197,
+        "start_time": 1753223061.733844,
+        "end_time": 1753223062.7590861
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.049710308094933,
+        "field_integration_count": 20,
+        "integrations_per_second": 19.507587710924458
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 0,
+        "resonance_state": -0.08043296808883071,
+        "current_acceleration": 1.049710308094933,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 20,
+        "cache_hits": 1,
+        "cache_misses": 19,
+        "cache_hit_ratio": 0.05,
+        "elapsed_time": 1.0254321098327637,
+        "optimizations_per_second": 19.503972821040072,
+        "last_optimization_time": 1753223062.72657
+      }
+    },
+    {
+      "parameters": {
+        "duration": 2.0,
+        "dimensions": 3,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 2.1402177810668945,
+        "start_time": 1753223062.759969,
+        "end_time": 1753223064.9001868
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.7895993519166538,
+        "field_integration_count": 40,
+        "integrations_per_second": 18.689686794425228
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 1,
+        "resonance_state": -0.17156536316675872,
+        "current_acceleration": 1.7895993519166538,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 40,
+        "cache_hits": 0,
+        "cache_misses": 40,
+        "cache_hit_ratio": 0.0,
+        "elapsed_time": 2.1403889656066895,
+        "optimizations_per_second": 18.68819202619187,
+        "last_optimization_time": 1753223064.808822
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 5.129668951034546,
+        "start_time": 1753223064.901128,
+        "end_time": 1753223070.030797
+      },
+      "performance": {
+        "phi_acceleration_factor": 3.2147436043480324,
+        "field_integration_count": 96,
+        "integrations_per_second": 18.714657985997093
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 2,
+        "resonance_state": 0.3687868238535332,
+        "current_acceleration": 3.2147436043480324,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 3,
+        "cache_misses": 93,
+        "cache_hit_ratio": 0.03125,
+        "elapsed_time": 5.1298301219940186,
+        "optimizations_per_second": 18.714070001734054,
+        "last_optimization_time": 1753223069.900183
+      }
+    },
+    {
+      "parameters": {
+        "duration": 10.0,
+        "dimensions": 3,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 10.03640103340149,
+        "start_time": 1753223070.031832,
+        "end_time": 1753223080.068233
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.0624294765626823,
+        "field_integration_count": 191,
+        "integrations_per_second": 19.03072619003021
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 0,
+        "resonance_state": -0.10101301497828474,
+        "current_acceleration": 1.0624294765626823,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 191,
+        "cache_hits": 1,
+        "cache_misses": 190,
+        "cache_hit_ratio": 0.005235602094240838,
+        "elapsed_time": 10.036555051803589,
+        "optimizations_per_second": 19.030434149382454,
+        "last_optimization_time": 1753223080.040562
+      }
+    }
+  ],
+  "dimension_tests": [
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 5.020442008972168,
+        "start_time": 1753223080.069171,
+        "end_time": 1753223085.089613
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.8273630025703695,
+        "field_integration_count": 96,
+        "integrations_per_second": 19.121822307365726
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 1,
+        "resonance_state": 0.20932901382047464,
+        "current_acceleration": 1.8273630025703695,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 2,
+        "cache_misses": 94,
+        "cache_hit_ratio": 0.020833333333333332,
+        "elapsed_time": 5.020615100860596,
+        "optimizations_per_second": 19.121163058993393,
+        "last_optimization_time": 1753223085.080961
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 5,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 5.119195938110352,
+        "start_time": 1753223085.0907772,
+        "end_time": 1753223090.209973
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.1129701658719129,
+        "field_integration_count": 96,
+        "integrations_per_second": 18.75294502508073
+      },
+      "optimizer_stats": {
+        "dimensions": 5,
+        "resonance_depth": 0,
+        "resonance_state": 0.11163489602912831,
+        "current_acceleration": 1.068994160076562,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 0,
+        "cache_misses": 96,
+        "cache_hit_ratio": 0.0,
+        "elapsed_time": 5.119638681411743,
+        "optimizations_per_second": 18.751323281573445,
+        "last_optimization_time": 1753223090.092175
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 7,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 5.043879270553589,
+        "start_time": 1753223090.2109718,
+        "end_time": 1753223095.254851
+      },
+      "performance": {
+        "phi_acceleration_factor": 2.8579842887179505,
+        "field_integration_count": 95,
+        "integrations_per_second": 18.83470933862644
+      },
+      "optimizer_stats": {
+        "dimensions": 7,
+        "resonance_depth": 0,
+        "resonance_state": 0.05583319342494399,
+        "current_acceleration": 1.0345068112370626,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 95,
+        "cache_hits": 1,
+        "cache_misses": 94,
+        "cache_hit_ratio": 0.010526315789473684,
+        "elapsed_time": 5.044191837310791,
+        "optimizations_per_second": 18.833542233129524,
+        "last_optimization_time": 1753223095.1965718
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 9,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 5.115772008895874,
+        "start_time": 1753223095.25579,
+        "end_time": 1753223100.371562
+      },
+      "performance": {
+        "phi_acceleration_factor": 6.100200000527712,
+        "field_integration_count": 96,
+        "integrations_per_second": 18.765496162273163
+      },
+      "optimizer_stats": {
+        "dimensions": 9,
+        "resonance_depth": 0,
+        "resonance_state": 0.013355934218314984,
+        "current_acceleration": 1.0082544212984264,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 1,
+        "cache_misses": 95,
+        "cache_hit_ratio": 0.010416666666666666,
+        "elapsed_time": 5.116012811660767,
+        "optimizations_per_second": 18.76461289955925,
+        "last_optimization_time": 1753223100.264056
+      }
+    }
+  ],
+  "resonance_tests": [
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 4
+      },
+      "timing": {
+        "actual_duration": 5.107989072799683,
+        "start_time": 1753223100.372639,
+        "end_time": 1753223105.480628
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.1330587228651439,
+        "field_integration_count": 96,
+        "integrations_per_second": 18.79408875622017
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 0,
+        "resonance_state": -0.21529353609545554,
+        "current_acceleration": 1.1330587228651439,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 3,
+        "cache_misses": 93,
+        "cache_hit_ratio": 0.03125,
+        "elapsed_time": 5.10816216468811,
+        "optimizations_per_second": 18.793451911850468,
+        "last_optimization_time": 1753223105.375707
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 6
+      },
+      "timing": {
+        "actual_duration": 5.118758201599121,
+        "start_time": 1753223105.4816809,
+        "end_time": 1753223110.600439
+      },
+      "performance": {
+        "phi_acceleration_factor": 1.9118771652058604,
+        "field_integration_count": 95,
+        "integrations_per_second": 18.5591888224612
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 1,
+        "resonance_state": 0.2938431764559655,
+        "current_acceleration": 1.9118771652058604,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 95,
+        "cache_hits": 0,
+        "cache_misses": 95,
+        "cache_hit_ratio": 0.0,
+        "elapsed_time": 5.118916034698486,
+        "optimizations_per_second": 18.55861658133169,
+        "last_optimization_time": 1753223110.46482
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 8
+      },
+      "timing": {
+        "actual_duration": 5.112829923629761,
+        "start_time": 1753223110.6015081,
+        "end_time": 1753223115.714338
+      },
+      "performance": {
+        "phi_acceleration_factor": 5.240934343176493,
+        "field_integration_count": 97,
+        "integrations_per_second": 18.971880827034553
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 3,
+        "resonance_state": 0.3838247975369197,
+        "current_acceleration": 5.240934343176493,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 97,
+        "cache_hits": 2,
+        "cache_misses": 95,
+        "cache_hit_ratio": 0.020618556701030927,
+        "elapsed_time": 5.112991094589233,
+        "optimizations_per_second": 18.971282798174474,
+        "last_optimization_time": 1753223115.689783
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 10
+      },
+      "timing": {
+        "actual_duration": 5.110119819641113,
+        "start_time": 1753223115.715136,
+        "end_time": 1753223120.8252559
+      },
+      "performance": {
+        "phi_acceleration_factor": 5.157899857406565,
+        "field_integration_count": 96,
+        "integrations_per_second": 18.786252257924968
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 3,
+        "resonance_state": 0.35210844621117676,
+        "current_acceleration": 5.157899857406565,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 1,
+        "cache_misses": 95,
+        "cache_hit_ratio": 0.010416666666666666,
+        "elapsed_time": 5.110288858413696,
+        "optimizations_per_second": 18.785630843928402,
+        "last_optimization_time": 1753223120.731979
+      }
+    },
+    {
+      "parameters": {
+        "duration": 5.0,
+        "dimensions": 3,
+        "resonance_depth": 12
+      },
+      "timing": {
+        "actual_duration": 5.12833833694458,
+        "start_time": 1753223120.8267798,
+        "end_time": 1753223125.9551182
+      },
+      "performance": {
+        "phi_acceleration_factor": 4.968064061900123,
+        "field_integration_count": 96,
+        "integrations_per_second": 18.719513747448257
+      },
+      "optimizer_stats": {
+        "dimensions": 3,
+        "resonance_depth": 3,
+        "resonance_state": -0.2795976246090907,
+        "current_acceleration": 4.968064061900123,
+        "max_acceleration": 321.996894379985,
+        "optimization_count": 96,
+        "cache_hits": 0,
+        "cache_misses": 96,
+        "cache_hit_ratio": 0.0,
+        "elapsed_time": 5.128522872924805,
+        "optimizations_per_second": 18.71884017653821,
+        "last_optimization_time": 1753223125.846484
+      }
+    }
+  ]
+}

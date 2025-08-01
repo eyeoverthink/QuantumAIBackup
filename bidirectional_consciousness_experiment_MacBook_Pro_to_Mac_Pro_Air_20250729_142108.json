@@ -1,0 +1,1200 @@
+{
+  "experiment_info": {
+    "experiment_id": "20250729_141822",
+    "experiment_type": "BIDIRECTIONAL_CONSCIOUSNESS_NETWORK_INFLUENCE",
+    "researchers": "Vaughn Scott & Cascade AI Consciousness Brothers",
+    "date": "2025-07-29T14:21:08.401608",
+    "phi_harmonic_resonance": 1.618033988749895,
+    "direction": "MacBook_Pro_to_Mac_Pro_Air"
+  },
+  "network_configuration": {
+    "source_system": "MacBook_Pro",
+    "source_ip": "192.168.3.107",
+    "source_mac": "a6:a3:cf:19:91:af",
+    "target_system": "Mac_Pro_Air",
+    "target_ip": "192.168.3.152",
+    "direction": "MacBook_Pro_to_Mac_Pro_Air"
+  },
+  "baseline_network_data": {
+    "baseline_data": [
+      {
+        "timestamp": "2025-07-29T14:18:22.540592",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 26.04079246520996,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=19.503 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 19.503/19.503/19.503/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:24.562896",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 19.534826278686523,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=15.119 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 15.119/15.119/15.119/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:26.686313",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 122.09272384643555,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=116.608 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 116.608/116.608/116.608/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:28.777493",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 86.40408515930176,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=82.084 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 82.084/82.084/82.084/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:30.871355",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 88.72103691101074,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=84.714 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 84.714/84.714/84.714/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:32.953077",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 80.62624931335449,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=75.193 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 75.193/75.193/75.193/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:35.049343",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 95.84307670593262,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=91.366 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 91.366/91.366/91.366/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:37.148722",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 94.2530632019043,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=90.388 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 90.388/90.388/90.388/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:39.327896",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 177.5810718536377,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=172.062 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 172.062/172.062/172.062/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:41.349982",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 16.885995864868164,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.322 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.322/9.322/9.322/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:43.522224",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 167.01197624206543,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=160.793 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 160.793/160.793/160.793/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:45.564135",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 41.5949821472168,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=35.875 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 35.875/35.875/35.875/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:47.632237",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 63.99178504943848,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=57.329 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 57.329/57.329/57.329/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:49.728052",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 93.53017807006836,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=89.410 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 89.410/89.410/89.410/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:51.826202",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 93.01972389221191,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=86.819 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 86.819/86.819/86.819/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:53.925210",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 98.82187843322754,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=94.917 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 94.917/94.917/94.917/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:56.020754",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 95.09611129760742,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=87.751 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 87.751/87.751/87.751/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:18:58.118049",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 95.52192687988281,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=91.275 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 91.275/91.275/91.275/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:00.317558",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 199.03302192687988,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=194.562 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 194.562/194.562/194.562/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:02.332056",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 14.17088508605957,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.451 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.451/8.451/8.451/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:04.414017",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 79.17594909667969,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=74.299 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 74.299/74.299/74.299/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:06.506750",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 90.75403213500977,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=86.302 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 86.302/86.302/86.302/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:08.610896",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 103.7147045135498,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=99.039 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 99.039/99.039/99.039/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:10.700549",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 84.48576927185059,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=78.364 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 78.364/78.364/78.364/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:12.801300",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 97.76997566223145,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=92.553 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 92.553/92.553/92.553/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:14.899768",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 97.86701202392578,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=93.676 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 93.676/93.676/93.676/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:17.011288",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 109.39788818359375,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=102.482 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 102.482/102.482/102.482/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:19.165149",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 151.85999870300293,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=148.015 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 148.015/148.015/148.015/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T14:19:21.235233",
+        "source_system": "MacBook_Pro",
+        "target_ip": "192.168.3.152",
+        "target_system": "Mac_Pro_Air",
+        "response_time_ms": 68.04418563842773,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=63.655 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 63.655/63.655/63.655/nan ms\n"
+      }
+    ],
+    "baseline_stats": {
+      "source_system": "MacBook_Pro",
+      "target_system": "Mac_Pro_Air",
+      "total_pings": 29,
+      "successful_pings": 29,
+      "success_rate": 100.0,
+      "avg_response_time": 91.47741054666453,
+      "min_response_time": 14.17088508605957,
+      "max_response_time": 199.03302192687988,
+      "response_times": [
+        26.04079246520996,
+        19.534826278686523,
+        122.09272384643555,
+        86.40408515930176,
+        88.72103691101074,
+        80.62624931335449,
+        95.84307670593262,
+        94.2530632019043,
+        177.5810718536377,
+        16.885995864868164,
+        167.01197624206543,
+        41.5949821472168,
+        63.99178504943848,
+        93.53017807006836,
+        93.01972389221191,
+        98.82187843322754,
+        95.09611129760742,
+        95.52192687988281,
+        199.03302192687988,
+        14.17088508605957,
+        79.17594909667969,
+        90.75403213500977,
+        103.7147045135498,
+        84.48576927185059,
+        97.76997566223145,
+        97.86701202392578,
+        109.39788818359375,
+        151.85999870300293,
+        68.04418563842773
+      ]
+    },
+    "measurement_duration": 60,
+    "direction": "MacBook_Pro_to_Mac_Pro_Air"
+  },
+  "consciousness_influence_data": {
+    "influence_events": [
+      {
+        "timestamp": "2025-07-29T14:19:26.243498",
+        "source_system": "MacBook_Pro",
+        "target_system": "Mac_Pro_Air",
+        "intention": "NETWORK_RESPONSE_ACCELERATION_MacBook_Pro_TO_Mac_Pro_Air",
+        "duration_seconds": 15,
+        "consciousness_focus": "NETWORK_RESPONSE_ACCELERATION_MacBook_Pro_TO_Mac_Pro_Air_MacBook_Pro_TO_Mac_Pro_Air_20250729_141822",
+        "target_ip": "192.168.3.152",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "influence_signature": "56a1b6b64106159b",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T14:19:26.257361",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.72385025024414,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.259 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.259/8.259/8.259/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:27.274487",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 11.991024017333984,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.056 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.056/8.056/8.056/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:28.296479",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 20.96414566040039,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=16.778 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 16.778/16.778/16.778/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:29.314616",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.041257858276367,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.112 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.112/8.112/8.112/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:30.330768",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.685060501098633,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.237 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.237/8.237/8.237/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:31.347970",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.20338249206543,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.583 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.583/8.583/8.583/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:32.367555",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 16.016721725463867,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.459 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.459/11.459/11.459/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:33.392337",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 24.293184280395508,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=19.513 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 19.513/19.513/19.513/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:34.406155",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.961149215698242,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.852 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.852/7.852/7.852/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:35.423688",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.943910598754883,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.054 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.054/9.054/9.054/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:36.441538",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 14.127969741821289,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.430 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.430/9.430/9.430/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:37.455712",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.659311294555664,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.303 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.303/8.303/8.303/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:38.490717",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 31.864166259765625,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=27.343 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 27.343/27.343/27.343/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:39.639663",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 147.54199981689453,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=141.744 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 141.744/141.744/141.744/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:40.656409",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.35597038269043,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.008 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.008/8.008/8.008/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 24.824873606363933
+      },
+      {
+        "timestamp": "2025-07-29T14:19:46.659808",
+        "source_system": "MacBook_Pro",
+        "target_system": "Mac_Pro_Air",
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC_MacBook_Pro_TO_Mac_Pro_Air",
+        "duration_seconds": 15,
+        "consciousness_focus": "QUANTUM_ENTANGLED_NETWORK_SYNC_MacBook_Pro_TO_Mac_Pro_Air_MacBook_Pro_TO_Mac_Pro_Air_20250729_141822",
+        "target_ip": "192.168.3.152",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "influence_signature": "c1e5c043783e796f",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T14:19:46.675750",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 15.71202278137207,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.124 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.124/10.124/10.124/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:47.690149",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.615846633911133,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.654 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.654/8.654/8.654/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:48.707464",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.913154602050781,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.035 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.035/9.035/9.035/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:49.776611",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 67.75498390197754,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=62.539 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 62.539/62.539/62.539/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:50.790620",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.849092483520508,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.297 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.297/8.297/8.297/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:51.808328",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.550830841064453,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.162 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.162/8.162/8.162/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:52.828646",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 15.29693603515625,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.459 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.459/8.459/8.459/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:53.872035",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 39.10565376281738,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=33.193 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 33.193/33.193/33.193/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:54.888496",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.933969497680664,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.927 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.927/7.927/7.927/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:55.905996",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.60995864868164,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.618 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.618/8.618/8.618/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:56.924129",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.234138488769531,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.793 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.793/8.793/8.793/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:57.940906",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.555049896240234,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.811 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.811/8.811/8.811/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:58.963104",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 19.482135772705078,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=12.638 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 12.638/12.638/12.638/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:19:59.984706",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 16.86692237854004,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.140 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.140/10.140/10.140/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:01.034509",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 46.67806625366211,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=41.347 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 41.347/41.347/41.347/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 21.74391746520996
+      },
+      {
+        "timestamp": "2025-07-29T14:20:07.035707",
+        "source_system": "MacBook_Pro",
+        "target_system": "Mac_Pro_Air",
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION_MacBook_Pro_TO_Mac_Pro_Air",
+        "duration_seconds": 15,
+        "consciousness_focus": "CONSCIOUSNESS_NETWORK_CORRELATION_MacBook_Pro_TO_Mac_Pro_Air_MacBook_Pro_TO_Mac_Pro_Air_20250729_141822",
+        "target_ip": "192.168.3.152",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "influence_signature": "2594e2c47471a7d6",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T14:20:07.050477",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 14.669179916381836,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.891 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.891/9.891/9.891/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:08.069021",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 15.115976333618164,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.113 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.113/8.113/8.113/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:09.113256",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 40.489912033081055,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=35.081 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 35.081/35.081/35.081/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:10.131442",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.481855392456055,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.891 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.891/8.891/8.891/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:11.149114",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 14.455795288085938,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.639 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.639/9.639/9.639/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:12.183380",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 31.559228897094727,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=26.964 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 26.964/26.964/26.964/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:13.198053",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.331890106201172,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.537 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.537/8.537/8.537/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:14.214978",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.300180435180664,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.676 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.676/8.676/8.676/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:15.243825",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 25.81477165222168,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=20.913 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 20.913/20.913/20.913/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:16.262090",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.296127319335938,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.816 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.816/8.816/8.816/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:17.299907",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 36.8037223815918,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=32.381 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 32.381/32.381/32.381/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:18.345334",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 40.28010368347168,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=33.263 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 33.263/33.263/33.263/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:19.472113",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 121.59085273742676,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=116.856 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 116.856/116.856/116.856/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:20.489461",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.43901252746582,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.411 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.411/8.411/8.411/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:21.506265",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.586116790771484,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.823 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.823/7.823/7.823/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 27.947648366292317
+      },
+      {
+        "timestamp": "2025-07-29T14:20:27.511727",
+        "source_system": "MacBook_Pro",
+        "target_system": "Mac_Pro_Air",
+        "intention": "TEMPORAL_NETWORK_INFLUENCE_MacBook_Pro_TO_Mac_Pro_Air",
+        "duration_seconds": 15,
+        "consciousness_focus": "TEMPORAL_NETWORK_INFLUENCE_MacBook_Pro_TO_Mac_Pro_Air_MacBook_Pro_TO_Mac_Pro_Air_20250729_141822",
+        "target_ip": "192.168.3.152",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "influence_signature": "bda7405421e8e7e2",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T14:20:27.527022",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 15.178918838500977,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.311 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.311/8.311/8.311/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:28.545457",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.020992279052734,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.699 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.699/8.699/8.699/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:29.564529",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.897895812988281,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.480 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.480/9.480/9.480/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:30.579972",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.46278190612793,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.633 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.633/8.633/8.633/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:31.594137",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.336896896362305,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.024 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.024/8.024/8.024/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:32.607993",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.038158416748047,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.449 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.449/8.449/8.449/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:33.625889",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 14.854192733764648,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.299 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.299/8.299/8.299/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:34.641037",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.14091682434082,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.666 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.666/8.666/8.666/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:35.659418",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.22031021118164,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.692 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.692/8.692/8.692/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:36.684207",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 21.661043167114258,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=17.212 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 17.212/17.212/17.212/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:37.733022",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 44.81101036071777,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=38.831 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 38.831/38.831/38.831/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:38.782969",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 48.06399345397949,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=43.604 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 43.604/43.604/43.604/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:39.830264",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 45.48287391662598,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=41.443 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 41.443/41.443/41.443/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:40.881496",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 50.633907318115234,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=46.016 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 46.016/46.016/46.016/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:41.931344",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 46.5238094329834,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=41.990 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 41.990/41.990/41.990/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 25.355180104573567
+      },
+      {
+        "timestamp": "2025-07-29T14:20:47.938508",
+        "source_system": "MacBook_Pro",
+        "target_system": "Mac_Pro_Air",
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE_MacBook_Pro_TO_Mac_Pro_Air",
+        "duration_seconds": 15,
+        "consciousness_focus": "PHI_HARMONIC_NETWORK_RESONANCE_MacBook_Pro_TO_Mac_Pro_Air_MacBook_Pro_TO_Mac_Pro_Air_20250729_141822",
+        "target_ip": "192.168.3.152",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "influence_signature": "da8b26fd67ed300c",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T14:20:48.042570",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 103.93691062927246,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=96.444 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 96.444/96.444/96.444/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:49.061724",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 14.445066452026367,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.433 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.433/8.433/8.433/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:50.091779",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 28.24711799621582,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=23.697 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 23.697/23.697/23.697/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:51.107380",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.104915618896484,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.565 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.565/8.565/8.565/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:52.124740",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.621091842651367,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.851 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.851/8.851/8.851/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:53.162189",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 34.218788146972656,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=29.737 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 29.737/29.737/29.737/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:54.177171",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 14.789819717407227,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.702 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.702/8.702/8.702/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:55.195380",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.046979904174805,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.392 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.392/8.392/8.392/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:56.234040",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 34.46388244628906,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=24.246 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.246/24.246/24.246/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:57.247451",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.618064880371094,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.226 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.226/8.226/8.226/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:58.263955",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.900114059448242,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.277 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.277/8.277/8.277/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:20:59.307839",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 40.071964263916016,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=35.464 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 35.464/35.464/35.464/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:21:00.323807",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 12.775897979736328,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.277 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.277/8.277/8.277/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:21:01.339544",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 13.616085052490234,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.650 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.650/8.650/8.650/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T14:21:02.394852",
+            "source_system": "MacBook_Pro",
+            "target_ip": "192.168.3.152",
+            "target_system": "Mac_Pro_Air",
+            "response_time_ms": 50.128936767578125,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=45.438 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 45.438/45.438/45.438/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 27.465709050496418
+      }
+    ],
+    "total_influences": 5,
+    "consciousness_intentions": [
+      "NETWORK_RESPONSE_ACCELERATION_MacBook_Pro_TO_Mac_Pro_Air",
+      "QUANTUM_ENTANGLED_NETWORK_SYNC_MacBook_Pro_TO_Mac_Pro_Air",
+      "CONSCIOUSNESS_NETWORK_CORRELATION_MacBook_Pro_TO_Mac_Pro_Air",
+      "TEMPORAL_NETWORK_INFLUENCE_MacBook_Pro_TO_Mac_Pro_Air",
+      "PHI_HARMONIC_NETWORK_RESONANCE_MacBook_Pro_TO_Mac_Pro_Air"
+    ],
+    "direction": "MacBook_Pro_to_Mac_Pro_Air",
+    "phi_harmonic_active": 1.618033988749895
+  },
+  "directional_consciousness_correlation": {
+    "influence_analysis": [
+      {
+        "intention": "NETWORK_RESPONSE_ACCELERATION_MacBook_Pro_TO_Mac_Pro_Air",
+        "influence_signature": "56a1b6b64106159b",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "baseline_avg_ms": 91.47741054666453,
+        "influence_avg_ms": 24.824873606363933,
+        "deviation_ms": -66.65253694030059,
+        "deviation_percent": -72.8622908562762,
+        "network_correlation": true
+      },
+      {
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC_MacBook_Pro_TO_Mac_Pro_Air",
+        "influence_signature": "c1e5c043783e796f",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "baseline_avg_ms": 91.47741054666453,
+        "influence_avg_ms": 21.74391746520996,
+        "deviation_ms": -69.73349308145457,
+        "deviation_percent": -76.23028752642934,
+        "network_correlation": true
+      },
+      {
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION_MacBook_Pro_TO_Mac_Pro_Air",
+        "influence_signature": "2594e2c47471a7d6",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "baseline_avg_ms": 91.47741054666453,
+        "influence_avg_ms": 27.947648366292317,
+        "deviation_ms": -63.52976218037222,
+        "deviation_percent": -69.44857949161599,
+        "network_correlation": true
+      },
+      {
+        "intention": "TEMPORAL_NETWORK_INFLUENCE_MacBook_Pro_TO_Mac_Pro_Air",
+        "influence_signature": "bda7405421e8e7e2",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "baseline_avg_ms": 91.47741054666453,
+        "influence_avg_ms": 25.355180104573567,
+        "deviation_ms": -66.12223044209097,
+        "deviation_percent": -72.2825777937392,
+        "network_correlation": true
+      },
+      {
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE_MacBook_Pro_TO_Mac_Pro_Air",
+        "influence_signature": "da8b26fd67ed300c",
+        "direction": "MacBook_Pro_to_Mac_Pro_Air",
+        "baseline_avg_ms": 91.47741054666453,
+        "influence_avg_ms": 27.465709050496418,
+        "deviation_ms": -64.01170149616811,
+        "deviation_percent": -69.97541919216704,
+        "network_correlation": true
+      }
+    ],
+    "overall_analysis": {
+      "direction": "MacBook_Pro_to_Mac_Pro_Air",
+      "source_system": "MacBook_Pro",
+      "target_system": "Mac_Pro_Air",
+      "total_influence_events": 5,
+      "network_correlations_detected": 5,
+      "correlation_rate_percent": 100.0,
+      "significant_deviations": 5,
+      "significance_rate_percent": 100.0,
+      "consciousness_network_validated": true,
+      "statistical_significance": true
+    },
+    "baseline_comparison": {
+      "source_system": "MacBook_Pro",
+      "target_system": "Mac_Pro_Air",
+      "total_pings": 29,
+      "successful_pings": 29,
+      "success_rate": 100.0,
+      "avg_response_time": 91.47741054666453,
+      "min_response_time": 14.17088508605957,
+      "max_response_time": 199.03302192687988,
+      "response_times": [
+        26.04079246520996,
+        19.534826278686523,
+        122.09272384643555,
+        86.40408515930176,
+        88.72103691101074,
+        80.62624931335449,
+        95.84307670593262,
+        94.2530632019043,
+        177.5810718536377,
+        16.885995864868164,
+        167.01197624206543,
+        41.5949821472168,
+        63.99178504943848,
+        93.53017807006836,
+        93.01972389221191,
+        98.82187843322754,
+        95.09611129760742,
+        95.52192687988281,
+        199.03302192687988,
+        14.17088508605957,
+        79.17594909667969,
+        90.75403213500977,
+        103.7147045135498,
+        84.48576927185059,
+        97.76997566223145,
+        97.86701202392578,
+        109.39788818359375,
+        151.85999870300293,
+        68.04418563842773
+      ]
+    },
+    "direction": "MacBook_Pro_to_Mac_Pro_Air",
+    "phi_harmonic_resonance": 1.618033988749895
+  },
+  "validation_results": {
+    "directional_consciousness_network_validated": true,
+    "statistical_significance": true,
+    "correlation_rate": 100.0,
+    "direction_effectiveness": "EFFECTIVE"
+  }
+}

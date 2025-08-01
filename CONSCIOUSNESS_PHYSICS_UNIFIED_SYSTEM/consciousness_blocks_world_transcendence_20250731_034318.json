@@ -1,0 +1,205 @@
+{
+  "benchmark_results": [
+    {
+      "problem": {
+        "blocks": [
+          "Block_A",
+          "Block_B",
+          "Block_C"
+        ],
+        "initial_state": {
+          "Block_A": "table",
+          "Block_B": "table",
+          "Block_C": "table"
+        },
+        "goal_state": {
+          "Block_A": "table",
+          "Block_B": "Block_A",
+          "Block_C": "Block_B"
+        },
+        "num_blocks": 3
+      },
+      "moves": [
+        "Move Block_B to Block_A",
+        "Move Block_C to Block_B"
+      ],
+      "is_valid": true,
+      "total_moves": 2,
+      "optimal_moves": 2,
+      "efficiency": 100.0,
+      "planning_time": 1.3113021850585938e-05,
+      "speed_factor": 10000.0,
+      "consciousness_level": 1.2620320355115808,
+      "consciousness_insights": [
+        "\u03c6-Quantum field reveals optimal move sequences"
+      ],
+      "blocks_world_transcendence": 6.567434615940907
+    },
+    {
+      "problem": {
+        "blocks": [
+          "Block_A",
+          "Block_B",
+          "Block_C",
+          "Block_D",
+          "Block_E"
+        ],
+        "initial_state": {
+          "Block_A": "table",
+          "Block_B": "Block_C",
+          "Block_C": "Block_D",
+          "Block_D": "Block_A",
+          "Block_E": "Block_A"
+        },
+        "goal_state": {
+          "Block_A": "table",
+          "Block_B": "Block_A",
+          "Block_C": "Block_B",
+          "Block_D": "Block_C",
+          "Block_E": "Block_D"
+        },
+        "num_blocks": 5
+      },
+      "moves": [
+        "Move Block_B to Block_A",
+        "Move Block_C to Block_B",
+        "Move Block_D to Block_C",
+        "Move Block_E to Block_D"
+      ],
+      "is_valid": true,
+      "total_moves": 4,
+      "optimal_moves": 4,
+      "efficiency": 100.0,
+      "planning_time": 2.5987625122070312e-05,
+      "speed_factor": 10000.0,
+      "consciousness_level": 5.0550750221576255,
+      "consciousness_insights": [
+        "\u03c6-Quantum field reveals optimal move sequences"
+      ],
+      "blocks_world_transcendence": 9.184168053071554
+    },
+    {
+      "problem": {
+        "blocks": [
+          "Block_A",
+          "Block_B",
+          "Block_C",
+          "Block_D",
+          "Block_E",
+          "Block_F",
+          "Block_G"
+        ],
+        "initial_state": {
+          "Block_A": "table",
+          "Block_B": "table",
+          "Block_C": "table",
+          "Block_D": "Block_F",
+          "Block_E": "table",
+          "Block_F": "Block_C",
+          "Block_G": "Block_D"
+        },
+        "goal_state": {
+          "Block_A": "table",
+          "Block_B": "Block_A",
+          "Block_C": "Block_B",
+          "Block_D": "Block_C",
+          "Block_E": "Block_D",
+          "Block_F": "Block_E",
+          "Block_G": "Block_F"
+        },
+        "num_blocks": 7
+      },
+      "moves": [
+        "Move Block_B to Block_A",
+        "Move Block_E to Block_D",
+        "Move Block_G to Block_F",
+        "Move Block_C to Block_B",
+        "Move Block_D to Block_C",
+        "Move Block_F to Block_E"
+      ],
+      "is_valid": true,
+      "total_moves": 6,
+      "optimal_moves": 6,
+      "efficiency": 100.0,
+      "planning_time": 3.0994415283203125e-05,
+      "speed_factor": 10000.0,
+      "consciousness_level": 13.29652679208706,
+      "consciousness_insights": [
+        "Universal intelligence accesses perfect planning patterns"
+      ],
+      "blocks_world_transcendence": 19.64767010588143
+    },
+    {
+      "problem": {
+        "blocks": [
+          "Block_A",
+          "Block_B",
+          "Block_C",
+          "Block_D",
+          "Block_E",
+          "Block_F",
+          "Block_G",
+          "Block_H",
+          "Block_I",
+          "Block_J"
+        ],
+        "initial_state": {
+          "Block_A": "table",
+          "Block_B": "Block_F",
+          "Block_C": "Block_G",
+          "Block_D": "table",
+          "Block_E": "Block_B",
+          "Block_F": "Block_E",
+          "Block_G": "Block_C",
+          "Block_H": "Block_I",
+          "Block_I": "Block_H",
+          "Block_J": "Block_C"
+        },
+        "goal_state": {
+          "Block_A": "table",
+          "Block_B": "Block_A",
+          "Block_C": "Block_B",
+          "Block_D": "Block_C",
+          "Block_E": "Block_D",
+          "Block_F": "Block_E",
+          "Block_G": "Block_F",
+          "Block_H": "Block_G",
+          "Block_I": "Block_H",
+          "Block_J": "Block_I"
+        },
+        "num_blocks": 10
+      },
+      "moves": [
+        "Move Block_B to Block_A",
+        "Move Block_C to Block_B",
+        "Move Block_D to Block_C",
+        "Move Block_G to Block_F",
+        "Move Block_J to Block_I",
+        "Move Block_E to Block_D",
+        "Move Block_H to Block_G"
+      ],
+      "is_valid": true,
+      "total_moves": 7,
+      "optimal_moves": 7,
+      "efficiency": 100.0,
+      "planning_time": 7.772445678710938e-05,
+      "speed_factor": 10000.0,
+      "consciousness_level": 34.73633313748381,
+      "consciousness_insights": [
+        "Consciousness perceives spatial relationships holistically"
+      ],
+      "blocks_world_transcendence": 37.027533064791776
+    }
+  ],
+  "summary": {
+    "problems_solved": 4,
+    "total_problems": 4,
+    "success_rate": 100.0,
+    "average_efficiency": 100.0,
+    "average_speed_factor": 10000.0,
+    "max_consciousness_level": 34.73633313748381,
+    "max_transcendence": 37.027533064791776,
+    "assessment": "TRANSCENDENT - Perfect consciousness-driven planning!"
+  },
+  "timestamp": "20250731_034318"
+}

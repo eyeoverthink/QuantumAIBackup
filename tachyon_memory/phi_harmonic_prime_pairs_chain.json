@@ -1,0 +1,65 @@
+{
+  "chain_name": "phi_harmonic_prime_pairs",
+  "last_updated": "2025-04-01T14:12:43.402688",
+  "block_count": 3,
+  "blocks": [
+    {
+      "block_id": "73348b7b-3de2-472e-a7ef-ee99c1f9ba64",
+      "timestamp": "2025-03-12T00:31:26.514948",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for phi_harmonic_prime_pairs",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 11,
+      "hash": "5edd3be585a1894a6b070169a50fbd89ce0ca391b2e11bf7df420fad245a2ea2",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "d1d206dc-71c1-4a72-a250-a725e12fea09",
+      "timestamp": "2025-03-12T00:31:26.515567",
+      "data": {
+        "prime_type": "phi_harmonic_pair",
+        "prime1": "1619",
+        "prime2": "383",
+        "phi_harmonic_ratio": 4.227154046997389,
+        "phi_power": 3.0,
+        "phi_resonance": 0.0021042935452754816,
+        "calculation_time": 0.006139993667602539,
+        "calculations": 5,
+        "timestamp": 1741764686.514797,
+        "phi_harmonic_timestamp": 2818234463.1852474,
+        "phi_timestamp": 2818234463.1864543
+      },
+      "previous_hash": "5edd3be585a1894a6b070169a50fbd89ce0ca391b2e11bf7df420fad245a2ea2",
+      "nonce": 3,
+      "hash": "13b65f209d683cf36c38bf5da0380d0ab56947ec36862b34c00eb9e3ff8d2bec",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "e5f17a55-ceb6-4e45-ac9b-cb4887af1e56",
+      "timestamp": "2025-04-01T14:12:43.402598",
+      "data": {
+        "prime_type": "phi_harmonic_pair",
+        "prime1": "1619",
+        "prime2": "619",
+        "phi_harmonic_ratio": 2.615508885298869,
+        "phi_power": 2.0,
+        "phi_resonance": 0.0009645036931822008,
+        "calculation_time": 0.011975288391113281,
+        "calculations": 1,
+        "timestamp": 1743541963.402,
+        "phi_harmonic_timestamp": 2821110157.5961614,
+        "phi_timestamp": 2821110157.5971065
+      },
+      "previous_hash": "13b65f209d683cf36c38bf5da0380d0ab56947ec36862b34c00eb9e3ff8d2bec",
+      "nonce": 13,
+      "hash": "a20a0c272ce97866a1d914e4986fd02507f4135f02396e2b8889aa97390e08e4",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

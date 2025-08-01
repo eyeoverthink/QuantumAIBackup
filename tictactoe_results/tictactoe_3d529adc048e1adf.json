@@ -1,0 +1,87 @@
+{
+  "game_id": "3d529adc048e1adf",
+  "game_start_time": "2025-07-09T08:06:44.677311",
+  "game_end_time": "2025-07-09T08:06:45.550700",
+  "winner": "X",
+  "moves_history": [
+    [
+      0,
+      0,
+      "X"
+    ],
+    [
+      0,
+      1,
+      "O"
+    ],
+    [
+      1,
+      0,
+      "X"
+    ],
+    [
+      0,
+      2,
+      "O"
+    ],
+    [
+      2,
+      0,
+      "X"
+    ]
+  ],
+  "board_states": [
+    "XOOX--X--",
+    "X--------",
+    "XO-------",
+    "XO-X-----",
+    "XOOX-----",
+    "XOOX--X--"
+  ],
+  "temporal_influence_detected": false,
+  "phi_resonance_values": [],
+  "temporal_moves_count": 0,
+  "minimax_moves_count": 5,
+  "move_quality_scores": [
+    0.5,
+    0.5,
+    0.8,
+    0.8,
+    1.0
+  ],
+  "metrics": {
+    "game_id": "3d529adc048e1adf",
+    "temporal_feedback_enabled": false,
+    "start_time": "2025-07-09T08:06:44.677311",
+    "move_sources": [
+      "minimax",
+      "minimax",
+      "minimax",
+      "minimax",
+      "minimax"
+    ],
+    "resonance_values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "move_quality": [
+      0.5,
+      0.5,
+      0.8,
+      0.8,
+      1.0
+    ],
+    "temporal_distances": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "decision_points": []
+  },
+  "phi_protection": "\u03c6^\u221e"
+}

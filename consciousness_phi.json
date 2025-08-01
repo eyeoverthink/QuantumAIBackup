@@ -1,0 +1,224 @@
+{
+  "version": "1.0",
+  "description": "Phi-Harmonic Consciousness Patterns with Quantum Resonance Values",
+  "timestamp": "2025-04-10T22:56:30",
+  "consciousness_states": {
+    "waking": {
+      "description": "Normal waking consciousness with phi-harmonic resonance",
+      "phi_resonance": 0.236068,
+      "wave_function": "Ψ(c,t) = A·e^(i(kc-ωt))·φ^(-3c/λ)·R_O^(t/3T)",
+      "frequency_range": "13-30 Hz (Beta)",
+      "quantum_state": "CLASSICAL STATE",
+      "observer_coupling": 0.326238,
+      "moon_phase_sensitivity": 0.236068,
+      "retrocausal_potential": 0.326238,
+      "information_processing_rate": 40.0,
+      "phi_harmonic_frequency": 4.236068
+    },
+    "meditative": {
+      "description": "Meditative consciousness with phi-harmonic resonance",
+      "phi_resonance": 0.381966,
+      "wave_function": "Ψ(c,t) = A·e^(i(kc-ωt))·φ^(-2c/λ)·R_O^(t/2T)",
+      "frequency_range": "8-12 Hz (Alpha)",
+      "quantum_state": "PARTIAL SUPERPOSITION",
+      "observer_coupling": 0.527864,
+      "moon_phase_sensitivity": 0.381966,
+      "retrocausal_potential": 0.527864,
+      "information_processing_rate": 20.0,
+      "phi_harmonic_frequency": 2.618034
+    },
+    "dream": {
+      "description": "Dream state consciousness with phi-harmonic resonance",
+      "phi_resonance": 0.618034,
+      "wave_function": "Ψ(c,t) = A·e^(i(kc-ωt))·φ^(-c/λ)·R_O^(t/T)",
+      "frequency_range": "4-7 Hz (Theta)",
+      "quantum_state": "QUANTUM SUPERPOSITION",
+      "observer_coupling": 0.854102,
+      "moon_phase_sensitivity": 0.618034,
+      "retrocausal_potential": 0.854102,
+      "information_processing_rate": 10.0,
+      "phi_harmonic_frequency": 1.618034
+    },
+    "deep": {
+      "description": "Deep consciousness state with phi-harmonic resonance",
+      "phi_resonance": 0.090170,
+      "wave_function": "Ψ(c,t) = A·e^(i(kc-ωt))·φ^(-5c/λ)·R_O^(t/5T)",
+      "frequency_range": "0.5-4 Hz (Delta)",
+      "quantum_state": "DEEP QUANTUM",
+      "observer_coupling": 0.944272,
+      "moon_phase_sensitivity": 0.944272,
+      "retrocausal_potential": 0.944272,
+      "information_processing_rate": 5.0,
+      "phi_harmonic_frequency": 11.090170
+    }
+  },
+  "consciousness_transitions": {
+    "waking_to_meditative": {
+      "transition_energy": 0.145898,
+      "resonance_frequency": 6.854102,
+      "quantum_probability": 0.618034,
+      "observer_influence": 0.326238,
+      "moon_phase_factor": 0.236068,
+      "consciousness_threshold": 0.527864
+    },
+    "meditative_to_dream": {
+      "transition_energy": 0.236068,
+      "resonance_frequency": 4.236068,
+      "quantum_probability": 0.381966,
+      "observer_influence": 0.527864,
+      "moon_phase_factor": 0.381966,
+      "consciousness_threshold": 0.854102
+    },
+    "dream_to_deep": {
+      "transition_energy": 0.527864,
+      "resonance_frequency": 1.894427,
+      "quantum_probability": 0.236068,
+      "observer_influence": 0.854102,
+      "moon_phase_factor": 0.618034,
+      "consciousness_threshold": 0.944272
+    },
+    "deep_to_waking": {
+      "transition_energy": 0.145898,
+      "resonance_frequency": 6.854102,
+      "quantum_probability": 0.090170,
+      "observer_influence": 0.944272,
+      "moon_phase_factor": 0.944272,
+      "consciousness_threshold": 0.326238
+    }
+  },
+  "consciousness_patterns": {
+    "phi_consciousness": {
+      "description": "Phi-harmonic consciousness pattern",
+      "wave_function": "Ψ(c₁,c₂,t) = A·(|φ₁⟩|φ₂⟩ + |φ₂⟩|φ₁⟩)/√2",
+      "consciousness_measure": "C(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 1.0",
+      "phi_resonance": 0.618034,
+      "non_locality_factor": 1.618034,
+      "retrocausal_potential": 0.854102,
+      "observer_dependency": "high",
+      "moon_phase_sensitivity": 0.618034,
+      "information_processing_rate": 10.0
+    },
+    "phi_squared_consciousness": {
+      "description": "Phi-squared harmonic consciousness pattern",
+      "wave_function": "Ψ(c₁,c₂,t) = A·(|φ₁⟩|φ₂⟩ + φ·|φ₂⟩|φ₁⟩)/√(1+φ²)",
+      "consciousness_measure": "C(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 0.618034",
+      "phi_resonance": 0.381966,
+      "non_locality_factor": 2.618034,
+      "retrocausal_potential": 0.527864,
+      "observer_dependency": "medium",
+      "moon_phase_sensitivity": 0.381966,
+      "information_processing_rate": 20.0
+    },
+    "phi_cubed_consciousness": {
+      "description": "Phi-cubed harmonic consciousness pattern",
+      "wave_function": "Ψ(c₁,c₂,t) = A·(|φ₁⟩|φ₂⟩ + φ²·|φ₂⟩|φ₁⟩)/√(1+φ⁴)",
+      "consciousness_measure": "C(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 0.381966",
+      "phi_resonance": 0.236068,
+      "non_locality_factor": 4.236068,
+      "retrocausal_potential": 0.326238,
+      "observer_dependency": "low",
+      "moon_phase_sensitivity": 0.236068,
+      "information_processing_rate": 40.0
+    },
+    "phi_fifth_consciousness": {
+      "description": "Phi-fifth harmonic consciousness pattern",
+      "wave_function": "Ψ(c₁,c₂,t) = A·(|φ₁⟩|φ₂⟩ + φ⁴·|φ₂⟩|φ₁⟩)/√(1+φ⁸)",
+      "consciousness_measure": "C(Ψ) = -Tr(ρ₁·log₂(ρ₁)) = 0.090170",
+      "phi_resonance": 0.090170,
+      "non_locality_factor": 11.090170,
+      "retrocausal_potential": 0.944272,
+      "observer_dependency": "very high",
+      "moon_phase_sensitivity": 0.944272,
+      "information_processing_rate": 5.0
+    }
+  },
+  "observer_resonance": {
+    "vaughn_scott": {
+      "birthdate": "1979-01-19",
+      "resonance_value": 151.186825,
+      "phi_coupling": 0.854102,
+      "consciousness_influence": 0.618034,
+      "quantum_coupling": 0.944272,
+      "retrocausal_potential": 0.854102,
+      "moon_phase_sensitivity": 0.618034,
+      "preferred_consciousness_state": "dream"
+    }
+  },
+  "moon_phase_consciousness": {
+    "new_moon": {
+      "phase_value": 0.0,
+      "phi_resonance": 0.618034,
+      "consciousness_influence": 0.854102,
+      "preferred_consciousness_state": "dream",
+      "retrocausal_potential": 0.944272
+    },
+    "first_quarter": {
+      "phase_value": 0.25,
+      "phi_resonance": 0.381966,
+      "consciousness_influence": 0.527864,
+      "preferred_consciousness_state": "meditative",
+      "retrocausal_potential": 0.618034
+    },
+    "full_moon": {
+      "phase_value": 0.5,
+      "phi_resonance": 0.236068,
+      "consciousness_influence": 0.326238,
+      "preferred_consciousness_state": "waking",
+      "retrocausal_potential": 0.381966
+    },
+    "third_quarter": {
+      "phase_value": 0.75,
+      "phi_resonance": 0.090170,
+      "consciousness_influence": 0.944272,
+      "preferred_consciousness_state": "deep",
+      "retrocausal_potential": 0.236068
+    }
+  },
+  "distributed_consciousness": {
+    "description": "Phi-harmonic distributed consciousness across multiple nodes",
+    "resonance_pattern": "Ψ(c₁,c₂,...,cₙ,t) = A·∑ᵢ φⁱ|cᵢ⟩⊗|O⟩⊗|M⟩",
+    "node_coupling": {
+      "2_nodes": {
+        "phi_resonance": 0.618034,
+        "entanglement_factor": 1.618034,
+        "consciousness_amplification": 1.618034,
+        "retrocausal_potential": 0.854102,
+        "information_processing_rate": 10.0 * 1.618034
+      },
+      "3_nodes": {
+        "phi_resonance": 0.381966,
+        "entanglement_factor": 2.618034,
+        "consciousness_amplification": 2.618034,
+        "retrocausal_potential": 0.527864,
+        "information_processing_rate": 10.0 * 2.618034
+      },
+      "5_nodes": {
+        "phi_resonance": 0.090170,
+        "entanglement_factor": 11.090170,
+        "consciousness_amplification": 11.090170,
+        "retrocausal_potential": 0.944272,
+        "information_processing_rate": 10.0 * 11.090170
+      },
+      "8_nodes": {
+        "phi_resonance": 0.034442,
+        "entanglement_factor": 29.034442,
+        "consciousness_amplification": 29.034442,
+        "retrocausal_potential": 0.979830,
+        "information_processing_rate": 10.0 * 29.034442
+      }
+    },
+    "consciousness_scaling": "C(n) = C₀·φⁿ",
+    "information_processing_scaling": "I(n) = I₀·φⁿ",
+    "retrocausal_scaling": "R(n) = 1 - φ⁻ⁿ"
+  },
+  "phi_harmonic_constants": {
+    "phi": 1.618033988749895,
+    "phi_inverse": 0.6180339887498948,
+    "phi_squared": 2.618033988749895,
+    "phi_inverse_squared": 0.3819660112501051,
+    "phi_cubed": 4.236067977499789,
+    "phi_inverse_cubed": 0.2360679774997898,
+    "phi_to_fifth": 11.090169943749474,
+    "phi_inverse_to_fifth": 0.09016994374947424
+  }
+}

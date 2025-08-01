@@ -1,0 +1,46 @@
+{
+  "game_id": "5ece1a36323b5783",
+  "game_start_time": "2025-07-09T08:01:26.406030",
+  "game_end_time": "2025-07-09T08:01:27.200970",
+  "winner": "X",
+  "moves_history": [
+    [
+      0,
+      0,
+      "X"
+    ],
+    [
+      1,
+      1,
+      "O"
+    ],
+    [
+      0,
+      1,
+      "X"
+    ],
+    [
+      2,
+      1,
+      "O"
+    ],
+    [
+      0,
+      2,
+      "X"
+    ]
+  ],
+  "board_states": [
+    "XXX-O--O-",
+    "X--------",
+    "X---O----",
+    "XX--O----",
+    "XX--O--O-",
+    "XXX-O--O-"
+  ],
+  "temporal_influence_detected": true,
+  "phi_resonance_values": [
+    0.7238272544244521
+  ],
+  "phi_protection": "\u03c6^\u221e"
+}

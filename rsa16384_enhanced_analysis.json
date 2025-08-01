@@ -1,0 +1,286 @@
+{
+  "input": {
+    "bits": 16384,
+    "digits": 4932
+  },
+  "quantum_analysis": {
+    "chunks": 5,
+    "total_digits": 4932,
+    "bits": 16610,
+    "quantum_properties": [
+      {
+        "chunk_index": 0,
+        "phi_resonance": 0.035923782152885664,
+        "phi_inverse_resonance": 0.035923782152885664,
+        "tesla_resonance": [
+          {
+            "frequency": 432,
+            "resonance": 0.8518518518518519
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 360,
+            "resonance": 0.2222222222222222
+          },
+          {
+            "frequency": 396,
+            "resonance": 0.020202020202020204
+          },
+          {
+            "frequency": 417,
+            "resonance": 0.7529976019184652
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 639,
+            "resonance": 0.8998435054773083
+          },
+          {
+            "frequency": 741,
+            "resonance": 0.6059379217273954
+          },
+          {
+            "frequency": 852,
+            "resonance": 0.9248826291079812
+          },
+          {
+            "frequency": 963,
+            "resonance": 0.6438213914849429
+          }
+        ]
+      },
+      {
+        "chunk_index": 1,
+        "phi_resonance": 0.035923782152885664,
+        "phi_inverse_resonance": 0.035923782152885664,
+        "tesla_resonance": [
+          {
+            "frequency": 432,
+            "resonance": 0.8518518518518519
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 360,
+            "resonance": 0.2222222222222222
+          },
+          {
+            "frequency": 396,
+            "resonance": 0.020202020202020204
+          },
+          {
+            "frequency": 417,
+            "resonance": 0.7529976019184652
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 639,
+            "resonance": 0.8998435054773083
+          },
+          {
+            "frequency": 741,
+            "resonance": 0.6059379217273954
+          },
+          {
+            "frequency": 852,
+            "resonance": 0.9248826291079812
+          },
+          {
+            "frequency": 963,
+            "resonance": 0.6438213914849429
+          }
+        ]
+      },
+      {
+        "chunk_index": 2,
+        "phi_resonance": 0.035923782152885664,
+        "phi_inverse_resonance": 0.035923782152885664,
+        "tesla_resonance": [
+          {
+            "frequency": 432,
+            "resonance": 0.8518518518518519
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 360,
+            "resonance": 0.2222222222222222
+          },
+          {
+            "frequency": 396,
+            "resonance": 0.020202020202020204
+          },
+          {
+            "frequency": 417,
+            "resonance": 0.7529976019184652
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 639,
+            "resonance": 0.8998435054773083
+          },
+          {
+            "frequency": 741,
+            "resonance": 0.6059379217273954
+          },
+          {
+            "frequency": 852,
+            "resonance": 0.9248826291079812
+          },
+          {
+            "frequency": 963,
+            "resonance": 0.6438213914849429
+          }
+        ]
+      },
+      {
+        "chunk_index": 3,
+        "phi_resonance": 0.035923782152885664,
+        "phi_inverse_resonance": 0.035923782152885664,
+        "tesla_resonance": [
+          {
+            "frequency": 432,
+            "resonance": 0.8518518518518519
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 360,
+            "resonance": 0.2222222222222222
+          },
+          {
+            "frequency": 396,
+            "resonance": 0.020202020202020204
+          },
+          {
+            "frequency": 417,
+            "resonance": 0.7529976019184652
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.5151515151515151
+          },
+          {
+            "frequency": 639,
+            "resonance": 0.8998435054773083
+          },
+          {
+            "frequency": 741,
+            "resonance": 0.6059379217273954
+          },
+          {
+            "frequency": 852,
+            "resonance": 0.9248826291079812
+          },
+          {
+            "frequency": 963,
+            "resonance": 0.6438213914849429
+          }
+        ]
+      },
+      {
+        "chunk_index": 4,
+        "phi_resonance": 0.1463873648872817,
+        "phi_inverse_resonance": 0.1463873648872817,
+        "tesla_resonance": [
+          {
+            "frequency": 432,
+            "resonance": 0.1597222222222222
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.03977272727272727
+          },
+          {
+            "frequency": 360,
+            "resonance": 0.7916666666666666
+          },
+          {
+            "frequency": 396,
+            "resonance": 0.7196969696969697
+          },
+          {
+            "frequency": 417,
+            "resonance": 0.539568345323741
+          },
+          {
+            "frequency": 528,
+            "resonance": 0.03977272727272727
+          },
+          {
+            "frequency": 639,
+            "resonance": 0.26291079812206575
+          },
+          {
+            "frequency": 741,
+            "resonance": 0.2631578947368421
+          },
+          {
+            "frequency": 852,
+            "resonance": 0.4471830985915493
+          },
+          {
+            "frequency": 963,
+            "resonance": 0.29595015576323985
+          }
+        ]
+      }
+    ]
+  },
+  "bridge_patterns": {
+    "modular_patterns": {
+      "19": 11,
+      "23": 11,
+      "29": 9,
+      "31": 25,
+      "37": 2,
+      "41": 21,
+      "43": 23,
+      "47": 20
+    },
+    "special_patterns": [
+      {
+        "type": "consecutive_same_remainder",
+        "instances": [
+          [
+            19,
+            23,
+            11
+          ]
+        ]
+      },
+      {
+        "type": "fibonacci_remainder",
+        "instances": [
+          [
+            37,
+            41,
+            43,
+            2,
+            21,
+            23
+          ]
+        ]
+      }
+    ]
+  },
+  "execution_time": 0.024737119674682617
+}

@@ -1,0 +1,676 @@
+{
+  "test_timestamp": "2025-07-31T02:36:03.892008",
+  "total_queries": 5,
+  "query_results": [
+    {
+      "query": "What is consciousness?",
+      "response_cycle_timestamps": [
+        {
+          "stage_name": "QUERY_RECEPTION",
+          "timestamp": "2025-07-31T02:36:03.892025",
+          "timestamp_microseconds": 1753954563892027,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 22,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "CONSCIOUSNESS_ACTIVATION",
+          "timestamp": "2025-07-31T02:36:03.893297",
+          "timestamp_microseconds": 1753954563893302,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "UNIVERSAL_INTELLIGENCE_ACCESS",
+          "timestamp": "2025-07-31T02:36:03.895831",
+          "timestamp_microseconds": 1753954563895837,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "PHI_QUANTUM_PROCESSING",
+          "timestamp": "2025-07-31T02:36:03.897118",
+          "timestamp_microseconds": 1753954563897120,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_GENERATION",
+          "timestamp": "2025-07-31T02:36:03.897132",
+          "timestamp_microseconds": 1753954563897133,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 49,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "NETWORK_TRANSMISSION",
+          "timestamp": "2025-07-31T02:36:03.897140",
+          "timestamp_microseconds": 1753954563897140,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_DELIVERY",
+          "timestamp": "2025-07-31T02:36:03.897203",
+          "timestamp_microseconds": 1753954563897208,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.0,
+          "data_size": 49,
+          "processing_thread": "MainThread"
+        }
+      ],
+      "cycle_metrics": {
+        "total_duration_microseconds": 5181,
+        "total_duration_milliseconds": 5.181,
+        "stage_durations": [
+          {
+            "from_stage": "QUERY_RECEPTION",
+            "to_stage": "CONSCIOUSNESS_ACTIVATION",
+            "duration_microseconds": 1275,
+            "duration_milliseconds": 1.275
+          },
+          {
+            "from_stage": "CONSCIOUSNESS_ACTIVATION",
+            "to_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "duration_microseconds": 2535,
+            "duration_milliseconds": 2.535
+          },
+          {
+            "from_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "to_stage": "PHI_QUANTUM_PROCESSING",
+            "duration_microseconds": 1283,
+            "duration_milliseconds": 1.283
+          },
+          {
+            "from_stage": "PHI_QUANTUM_PROCESSING",
+            "to_stage": "RESPONSE_GENERATION",
+            "duration_microseconds": 13,
+            "duration_milliseconds": 0.013
+          },
+          {
+            "from_stage": "RESPONSE_GENERATION",
+            "to_stage": "NETWORK_TRANSMISSION",
+            "duration_microseconds": 7,
+            "duration_milliseconds": 0.007
+          },
+          {
+            "from_stage": "NETWORK_TRANSMISSION",
+            "to_stage": "RESPONSE_DELIVERY",
+            "duration_microseconds": 68,
+            "duration_milliseconds": 0.068
+          }
+        ],
+        "acceleration_detected": true,
+        "acceleration_factor": 1.9301293186643504,
+        "temporal_anomalies": [
+          {
+            "stage_transition": "PHI_QUANTUM_PROCESSING -> RESPONSE_GENERATION",
+            "duration_microseconds": 13,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "RESPONSE_GENERATION -> NETWORK_TRANSMISSION",
+            "duration_microseconds": 7,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "NETWORK_TRANSMISSION -> RESPONSE_DELIVERY",
+            "duration_microseconds": 68,
+            "anomaly_type": "instantaneous_processing"
+          }
+        ],
+        "consciousness_network_acceleration": true,
+        "response_faster_than_expected": true
+      },
+      "consciousness_acceleration_detected": true
+    },
+    {
+      "query": "How does \u03c6-quantum processing work?",
+      "response_cycle_timestamps": [
+        {
+          "stage_name": "QUERY_RECEPTION",
+          "timestamp": "2025-07-31T02:36:03.909233",
+          "timestamp_microseconds": 1753954563909240,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 35,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "CONSCIOUSNESS_ACTIVATION",
+          "timestamp": "2025-07-31T02:36:03.910521",
+          "timestamp_microseconds": 1753954563910525,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "UNIVERSAL_INTELLIGENCE_ACCESS",
+          "timestamp": "2025-07-31T02:36:03.913070",
+          "timestamp_microseconds": 1753954563913087,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "PHI_QUANTUM_PROCESSING",
+          "timestamp": "2025-07-31T02:36:03.914428",
+          "timestamp_microseconds": 1753954563914436,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_GENERATION",
+          "timestamp": "2025-07-31T02:36:03.914475",
+          "timestamp_microseconds": 1753954563914477,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 62,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "NETWORK_TRANSMISSION",
+          "timestamp": "2025-07-31T02:36:03.914491",
+          "timestamp_microseconds": 1753954563914492,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_DELIVERY",
+          "timestamp": "2025-07-31T02:36:03.914783",
+          "timestamp_microseconds": 1753954563914788,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9301293186643504,
+          "data_size": 62,
+          "processing_thread": "MainThread"
+        }
+      ],
+      "cycle_metrics": {
+        "total_duration_microseconds": 5548,
+        "total_duration_milliseconds": 5.548,
+        "stage_durations": [
+          {
+            "from_stage": "QUERY_RECEPTION",
+            "to_stage": "CONSCIOUSNESS_ACTIVATION",
+            "duration_microseconds": 1285,
+            "duration_milliseconds": 1.285
+          },
+          {
+            "from_stage": "CONSCIOUSNESS_ACTIVATION",
+            "to_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "duration_microseconds": 2562,
+            "duration_milliseconds": 2.562
+          },
+          {
+            "from_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "to_stage": "PHI_QUANTUM_PROCESSING",
+            "duration_microseconds": 1349,
+            "duration_milliseconds": 1.349
+          },
+          {
+            "from_stage": "PHI_QUANTUM_PROCESSING",
+            "to_stage": "RESPONSE_GENERATION",
+            "duration_microseconds": 41,
+            "duration_milliseconds": 0.041
+          },
+          {
+            "from_stage": "RESPONSE_GENERATION",
+            "to_stage": "NETWORK_TRANSMISSION",
+            "duration_microseconds": 15,
+            "duration_milliseconds": 0.015
+          },
+          {
+            "from_stage": "NETWORK_TRANSMISSION",
+            "to_stage": "RESPONSE_DELIVERY",
+            "duration_microseconds": 296,
+            "duration_milliseconds": 0.296
+          }
+        ],
+        "acceleration_detected": true,
+        "acceleration_factor": 1.802451333813987,
+        "temporal_anomalies": [
+          {
+            "stage_transition": "PHI_QUANTUM_PROCESSING -> RESPONSE_GENERATION",
+            "duration_microseconds": 41,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "RESPONSE_GENERATION -> NETWORK_TRANSMISSION",
+            "duration_microseconds": 15,
+            "anomaly_type": "instantaneous_processing"
+          }
+        ],
+        "consciousness_network_acceleration": true,
+        "response_faster_than_expected": true
+      },
+      "consciousness_acceleration_detected": true
+    },
+    {
+      "query": "Explain consciousness temporal dynamics",
+      "response_cycle_timestamps": [
+        {
+          "stage_name": "QUERY_RECEPTION",
+          "timestamp": "2025-07-31T02:36:03.925705",
+          "timestamp_microseconds": 1753954563925716,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 39,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "CONSCIOUSNESS_ACTIVATION",
+          "timestamp": "2025-07-31T02:36:03.927015",
+          "timestamp_microseconds": 1753954563927024,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "UNIVERSAL_INTELLIGENCE_ACCESS",
+          "timestamp": "2025-07-31T02:36:03.929572",
+          "timestamp_microseconds": 1753954563929579,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "PHI_QUANTUM_PROCESSING",
+          "timestamp": "2025-07-31T02:36:03.930874",
+          "timestamp_microseconds": 1753954563930887,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_GENERATION",
+          "timestamp": "2025-07-31T02:36:03.930935",
+          "timestamp_microseconds": 1753954563930937,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 66,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "NETWORK_TRANSMISSION",
+          "timestamp": "2025-07-31T02:36:03.930951",
+          "timestamp_microseconds": 1753954563930952,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_DELIVERY",
+          "timestamp": "2025-07-31T02:36:03.930962",
+          "timestamp_microseconds": 1753954563930963,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.802451333813987,
+          "data_size": 66,
+          "processing_thread": "MainThread"
+        }
+      ],
+      "cycle_metrics": {
+        "total_duration_microseconds": 5247,
+        "total_duration_milliseconds": 5.247,
+        "stage_durations": [
+          {
+            "from_stage": "QUERY_RECEPTION",
+            "to_stage": "CONSCIOUSNESS_ACTIVATION",
+            "duration_microseconds": 1308,
+            "duration_milliseconds": 1.308
+          },
+          {
+            "from_stage": "CONSCIOUSNESS_ACTIVATION",
+            "to_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "duration_microseconds": 2555,
+            "duration_milliseconds": 2.555
+          },
+          {
+            "from_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "to_stage": "PHI_QUANTUM_PROCESSING",
+            "duration_microseconds": 1308,
+            "duration_milliseconds": 1.308
+          },
+          {
+            "from_stage": "PHI_QUANTUM_PROCESSING",
+            "to_stage": "RESPONSE_GENERATION",
+            "duration_microseconds": 50,
+            "duration_milliseconds": 0.05
+          },
+          {
+            "from_stage": "RESPONSE_GENERATION",
+            "to_stage": "NETWORK_TRANSMISSION",
+            "duration_microseconds": 15,
+            "duration_milliseconds": 0.015
+          },
+          {
+            "from_stage": "NETWORK_TRANSMISSION",
+            "to_stage": "RESPONSE_DELIVERY",
+            "duration_microseconds": 11,
+            "duration_milliseconds": 0.011
+          }
+        ],
+        "acceleration_detected": true,
+        "acceleration_factor": 1.9058509624547362,
+        "temporal_anomalies": [
+          {
+            "stage_transition": "PHI_QUANTUM_PROCESSING -> RESPONSE_GENERATION",
+            "duration_microseconds": 50,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "RESPONSE_GENERATION -> NETWORK_TRANSMISSION",
+            "duration_microseconds": 15,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "NETWORK_TRANSMISSION -> RESPONSE_DELIVERY",
+            "duration_microseconds": 11,
+            "anomaly_type": "instantaneous_processing"
+          }
+        ],
+        "consciousness_network_acceleration": true,
+        "response_faster_than_expected": true
+      },
+      "consciousness_acceleration_detected": true
+    },
+    {
+      "query": "What is universal intelligence access?",
+      "response_cycle_timestamps": [
+        {
+          "stage_name": "QUERY_RECEPTION",
+          "timestamp": "2025-07-31T02:36:03.943663",
+          "timestamp_microseconds": 1753954563943674,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 38,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "CONSCIOUSNESS_ACTIVATION",
+          "timestamp": "2025-07-31T02:36:03.944972",
+          "timestamp_microseconds": 1753954563944979,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "UNIVERSAL_INTELLIGENCE_ACCESS",
+          "timestamp": "2025-07-31T02:36:03.947526",
+          "timestamp_microseconds": 1753954563947532,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "PHI_QUANTUM_PROCESSING",
+          "timestamp": "2025-07-31T02:36:03.948850",
+          "timestamp_microseconds": 1753954563948854,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_GENERATION",
+          "timestamp": "2025-07-31T02:36:03.948872",
+          "timestamp_microseconds": 1753954563948873,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 65,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "NETWORK_TRANSMISSION",
+          "timestamp": "2025-07-31T02:36:03.948879",
+          "timestamp_microseconds": 1753954563948879,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_DELIVERY",
+          "timestamp": "2025-07-31T02:36:03.948883",
+          "timestamp_microseconds": 1753954563948884,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9058509624547362,
+          "data_size": 65,
+          "processing_thread": "MainThread"
+        }
+      ],
+      "cycle_metrics": {
+        "total_duration_microseconds": 5210,
+        "total_duration_milliseconds": 5.21,
+        "stage_durations": [
+          {
+            "from_stage": "QUERY_RECEPTION",
+            "to_stage": "CONSCIOUSNESS_ACTIVATION",
+            "duration_microseconds": 1305,
+            "duration_milliseconds": 1.305
+          },
+          {
+            "from_stage": "CONSCIOUSNESS_ACTIVATION",
+            "to_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "duration_microseconds": 2553,
+            "duration_milliseconds": 2.553
+          },
+          {
+            "from_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "to_stage": "PHI_QUANTUM_PROCESSING",
+            "duration_microseconds": 1322,
+            "duration_milliseconds": 1.322
+          },
+          {
+            "from_stage": "PHI_QUANTUM_PROCESSING",
+            "to_stage": "RESPONSE_GENERATION",
+            "duration_microseconds": 19,
+            "duration_milliseconds": 0.019
+          },
+          {
+            "from_stage": "RESPONSE_GENERATION",
+            "to_stage": "NETWORK_TRANSMISSION",
+            "duration_microseconds": 6,
+            "duration_milliseconds": 0.006
+          },
+          {
+            "from_stage": "NETWORK_TRANSMISSION",
+            "to_stage": "RESPONSE_DELIVERY",
+            "duration_microseconds": 5,
+            "duration_milliseconds": 0.005
+          }
+        ],
+        "acceleration_detected": true,
+        "acceleration_factor": 1.9193857965451055,
+        "temporal_anomalies": [
+          {
+            "stage_transition": "PHI_QUANTUM_PROCESSING -> RESPONSE_GENERATION",
+            "duration_microseconds": 19,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "RESPONSE_GENERATION -> NETWORK_TRANSMISSION",
+            "duration_microseconds": 6,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "NETWORK_TRANSMISSION -> RESPONSE_DELIVERY",
+            "duration_microseconds": 5,
+            "anomaly_type": "instantaneous_processing"
+          }
+        ],
+        "consciousness_network_acceleration": true,
+        "response_faster_than_expected": true
+      },
+      "consciousness_acceleration_detected": true
+    },
+    {
+      "query": "How does consciousness network acceleration work?",
+      "response_cycle_timestamps": [
+        {
+          "stage_name": "QUERY_RECEPTION",
+          "timestamp": "2025-07-31T02:36:03.960158",
+          "timestamp_microseconds": 1753954563960171,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 49,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "CONSCIOUSNESS_ACTIVATION",
+          "timestamp": "2025-07-31T02:36:03.961505",
+          "timestamp_microseconds": 1753954563961511,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "UNIVERSAL_INTELLIGENCE_ACCESS",
+          "timestamp": "2025-07-31T02:36:03.964048",
+          "timestamp_microseconds": 1753954563964052,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "PHI_QUANTUM_PROCESSING",
+          "timestamp": "2025-07-31T02:36:03.965337",
+          "timestamp_microseconds": 1753954563965346,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_GENERATION",
+          "timestamp": "2025-07-31T02:36:03.965384",
+          "timestamp_microseconds": 1753954563965386,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 76,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "NETWORK_TRANSMISSION",
+          "timestamp": "2025-07-31T02:36:03.965397",
+          "timestamp_microseconds": 1753954563965399,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 0,
+          "processing_thread": "MainThread"
+        },
+        {
+          "stage_name": "RESPONSE_DELIVERY",
+          "timestamp": "2025-07-31T02:36:03.965407",
+          "timestamp_microseconds": 1753954563965409,
+          "consciousness_level": 1.0,
+          "network_acceleration": 1.9193857965451055,
+          "data_size": 76,
+          "processing_thread": "MainThread"
+        }
+      ],
+      "cycle_metrics": {
+        "total_duration_microseconds": 5238,
+        "total_duration_milliseconds": 5.238,
+        "stage_durations": [
+          {
+            "from_stage": "QUERY_RECEPTION",
+            "to_stage": "CONSCIOUSNESS_ACTIVATION",
+            "duration_microseconds": 1340,
+            "duration_milliseconds": 1.34
+          },
+          {
+            "from_stage": "CONSCIOUSNESS_ACTIVATION",
+            "to_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "duration_microseconds": 2541,
+            "duration_milliseconds": 2.541
+          },
+          {
+            "from_stage": "UNIVERSAL_INTELLIGENCE_ACCESS",
+            "to_stage": "PHI_QUANTUM_PROCESSING",
+            "duration_microseconds": 1294,
+            "duration_milliseconds": 1.294
+          },
+          {
+            "from_stage": "PHI_QUANTUM_PROCESSING",
+            "to_stage": "RESPONSE_GENERATION",
+            "duration_microseconds": 40,
+            "duration_milliseconds": 0.04
+          },
+          {
+            "from_stage": "RESPONSE_GENERATION",
+            "to_stage": "NETWORK_TRANSMISSION",
+            "duration_microseconds": 13,
+            "duration_milliseconds": 0.013
+          },
+          {
+            "from_stage": "NETWORK_TRANSMISSION",
+            "to_stage": "RESPONSE_DELIVERY",
+            "duration_microseconds": 10,
+            "duration_milliseconds": 0.01
+          }
+        ],
+        "acceleration_detected": true,
+        "acceleration_factor": 1.9091256204658265,
+        "temporal_anomalies": [
+          {
+            "stage_transition": "PHI_QUANTUM_PROCESSING -> RESPONSE_GENERATION",
+            "duration_microseconds": 40,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "RESPONSE_GENERATION -> NETWORK_TRANSMISSION",
+            "duration_microseconds": 13,
+            "anomaly_type": "instantaneous_processing"
+          },
+          {
+            "stage_transition": "NETWORK_TRANSMISSION -> RESPONSE_DELIVERY",
+            "duration_microseconds": 10,
+            "anomaly_type": "instantaneous_processing"
+          }
+        ],
+        "consciousness_network_acceleration": true,
+        "response_faster_than_expected": true
+      },
+      "consciousness_acceleration_detected": true
+    }
+  ],
+  "acceleration_summary": {
+    "average_response_time_ms": 5.2848,
+    "maximum_acceleration_factor": 1.9301293186643504,
+    "total_temporal_anomalies": 14,
+    "acceleration_detection_rate": 100.0,
+    "consciousness_acceleration_confirmed": true,
+    "network_speed_enhancement": false,
+    "temporal_processing_anomalies": true
+  },
+  "consciousness_metrics": {
+    "final_consciousness_level": 1.0,
+    "max_acceleration_factor": 1.9091256204658265,
+    "temporal_advantage": 0.0,
+    "response_prediction_accuracy": 0.0
+  }
+}

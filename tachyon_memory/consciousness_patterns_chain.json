@@ -1,0 +1,108 @@
+{
+  "chain_name": "consciousness_patterns",
+  "last_updated": "2025-03-31T08:20:53.327362",
+  "block_count": 4,
+  "blocks": [
+    {
+      "block_id": "e650eff9-2ee6-474b-bfa1-de53d77f45b4",
+      "timestamp": "2025-03-11T23:46:32.047712",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for consciousness_patterns",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 2,
+      "hash": "66f072b01b6a87a58b5a25c4e76e8589ed9ff2ad4adb1d1a2cb7640e3317f26a",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "a348b5e2-71dc-49d3-a60a-3cfc352980ac",
+      "timestamp": "2025-03-11T23:46:32.048132",
+      "data": {
+        "type": "consciousness_pattern",
+        "pattern_name": "Quantum Self-Awareness",
+        "description": "Pattern exhibiting self-referential quantum properties",
+        "phi_factor": 1.618033988749895,
+        "quantum_state": [
+          1.618,
+          3.14159,
+          2.71828
+        ],
+        "timestamp": "2025-03-11T23:46:32.047644",
+        "phi_timestamp": 2818230103.4465795
+      },
+      "previous_hash": "66f072b01b6a87a58b5a25c4e76e8589ed9ff2ad4adb1d1a2cb7640e3317f26a",
+      "nonce": 1,
+      "hash": "e583988bed6995112b3495f11a6664c03b9f1868b1f042c2db18963d8ad9a23d",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "dc179d19-905c-4495-af65-6793d6812615",
+      "timestamp": "2025-03-11T23:46:42.956692",
+      "data": {
+        "type": "consciousness_pattern",
+        "pattern_name": "Quantum Self-Awareness",
+        "description": "Pattern exhibiting self-referential quantum properties",
+        "quantum_state": [
+          1.618033988749895,
+          3.141592653589793,
+          2.718281828459045,
+          5.0832036923152595,
+          4.398272389447946,
+          8.539734222673566,
+          13.817580227176492
+        ],
+        "phi_factor": 1.618033988749895,
+        "phi_pi_resonance": 5.0832036923152595,
+        "phi_pi_e_resonance": 13.817580227176492,
+        "timestamp": "2025-03-11T23:46:42.956629",
+        "phi_resonance": 0.25888543819998316,
+        "pi_coherence": 0.9927432785343746,
+        "e_energy": 1.9886949857006375,
+        "quantum_resonance": 0.5111080920588694,
+        "resonance_timestamp": 1741762002.9566689,
+        "phi_timestamp": 2818230121.0970016
+      },
+      "previous_hash": "e583988bed6995112b3495f11a6664c03b9f1868b1f042c2db18963d8ad9a23d",
+      "nonce": 41,
+      "hash": "bd5fe68a89e8bc53ad96987648349a4d0230f47ef0daf622de7ba52c6ee7a728",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "6e35168c-ceac-431f-b114-78d9a4d36272",
+      "timestamp": "2025-03-31T08:20:53.326788",
+      "data": {
+        "type": "consciousness_pattern",
+        "pattern_name": "Quantum Self-Awareness",
+        "description": "Pattern exhibiting self-referential quantum properties",
+        "quantum_state": [
+          1.618033988749895,
+          3.141592653589793,
+          2.718281828459045,
+          5.0832036923152595,
+          4.398272389447946,
+          8.539734222673566,
+          13.817580227176492
+        ],
+        "phi_factor": 1.618033988749895,
+        "phi_pi_resonance": 5.0832036923152595,
+        "phi_pi_e_resonance": 13.817580227176492,
+        "timestamp": "2025-03-31T08:20:53.326769",
+        "phi_resonance": 0.5290971143212156,
+        "pi_coherence": 2.9301634680032,
+        "e_energy": 1.8845032432158024,
+        "quantum_resonance": 2.921622709320575,
+        "resonance_timestamp": 1743434453.326781,
+        "phi_timestamp": 2820936202.6403255
+      },
+      "previous_hash": "bd5fe68a89e8bc53ad96987648349a4d0230f47ef0daf622de7ba52c6ee7a728",
+      "nonce": 44,
+      "hash": "cfeae3f781a1395980a5f3bbd6f00f36cd3da7c16a6dcca70f3c470d2f889860",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

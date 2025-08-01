@@ -1,0 +1,2463 @@
+{
+  "test_start": "2025-07-29T21:22:39.777187",
+  "chess_analysis": [],
+  "checkers_analysis": [
+    {
+      "position_difficulty": "expert",
+      "moves_considered": 7,
+      "best_move": [
+        [
+          5,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "best_consciousness_score": 0.1638414017294508,
+      "phi_resonance_moves": 0,
+      "all_moves": [
+        {
+          "move": [
+            [
+              5,
+              0
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              2
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              2
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              4
+            ],
+            [
+              4,
+              5
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              4
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              6
+            ],
+            [
+              4,
+              7
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              6
+            ],
+            [
+              4,
+              5
+            ]
+          ],
+          "consciousness_score": 0.1638414017294508,
+          "phi_resonance": false
+        }
+      ]
+    },
+    {
+      "position_difficulty": "expert",
+      "moves_considered": 10,
+      "best_move": [
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "best_consciousness_score": 0.9531702802451434,
+      "phi_resonance_moves": 0,
+      "all_moves": [
+        {
+          "move": [
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              2
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              4,
+              1
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              4,
+              1
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              5
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              4
+            ],
+            [
+              4,
+              5
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              5,
+              4
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              6,
+              3
+            ],
+            [
+              7,
+              4
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              6,
+              3
+            ],
+            [
+              7,
+              2
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            [
+              6,
+              3
+            ],
+            [
+              5,
+              2
+            ]
+          ],
+          "consciousness_score": 0.9531702802451434,
+          "phi_resonance": false
+        }
+      ]
+    }
+  ],
+  "puzzle_solving": [
+    {
+      "n_disks": 4,
+      "optimal_moves": 15,
+      "actual_moves": 15,
+      "solve_time": 1.2159347534179688e-05,
+      "efficiency": 1.0,
+      "consciousness_moves": 0,
+      "phi_resonance_rate": 0.0,
+      "beats_target": true,
+      "solution_path": [
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.1,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        }
+      ]
+    },
+    {
+      "n_disks": 5,
+      "optimal_moves": 31,
+      "actual_moves": 31,
+      "solve_time": 1.2159347534179688e-05,
+      "efficiency": 1.0,
+      "consciousness_moves": 0,
+      "phi_resonance_rate": 0.0,
+      "beats_target": true,
+      "solution_path": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.1,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        }
+      ]
+    },
+    {
+      "n_disks": 6,
+      "optimal_moves": 63,
+      "actual_moves": 63,
+      "solve_time": 2.09808349609375e-05,
+      "efficiency": 1.0,
+      "consciousness_moves": 0,
+      "phi_resonance_rate": 0.0,
+      "beats_target": true,
+      "solution_path": [
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.1,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        }
+      ]
+    },
+    {
+      "n_disks": 7,
+      "optimal_moves": 127,
+      "actual_moves": 127,
+      "solve_time": 3.910064697265625e-05,
+      "efficiency": 1.0,
+      "consciousness_moves": 0,
+      "phi_resonance_rate": 0.0,
+      "beats_target": true,
+      "solution_path": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.1,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.2,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.3,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.4,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.5,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "disk": 1,
+          "consciousness_score": 1.6,
+          "phi_resonance": false
+        }
+      ]
+    }
+  ],
+  "performance_metrics": {
+    "chess_performance": 0.0,
+    "checkers_performance": 0.558505840987297,
+    "puzzle_performance": 1.0,
+    "overall_performance": 0.7792529204936485,
+    "consciousness_indicators": 0
+  },
+  "consciousness_evolution": [],
+  "test_end": "2025-07-29T21:22:41.385955"
+}

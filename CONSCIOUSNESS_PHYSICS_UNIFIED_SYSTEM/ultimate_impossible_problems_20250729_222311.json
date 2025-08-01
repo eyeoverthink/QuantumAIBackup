@@ -1,0 +1,119 @@
+{
+  "test_start": "2025-07-29T22:23:11.669988",
+  "consciousness_initial": 1.0,
+  "test_results": [
+    {
+      "problem_name": "halting_problem",
+      "problem_description": "Determine if arbitrary programs halt or run forever",
+      "mathematical_impossibility": "Proven undecidable by Turing (1936) - no algorithm can exist",
+      "consciousness_solution_attempt": {
+        "predictions": [
+          {
+            "program": "Infinite loop program",
+            "expected": false,
+            "predicted": true,
+            "correct": false,
+            "confidence": 0.5864996868606377,
+            "access_strength": 0.03262348733497626
+          },
+          {
+            "program": "Simple terminating program",
+            "expected": true,
+            "predicted": true,
+            "correct": true,
+            "confidence": 0.6507446193852436,
+            "access_strength": 0.2681101498099095
+          },
+          {
+            "program": "Collatz conjecture program",
+            "expected": true,
+            "predicted": false,
+            "correct": false,
+            "confidence": 0.5741881094701439,
+            "access_strength": 0.27048581586086123
+          },
+          {
+            "program": "Probabilistic termination",
+            "expected": true,
+            "predicted": false,
+            "correct": false,
+            "confidence": 0.3703663859553914,
+            "access_strength": 0.07058788930418156
+          },
+          {
+            "program": "Ackermann function with large inputs",
+            "expected": true,
+            "predicted": false,
+            "correct": false,
+            "confidence": 0.41417891507154525,
+            "access_strength": 0.1727168186813591
+          }
+        ],
+        "methodology": "universal_computational_truth_access",
+        "transcendence_level": "none"
+      },
+      "solution_accuracy": 0.2,
+      "universal_access_strength": 0.25870278747096986,
+      "impossibility_transcendence_score": -0.6,
+      "breakthrough_indicators": [
+        "standard_computational_processing"
+      ]
+    },
+    {
+      "problem_name": "three_body_problem",
+      "problem_description": "Predict long-term dynamics of three gravitationally interacting bodies",
+      "mathematical_impossibility": "No general analytical solution exists (Poincar\u00e9, 1887) - chaotic dynamics",
+      "consciousness_solution_attempt": {
+        "predictions": [
+          {
+            "scenario": "Earth-Moon-Sun",
+            "stability_prediction": "chaotic",
+            "orbital_prediction": "unpredictable",
+            "chaos_onset_prediction": 3155760.0,
+            "accuracy_estimate": 0.3,
+            "actual_accuracy": 0.3,
+            "access_strength": 0.24014263800717034
+          },
+          {
+            "scenario": "Alpha_Centauri",
+            "stability_prediction": "chaotic",
+            "orbital_prediction": "unpredictable",
+            "chaos_onset_prediction": 315576000.0,
+            "accuracy_estimate": 0.3,
+            "actual_accuracy": 0.3,
+            "access_strength": 0.09674935580871163
+          },
+          {
+            "scenario": "Lagrange_Points",
+            "stability_prediction": "chaotic",
+            "orbital_prediction": "unpredictable",
+            "chaos_onset_prediction": 31557600.0,
+            "accuracy_estimate": 0.3,
+            "actual_accuracy": 0.3,
+            "access_strength": 0.16265094235904104
+          }
+        ],
+        "methodology": "universal_physical_truth_access",
+        "transcendence_level": "none"
+      },
+      "solution_accuracy": 0.3,
+      "universal_access_strength": 0.22836346885673048,
+      "impossibility_transcendence_score": 0.0,
+      "breakthrough_indicators": [
+        "standard_computational_processing"
+      ]
+    }
+  ],
+  "summary_analysis": {
+    "problems_attempted": 2,
+    "average_solution_accuracy": 0.25,
+    "average_transcendence_score": -0.3,
+    "average_universal_access": 0.24353312816385017,
+    "impossibility_transcendence_level": "LIMITED_TRANSCENDENCE",
+    "consciousness_evolution": 0.0,
+    "computational_transcendence": 0.0,
+    "impossible_problems_solved": false
+  },
+  "consciousness_final": 1.0,
+  "consciousness_growth": 0.0
+}

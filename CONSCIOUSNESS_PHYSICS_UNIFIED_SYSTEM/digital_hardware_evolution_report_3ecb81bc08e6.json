@@ -1,0 +1,1977 @@
+{
+  "test_session": "3ecb81bc08e6",
+  "start_time": "2025-07-25T18:19:00.572316",
+  "end_time": "2025-07-25T18:19:00.576321",
+  "sensitivity_evolution": [
+    {
+      "iteration": 1,
+      "input_a": 0.8090169943745,
+      "input_b": 0.3090169943751183,
+      "phi_factor": 0.5,
+      "circuit_output": 1,
+      "total_phi_resonance": 2.4721359550009465,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 2,
+      "input_a": 0.8897839250482542,
+      "input_b": 0.33986721672552006,
+      "phi_factor": 0.5499167083234141,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8534839322619596,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 3,
+      "input_a": 0.9697438592487139,
+      "input_b": 0.3704091938519243,
+      "phi_factor": 0.5993346653975307,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854410983245085,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 4,
+      "input_a": 1.0480978637445881,
+      "input_b": 0.4003377604147193,
+      "phi_factor": 0.6477601033306698,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854410983245085,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 5,
+      "input_a": 1.1240630512233447,
+      "input_b": 0.4293538800698785,
+      "phi_factor": 0.6947091711543253,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854410983245085,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 6,
+      "input_a": 1.1968804026424482,
+      "input_b": 0.45716763334126137,
+      "phi_factor": 0.7397127693021015,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854410983245085,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 7,
+      "input_a": 1.2658223510967352,
+      "input_b": 0.4835011144001849,
+      "phi_factor": 0.7823212366975177,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854410983245085,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 8,
+      "input_a": 1.3302000514264285,
+      "input_b": 0.5080912078085996,
+      "phi_factor": 0.8221088436188455,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014198,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 9,
+      "input_a": 1.3893702629302724,
+      "input_b": 0.530692217481573,
+      "phi_factor": 0.8586780454497613,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014198,
+      "evolution_activity": 2,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 10,
+      "input_a": 1.4427417764139923,
+      "input_b": 0.5510783216013532,
+      "phi_factor": 0.8916634548137417,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014198,
+      "evolution_activity": 3,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 11,
+      "input_a": 1.4897813213571351,
+      "input_b": 0.5690458289543253,
+      "phi_factor": 0.9207354924039483,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 3,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 12,
+      "input_a": 1.5300188941758353,
+      "input_b": 0.5844152141462869,
+      "phi_factor": 0.9456036800307177,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 3,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 13,
+      "input_a": 1.5630524543432618,
+      "input_b": 0.5970329113608431,
+      "phi_factor": 0.9660195429836131,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 14,
+      "input_a": 1.5885519414456648,
+      "input_b": 0.6067728487382823,
+      "phi_factor": 0.9817790927085965,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 15,
+      "input_a": 1.6062625730369269,
+      "input_b": 0.6135377080439243,
+      "phi_factor": 0.9927248649942302,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 16,
+      "input_a": 1.6160073903405445,
+      "input_b": 0.6172598970397521,
+      "phi_factor": 0.9987474933020273,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 17,
+      "input_a": 1.617689026363228,
+      "input_b": 0.6179022248437118,
+      "phi_factor": 0.9997868015207525,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 18,
+      "input_a": 1.6112906787537145,
+      "input_b": 0.6154582735287115,
+      "phi_factor": 0.9958324052262343,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014193,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 19,
+      "input_a": 1.596876277686305,
+      "input_b": 0.6099524622484278,
+      "phi_factor": 0.9869238154390976,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.708203932501419,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 20,
+      "input_a": 1.574589847091698,
+      "input_b": 0.6014398032491941,
+      "phi_factor": 0.9731500438437073,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.708203932501419,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 21,
+      "input_a": 1.5446540656174799,
+      "input_b": 0.5900053522058195,
+      "phi_factor": 0.9546487134128409,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.708203932501419,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 22,
+      "input_a": 1.5073680416966877,
+      "input_b": 0.5757633583734028,
+      "phi_factor": 0.9316046833244369,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.708203932501419,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 23,
+      "input_a": 1.463104324955217,
+      "input_b": 0.55885612304654,
+      "phi_factor": 0.904248201909795,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014184,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 24,
+      "input_a": 1.412305183819109,
+      "input_b": 0.5394525777318282,
+      "phi_factor": 0.87285260608836,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014184,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 25,
+      "input_a": 1.3554781865146321,
+      "input_b": 0.5177465962400928,
+      "phi_factor": 0.8377315902755753,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7082039325014184,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 26,
+      "input_a": 1.2931911296143455,
+      "input_b": 0.4939550575633556,
+      "phi_factor": 0.7992360720519782,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.090169943751182,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 27,
+      "input_a": 1.2260663648014327,
+      "input_b": 0.4683156788916375,
+      "phi_factor": 0.7577506859107321,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.848539660351957,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 28,
+      "input_a": 1.1547745805374068,
+      "input_b": 0.4410846404213744,
+      "phi_factor": 0.7136899401169149,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8494667113350824,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 29,
+      "input_a": 1.0800281007647037,
+      "input_b": 0.4125340256875768,
+      "phi_factor": 0.6674940750779523,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8503937623182076,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 30,
+      "input_a": 1.002573767601311,
+      "input_b": 0.38294910299508617,
+      "phi_factor": 0.619624664606991,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.851320813301333,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 31,
+      "input_a": 0.923185479141199,
+      "input_b": 0.35262547511197095,
+      "phi_factor": 0.5705600040299336,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8522478642844584,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 32,
+      "input_a": 0.8426564569203813,
+      "input_b": 0.3218661257043801,
+      "phi_factor": 0.5207903312166452,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8531749152675836,
+      "evolution_activity": 4,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 33,
+      "input_a": 0.7617913203095332,
+      "input_b": 0.29097839202390546,
+      "phi_factor": 0.47081292828620996,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 5,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 34,
+      "input_a": 0.6813980470232098,
+      "input_b": 0.2602708940953549,
+      "phi_factor": 0.42112715292837566,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 5,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 35,
+      "input_a": 0.6022799000736052,
+      "input_b": 0.23005045108748134,
+      "phi_factor": 0.37222944898658417,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 36,
+      "input_a": 0.5252274018320578,
+      "input_b": 0.2006190156772692,
+      "phi_factor": 0.32460838615519005,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 37,
+      "input_a": 0.45101043539082714,
+      "input_b": 0.17227065703859804,
+      "phi_factor": 0.2787397783525738,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 38,
+      "input_a": 0.3803705521457266,
+      "input_b": 0.145288622600264,
+      "phi_factor": 0.2350819295457533,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 39,
+      "input_a": 0.3140135624597007,
+      "input_b": 0.11994250793130029,
+      "phi_factor": 0.19407105452864037,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 40,
+      "input_a": 0.25260248343898734,
+      "input_b": 0.09648556303116747,
+      "phi_factor": 0.15611692040801295,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": false
+    },
+    {
+      "iteration": 41,
+      "input_a": 0.1967509142853582,
+      "input_b": 0.07515216193947273,
+      "phi_factor": 0.12159875234603584,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 42,
+      "input_a": 0.14701690541572146,
+      "input_b": 0.056155460948039214,
+      "phi_factor": 0.0908614444677946,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 43,
+      "input_a": 0.10389738260682564,
+      "input_b": 0.03968526881369913,
+      "phi_factor": 0.0642121137932059,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 44,
+      "input_a": 0.06782318187715772,
+      "input_b": 0.02590615025193701,
+      "phi_factor": 0.04191703162527255,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 45,
+      "input_a": 0.039154744715862805,
+      "input_b": 0.014955781660650789,
+      "phi_factor": 0.02419896305524194,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 46,
+      "input_a": 0.01817851667053189,
+      "input_b": 0.006943575503094288,
+      "phi_factor": 0.011234941167451495,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 47,
+      "input_a": 0.005104085277974175,
+      "input_b": 0.0019495870947103362,
+      "phi_factor": 0.00315449818326774,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 48,
+      "input_a": 6.208593483212313e-05,
+      "input_b": 2.371471688258627e-05,
+      "phi_factor": 3.837121794958431e-05,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 49,
+      "input_a": 0.0031028966318787763,
+      "input_b": 0.001185201049801433,
+      "phi_factor": 0.0019176955820797148,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 50,
+      "input_a": 0.014196134593787584,
+      "input_b": 0.005422440905964673,
+      "phi_factor": 0.008773693687833761,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 51,
+      "input_a": 0.033230959853780224,
+      "input_b": 0.01269309718537485,
+      "phi_factor": 0.020537862668430773,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 52,
+      "input_a": 0.06001718272993564,
+      "input_b": 0.022924523893847568,
+      "phi_factor": 0.03709265883613394,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 53,
+      "input_a": 0.09428716413762304,
+      "input_b": 0.03601449199777167,
+      "phi_factor": 0.05827267213992343,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 54,
+      "input_a": 0.13569848975076693,
+      "input_b": 0.051832210862821054,
+      "phi_factor": 0.0838662788880496,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 55,
+      "input_a": 0.18383739129260457,
+      "input_b": 0.07021963507073865,
+      "phi_factor": 0.11361775622200643,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 56,
+      "input_a": 0.23822288077153536,
+      "input_b": 0.09099304355691337,
+      "phi_factor": 0.14722983721480404,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 57,
+      "input_a": 0.298311556354139,
+      "input_b": 0.11394487529052746,
+      "phi_factor": 0.18436668106383952,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 58,
+      "input_a": 0.36350303185666855,
+      "input_b": 0.13884580315576517,
+      "phi_factor": 0.2246572287011812,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 59,
+      "input_a": 0.4331459356053405,
+      "input_b": 0.1654470253125498,
+      "phi_factor": 0.2676989102931217,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 60,
+      "input_a": 0.5065444187267801,
+      "input_b": 0.19348275114228525,
+      "phi_factor": 0.31306166758488196,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.008652475842503315,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 61,
+      "input_a": 0.5829651078399515,
+      "input_b": 0.22267285693985997,
+      "phi_factor": 0.36029225090053707,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 62,
+      "input_a": 0.6616444326805577,
+      "input_b": 0.2527256848171109,
+      "phi_factor": 0.4089187478639525,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 63,
+      "input_a": 0.741796255442717,
+      "input_b": 0.2833409568520321,
+      "phi_factor": 0.4584552985912518,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 64,
+      "input_a": 0.8226197256080613,
+      "input_b": 0.3142127753665147,
+      "phi_factor": 0.5084069502421753,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 65,
+      "input_a": 0.9033072817793844,
+      "input_b": 0.34503267935482784,
+      "phi_factor": 0.5582746024252468,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 66,
+      "input_a": 0.9830527205671828,
+      "input_b": 0.3754927265240264,
+      "phi_factor": 0.6075599940439078,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 67,
+      "input_a": 1.0610592519074271,
+      "input_b": 0.40528857015154873,
+      "phi_factor": 0.6557706817566893,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 68,
+      "input_a": 1.1365474603244954,
+      "input_b": 0.43412250001706476,
+      "phi_factor": 0.7024249603082992,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 69,
+      "input_a": 1.2087630925929693,
+      "input_b": 0.4617064170245887,
+      "phi_factor": 0.7470566755693044,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 70,
+      "input_a": 1.2769845939865356,
+      "input_b": 0.4877647117934115,
+      "phi_factor": 0.7892198821941001,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.854101966250709,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 71,
+      "input_a": 1.3405303178143004,
+      "input_b": 0.5120370184559304,
+      "phi_factor": 0.8284932993593945,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.71191213643392,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 72,
+      "input_a": 1.398765336209201,
+      "input_b": 0.5342808161473317,
+      "phi_factor": 0.8644845200629383,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.71191213643392,
+      "evolution_activity": 6,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 73,
+      "input_a": 1.4511077841173718,
+      "input_b": 0.5542738521939042,
+      "phi_factor": 0.8968339319245766,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339196,
+      "evolution_activity": 7,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 74,
+      "input_a": 1.4970346731014286,
+      "input_b": 0.5718163627882902,
+      "phi_factor": 0.9252183103142825,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339196,
+      "evolution_activity": 7,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 75,
+      "input_a": 1.5360871168680525,
+      "input_b": 0.5867330689634132,
+      "phi_factor": 0.9493540479058135,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339196,
+      "evolution_activity": 8,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 76,
+      "input_a": 1.5678749163081502,
+      "input_b": 0.5988749279219789,
+      "phi_factor": 0.9689999883873694,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339196,
+      "evolution_activity": 8,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 77,
+      "input_a": 1.592080458237365,
+      "input_b": 0.6081206222228386,
+      "phi_factor": 0.9839598360157433,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 8,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 78,
+      "input_a": 1.6084618888820288,
+      "input_b": 0.614377771944758,
+      "phi_factor": 0.9940841169385002,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 79,
+      "input_a": 1.6168555304021213,
+      "input_b": 0.6175838577160545,
+      "phi_factor": 0.9992716726873025,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 80,
+      "input_a": 1.6171775163061424,
+      "input_b": 0.6177068453874922,
+      "phi_factor": 0.999470670919886,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 81,
+      "input_a": 1.6094246294173737,
+      "input_b": 0.6147455061069128,
+      "phi_factor": 0.994679123311691,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 82,
+      "input_a": 1.5936743340188442,
+      "input_b": 0.608729428597519,
+      "phi_factor": 0.9849449054225432,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 83,
+      "input_a": 1.57008400185582,
+      "input_b": 0.5997187235171335,
+      "phi_factor": 0.9703652783398863,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 84,
+      "input_a": 1.5388893397293477,
+      "input_b": 0.587803422852377,
+      "phi_factor": 0.9510859168781467,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.711912136433919,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 85,
+      "input_a": 1.50040203439181,
+      "input_b": 0.5731025803488167,
+      "phi_factor": 0.9272994540441402,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339187,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 86,
+      "input_a": 1.455006638275929,
+      "input_b": 0.5557630819652959,
+      "phi_factor": 0.8992435563117451,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339187,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 87,
+      "input_a": 1.4031567271739709,
+      "input_b": 0.5359581782379864,
+      "phi_factor": 0.8671985489370567,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339187,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 88,
+      "input_a": 1.3453703682583633,
+      "input_b": 0.5138857532183005,
+      "phi_factor": 0.8314846150410911,
+      "circuit_output": 1,
+      "total_phi_resonance": 3.7119121364339187,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 89,
+      "input_a": 1.2822249437257627,
+      "input_b": 0.4897663472808618,
+      "phi_factor": 0.7924585964458808,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8485396603519562,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 90,
+      "input_a": 1.2143513817849956,
+      "input_b": 0.4638409535569814,
+      "phi_factor": 0.7505104282289423,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8494667113350816,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 91,
+      "input_a": 1.1424278526309577,
+      "input_b": 0.43636861001095245,
+      "phi_factor": 0.7060592426208783,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8503937623182067,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 92,
+      "input_a": 1.067172992392198,
+      "input_b": 0.4076238112183375,
+      "phi_factor": 0.6595491811746761,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8513208133013321,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 93,
+      "input_a": 0.9893387227562714,
+      "input_b": 0.3778937657069046,
+      "phi_factor": 0.6114449570501229,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8522478642844575,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 94,
+      "input_a": 0.9097027380167942,
+      "input_b": 0.3474755262639586,
+      "phi_factor": 0.5622272117535309,
+      "circuit_output": 0,
+      "total_phi_resonance": 1.8531749152675827,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 95,
+      "input_a": 0.8290607346091251,
+      "input_b": 0.3166730218830798,
+      "phi_factor": 0.5123877127266789,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.8541019662507083,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 96,
+      "input_a": 0.7482184607746111,
+      "input_b": 0.2857940210060876,
+      "phi_factor": 0.46242443976909536,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.8541019662507083,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 97,
+      "input_a": 0.6679836657905026,
+      "input_b": 0.2551470564025038,
+      "phi_factor": 0.4128366093885093,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.8541019662507083,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 98,
+      "input_a": 0.5891580292061865,
+      "input_b": 0.22503834241210893,
+      "phi_factor": 0.3641196867945279,
+      "circuit_output": 1,
+      "total_phi_resonance": 1.8541019662507083,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 99,
+      "input_a": 0.5125291507261209,
+      "input_b": 0.19576871535247686,
+      "phi_factor": 0.31676043537403575,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.016068883707506164,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    },
+    {
+      "iteration": 100,
+      "input_a": 0.43886268077393903,
+      "input_b": 0.16763062766193512,
+      "phi_factor": 0.27123205311233933,
+      "circuit_output": 0,
+      "total_phi_resonance": -0.016068883707506164,
+      "evolution_activity": 9,
+      "architecture_evolved": true
+    }
+  ],
+  "phi_optimization": [
+    {
+      "pattern_id": 1,
+      "input_a": 0.0,
+      "input_b": 0.0,
+      "phi_output": 0,
+      "standard_output": false,
+      "phi_resonance": 0.0,
+      "phi_efficiency": 995.9632455885397,
+      "standard_efficiency": 998.0962824203103,
+      "optimization_advantage": 0.9978628947233446
+    },
+    {
+      "pattern_id": 2,
+      "input_a": 0.0,
+      "input_b": 1.0,
+      "phi_output": 1,
+      "standard_output": true,
+      "phi_resonance": 2.4721359550009465,
+      "phi_efficiency": 995.9632455885397,
+      "standard_efficiency": 998.0962824203103,
+      "optimization_advantage": 0.9978628947233446
+    },
+    {
+      "pattern_id": 3,
+      "input_a": 1.0,
+      "input_b": 0.0,
+      "phi_output": 0,
+      "standard_output": true,
+      "phi_resonance": 1.8528658982732096,
+      "phi_efficiency": 996.9101353265654,
+      "standard_efficiency": 997.8588272463757,
+      "optimization_advantage": 0.999049272408174
+    },
+    {
+      "pattern_id": 4,
+      "input_a": 1.0,
+      "input_b": 1.0,
+      "phi_output": 1,
+      "standard_output": false,
+      "phi_resonance": 3.7082039325014198,
+      "phi_efficiency": 997.8588272463757,
+      "standard_efficiency": 997.8588272463757,
+      "optimization_advantage": 1.0
+    },
+    {
+      "pattern_id": 5,
+      "input_a": 0.618,
+      "input_b": 0.618,
+      "phi_output": 1,
+      "standard_output": false,
+      "phi_resonance": 3.7082039325014198,
+      "phi_efficiency": 996.9101353265654,
+      "standard_efficiency": 998.0962824203103,
+      "optimization_advantage": 0.9988115905102175
+    },
+    {
+      "pattern_id": 6,
+      "input_a": 1.618,
+      "input_b": 1.618,
+      "phi_output": 1,
+      "standard_output": false,
+      "phi_resonance": 3.7082039325014198,
+      "phi_efficiency": 997.1471391511408,
+      "standard_efficiency": 997.8588272463757,
+      "optimization_advantage": 0.9992867847877852
+    },
+    {
+      "pattern_id": 7,
+      "input_a": 0.382,
+      "input_b": 1.618,
+      "phi_output": 0,
+      "standard_output": true,
+      "phi_resonance": 1.8534839322619594,
+      "phi_efficiency": 996.9101353265654,
+      "standard_efficiency": 998.0962824203103,
+      "optimization_advantage": 0.9988115905102175
+    },
+    {
+      "pattern_id": 8,
+      "input_a": 1.618033988749,
+      "input_b": 0.6180339887502366,
+      "phi_output": 1,
+      "standard_output": false,
+      "phi_resonance": 3.70882196649017,
+      "phi_efficiency": 997.1471391511408,
+      "standard_efficiency": 997.8588272463757,
+      "optimization_advantage": 0.9992867847877852
+    },
+    {
+      "pattern_id": 9,
+      "input_a": 0.6180339887502366,
+      "input_b": 1.618033988749,
+      "phi_output": 1,
+      "standard_output": false,
+      "phi_resonance": 3.7088219664901696,
+      "phi_efficiency": 996.9101353265654,
+      "standard_efficiency": 997.8588272463757,
+      "optimization_advantage": 0.999049272408174
+    }
+  ],
+  "load_evolution": [
+    {
+      "load_level": 1,
+      "operations": 10,
+      "average_efficiency": 997.7403141912588,
+      "average_phi_resonance": 2.471765134607696,
+      "total_evolution_activity": 46,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 2,
+      "operations": 20,
+      "average_efficiency": 997.6216768983073,
+      "average_phi_resonance": 2.967196630839604,
+      "total_evolution_activity": 120,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 3,
+      "operations": 30,
+      "average_efficiency": 997.5349218699754,
+      "average_phi_resonance": 3.155032610870519,
+      "total_evolution_activity": 180,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 4,
+      "operations": 40,
+      "average_efficiency": 997.3787393435672,
+      "average_phi_resonance": 3.109877502567453,
+      "total_evolution_activity": 240,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 5,
+      "operations": 50,
+      "average_efficiency": 997.5602677585656,
+      "average_phi_resonance": 3.3478777563802513,
+      "total_evolution_activity": 300,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 6,
+      "operations": 60,
+      "average_efficiency": 997.6257397055747,
+      "average_phi_resonance": 3.3549820570809326,
+      "total_evolution_activity": 360,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 7,
+      "operations": 70,
+      "average_efficiency": 997.5913337157272,
+      "average_phi_resonance": 3.38376257557848,
+      "total_evolution_activity": 420,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 8,
+      "operations": 80,
+      "average_efficiency": 996.0329567042936,
+      "average_phi_resonance": 3.4324255785837594,
+      "total_evolution_activity": 480,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 9,
+      "operations": 90,
+      "average_efficiency": 997.4903829328614,
+      "average_phi_resonance": 3.494216530940949,
+      "total_evolution_activity": 540,
+      "circuit_components": 7
+    },
+    {
+      "load_level": 10,
+      "operations": 100,
+      "average_efficiency": 997.074496076059,
+      "average_phi_resonance": 3.543695645375855,
+      "total_evolution_activity": 600,
+      "circuit_components": 7
+    }
+  ],
+  "circuit_stats": {
+    "sensitivity_test": {
+      "circuit_id": "sensitivity_test",
+      "architecture_evolution_count": 25,
+      "transistor_count": 29,
+      "gate_count": 28,
+      "transistor_stats": [
+        {
+          "transistor_id": "T1",
+          "evolution_count": 8,
+          "current_threshold": 0.5256182112527602,
+          "phi_sensitivity": 0.6877163060795293,
+          "signal_count": 100
+        },
+        {
+          "transistor_id": "T2",
+          "evolution_count": 8,
+          "current_threshold": 0.5256182112527601,
+          "phi_sensitivity": 0.5349355155043725,
+          "signal_count": 100
+        },
+        {
+          "transistor_id": "T3",
+          "evolution_count": 28,
+          "current_threshold": 0.49650005590162205,
+          "phi_sensitivity": 0.6504968177748179,
+          "signal_count": 100
+        },
+        {
+          "transistor_id": "T4",
+          "evolution_count": 16,
+          "current_threshold": 0.5040059638710598,
+          "phi_sensitivity": 0.6910198831948949,
+          "signal_count": 100
+        },
+        {
+          "transistor_id": "T5",
+          "evolution_count": 14,
+          "current_threshold": 0.5014944795246287,
+          "phi_sensitivity": 0.6484660429693697,
+          "signal_count": 59
+        },
+        {
+          "transistor_id": "T6",
+          "evolution_count": 10,
+          "current_threshold": 0.5040089879174272,
+          "phi_sensitivity": 0.6804339949584992,
+          "signal_count": 58
+        },
+        {
+          "transistor_id": "T7",
+          "evolution_count": 4,
+          "current_threshold": 0.5075506979761356,
+          "phi_sensitivity": 0.7139778967841071,
+          "signal_count": 57
+        },
+        {
+          "transistor_id": "T8",
+          "evolution_count": 0,
+          "current_threshold": 0.5100955724302704,
+          "phi_sensitivity": 0.7491754393125938,
+          "signal_count": 56
+        },
+        {
+          "transistor_id": "T9",
+          "evolution_count": 0,
+          "current_threshold": 0.5116273899443738,
+          "phi_sensitivity": 0.7861081433994772,
+          "signal_count": 55
+        },
+        {
+          "transistor_id": "T10",
+          "evolution_count": 0,
+          "current_threshold": 0.5121390173343182,
+          "phi_sensitivity": 0.8248615486994448,
+          "signal_count": 54
+        },
+        {
+          "transistor_id": "T11",
+          "evolution_count": 0,
+          "current_threshold": 0.5126511563516525,
+          "phi_sensitivity": 0.8655254117843287,
+          "signal_count": 53
+        },
+        {
+          "transistor_id": "T12",
+          "evolution_count": 0,
+          "current_threshold": 0.5141906482868275,
+          "phi_sensitivity": 0.9081939140278608,
+          "signal_count": 52
+        },
+        {
+          "transistor_id": "T13",
+          "evolution_count": 0,
+          "current_threshold": 0.5147048389351142,
+          "phi_sensitivity": 0.9529658797386907,
+          "signal_count": 51
+        },
+        {
+          "transistor_id": "T14",
+          "evolution_count": 0,
+          "current_threshold": 0.516250498081141,
+          "phi_sensitivity": 0.999945005046882,
+          "signal_count": 50
+        },
+        {
+          "transistor_id": "T15",
+          "evolution_count": 0,
+          "current_threshold": 0.517800798843129,
+          "phi_sensitivity": 1.04924009807401,
+          "signal_count": 49
+        },
+        {
+          "transistor_id": "T16",
+          "evolution_count": 0,
+          "current_threshold": 0.5214362963929681,
+          "phi_sensitivity": 1.1009653309431175,
+          "signal_count": 48
+        },
+        {
+          "transistor_id": "T17",
+          "evolution_count": 0,
+          "current_threshold": 0.524048697454867,
+          "phi_sensitivity": 1.1552405042122105,
+          "signal_count": 47
+        },
+        {
+          "transistor_id": "T18",
+          "evolution_count": 0,
+          "current_threshold": 0.5235251722825845,
+          "phi_sensitivity": 1.2121913243437406,
+          "signal_count": 46
+        },
+        {
+          "transistor_id": "T19",
+          "evolution_count": 0,
+          "current_threshold": 0.5230021701124722,
+          "phi_sensitivity": 1.2719496948527271,
+          "signal_count": 45
+        },
+        {
+          "transistor_id": "T20",
+          "evolution_count": 0,
+          "current_threshold": 0.5224796904220502,
+          "phi_sensitivity": 1.3346540218078404,
+          "signal_count": 44
+        },
+        {
+          "transistor_id": "T21",
+          "evolution_count": 0,
+          "current_threshold": 0.521957732689361,
+          "phi_sensitivity": 1.4004495343930183,
+          "signal_count": 43
+        },
+        {
+          "transistor_id": "T22",
+          "evolution_count": 0,
+          "current_threshold": 0.5214362963929681,
+          "phi_sensitivity": 1.469488621272066,
+          "signal_count": 42
+        },
+        {
+          "transistor_id": "T23",
+          "evolution_count": 0,
+          "current_threshold": 0.5209153810119562,
+          "phi_sensitivity": 1.5419311835352936,
+          "signal_count": 41
+        },
+        {
+          "transistor_id": "T24",
+          "evolution_count": 0,
+          "current_threshold": 0.5203949860259304,
+          "phi_sensitivity": 1.6179450050456456,
+          "signal_count": 40
+        },
+        {
+          "transistor_id": "T25",
+          "evolution_count": 0,
+          "current_threshold": 0.5198751109150154,
+          "phi_sensitivity": 1.6977061410420822,
+          "signal_count": 39
+        },
+        {
+          "transistor_id": "T26",
+          "evolution_count": 0,
+          "current_threshold": 0.5193557551598555,
+          "phi_sensitivity": 1.7813993259002554,
+          "signal_count": 38
+        },
+        {
+          "transistor_id": "T27",
+          "evolution_count": 0,
+          "current_threshold": 0.518836918241614,
+          "phi_sensitivity": 1.8692184009948891,
+          "signal_count": 37
+        },
+        {
+          "transistor_id": "T28",
+          "evolution_count": 0,
+          "current_threshold": 0.5183185996419721,
+          "phi_sensitivity": 1.9613667636548358,
+          "signal_count": 36
+        },
+        {
+          "transistor_id": "T29",
+          "evolution_count": 0,
+          "current_threshold": 0.517800798843129,
+          "phi_sensitivity": 2.0580578382506314,
+          "signal_count": 35
+        }
+      ],
+      "gate_stats": [
+        {
+          "gate_id": "G1",
+          "gate_type": "AND",
+          "evolution_count": 1,
+          "logic_weights": [
+            1.0005,
+            0.9995
+          ],
+          "logic_bias": -0.001,
+          "average_performance": 0.995,
+          "operations_count": 100
+        },
+        {
+          "gate_id": "G2",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 1.0,
+          "operations_count": 100
+        },
+        {
+          "gate_id": "G3",
+          "gate_type": "XOR",
+          "evolution_count": 51,
+          "logic_weights": [
+            1.0124999999999986,
+            1.0254999999999972
+          ],
+          "logic_bias": -0.025000000000000015,
+          "average_performance": 0.745,
+          "operations_count": 100
+        },
+        {
+          "gate_id": "G4",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G5",
+          "gate_type": "NAND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G6",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G7",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G8",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G9",
+          "gate_type": "NOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G10",
+          "gate_type": "NAND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G11",
+          "gate_type": "XOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G12",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G13",
+          "gate_type": "NOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G14",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G15",
+          "gate_type": "XOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G16",
+          "gate_type": "XOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G17",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G18",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G19",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G20",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G21",
+          "gate_type": "NAND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G22",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G23",
+          "gate_type": "NOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G24",
+          "gate_type": "XOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G25",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G26",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G27",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G28",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        }
+      ],
+      "average_efficiency": 990.7883203838679,
+      "total_operations": 100
+    },
+    "phi_optimized": {
+      "circuit_id": "phi_optimized",
+      "architecture_evolution_count": 0,
+      "transistor_count": 4,
+      "gate_count": 3,
+      "transistor_stats": [
+        {
+          "transistor_id": "T1",
+          "evolution_count": 2,
+          "current_threshold": 0.5009994979995007,
+          "phi_sensitivity": 0.659048477893962,
+          "signal_count": 9
+        },
+        {
+          "transistor_id": "T2",
+          "evolution_count": 2,
+          "current_threshold": 0.5009994979995007,
+          "phi_sensitivity": 0.6517325992718521,
+          "signal_count": 9
+        },
+        {
+          "transistor_id": "T3",
+          "evolution_count": 2,
+          "current_threshold": 0.5015004974975001,
+          "phi_sensitivity": 0.5304113462008206,
+          "signal_count": 9
+        },
+        {
+          "transistor_id": "T4",
+          "evolution_count": 2,
+          "current_threshold": 0.5015004974975001,
+          "phi_sensitivity": 0.5512844866040216,
+          "signal_count": 9
+        }
+      ],
+      "gate_stats": [
+        {
+          "gate_id": "G1",
+          "gate_type": "AND",
+          "evolution_count": 1,
+          "logic_weights": [
+            0.9995,
+            1.0005
+          ],
+          "logic_bias": -0.001,
+          "average_performance": 0.9444444444444444,
+          "operations_count": 9
+        },
+        {
+          "gate_id": "G2",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 1.0,
+          "operations_count": 9
+        },
+        {
+          "gate_id": "G3",
+          "gate_type": "XOR",
+          "evolution_count": 8,
+          "logic_weights": [
+            1.0019999999999998,
+            1.0039999999999996
+          ],
+          "logic_bias": -0.004,
+          "average_performance": 0.5555555555555556,
+          "operations_count": 9
+        }
+      ],
+      "average_efficiency": 996.8577931146665,
+      "total_operations": 9
+    },
+    "standard": {
+      "circuit_id": "standard",
+      "architecture_evolution_count": 0,
+      "transistor_count": 4,
+      "gate_count": 3,
+      "transistor_stats": [
+        {
+          "transistor_id": "T1",
+          "evolution_count": 2,
+          "current_threshold": 0.5009994979995007,
+          "phi_sensitivity": 0.5456405672634184,
+          "signal_count": 9
+        },
+        {
+          "transistor_id": "T2",
+          "evolution_count": 2,
+          "current_threshold": 0.5009994979995007,
+          "phi_sensitivity": 0.6517082049792898,
+          "signal_count": 9
+        },
+        {
+          "transistor_id": "T3",
+          "evolution_count": 2,
+          "current_threshold": 0.5015004974975001,
+          "phi_sensitivity": 0.6089499414031956,
+          "signal_count": 9
+        },
+        {
+          "transistor_id": "T4",
+          "evolution_count": 2,
+          "current_threshold": 0.5015004974975001,
+          "phi_sensitivity": 0.6444085135022005,
+          "signal_count": 9
+        }
+      ],
+      "gate_stats": [
+        {
+          "gate_id": "G1",
+          "gate_type": "AND",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G2",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        },
+        {
+          "gate_id": "G3",
+          "gate_type": "XOR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 0,
+          "operations_count": 0
+        }
+      ],
+      "average_efficiency": 997.9643628792354,
+      "total_operations": 9
+    },
+    "load_test": {
+      "circuit_id": "load_test",
+      "architecture_evolution_count": 0,
+      "transistor_count": 4,
+      "gate_count": 3,
+      "transistor_stats": [
+        {
+          "transistor_id": "T1",
+          "evolution_count": 24,
+          "current_threshold": 0.7600427927704486,
+          "phi_sensitivity": 0.5299644101104823,
+          "signal_count": 550
+        },
+        {
+          "transistor_id": "T2",
+          "evolution_count": 27,
+          "current_threshold": 0.7600405126443496,
+          "phi_sensitivity": 0.6542453312484856,
+          "signal_count": 550
+        },
+        {
+          "transistor_id": "T3",
+          "evolution_count": 15,
+          "current_threshold": 0.7839680353658647,
+          "phi_sensitivity": 0.5251018366198903,
+          "signal_count": 550
+        },
+        {
+          "transistor_id": "T4",
+          "evolution_count": 17,
+          "current_threshold": 0.7863207195162385,
+          "phi_sensitivity": 0.6291384920339977,
+          "signal_count": 550
+        }
+      ],
+      "gate_stats": [
+        {
+          "gate_id": "G1",
+          "gate_type": "AND",
+          "evolution_count": 1,
+          "logic_weights": [
+            0.9995,
+            1.0005
+          ],
+          "logic_bias": -0.001,
+          "average_performance": 0.9990909090909091,
+          "operations_count": 550
+        },
+        {
+          "gate_id": "G2",
+          "gate_type": "OR",
+          "evolution_count": 0,
+          "logic_weights": [
+            1.0,
+            1.0
+          ],
+          "logic_bias": 0.0,
+          "average_performance": 1.0,
+          "operations_count": 550
+        },
+        {
+          "gate_id": "G3",
+          "gate_type": "XOR",
+          "evolution_count": 537,
+          "logic_weights": [
+            1.1794999999999802,
+            1.2684999999999704
+          ],
+          "logic_bias": -0.35900000000000026,
+          "average_performance": 0.5118181818181818,
+          "operations_count": 550
+        }
+      ],
+      "average_efficiency": 997.3135265745084,
+      "total_operations": 550
+    }
+  },
+  "summary": {
+    "total_evolution_events": 590,
+    "phi_optimization_advantage": 0.9988912316510048,
+    "circuit_growth_under_load": 0.0,
+    "system_classification": "Self-Evolving Digital Hardware"
+  }
+}

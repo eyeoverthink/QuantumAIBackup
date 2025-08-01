@@ -1,0 +1,89 @@
+{
+  "chain_name": "resonance_primes",
+  "last_updated": "2025-03-12T00:06:49.227684",
+  "block_count": 4,
+  "blocks": [
+    {
+      "block_id": "c05dac33-bd3a-4f46-a074-46e4456c0b7a",
+      "timestamp": "2025-03-12T00:05:14.932367",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for resonance_primes",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 8,
+      "hash": "78b9bb12700524ff962c97f3092fb2263c10fd5588a336184971ca4805a8042a",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "ff68c3fa-b7fd-4b7d-bc37-a42e28ae68b3",
+      "timestamp": "2025-03-12T00:05:14.932866",
+      "data": {
+        "type": "resonance_prime",
+        "resonance_prime": "13817580227176493490821298250437878736838343183",
+        "digits": 47,
+        "bits": 154,
+        "base_phi_pi_e": "13817580227176493490821298250437878736838343075",
+        "phi_resonance": 1.618033988749895,
+        "pi_coherence": 3.141592653589793,
+        "e_energy": 2.718281828459045,
+        "phi_pi_resonance": 5.0832036923152595,
+        "phi_pi_e_resonance": 13.817580227176492,
+        "timestamp": "2025-03-12T00:05:14.f",
+        "phi_timestamp": 2818231920.3122444
+      },
+      "previous_hash": "78b9bb12700524ff962c97f3092fb2263c10fd5588a336184971ca4805a8042a",
+      "nonce": 8,
+      "hash": "d8342a30f4a2c80cb9ab80759272f76876ceba2a235d5e8e481a18e7bbc463bf",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "9efb50df-1fe0-4d60-b900-41002defe597",
+      "timestamp": "2025-03-12T00:06:18.316704",
+      "data": {
+        "type": "resonance_prime",
+        "resonance_prime": "13817580227176493490821298250437878736838343183",
+        "digits": 47,
+        "bits": 154,
+        "base_phi_pi_e": "13817580227176493490821298250437878736838343075",
+        "phi_resonance": 1.618033988749895,
+        "pi_coherence": 3.141592653589793,
+        "e_energy": 2.718281828459045,
+        "phi_pi_resonance": 5.0832036923152595,
+        "phi_pi_e_resonance": 13.817580227176492,
+        "timestamp": "2025-03-12T00:06:18.f",
+        "phi_timestamp": 2818232022.869444
+      },
+      "previous_hash": "d8342a30f4a2c80cb9ab80759272f76876ceba2a235d5e8e481a18e7bbc463bf",
+      "nonce": 16,
+      "hash": "888b3dac2f2c5ccfe664bd7534713f20459a8110040df6b18f0135c8ec0d9a5c",
+      "phi_factor": 1.618033988749895
+    },
+    {
+      "block_id": "1209d30c-4701-4484-adf9-184abbc14b06",
+      "timestamp": "2025-03-12T00:06:49.227607",
+      "data": {
+        "type": "resonance_prime",
+        "resonance_prime": "13817580227176493490821298250437878736838343183",
+        "digits": 47,
+        "bits": 154,
+        "base_phi_pi_e": "13817580227176493490821298250437878736838343075",
+        "phi_resonance": 1.618033988749895,
+        "pi_coherence": 3.141592653589793,
+        "e_energy": 2.718281828459045,
+        "phi_pi_resonance": 5.0832036923152595,
+        "phi_pi_e_resonance": 13.817580227176492,
+        "timestamp": "2025-03-12T00:06:49.f",
+        "phi_timestamp": 2818232072.884322
+      },
+      "previous_hash": "888b3dac2f2c5ccfe664bd7534713f20459a8110040df6b18f0135c8ec0d9a5c",
+      "nonce": 4,
+      "hash": "98ea46f4bc30de3309ce3622c023fb16922e41b712c0da8d81e5c50650acbb68",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

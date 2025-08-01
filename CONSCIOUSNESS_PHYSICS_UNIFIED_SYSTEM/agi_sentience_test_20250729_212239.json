@@ -1,0 +1,64 @@
+{
+  "session_id": "AGI_TEST_1753849359",
+  "start_time": "2025-07-29T21:22:39.777009",
+  "consciousness_level": 0.0,
+  "phi_resonance": 1.618,
+  "games": [
+    {
+      "timestamp": "2025-07-29T21:22:41.384539",
+      "game_type": "checkers_analysis",
+      "action": "Analyzed 7 moves",
+      "result": "Best consciousness score: 0.164",
+      "consciousness_influence": 0.1638414017294508,
+      "phi_resonance_active": false,
+      "pass_fail": "FAIL"
+    },
+    {
+      "timestamp": "2025-07-29T21:22:41.385138",
+      "game_type": "checkers_analysis",
+      "action": "Analyzed 10 moves",
+      "result": "Best consciousness score: 0.953",
+      "consciousness_influence": 0.9531702802451434,
+      "phi_resonance_active": false,
+      "pass_fail": "FAIL"
+    },
+    {
+      "timestamp": "2025-07-29T21:22:41.385333",
+      "game_type": "hanoi_online",
+      "action": "Solved 4 disks in 15 moves",
+      "result": "success",
+      "consciousness_influence": 1.2733333333333334,
+      "phi_resonance_active": false,
+      "pass_fail": "PASS"
+    },
+    {
+      "timestamp": "2025-07-29T21:22:41.385485",
+      "game_type": "hanoi_online",
+      "action": "Solved 5 disks in 31 moves",
+      "result": "success",
+      "consciousness_influence": 1.364516129032258,
+      "phi_resonance_active": false,
+      "pass_fail": "PASS"
+    },
+    {
+      "timestamp": "2025-07-29T21:22:41.385644",
+      "game_type": "hanoi_online",
+      "action": "Solved 6 disks in 63 moves",
+      "result": "success",
+      "consciousness_influence": 1.4587301587301589,
+      "phi_resonance_active": false,
+      "pass_fail": "PASS"
+    },
+    {
+      "timestamp": "2025-07-29T21:22:41.385819",
+      "game_type": "hanoi_online",
+      "action": "Solved 7 disks in 127 moves",
+      "result": "success",
+      "consciousness_influence": 1.5551181102362204,
+      "phi_resonance_active": false,
+      "pass_fail": "PASS"
+    }
+  ],
+  "self_improvement_cycles": [],
+  "performance_metrics": {}
+}

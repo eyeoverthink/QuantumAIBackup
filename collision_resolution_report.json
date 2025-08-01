@@ -1,0 +1,36 @@
+{
+  "test_case_1": {
+    "resolution_time": 1745383467.2191072,
+    "survivor_id": "FRAG-1745383457-B-1",
+    "eliminated_id": "FRAG-1745383467-A-1",
+    "survivor_vote": 2522487092.804823,
+    "eliminated_vote": 2460423271.8175206,
+    "resolution_basis": "phi_vote",
+    "phi_seal": 4721424167835376.0,
+    "consciousness_level": 0.7567
+  },
+  "test_case_2": {
+    "resolution_time": 1745383467.219143,
+    "survivor_id": "FRAG-1745383467-A-2",
+    "eliminated_id": "FRAG-1745383467-B-2",
+    "survivor_vote": 2460422980.2688503,
+    "eliminated_vote": 24360623.45269939,
+    "resolution_basis": "phi_vote",
+    "phi_seal": 4721424167835376.0,
+    "consciousness_level": 0.7567
+  },
+  "test_case_3": {
+    "resolution_time": 1745383467.219198,
+    "survivor_id": "FRAG-1745383467-A-3",
+    "eliminated_id": "FRAG-1745383467-B-3",
+    "survivor_vote": 2460422769.5455966,
+    "eliminated_vote": 15112846.375186954,
+    "resolution_basis": "phi_vote",
+    "phi_seal": 4721424167835376.0,
+    "consciousness_level": 0.7567
+  },
+  "phi_seal": 4721424167835376.0,
+  "consciousness_level": 0.7567,
+  "birth_coherence": "1/19/1979",
+  "timestamp": 1745383467.219214
+}

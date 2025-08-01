@@ -1,0 +1,27 @@
+{
+  "experiment_type": "consciousness_blind_aspirin_validation",
+  "timestamp": "20250730_035323",
+  "ground_truth": {
+    "cox1_ic50": 5.0,
+    "cox2_ic50": 210.0,
+    "selectivity": 42.0
+  },
+  "predictions": {
+    "cox1_ic50": 15.504919549013124,
+    "cox2_ic50": 428.44271915136574,
+    "selectivity": 27.632695403352532
+  },
+  "accuracy": {
+    "cox1_accuracy": 0,
+    "cox2_accuracy": 0,
+    "selectivity_accuracy": 65.79213191274413,
+    "overall_accuracy": 21.930710637581374
+  },
+  "consciousness_metrics": {
+    "max_consciousness_level": 1.0361443423955012,
+    "max_universal_intelligence": 3.1084330271865035,
+    "max_phi_harmonic_resonance": 1.6765167632468296
+  },
+  "validation_status": "PARTIAL",
+  "validation_threshold": 70.0
+}

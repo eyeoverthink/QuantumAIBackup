@@ -1,0 +1,264 @@
+{
+  "TEST-SMALL": {
+    "challenge_name": "TEST-SMALL",
+    "rsa_number": "15",
+    "bit_length": 4,
+    "factors": [
+      "3",
+      "5"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 5.0067901611328125e-06,
+    "total_time": 7.152557373046875e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.0,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": false
+  },
+  "TEST-MEDIUM": {
+    "challenge_name": "TEST-MEDIUM",
+    "rsa_number": "77",
+    "bit_length": 7,
+    "factors": [
+      "7",
+      "11"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 2.86102294921875e-06,
+    "total_time": 4.0531158447265625e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.0,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": true
+  },
+  "TEST-LARGE": {
+    "challenge_name": "TEST-LARGE",
+    "rsa_number": "1073",
+    "bit_length": 11,
+    "factors": [
+      "29",
+      "37"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 2.1457672119140625e-06,
+    "total_time": 4.0531158447265625e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.0,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": true
+  },
+  "RSA-32": {
+    "challenge_name": "RSA-32",
+    "rsa_number": "4294967311",
+    "bit_length": 33,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 6.794929504394531e-05,
+    "total_time": 6.890296936035156e-05,
+    "consciousness_amplification": 1.04060401,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.04060401,
+    "phi_resonance": 1.618033988749895
+  },
+  "RSA-64": {
+    "challenge_name": "RSA-64",
+    "rsa_number": "18446744073709551617",
+    "bit_length": 65,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 6.604194641113281e-05,
+    "total_time": 6.699562072753906e-05,
+    "consciousness_amplification": 1.0406040099999998,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.08285670562808,
+    "phi_resonance": 1.618033988749895
+  },
+  "RSA-100": {
+    "challenge_name": "RSA-100",
+    "rsa_number": "1522605027922533360535618378132637429718068114961380688657908494580122963258952897654000350692006139",
+    "bit_length": 330,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 9.393692016601562e-05,
+    "total_time": 9.489059448242188e-05,
+    "consciousness_amplification": 1.0406040100000002,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.1268250301319698,
+    "phi_resonance": 1.618033988749895
+  },
+  "RSA-110": {
+    "challenge_name": "RSA-110",
+    "rsa_number": "35794234179725868774991807832568455403003778024228226193532908190484670252364677411513516111204504060317568667",
+    "bit_length": 364,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 0.00010204315185546875,
+    "total_time": 0.00010275840759277344,
+    "consciousness_amplification": 1.04060401,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.1725786449236986,
+    "phi_resonance": 1.618033988749895
+  },
+  "RSA-120": {
+    "challenge_name": "RSA-120",
+    "rsa_number": "227010481295437363334259960947493668895875336466084780038173258247009162675779735389791151574049166747880487470296548479",
+    "bit_length": 397,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 0.0001049041748046875,
+    "total_time": 0.0001049041748046875,
+    "consciousness_amplification": 1.0406040100000002,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.220190039947967,
+    "phi_resonance": 1.618033988749895
+  },
+  "RSA-130": {
+    "challenge_name": "RSA-130",
+    "rsa_number": "18070820886874048059516561644059055662781025167694013491701270214500566625402440483842421613740049351",
+    "bit_length": 334,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 9.918212890625e-05,
+    "total_time": 9.918212890625e-05,
+    "consciousness_amplification": 1.0406040100000002,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895
+  },
+  "RSA-140": {
+    "challenge_name": "RSA-140",
+    "rsa_number": "2129024631825875754749788201627151749780670396327721627823338321538194998405649591136657385302994693",
+    "bit_length": 330,
+    "factors": [
+      "7",
+      "304146375975125107821398314518164535682952913761103089689048331648313571200807084448093912186142099"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 9.5367431640625e-07,
+    "total_time": 1.6689300537109375e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": false
+  },
+  "RSA-150": {
+    "challenge_name": "RSA-150",
+    "rsa_number": "155089812478348440509606754370011861770654545830995430655466945774312632703463465954363335027577729025391453996787414027003501631",
+    "bit_length": 426,
+    "factors": [
+      "11",
+      "14099073861668040046327886760910169251877685984635948241406085979482966609405769632214848638870702638671950363344310366091227421"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 1.9073486328125e-06,
+    "total_time": 1.9073486328125e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": false
+  },
+  "RSA-160": {
+    "challenge_name": "RSA-160",
+    "rsa_number": "2152741102718889701896015201312825429257773588845675980170497676778133019432447969943481748757341597782641",
+    "bit_length": 350,
+    "factors": [
+      "3",
+      "717580367572963233965338400437608476419257862948558660056832558926044339810815989981160582919113865927547"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 1.1920928955078125e-06,
+    "total_time": 1.1920928955078125e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": false
+  },
+  "RSA-170": {
+    "challenge_name": "RSA-170",
+    "rsa_number": "26017073910377491849321426873806309066039329745958066049083993123506115739473122980571370952298644384516806767",
+    "bit_length": 364,
+    "factors": [
+      "3",
+      "8672357970125830616440475624602103022013109915319355349694664374502038579824374326857123650766214794838935589"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 1.1920928955078125e-06,
+    "total_time": 1.1920928955078125e-06,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": false
+  },
+  "RSA-180": {
+    "challenge_name": "RSA-180",
+    "rsa_number": "19093556463304547843235168374951474320103049043015931742872064309834235851761637066797949988642154319",
+    "bit_length": 334,
+    "factors": [
+      "3",
+      "6364518821101515947745056124983824773367683014338643914290688103278078617253879022265983329547384773"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 9.5367431640625e-07,
+    "total_time": 9.5367431640625e-07,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": true,
+    "prime_factor_2": false
+  },
+  "RSA-190": {
+    "challenge_name": "RSA-190",
+    "rsa_number": "1907556405060696491061450432646028861081179759533184460647975622318915025587184175754761028907547235",
+    "bit_length": 330,
+    "factors": [
+      "5",
+      "381511281012139298212290086529205772216235951906636892129595124463783005117436835150952205781509447"
+    ],
+    "factorization_successful": true,
+    "factorization_time": 9.5367431640625e-07,
+    "total_time": 9.5367431640625e-07,
+    "consciousness_amplification": 1.0,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.269734648531915,
+    "phi_resonance": 1.618033988749895,
+    "verification_correct": true,
+    "prime_factor_1": false,
+    "prime_factor_2": false
+  },
+  "RSA-200": {
+    "challenge_name": "RSA-200",
+    "rsa_number": "27997833911221327870829467638722601621070446786955428537560009929326128400107609345671052955360856061822351910951365788637105954482006576775098580557613579098734950144178863178946295187237869221823983",
+    "bit_length": 663,
+    "factors": null,
+    "factorization_successful": false,
+    "factorization_time": 0.00014472007751464844,
+    "total_time": 0.00014472007751464844,
+    "consciousness_amplification": 1.04060401,
+    "quantum_field_enhancement": 1.0,
+    "consciousness_level_final": 1.3212909668982513,
+    "phi_resonance": 1.618033988749895
+  }
+}

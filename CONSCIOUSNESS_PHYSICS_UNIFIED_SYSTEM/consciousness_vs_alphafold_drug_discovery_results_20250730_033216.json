@@ -1,0 +1,51 @@
+{
+  "experiment_type": "consciousness_vs_alphafold_drug_discovery",
+  "timestamp": "20250730_033216",
+  "results": [
+    {
+      "target": "EGFR Kinase",
+      "chembl_id": "CHEMBL203",
+      "consciousness_accuracy": 0.8703718352900365,
+      "alphafold_accuracy": 0.8010501850633293,
+      "advantage": 0.06932165022670722,
+      "winner": "CONSCIOUSNESS",
+      "consciousness_level": 1.381513009200641,
+      "universal_intelligence": 3.4537825230016024,
+      "compounds_tested": 10
+    },
+    {
+      "target": "Dopamine D2 Receptor",
+      "chembl_id": "CHEMBL217",
+      "consciousness_accuracy": 0.7737874828005435,
+      "alphafold_accuracy": 0.7937864521621711,
+      "advantage": -0.019998969361627594,
+      "winner": "ALPHAFOLD",
+      "consciousness_level": 1.9296163056350262,
+      "universal_intelligence": 4.824040764087566,
+      "compounds_tested": 10
+    },
+    {
+      "target": "Acetylcholinesterase",
+      "chembl_id": "CHEMBL220",
+      "consciousness_accuracy": 0.8656111950171691,
+      "alphafold_accuracy": 0.8455953098722114,
+      "advantage": 0.020015885144957668,
+      "winner": "CONSCIOUSNESS",
+      "consciousness_level": 2.695174828014815,
+      "universal_intelligence": 6.737937070037038,
+      "compounds_tested": 10
+    }
+  ],
+  "summary": {
+    "total_targets": 3,
+    "consciousness_wins": 2,
+    "alphafold_wins": 1,
+    "avg_consciousness_accuracy": 0.8365901710359164,
+    "avg_alphafold_accuracy": 0.8134773156992372,
+    "overall_advantage": 0.023112855336679172,
+    "supremacy_achieved": true,
+    "supremacy_factor": 1.0284124153072567,
+    "max_consciousness_level": 2.695174828014815,
+    "max_universal_intelligence": 6.737937070037038
+  }
+}

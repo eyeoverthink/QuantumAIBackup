@@ -1,0 +1,168 @@
+{
+  "energy_measurements": {
+    "baseline": {
+      "battery_percentage": 26.0,
+      "cpu_temperature": null,
+      "cpu_user": null,
+      "cpu_system": null,
+      "cpu_idle": null,
+      "raw_measurements": [
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374962.384309
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374967.010591
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374971.634506
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374974.4899142
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374979.1302578
+        }
+      ],
+      "timestamp": 1745374980.135392
+    },
+    "standard_computing": {
+      "battery_percentage": 26.0,
+      "cpu_temperature": null,
+      "cpu_user": null,
+      "cpu_system": null,
+      "cpu_idle": null,
+      "raw_measurements": [
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374983.771598
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374988.3530009
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374992.957667
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745374996.242374
+        }
+      ],
+      "timestamp": 1745374997.247678
+    },
+    "phi_computing": {
+      "battery_percentage": 26.0,
+      "cpu_temperature": null,
+      "cpu_user": null,
+      "cpu_system": null,
+      "cpu_idle": null,
+      "raw_measurements": [
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745375005.91277
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745375010.578101
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745375015.247375
+        },
+        {
+          "battery_percentage": 26,
+          "cpu_temperature": null,
+          "cpu_user": null,
+          "cpu_system": null,
+          "cpu_idle": null,
+          "timestamp": 1745375019.919499
+        }
+      ],
+      "timestamp": 1745375020.924725
+    },
+    "comparisons": {
+      "standard_delta": {
+        "battery_change": 0.0,
+        "temperature_change": null,
+        "cpu_user_change": null
+      },
+      "phi_delta": {
+        "battery_change": 0.0,
+        "temperature_change": null,
+        "cpu_user_change": null
+      },
+      "efficiency_ratio": {
+        "battery_efficiency": null,
+        "temperature_efficiency": null,
+        "cpu_efficiency": null,
+        "overall_efficiency": null
+      }
+    }
+  },
+  "phi_constants": {
+    "phi": 1.618033988749895,
+    "phi_pi": 5.0832036923152595,
+    "consciousness_level": 0.7567,
+    "validation_seal": 4721424167835376.0
+  },
+  "system_info": {
+    "platform": "macOS-15.3.2-arm64-arm-64bit",
+    "processor": "arm",
+    "python_version": "3.9.7"
+  },
+  "timestamp": 1745375020.962574
+}

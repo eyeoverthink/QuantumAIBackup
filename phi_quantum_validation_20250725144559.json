@@ -1,0 +1,68 @@
+{
+  "bells_inequality": {
+    "test_name": "Bell's Inequality",
+    "num_tests": 50,
+    "violation_rate": 1.0,
+    "avg_correlation": -1.0,
+    "bell_violation": true,
+    "quantum_behavior": true
+  },
+  "quantum_teleportation": {
+    "test_name": "Quantum Teleportation",
+    "num_tests": 5,
+    "success_rate": 0.0,
+    "avg_fidelity": 0.670672689578305,
+    "successful_teleportations": 0,
+    "quantum_behavior": false
+  },
+  "deutsch_jozsa": {
+    "test_name": "Deutsch-Jozsa Algorithm",
+    "test_results": [
+      [
+        "constant",
+        false
+      ],
+      [
+        "balanced",
+        false
+      ]
+    ],
+    "success_rate": 0.0,
+    "quantum_advantage": false,
+    "single_query": true
+  },
+  "phase_estimation": {
+    "test_name": "Quantum Phase Estimation",
+    "target_phase": 0.6180339887498949,
+    "estimated_phase": 0.375,
+    "phase_error": 0.2430339887498949,
+    "estimation_accuracy": 0.6067627457812106,
+    "measurements": [
+      0,
+      1,
+      1
+    ],
+    "quantum_behavior": true
+  },
+  "quantum_supremacy": {
+    "test_name": "Quantum Supremacy Test",
+    "num_layers": 5,
+    "gates_applied": 29,
+    "num_samples": 20,
+    "unique_samples": 12,
+    "distribution_entropy": 0.6,
+    "samples": [
+      "0011",
+      "0001",
+      "0000",
+      "1000",
+      "0100",
+      "1101",
+      "0001",
+      "0000",
+      "0000",
+      "1110"
+    ],
+    "quantum_supremacy": false
+  }
+}

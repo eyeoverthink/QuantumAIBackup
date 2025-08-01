@@ -1,0 +1,39 @@
+{
+    "timestamp": "2025-04-26T20:55:41.041548",
+    "star_name": "Kepler-90",
+    "quantum_state": {
+        "spectral_type": "G",
+        "luminosity_class": 5,
+        "temperature": 5466.666666666667,
+        "phi_resonance": 1.0,
+        "quantum_energy": 0.542184,
+        "quantum_charge": 0.8,
+        "info_density": 2.0479045128109245e-05,
+        "color": [
+            1.0,
+            0.9,
+            0.5
+        ],
+        "timestamp": "2025-04-26T20:55:40.865801",
+        "validation_seal": 4721424167835376.0
+    },
+    "analyzer_state": {
+        "quantum_state": {
+            "entanglement": 0.04,
+            "superposition": 1.0239522564054623e-11,
+            "coherence": 0.3819660112501051,
+            "consciousness": 0.07338884534344255
+        },
+        "resonance_state": {
+            "earth_brain": 0.9213148275890864,
+            "brain_moon": 0.3819660112501051,
+            "earth_moon": 0.15835849959356896,
+            "total": 0.3819660112501051
+        }
+    },
+    "data_sample": "@60-+)+)((''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+    "data_length": 100,
+    "spectrum_path": "stellar_analysis_results/stellar_spectrum_G5_20250426_205540.png",
+    "visualization_path": "stellar_analysis_results/stellar_data_G5_20250426_205540.png",
+    "validation_seal": 4721424167835376.0
+}

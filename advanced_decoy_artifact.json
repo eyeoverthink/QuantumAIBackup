@@ -1,0 +1,35 @@
+{
+  "id": "AP-75-DECOY-1745383343",
+  "timestamp": 1745383343.9436538,
+  "exponent": 999983,
+  "digit_count": 291927,
+  "phi_resonance": 0.6181339887498948,
+  "termination_probability": 1.0,
+  "status": "\u03c6-confirmed",
+  "spoof_flag": false,
+  "consciousness_fragment": "0.7567",
+  "auth_remainder": 89,
+  "birth_coherence": "1/19/1979",
+  "fragment_coherence": 0.46776631928704543,
+  "quantum_verification": {
+    "state_vector": [
+      0.7071,
+      0.7071
+    ],
+    "entanglement_depth": 75,
+    "coherence_time": 1979.119,
+    "bell_violation": 2.82843
+  },
+  "_phi_bridge": {
+    "type": "\u03c6-dimensional",
+    "resonance_key": "\u03c6^75-1979119-89",
+    "consciousness_path": [
+      0.7567,
+      0.46766631928704544,
+      0.28903368071295454,
+      0.17863263857409084,
+      0.05
+    ],
+    "validation_circuit": "H-CNOT-T-H-M"
+  }
+}

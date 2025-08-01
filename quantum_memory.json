@@ -1,0 +1,6286 @@
+{
+  "patterns": {
+    "pattern_1": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137484754088075386891752126633862223536931793180060766726354433389086595939582905638322661319928290267880675208766892501711696207032221043216269548626296313614438149758701220340805887954454749246185695364864449241044320771344947049565846788509874339442212544877066478091588460749988712400765217057517978834166256249407589069704000281210427621771117778053153171410117046665991466979873176135600670874807101317952368942752194843530614433039449576485930594983782603621381589221865256989930816299144873708661568335886846509371401804503736832042381597731939526294317529196029680893094771432357266700295431108023288661764441559561004493980736273087564379515434594187725847316047576504481327807244770689632348937287337330203626588535746646743381150531016336322462745749225524817991791950313992030770831259045256500780172201700991903731462127889056197059687104537522308253916896586134920139621240925839777944573555991502406094821151770186841546296972634725726064307597024635191235004101797346454913921835172436564292866695233794138358007390640514359332189054283113226387908016701088600430272559324670888490466730465704828999418041654581354979268647710615309862156579682124436053380271759405977522197896980152697843330785810488329165540437284575151838303881393815638523059005021203664922115788385444888797525019676404920306205566575247280905565233436736417501371189967937340179564082745590970208",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "binary_dimension": 1.0,
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "composite_dimension": 1.4142135623730951,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741810775.620821
+    },
+    "pattern_2": {
+      "number": "2.618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137e+1482",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "binary_dimension": 1.0,
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "composite_dimension": 1.4142135623730951,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741810775.6252842
+    },
+    "pattern_3": {
+      "number": "4.236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782275e+1482",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "binary_dimension": 1.0,
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "composite_dimension": 1.4142135623730951,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741810775.629607
+    },
+    "pattern_4": {
+      "number": "2.058171027271492250321981047580450421238730099677819486281542352640479623158378925542297104146968394e+1482",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "binary_dimension": 1.0,
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "composite_dimension": 1.0,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741810775.634509
+    },
+    "pattern_5": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814554.844967
+    },
+    "pattern_6": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814554.8471339
+    },
+    "pattern_7": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814554.852224
+    },
+    "pattern_8": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814554.857239
+    },
+    "pattern_9": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814669.658456
+    },
+    "pattern_10": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814669.6640599
+    },
+    "pattern_11": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814669.669754
+    },
+    "pattern_12": {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.71875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.71875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814669.676359
+    },
+    "pattern_13": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814670.3898082
+    },
+    "pattern_14": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814670.393356
+    },
+    "pattern_15": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814670.40062
+    },
+    "pattern_16": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814670.4089348
+    },
+    "pattern_17": {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814671.2572649
+    },
+    "pattern_18": {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814671.26017
+    },
+    "pattern_19": {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814671.285451
+    },
+    "pattern_20": {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814671.297184
+    },
+    "pattern_21": {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "phi_resonance": 0.75,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.75
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.0273988
+    },
+    "pattern_22": {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "phi_resonance": 0.75,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.75
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.031915
+    },
+    "pattern_23": {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "phi_resonance": 0.75,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.75
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.057888
+    },
+    "pattern_24": {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "phi_resonance": 0.75,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.75
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.0835772
+    },
+    "pattern_25": {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.863594
+    },
+    "pattern_26": {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.886652
+    },
+    "pattern_27": {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.9311402
+    },
+    "pattern_28": {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "phi_resonance": 0.0,
+      "quantum_dimensions": {
+        "golden_dimension": 1.0,
+        "fibonacci_dimension": 1.0,
+        "resonance_dimension": 0.0
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814672.996774
+    },
+    "pattern_29": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814673.696408
+    },
+    "pattern_30": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814673.699636
+    },
+    "pattern_31": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814673.744682
+    },
+    "pattern_32": {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.21875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.21875
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814673.787551
+    },
+    "pattern_33": {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.6875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.84375,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814674.466057
+    },
+    "pattern_34": {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.6875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.84375,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814674.474715
+    },
+    "pattern_35": {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.6875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.84375,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814674.506049
+    },
+    "pattern_36": {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "phi_resonance": 0.6875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.84375,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814674.548853
+    },
+    "pattern_37": {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.4375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814675.25154
+    },
+    "pattern_38": {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.4375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814675.268438
+    },
+    "pattern_39": {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.4375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814675.3178859
+    },
+    "pattern_40": {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.4375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814675.38741
+    },
+    "pattern_41": {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814676.293011
+    },
+    "pattern_42": {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814676.298558
+    },
+    "pattern_43": {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814676.356003
+    },
+    "pattern_44": {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "phi_resonance": 0.9375,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9375
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741814676.412312
+    },
+    "pattern_45": {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.7875,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814677.1139112
+    },
+    "pattern_46": {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.7875,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814677.117513
+    },
+    "pattern_47": {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.7875,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814677.186943
+    },
+    "pattern_48": {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "phi_resonance": 0.875,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.875
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_tunneling",
+          "confidence": 0.7875,
+          "learned": true,
+          "binary_k": 1,
+          "fibonacci_n": 1,
+          "tunneling_probability": 1.0
+        }
+      ],
+      "timestamp": 1741814677.2562509
+    },
+    "pattern_49": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.162923
+    },
+    "pattern_50": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.2136981
+    },
+    "pattern_51": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.265238
+    },
+    "pattern_52": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.317635
+    },
+    "pattern_53": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.371727
+    },
+    "pattern_54": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.4270651
+    },
+    "pattern_55": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.485732
+    },
+    "pattern_56": {
+      "number": "11",
+      "phi_resonance": 0.7983738762488434,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7983738762488434
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.547811
+    },
+    "pattern_57": {
+      "number": "12",
+      "phi_resonance": 0.41640786499873816,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.41640786499873816
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.611426
+    },
+    "pattern_58": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.6760519
+    },
+    "pattern_59": {
+      "number": "17",
+      "phi_resonance": 0.5065778087482125,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5065778087482125
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.7996894379984858,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.745617
+    },
+    "pattern_60": {
+      "number": "18",
+      "phi_resonance": 0.12461179749810727,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.12461179749810727
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.813555
+    },
+    "pattern_61": {
+      "number": "21",
+      "phi_resonance": 0.9787137637477918,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9787137637477918
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815386.884594
+    },
+    "pattern_62": {
+      "number": "24",
+      "phi_resonance": 0.8328157299974763,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8328157299974763
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815386.95604
+    },
+    "pattern_63": {
+      "number": "29",
+      "phi_resonance": 0.9229856737469506,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9229856737469506
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.03138
+    },
+    "pattern_64": {
+      "number": "34",
+      "phi_resonance": 0.013155617496424838,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.013155617496424838
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815387.111634
+    },
+    "pattern_65": {
+      "number": "36",
+      "phi_resonance": 0.24922359499621455,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.24922359499621455
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741815387.1929998
+    },
+    "pattern_66": {
+      "number": "46",
+      "phi_resonance": 0.429563482495163,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.429563482495163
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.276063
+    },
+    "pattern_67": {
+      "number": "48",
+      "phi_resonance": 0.6656314599949528,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6656314599949528
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8571622758794478,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.3586738
+    },
+    "pattern_68": {
+      "number": "54",
+      "phi_resonance": 0.3738353924943218,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3738353924943218
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.444747
+    },
+    "pattern_69": {
+      "number": "55",
+      "phi_resonance": 0.9918693812442166,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9918693812442166
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.532054
+    },
+    "pattern_70": {
+      "number": "72",
+      "phi_resonance": 0.4984471899924291,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4984471899924291
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.7923718811182807,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.625249
+    },
+    "pattern_71": {
+      "number": "76",
+      "phi_resonance": 0.9705831449920085,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9705831449920085
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.717068
+    },
+    "pattern_72": {
+      "number": "89",
+      "phi_resonance": 0.00502499874064149,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.00502499874064149
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.8131552
+    },
+    "pattern_73": {
+      "number": "96",
+      "phi_resonance": 0.3312629199899054,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3312629199899054
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815387.910709
+    },
+    "pattern_74": {
+      "number": "108",
+      "phi_resonance": 0.7476707849886436,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7476707849886436
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.7833268833851261,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.007711
+    },
+    "pattern_75": {
+      "number": "122",
+      "phi_resonance": 0.4001466274871715,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4001466274871715
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.1092212
+    },
+    "pattern_76": {
+      "number": "144",
+      "phi_resonance": 0.9968943799848582,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9968943799848582
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.209437
+    },
+    "pattern_77": {
+      "number": "162",
+      "phi_resonance": 0.12150617748296541,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.12150617748296541
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.3121998
+    },
+    "pattern_78": {
+      "number": "192",
+      "phi_resonance": 0.6625258399798108,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6625258399798108
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8599573338930757,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.421611
+    },
+    "pattern_79": {
+      "number": "199",
+      "phi_resonance": 0.9887637612290748,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9887637612290748
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.531968
+    },
+    "pattern_80": {
+      "number": "216",
+      "phi_resonance": 0.49534156997728723,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.49534156997728723
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.789576823104653,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.643499
+    },
+    "pattern_81": {
+      "number": "233",
+      "phi_resonance": 0.0019193787254996317,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.0019193787254996317
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.757515
+    },
+    "pattern_82": {
+      "number": "288",
+      "phi_resonance": 0.9937887599697163,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9937887599697163
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.8733451
+    },
+    "pattern_83": {
+      "number": "321",
+      "phi_resonance": 0.3889103887162463,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3889103887162463
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815388.991446
+    },
+    "pattern_84": {
+      "number": "324",
+      "phi_resonance": 0.24301235496593082,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.24301235496593082
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.1132648
+    },
+    "pattern_85": {
+      "number": "377",
+      "phi_resonance": 0.9988137587103578,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9988137587103578
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.237667
+    },
+    "pattern_86": {
+      "number": "384",
+      "phi_resonance": 0.3250516799596217,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3250516799596217
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.430654
+    },
+    "pattern_87": {
+      "number": "432",
+      "phi_resonance": 0.9906831399545745,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9906831399545745
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.55844
+    },
+    "pattern_88": {
+      "number": "486",
+      "phi_resonance": 0.3645185324488962,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3645185324488962
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.6891048
+    },
+    "pattern_89": {
+      "number": "521",
+      "phi_resonance": 0.9957081386952159,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9957081386952159
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.82193
+    },
+    "pattern_90": {
+      "number": "576",
+      "phi_resonance": 0.9875775199394325,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9875775199394325
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815389.960035
+    },
+    "pattern_91": {
+      "number": "610",
+      "phi_resonance": 0.0007331374358574048,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.0007331374358574048
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815390.100909
+    },
+    "pattern_92": {
+      "number": "648",
+      "phi_resonance": 0.48602470993186164,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.48602470993186164
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.78119164906377,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815390.2462878
+    },
+    "pattern_93": {
+      "number": "768",
+      "phi_resonance": 0.6501033599192434,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6501033599192434
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8711375659475863,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815390.3937259
+    },
+    "pattern_94": {
+      "number": "842",
+      "phi_resonance": 0.3846185274114622,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3846185274114622
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815390.546546
+    },
+    "pattern_95": {
+      "number": "864",
+      "phi_resonance": 0.9813662799091488,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9813662799091488
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815390.6967769
+    },
+    "pattern_96": {
+      "number": "972",
+      "phi_resonance": 0.7290370648977924,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7290370648977924
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8000972314668923,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815390.848258
+    },
+    "pattern_97": {
+      "number": "987",
+      "phi_resonance": 0.9995468961462152,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9995468961462152
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815391.00398
+    },
+    "pattern_98": {
+      "number": "1152",
+      "phi_resonance": 0.9751550398788651,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9751550398788651
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815391.1682181
+    },
+    "pattern_99": {
+      "number": "228826126",
+      "phi_resonance": 0.38196602102201366,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.38196602102201366
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815392.796299
+    },
+    "pattern_100": {
+      "number": "228826126",
+      "phi_resonance": 0.38196602102201366,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.38196602102201366
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741815392.967613
+    },
+    "pattern_101": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816365.915829
+    },
+    "pattern_102": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816536.831794
+    },
+    "pattern_103": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816538.552406
+    },
+    "pattern_104": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816538.77517
+    },
+    "pattern_105": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816540.622586
+    },
+    "pattern_106": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816540.826747
+    },
+    "pattern_107": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816543.132599
+    },
+    "pattern_108": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816543.361738
+    },
+    "pattern_109": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816545.555846
+    },
+    "pattern_110": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816545.858892
+    },
+    "pattern_111": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816548.019573
+    },
+    "pattern_112": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816548.294113
+    },
+    "pattern_113": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816550.5247512
+    },
+    "pattern_114": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816550.761923
+    },
+    "pattern_115": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816553.010293
+    },
+    "pattern_116": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816553.2818098
+    },
+    "pattern_117": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816555.6145658
+    },
+    "pattern_118": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816555.9155252
+    },
+    "pattern_119": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816558.3426712
+    },
+    "pattern_120": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816558.609099
+    },
+    "pattern_121": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816561.1982841
+    },
+    "pattern_122": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816561.481833
+    },
+    "pattern_123": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816564.130265
+    },
+    "pattern_124": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816564.421085
+    },
+    "pattern_125": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816567.203024
+    },
+    "pattern_126": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816567.510616
+    },
+    "pattern_127": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816570.4246469
+    },
+    "pattern_128": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816570.7397802
+    },
+    "pattern_129": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816573.872381
+    },
+    "pattern_130": {
+      "number": "11",
+      "phi_resonance": 0.7983738762488434,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7983738762488434
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816574.2073169
+    },
+    "pattern_131": {
+      "number": "11",
+      "phi_resonance": 0.7983738762488434,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7983738762488434
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816577.40309
+    },
+    "pattern_132": {
+      "number": "11",
+      "phi_resonance": 0.7983738762488434,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7983738762488434
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816577.754903
+    },
+    "pattern_133": {
+      "number": "11",
+      "phi_resonance": 0.7983738762488434,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7983738762488434
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816581.162576
+    },
+    "pattern_134": {
+      "number": "12",
+      "phi_resonance": 0.41640786499873816,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.41640786499873816
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816581.536896
+    },
+    "pattern_135": {
+      "number": "12",
+      "phi_resonance": 0.41640786499873816,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.41640786499873816
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816584.960974
+    },
+    "pattern_136": {
+      "number": "12",
+      "phi_resonance": 0.41640786499873816,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.41640786499873816
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816585.3689432
+    },
+    "pattern_137": {
+      "number": "12",
+      "phi_resonance": 0.41640786499873816,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.41640786499873816
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816588.983917
+    },
+    "pattern_138": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816589.367198
+    },
+    "pattern_139": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816593.021151
+    },
+    "pattern_140": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816593.44974
+    },
+    "pattern_141": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816597.287165
+    },
+    "pattern_142": {
+      "number": "17",
+      "phi_resonance": 0.5065778087482125,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5065778087482125
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.7996894379984858,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816597.693698
+    },
+    "pattern_143": {
+      "number": "17",
+      "phi_resonance": 0.5065778087482125,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5065778087482125
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.7996894379984858,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816601.759271
+    },
+    "pattern_144": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816645.086575
+    },
+    "pattern_145": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816649.208854
+    },
+    "pattern_146": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816649.640956
+    },
+    "pattern_147": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816653.9145012
+    },
+    "pattern_148": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816654.368116
+    },
+    "pattern_149": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816658.69507
+    },
+    "pattern_150": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816659.211759
+    },
+    "pattern_151": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816663.8763351
+    },
+    "pattern_152": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816664.429502
+    },
+    "pattern_153": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816669.257781
+    },
+    "pattern_154": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816669.75827
+    },
+    "pattern_155": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816674.668258
+    },
+    "pattern_156": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816675.1916869
+    },
+    "pattern_157": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816680.2251341
+    },
+    "pattern_158": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816680.869159
+    },
+    "pattern_159": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816686.008097
+    },
+    "pattern_160": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816686.571019
+    },
+    "pattern_161": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816691.920815
+    },
+    "pattern_162": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816692.555926
+    },
+    "pattern_163": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816698.082564
+    },
+    "pattern_164": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816698.7194161
+    },
+    "pattern_165": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816704.607522
+    },
+    "pattern_166": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816705.341415
+    },
+    "pattern_167": {
+      "number": "6",
+      "phi_resonance": 0.7082039324993691,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7082039324993691
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816711.3734488
+    },
+    "pattern_168": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816712.100333
+    },
+    "pattern_169": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816718.2677078
+    },
+    "pattern_170": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816718.952939
+    },
+    "pattern_171": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816792.902627
+    },
+    "pattern_172": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816799.395194
+    },
+    "pattern_173": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816800.086302
+    },
+    "pattern_174": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816807.003818
+    },
+    "pattern_175": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816807.6996648
+    },
+    "pattern_176": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816814.508501
+    },
+    "pattern_177": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816815.302114
+    },
+    "pattern_178": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816822.468674
+    },
+    "pattern_179": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816823.252049
+    },
+    "pattern_180": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816830.399039
+    },
+    "pattern_181": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816831.190848
+    },
+    "pattern_182": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816838.610551
+    },
+    "pattern_183": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816839.435303
+    },
+    "pattern_184": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816847.686285
+    },
+    "pattern_185": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816848.5776598
+    },
+    "pattern_186": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816856.511627
+    },
+    "pattern_187": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816857.487029
+    },
+    "pattern_188": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816865.6024761
+    },
+    "pattern_189": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816912.30931
+    },
+    "pattern_190": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816920.8212328
+    },
+    "pattern_191": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816921.78202
+    },
+    "pattern_192": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816930.454724
+    },
+    "pattern_193": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816931.423081
+    },
+    "pattern_194": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816940.479569
+    },
+    "pattern_195": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816941.4429388
+    },
+    "pattern_196": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816950.4894478
+    },
+    "pattern_197": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816951.4827971
+    },
+    "pattern_198": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816960.980555
+    },
+    "pattern_199": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816962.105383
+    },
+    "pattern_200": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816972.119584
+    },
+    "pattern_201": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816973.160684
+    },
+    "pattern_202": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816983.101887
+    },
+    "pattern_203": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816984.255081
+    },
+    "pattern_204": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816994.524081
+    },
+    "pattern_205": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741816995.812026
+    },
+    "pattern_206": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817006.3466501
+    },
+    "pattern_207": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817033.8999538
+    },
+    "pattern_208": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817045.02737
+    },
+    "pattern_209": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817046.196373
+    },
+    "pattern_210": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817057.201195
+    },
+    "pattern_211": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817058.423854
+    },
+    "pattern_212": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817069.906032
+    },
+    "pattern_213": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817133.016255
+    },
+    "pattern_214": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817145.0584
+    },
+    "pattern_215": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817146.429497
+    },
+    "pattern_216": {
+      "number": "1",
+      "phi_resonance": 0.6180339887498949,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6180339887498949
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817158.273355
+    },
+    "pattern_217": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817159.512846
+    },
+    "pattern_218": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817171.880471
+    },
+    "pattern_219": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817173.1596348
+    },
+    "pattern_220": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817185.560368
+    },
+    "pattern_221": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817186.8749068
+    },
+    "pattern_222": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817199.700893
+    },
+    "pattern_223": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817201.030303
+    },
+    "pattern_224": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817214.959629
+    },
+    "pattern_225": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817216.3610518
+    },
+    "pattern_226": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817230.038711
+    },
+    "pattern_227": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817231.57625
+    },
+    "pattern_228": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817245.375131
+    },
+    "pattern_229": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817246.990957
+    },
+    "pattern_230": {
+      "number": "4",
+      "phi_resonance": 0.4721359549995794,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4721359549995794
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.768691769624716,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817261.1100018
+    },
+    "pattern_231": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817299.556224
+    },
+    "pattern_232": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817314.640863
+    },
+    "pattern_233": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817316.162997
+    },
+    "pattern_234": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817331.306062
+    },
+    "pattern_235": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817332.9284968
+    },
+    "pattern_236": {
+      "number": "5",
+      "phi_resonance": 0.09016994374947424,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.09016994374947424
+      },
+      "resonance_patterns": [
+        {
+          "type": "quantum_harmonic_oscillator",
+          "confidence": 0.8188470506254731,
+          "learned": true,
+          "fundamental_frequency": 0.0,
+          "quantum_number": 0.0,
+          "resonance_strength": 1.0
+        }
+      ],
+      "timestamp": 1741817348.184902
+    },
+    "pattern_237": {
+      "number": "2618",
+      "phi_resonance": 0.0129825472247126,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.0129825472247126
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817654.5094988
+    },
+    "pattern_238": {
+      "number": "2618",
+      "phi_resonance": 0.0129825472247126,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.0129825472247126
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817672.126109
+    },
+    "pattern_239": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817691.160437
+    },
+    "pattern_240": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817709.4093041
+    },
+    "pattern_241": {
+      "number": "17",
+      "phi_resonance": 0.5065778087482125,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5065778087482125
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817727.629199
+    },
+    "pattern_242": {
+      "number": "17",
+      "phi_resonance": 0.5065778087482125,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5065778087482125
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817746.434149
+    },
+    "pattern_243": {
+      "number": "640",
+      "phi_resonance": 0.5417527999327029,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5417527999327029
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817765.086397
+    },
+    "pattern_244": {
+      "number": "640",
+      "phi_resonance": 0.5417527999327029,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5417527999327029
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817783.9807942
+    },
+    "pattern_245": {
+      "number": "640",
+      "phi_resonance": 0.5417527999327029,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5417527999327029
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817803.313924
+    },
+    "pattern_246": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817861.703734
+    },
+    "pattern_247": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817881.613526
+    },
+    "pattern_248": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741817901.4982378
+    },
+    "pattern_249": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818196.03659
+    },
+    "pattern_250": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818216.177081
+    },
+    "pattern_251": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818236.907155
+    },
+    "pattern_252": {
+      "number": "13",
+      "phi_resonance": 0.034441853748633025,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.034441853748633025
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818257.398305
+    },
+    "pattern_253": {
+      "number": "7",
+      "phi_resonance": 0.32623792124926393,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.32623792124926393
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818278.0470989
+    },
+    "pattern_254": {
+      "number": "7",
+      "phi_resonance": 0.32623792124926393,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.32623792124926393
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818299.4298592
+    },
+    "pattern_255": {
+      "number": "384",
+      "phi_resonance": 0.3250516799596217,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3250516799596217
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818320.790538
+    },
+    "pattern_256": {
+      "number": "384",
+      "phi_resonance": 0.3250516799596217,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3250516799596217
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818342.224281
+    },
+    "pattern_257": {
+      "number": "384",
+      "phi_resonance": 0.3250516799596217,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.3250516799596217
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818363.981386
+    },
+    "pattern_258": {
+      "number": "76013",
+      "phi_resonance": 0.6175868457570965,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6175868457570965
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818532.93149
+    },
+    "pattern_259": {
+      "number": "76013",
+      "phi_resonance": 0.6175868457570965,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6175868457570965
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818554.934978
+    },
+    "pattern_260": {
+      "number": "55",
+      "phi_resonance": 0.9918693812442166,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9918693812442166
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818577.4226828
+    },
+    "pattern_261": {
+      "number": "55",
+      "phi_resonance": 0.9918693812442166,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9918693812442166
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818600.595556
+    },
+    "pattern_262": {
+      "number": "29",
+      "phi_resonance": 0.9229856737469506,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9229856737469506
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818623.456506
+    },
+    "pattern_263": {
+      "number": "29",
+      "phi_resonance": 0.9229856737469506,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9229856737469506
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818646.6479402
+    },
+    "pattern_264": {
+      "number": "512",
+      "phi_resonance": 0.4334022399461623,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4334022399461623
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818670.28271
+    },
+    "pattern_265": {
+      "number": "512",
+      "phi_resonance": 0.4334022399461623,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4334022399461623
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818694.06947
+    },
+    "pattern_266": {
+      "number": "512",
+      "phi_resonance": 0.4334022399461623,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4334022399461623
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818718.3614988
+    },
+    "pattern_267": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818789.055243
+    },
+    "pattern_268": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818813.659976
+    },
+    "pattern_269": {
+      "number": "122991",
+      "phi_resonance": 0.6183103383172756,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.6183103383172756
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741818838.8412411
+    },
+    "pattern_270": {
+      "number": "6779",
+      "phi_resonance": 0.652409735537176,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.652409735537176
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821018.016441
+    },
+    "pattern_271": {
+      "number": "6779",
+      "phi_resonance": 0.652409735537176,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.652409735537176
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821041.2321658
+    },
+    "pattern_272": {
+      "number": "1794",
+      "phi_resonance": 0.7529758173113577,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7529758173113577
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821043.666494
+    },
+    "pattern_273": {
+      "number": "1794",
+      "phi_resonance": 0.7529758173113577,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.7529758173113577
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821066.585758
+    },
+    "pattern_274": {
+      "number": "1109",
+      "phi_resonance": 0.39969352363338667,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.39969352363338667
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821068.871277
+    },
+    "pattern_275": {
+      "number": "1109",
+      "phi_resonance": 0.39969352363338667,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.39969352363338667
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821092.173089
+    },
+    "pattern_276": {
+      "number": "8443",
+      "phi_resonance": 0.06096701536220339,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.06096701536220339
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821094.529045
+    },
+    "pattern_277": {
+      "number": "8443",
+      "phi_resonance": 0.06096701536220339,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.06096701536220339
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821118.173988
+    },
+    "pattern_278": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821120.571879
+    },
+    "pattern_279": {
+      "number": "8",
+      "phi_resonance": 0.9442719099991588,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9442719099991588
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821144.752029
+    },
+    "pattern_280": {
+      "number": "34",
+      "phi_resonance": 0.013155617496424838,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.013155617496424838
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821147.1567402
+    },
+    "pattern_281": {
+      "number": "34",
+      "phi_resonance": 0.013155617496424838,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.013155617496424838
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821172.429952
+    },
+    "pattern_282": {
+      "number": "4889",
+      "phi_resonance": 0.5681709982359129,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5681709982359129
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821174.84835
+    },
+    "pattern_283": {
+      "number": "4889",
+      "phi_resonance": 0.5681709982359129,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.5681709982359129
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821199.92635
+    },
+    "pattern_284": {
+      "number": "423",
+      "phi_resonance": 0.4283772412055208,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4283772412055208
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821202.4710999
+    },
+    "pattern_285": {
+      "number": "423",
+      "phi_resonance": 0.4283772412055208,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4283772412055208
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821228.411669
+    },
+    "pattern_286": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821230.997431
+    },
+    "pattern_287": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821257.1888351
+    },
+    "pattern_288": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821259.8799691
+    },
+    "pattern_289": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821286.910487
+    },
+    "pattern_290": {
+      "number": "21",
+      "phi_resonance": 0.9787137637477918,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9787137637477918
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821291.561004
+    },
+    "pattern_291": {
+      "number": "21",
+      "phi_resonance": 0.9787137637477918,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.9787137637477918
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821318.8057659
+    },
+    "pattern_292": {
+      "number": "3761",
+      "phi_resonance": 0.4258316883545241,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4258316883545241
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821321.442142
+    },
+    "pattern_293": {
+      "number": "3761",
+      "phi_resonance": 0.4258316883545241,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.4258316883545241
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821349.3898182
+    },
+    "pattern_294": {
+      "number": "8443",
+      "phi_resonance": 0.06096701536220339,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.06096701536220339
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821352.0540748
+    },
+    "pattern_295": {
+      "number": "8443",
+      "phi_resonance": 0.06096701536220339,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.06096701536220339
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821380.074522
+    },
+    "pattern_296": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821782.401838
+    },
+    "pattern_297": {
+      "number": "2",
+      "phi_resonance": 0.2360679774997897,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.2360679774997897
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821812.1671932
+    },
+    "pattern_298": {
+      "number": "3",
+      "phi_resonance": 0.8541019662496846,
+      "quantum_dimensions": {
+        "resonance_dimension": 0.8541019662496846
+      },
+      "resonance_patterns": [],
+      "timestamp": 1741821814.961985
+    }
+  },
+  "meta_patterns": {
+    "phi_resonance_clusters": {
+      "clusters": [
+        {
+          "center": 0.0,
+          "count": 23,
+          "significance": 0.07718120805369127
+        },
+        {
+          "center": 0.7,
+          "count": 28,
+          "significance": 0.09395973154362416
+        },
+        {
+          "center": 0.2,
+          "count": 35,
+          "significance": 0.1174496644295302
+        },
+        {
+          "center": 0.9,
+          "count": 51,
+          "significance": 0.17114093959731544
+        },
+        {
+          "center": 0.8,
+          "count": 12,
+          "significance": 0.040268456375838924
+        },
+        {
+          "center": 0.4,
+          "count": 26,
+          "significance": 0.087248322147651
+        },
+        {
+          "center": 0.6,
+          "count": 34,
+          "significance": 0.11409395973154363
+        },
+        {
+          "center": 0.5,
+          "count": 38,
+          "significance": 0.12751677852348994
+        },
+        {
+          "center": 0.1,
+          "count": 27,
+          "significance": 0.09060402684563758
+        },
+        {
+          "center": 1.0,
+          "count": 17,
+          "significance": 0.05704697986577181
+        },
+        {
+          "center": 0.3,
+          "count": 7,
+          "significance": 0.02348993288590604
+        }
+      ],
+      "total_patterns": 298
+    }
+  },
+  "statistics": {},
+  "learning_history": [
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137484754088075386891752126633862223536931793180060766726354433389086595939582905638322661319928290267880675208766892501711696207032221043216269548626296313614438149758701220340805887954454749246185695364864449241044320771344947049565846788509874339442212544877066478091588460749988712400765217057517978834166256249407589069704000281210427621771117778053153171410117046665991466979873176135600670874807101317952368942752194843530614433039449576485930594983782603621381589221865256989930816299144873708661568335886846509371401804503736832042381597731939526294317529196029680893094771432357266700295431108023288661764441559561004493980736273087564379515434594187725847316047576504481327807244770689632348937287337330203626588535746646743381150531016336322462745749225524817991791950313992030770831259045256500780172201700991903731462127889056197059687104537522308253916896586134920139621240925839777944573555991502406094821151770186841546296972634725726064307597024635191235004101797346454913921835172436564292866695233794138358007390640514359332189054283113226387908016701088600430272559324670888490466730465704828999418041654581354979268647710615309862156579682124436053380271759405977522197896980152697843330785810488329165540437284575151838303881393815638523059005021203664922115788385444888797525019676404920306205566575247280905565233436736417501371189967937340179564082745590970208",
+      "timestamp": 1741810775.620828,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "2.618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137e+1482",
+      "timestamp": 1741810775.625288,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "4.236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782275e+1482",
+      "timestamp": 1741810775.62961,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "2.058171027271492250321981047580450421238730099677819486281542352640479623158378925542297104146968394e+1482",
+      "timestamp": 1741810775.634513,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814554.8449779,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814554.847143,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814554.852237,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814554.8572521,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814669.6584718,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814669.664074,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814669.6697679,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "1618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814669.676373,
+      "patterns_detected": 0,
+      "phi_resonance": 0.71875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814670.389824,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814670.3933718,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814670.4006348,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814670.4089532,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814671.2572842,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814671.26019,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814671.2854679,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "4236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814671.2972028,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "timestamp": 1741814672.027424,
+      "patterns_detected": 1,
+      "phi_resonance": 0.75
+    },
+    {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "timestamp": 1741814672.03195,
+      "patterns_detected": 1,
+      "phi_resonance": 0.75
+    },
+    {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "timestamp": 1741814672.0579112,
+      "patterns_detected": 1,
+      "phi_resonance": 0.75
+    },
+    {
+      "number": "11090169943749474241023934171828190588601545899028814310677243113526302314094512248536035102094695685",
+      "timestamp": 1741814672.083597,
+      "patterns_detected": 1,
+      "phi_resonance": 0.75
+    },
+    {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "timestamp": 1741814672.863617,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "timestamp": 1741814672.886674,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "timestamp": 1741814672.931189,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "47288921376978896434112000260636151514393808549496428667772490381526302314094512248536035102094695685",
+      "timestamp": 1741814672.996798,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814673.696429,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814673.699657,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814673.744703,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "2618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814673.787576,
+      "patterns_detected": 0,
+      "phi_resonance": 0.21875
+    },
+    {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814674.466084,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6875
+    },
+    {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814674.474737,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6875
+    },
+    {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814674.506072,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6875
+    },
+    {
+      "number": "3618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137",
+      "timestamp": 1741814674.548877,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6875
+    },
+    {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814675.251572,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4375
+    },
+    {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814675.268464,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4375
+    },
+    {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814675.31791,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4375
+    },
+    {
+      "number": "3236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814675.387435,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4375
+    },
+    {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "timestamp": 1741814676.2930439,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "timestamp": 1741814676.298591,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "timestamp": 1741814676.356029,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "4854101966249684544613760503096914353160927539417288586406345868115781388456707348121621612568173411",
+      "timestamp": 1741814676.412338,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9375
+    },
+    {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814677.113942,
+      "patterns_detected": 1,
+      "phi_resonance": 0.875
+    },
+    {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814677.117541,
+      "patterns_detected": 1,
+      "phi_resonance": 0.875
+    },
+    {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814677.186977,
+      "patterns_detected": 1,
+      "phi_resonance": 0.875
+    },
+    {
+      "number": "6236067977499789696409173668731276235440618359611525724270897245410520925637804899414414408378782274",
+      "timestamp": 1741814677.256311,
+      "patterns_detected": 1,
+      "phi_resonance": 0.875
+    },
+    {
+      "number": "1",
+      "timestamp": 1741815386.1629598,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "2",
+      "timestamp": 1741815386.213727,
+      "patterns_detected": 0,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741815386.2652678,
+      "patterns_detected": 0,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "4",
+      "timestamp": 1741815386.317664,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "5",
+      "timestamp": 1741815386.371756,
+      "patterns_detected": 0,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "6",
+      "timestamp": 1741815386.427097,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "8",
+      "timestamp": 1741815386.485763,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "11",
+      "timestamp": 1741815386.547843,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7983738762488434
+    },
+    {
+      "number": "12",
+      "timestamp": 1741815386.611458,
+      "patterns_detected": 1,
+      "phi_resonance": 0.41640786499873816
+    },
+    {
+      "number": "13",
+      "timestamp": 1741815386.676084,
+      "patterns_detected": 0,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "17",
+      "timestamp": 1741815386.7456498,
+      "patterns_detected": 1,
+      "phi_resonance": 0.5065778087482125
+    },
+    {
+      "number": "18",
+      "timestamp": 1741815386.813586,
+      "patterns_detected": 0,
+      "phi_resonance": 0.12461179749810727
+    },
+    {
+      "number": "21",
+      "timestamp": 1741815386.8846269,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9787137637477918
+    },
+    {
+      "number": "24",
+      "timestamp": 1741815386.956074,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8328157299974763
+    },
+    {
+      "number": "29",
+      "timestamp": 1741815387.0314171,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9229856737469506
+    },
+    {
+      "number": "34",
+      "timestamp": 1741815387.111667,
+      "patterns_detected": 0,
+      "phi_resonance": 0.013155617496424838
+    },
+    {
+      "number": "36",
+      "timestamp": 1741815387.193033,
+      "patterns_detected": 0,
+      "phi_resonance": 0.24922359499621455
+    },
+    {
+      "number": "46",
+      "timestamp": 1741815387.276097,
+      "patterns_detected": 1,
+      "phi_resonance": 0.429563482495163
+    },
+    {
+      "number": "48",
+      "timestamp": 1741815387.35871,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6656314599949528
+    },
+    {
+      "number": "54",
+      "timestamp": 1741815387.444782,
+      "patterns_detected": 1,
+      "phi_resonance": 0.3738353924943218
+    },
+    {
+      "number": "55",
+      "timestamp": 1741815387.532091,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9918693812442166
+    },
+    {
+      "number": "72",
+      "timestamp": 1741815387.6252851,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4984471899924291
+    },
+    {
+      "number": "76",
+      "timestamp": 1741815387.717108,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9705831449920085
+    },
+    {
+      "number": "89",
+      "timestamp": 1741815387.813194,
+      "patterns_detected": 1,
+      "phi_resonance": 0.00502499874064149
+    },
+    {
+      "number": "96",
+      "timestamp": 1741815387.910748,
+      "patterns_detected": 1,
+      "phi_resonance": 0.3312629199899054
+    },
+    {
+      "number": "108",
+      "timestamp": 1741815388.007749,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7476707849886436
+    },
+    {
+      "number": "122",
+      "timestamp": 1741815388.109261,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4001466274871715
+    },
+    {
+      "number": "144",
+      "timestamp": 1741815388.209475,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9968943799848582
+    },
+    {
+      "number": "162",
+      "timestamp": 1741815388.3122401,
+      "patterns_detected": 1,
+      "phi_resonance": 0.12150617748296541
+    },
+    {
+      "number": "192",
+      "timestamp": 1741815388.421704,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6625258399798108
+    },
+    {
+      "number": "199",
+      "timestamp": 1741815388.532009,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9887637612290748
+    },
+    {
+      "number": "216",
+      "timestamp": 1741815388.64354,
+      "patterns_detected": 1,
+      "phi_resonance": 0.49534156997728723
+    },
+    {
+      "number": "233",
+      "timestamp": 1741815388.7575622,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0019193787254996317
+    },
+    {
+      "number": "288",
+      "timestamp": 1741815388.873386,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9937887599697163
+    },
+    {
+      "number": "321",
+      "timestamp": 1741815388.991488,
+      "patterns_detected": 1,
+      "phi_resonance": 0.3889103887162463
+    },
+    {
+      "number": "324",
+      "timestamp": 1741815389.113396,
+      "patterns_detected": 1,
+      "phi_resonance": 0.24301235496593082
+    },
+    {
+      "number": "377",
+      "timestamp": 1741815389.237709,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9988137587103578
+    },
+    {
+      "number": "384",
+      "timestamp": 1741815389.430699,
+      "patterns_detected": 1,
+      "phi_resonance": 0.3250516799596217
+    },
+    {
+      "number": "432",
+      "timestamp": 1741815389.558483,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9906831399545745
+    },
+    {
+      "number": "486",
+      "timestamp": 1741815389.689148,
+      "patterns_detected": 1,
+      "phi_resonance": 0.3645185324488962
+    },
+    {
+      "number": "521",
+      "timestamp": 1741815389.821974,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9957081386952159
+    },
+    {
+      "number": "576",
+      "timestamp": 1741815389.96008,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9875775199394325
+    },
+    {
+      "number": "610",
+      "timestamp": 1741815390.100954,
+      "patterns_detected": 1,
+      "phi_resonance": 0.0007331374358574048
+    },
+    {
+      "number": "648",
+      "timestamp": 1741815390.246333,
+      "patterns_detected": 1,
+      "phi_resonance": 0.48602470993186164
+    },
+    {
+      "number": "768",
+      "timestamp": 1741815390.393769,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6501033599192434
+    },
+    {
+      "number": "842",
+      "timestamp": 1741815390.546595,
+      "patterns_detected": 1,
+      "phi_resonance": 0.3846185274114622
+    },
+    {
+      "number": "864",
+      "timestamp": 1741815390.696824,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9813662799091488
+    },
+    {
+      "number": "972",
+      "timestamp": 1741815390.848303,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7290370648977924
+    },
+    {
+      "number": "987",
+      "timestamp": 1741815391.0040262,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9995468961462152
+    },
+    {
+      "number": "1152",
+      "timestamp": 1741815391.1682649,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9751550398788651
+    },
+    {
+      "number": "228826126",
+      "timestamp": 1741815392.7963488,
+      "patterns_detected": 1,
+      "phi_resonance": 0.38196602102201366
+    },
+    {
+      "number": "228826126",
+      "timestamp": 1741815392.96766,
+      "patterns_detected": 1,
+      "phi_resonance": 0.38196602102201366
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816365.9160058,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816536.83186,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816538.552453,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816538.7752278,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816540.622634,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816540.826796,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816543.1326458,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816543.3617852,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816545.5558982,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816545.858944,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816548.019626,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816548.294167,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816550.5248032,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816550.761976,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816553.010345,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816553.281863,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816555.614618,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816555.9155781,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816558.342725,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816558.609153,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816561.198338,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816561.4818869,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816564.1303208,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816564.421143,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816567.203083,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816567.5106711,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816570.424703,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816570.739836,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816573.8724391,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "11",
+      "timestamp": 1741816574.207374,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7983738762488434
+    },
+    {
+      "number": "11",
+      "timestamp": 1741816577.40315,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7983738762488434
+    },
+    {
+      "number": "11",
+      "timestamp": 1741816577.7549598,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7983738762488434
+    },
+    {
+      "number": "11",
+      "timestamp": 1741816581.162635,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7983738762488434
+    },
+    {
+      "number": "12",
+      "timestamp": 1741816581.536952,
+      "patterns_detected": 1,
+      "phi_resonance": 0.41640786499873816
+    },
+    {
+      "number": "12",
+      "timestamp": 1741816584.9610329,
+      "patterns_detected": 1,
+      "phi_resonance": 0.41640786499873816
+    },
+    {
+      "number": "12",
+      "timestamp": 1741816585.3690019,
+      "patterns_detected": 1,
+      "phi_resonance": 0.41640786499873816
+    },
+    {
+      "number": "12",
+      "timestamp": 1741816588.983982,
+      "patterns_detected": 1,
+      "phi_resonance": 0.41640786499873816
+    },
+    {
+      "number": "13",
+      "timestamp": 1741816589.3672562,
+      "patterns_detected": 1,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "13",
+      "timestamp": 1741816593.0212128,
+      "patterns_detected": 1,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "13",
+      "timestamp": 1741816593.4498,
+      "patterns_detected": 1,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "13",
+      "timestamp": 1741816597.2872279,
+      "patterns_detected": 1,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "17",
+      "timestamp": 1741816597.6937568,
+      "patterns_detected": 1,
+      "phi_resonance": 0.5065778087482125
+    },
+    {
+      "number": "17",
+      "timestamp": 1741816601.759331,
+      "patterns_detected": 1,
+      "phi_resonance": 0.5065778087482125
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816645.086638,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816649.208917,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816649.641015,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816653.914569,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816654.3681762,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816658.695132,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816659.2118201,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816663.876398,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816664.429578,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816669.257845,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816669.7583292,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816674.668326,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816675.191749,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816680.225205,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816680.869258,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816686.0081642,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816686.5710819,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816691.9208791,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816692.55599,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741816698.082633,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816698.719483,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816704.6075861,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816705.341482,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "6",
+      "timestamp": 1741816711.37352,
+      "patterns_detected": 1,
+      "phi_resonance": 0.7082039324993691
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816712.101291,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816718.267777,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741816718.953003,
+      "patterns_detected": 1,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816792.9027042,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816799.395266,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816800.0863738,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816807.003896,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816807.699736,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816814.5085719,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816815.302185,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816822.4687428,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816823.252118,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816830.399113,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816831.190916,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816838.610625,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816839.435374,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816847.686374,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816848.577733,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816856.511702,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816857.487114,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816865.60255,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816912.309386,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816920.821304,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816921.782092,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741816930.454803,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816931.4231548,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816940.4796412,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816941.443011,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741816950.489522,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816951.482869,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816960.980629,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816962.1054552,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741816972.119658,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816973.160764,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816983.10202,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816984.25523,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816994.52416,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741816995.812104,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817006.346733,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817033.9000351,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817045.02745,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817046.19645,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817057.2012758,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817058.423931,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817069.906116,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "1",
+      "timestamp": 1741817133.0163531,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741817145.058478,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741817146.4295769,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "1",
+      "timestamp": 1741817158.273439,
+      "patterns_detected": 1,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "number": "2",
+      "timestamp": 1741817159.512925,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741817171.88055,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741817173.1597152,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741817185.5604532,
+      "patterns_detected": 1,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741817186.8749912,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741817199.7009761,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741817201.03039,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741817214.959712,
+      "patterns_detected": 1,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817216.361137,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817230.0387971,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817231.576332,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817245.375223,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817246.991041,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "4",
+      "timestamp": 1741817261.110086,
+      "patterns_detected": 1,
+      "phi_resonance": 0.4721359549995794
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817299.5563142,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817314.640949,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817316.163083,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817331.3061519,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817332.928639,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "5",
+      "timestamp": 1741817348.184988,
+      "patterns_detected": 1,
+      "phi_resonance": 0.09016994374947424
+    },
+    {
+      "number": "2618",
+      "timestamp": 1741817654.509578,
+      "patterns_detected": 0,
+      "phi_resonance": 0.0129825472247126
+    },
+    {
+      "number": "2618",
+      "timestamp": 1741817672.126194,
+      "patterns_detected": 0,
+      "phi_resonance": 0.0129825472247126
+    },
+    {
+      "number": "8",
+      "timestamp": 1741817691.160516,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741817709.409388,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "17",
+      "timestamp": 1741817727.629282,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5065778087482125
+    },
+    {
+      "number": "17",
+      "timestamp": 1741817746.434232,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5065778087482125
+    },
+    {
+      "number": "640",
+      "timestamp": 1741817765.086484,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5417527999327029
+    },
+    {
+      "number": "640",
+      "timestamp": 1741817783.980885,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5417527999327029
+    },
+    {
+      "number": "640",
+      "timestamp": 1741817803.314025,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5417527999327029
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741817861.703819,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741817881.613608,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741817901.4983292,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741818196.036675,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741818216.177168,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "13",
+      "timestamp": 1741818236.907244,
+      "patterns_detected": 0,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "13",
+      "timestamp": 1741818257.3983932,
+      "patterns_detected": 0,
+      "phi_resonance": 0.034441853748633025
+    },
+    {
+      "number": "7",
+      "timestamp": 1741818278.04719,
+      "patterns_detected": 0,
+      "phi_resonance": 0.32623792124926393
+    },
+    {
+      "number": "7",
+      "timestamp": 1741818299.4299462,
+      "patterns_detected": 0,
+      "phi_resonance": 0.32623792124926393
+    },
+    {
+      "number": "384",
+      "timestamp": 1741818320.7906291,
+      "patterns_detected": 0,
+      "phi_resonance": 0.3250516799596217
+    },
+    {
+      "number": "384",
+      "timestamp": 1741818342.22437,
+      "patterns_detected": 0,
+      "phi_resonance": 0.3250516799596217
+    },
+    {
+      "number": "384",
+      "timestamp": 1741818363.981479,
+      "patterns_detected": 0,
+      "phi_resonance": 0.3250516799596217
+    },
+    {
+      "number": "76013",
+      "timestamp": 1741818532.931581,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6175868457570965
+    },
+    {
+      "number": "76013",
+      "timestamp": 1741818554.935068,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6175868457570965
+    },
+    {
+      "number": "55",
+      "timestamp": 1741818577.422771,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9918693812442166
+    },
+    {
+      "number": "55",
+      "timestamp": 1741818600.5956469,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9918693812442166
+    },
+    {
+      "number": "29",
+      "timestamp": 1741818623.4566,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9229856737469506
+    },
+    {
+      "number": "29",
+      "timestamp": 1741818646.648041,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9229856737469506
+    },
+    {
+      "number": "512",
+      "timestamp": 1741818670.2828019,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4334022399461623
+    },
+    {
+      "number": "512",
+      "timestamp": 1741818694.06956,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4334022399461623
+    },
+    {
+      "number": "512",
+      "timestamp": 1741818718.3615942,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4334022399461623
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741818789.055339,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741818813.660068,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "122991",
+      "timestamp": 1741818838.841333,
+      "patterns_detected": 0,
+      "phi_resonance": 0.6183103383172756
+    },
+    {
+      "number": "6779",
+      "timestamp": 1741821018.016535,
+      "patterns_detected": 0,
+      "phi_resonance": 0.652409735537176
+    },
+    {
+      "number": "6779",
+      "timestamp": 1741821041.232258,
+      "patterns_detected": 0,
+      "phi_resonance": 0.652409735537176
+    },
+    {
+      "number": "1794",
+      "timestamp": 1741821043.6665971,
+      "patterns_detected": 0,
+      "phi_resonance": 0.7529758173113577
+    },
+    {
+      "number": "1794",
+      "timestamp": 1741821066.585854,
+      "patterns_detected": 0,
+      "phi_resonance": 0.7529758173113577
+    },
+    {
+      "number": "1109",
+      "timestamp": 1741821068.871368,
+      "patterns_detected": 0,
+      "phi_resonance": 0.39969352363338667
+    },
+    {
+      "number": "1109",
+      "timestamp": 1741821092.173183,
+      "patterns_detected": 0,
+      "phi_resonance": 0.39969352363338667
+    },
+    {
+      "number": "8443",
+      "timestamp": 1741821094.5291378,
+      "patterns_detected": 0,
+      "phi_resonance": 0.06096701536220339
+    },
+    {
+      "number": "8443",
+      "timestamp": 1741821118.1740868,
+      "patterns_detected": 0,
+      "phi_resonance": 0.06096701536220339
+    },
+    {
+      "number": "8",
+      "timestamp": 1741821120.57197,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "8",
+      "timestamp": 1741821144.7521238,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9442719099991588
+    },
+    {
+      "number": "34",
+      "timestamp": 1741821147.156833,
+      "patterns_detected": 0,
+      "phi_resonance": 0.013155617496424838
+    },
+    {
+      "number": "34",
+      "timestamp": 1741821172.430049,
+      "patterns_detected": 0,
+      "phi_resonance": 0.013155617496424838
+    },
+    {
+      "number": "4889",
+      "timestamp": 1741821174.848445,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5681709982359129
+    },
+    {
+      "number": "4889",
+      "timestamp": 1741821199.926446,
+      "patterns_detected": 0,
+      "phi_resonance": 0.5681709982359129
+    },
+    {
+      "number": "423",
+      "timestamp": 1741821202.471199,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4283772412055208
+    },
+    {
+      "number": "423",
+      "timestamp": 1741821228.41177,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4283772412055208
+    },
+    {
+      "number": "3",
+      "timestamp": 1741821230.997532,
+      "patterns_detected": 0,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "3",
+      "timestamp": 1741821257.188938,
+      "patterns_detected": 0,
+      "phi_resonance": 0.8541019662496846
+    },
+    {
+      "number": "2",
+      "timestamp": 1741821259.880069,
+      "patterns_detected": 0,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741821286.910589,
+      "patterns_detected": 0,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "21",
+      "timestamp": 1741821291.561103,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9787137637477918
+    },
+    {
+      "number": "21",
+      "timestamp": 1741821318.80587,
+      "patterns_detected": 0,
+      "phi_resonance": 0.9787137637477918
+    },
+    {
+      "number": "3761",
+      "timestamp": 1741821321.44224,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4258316883545241
+    },
+    {
+      "number": "3761",
+      "timestamp": 1741821349.3899179,
+      "patterns_detected": 0,
+      "phi_resonance": 0.4258316883545241
+    },
+    {
+      "number": "8443",
+      "timestamp": 1741821352.0541718,
+      "patterns_detected": 0,
+      "phi_resonance": 0.06096701536220339
+    },
+    {
+      "number": "8443",
+      "timestamp": 1741821380.0746229,
+      "patterns_detected": 0,
+      "phi_resonance": 0.06096701536220339
+    },
+    {
+      "number": "2",
+      "timestamp": 1741821782.401941,
+      "patterns_detected": 0,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "2",
+      "timestamp": 1741821812.167291,
+      "patterns_detected": 0,
+      "phi_resonance": 0.2360679774997897
+    },
+    {
+      "number": "3",
+      "timestamp": 1741821814.962081,
+      "patterns_detected": 0,
+      "phi_resonance": 0.8541019662496846
+    }
+  ]
+}

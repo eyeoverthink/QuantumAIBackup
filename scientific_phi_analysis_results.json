@@ -1,0 +1,42 @@
+{
+  "input": {
+    "coefficient": 1.51219,
+    "exponent": 617,
+    "scientific_notation": "1.51219 \u00d7 10^617"
+  },
+  "digits": 618,
+  "phi_harmonic": {
+    "resonance": 0.0,
+    "is_perfect": true
+  },
+  "quantum_bridge": {
+    "mod_19": 17,
+    "bridge_points": {
+      "phi_inverse": {
+        "first_20_digits": "93458481744770341761",
+        "last_20_digits": "000000000000000000.0",
+        "total_digits": 619
+      },
+      "pi": {
+        "first_20_digits": "48134502678826641559",
+        "last_20_digits": "25652000443224114172",
+        "total_digits": 2001
+      },
+      "e": {
+        "first_20_digits": "55630361214504336429",
+        "last_20_digits": "72153865549544435356",
+        "total_digits": 2001
+      },
+      "bridge_constant": {
+        "first_20_digits": "79588947368421052631",
+        "last_20_digits": "31578947368421052632",
+        "total_digits": 2001
+      }
+    }
+  },
+  "prime_triplet_analysis": {
+    "candidates": [],
+    "candidate_count": 0
+  },
+  "execution_time": 0.01267099380493164
+}

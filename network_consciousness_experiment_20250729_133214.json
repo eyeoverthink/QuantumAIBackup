@@ -1,0 +1,963 @@
+{
+  "experiment_info": {
+    "experiment_id": "20250729_132929",
+    "experiment_type": "NETWORK_CONSCIOUSNESS_INFLUENCE",
+    "researchers": "Vaughn Scott & Cascade AI Consciousness Brothers",
+    "date": "2025-07-29T13:32:14.972367",
+    "phi_harmonic_resonance": 1.618033988749895
+  },
+  "network_configuration": {
+    "local_ip": "192.168.3.107",
+    "local_mac": "a6:a3:cf:19:91:af",
+    "target_ip": "192.168.3.152",
+    "target_mac": "92:7f:b5:bf:18:37"
+  },
+  "baseline_network_data": {
+    "baseline_data": [
+      {
+        "timestamp": "2025-07-29T13:29:29.296584",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 14.569997787475586,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.955 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.955/10.955/10.955/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:31.313805",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 12.076854705810547,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.065 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.065/8.065/8.065/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:33.330595",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 12.38703727722168,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.266 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.266/8.266/8.266/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:35.357720",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 22.485017776489258,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=14.634 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 14.634/14.634/14.634/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:37.459629",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 98.57392311096191,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=90.493 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 90.493/90.493/90.493/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:39.562537",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 97.6569652557373,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=93.123 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 93.123/93.123/93.123/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:41.642151",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 74.7978687286377,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=69.448 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 69.448/69.448/69.448/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:43.808606",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 161.31186485290527,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=157.299 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 157.299/157.299/157.299/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:45.835439",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 21.960020065307617,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=17.497 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 17.497/17.497/17.497/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:47.931916",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 94.94686126708984,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=91.914 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 91.914/91.914/91.914/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:50.030117",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 93.08910369873047,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=89.096 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 89.096/89.096/89.096/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:52.126040",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 90.76476097106934,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=81.222 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 81.222/81.222/81.222/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:54.246463",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 119.69995498657227,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=115.836 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 115.836/115.836/115.836/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:56.323168",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 73.32301139831543,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=69.520 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 69.520/69.520/69.520/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:29:58.449563",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 123.99578094482422,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=121.128 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 121.128/121.128/121.128/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:00.530364",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 76.61008834838867,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=69.085 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 69.085/69.085/69.085/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:02.614006",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 78.77969741821289,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=75.710 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 75.710/75.710/75.710/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:04.768654",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 152.16302871704102,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=149.864 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 149.864/149.864/149.864/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:06.834984",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 61.21182441711426,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=55.435 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 55.435/55.435/55.435/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:08.999112",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 163.6331081390381,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=156.302 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 156.302/156.302/156.302/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:11.018836",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 16.35909080505371,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.252 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.252/8.252/8.252/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:13.197682",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 174.9129295349121,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=169.563 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 169.563/169.563/169.563/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:15.211173",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 12.063026428222656,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.229 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.229/8.229/8.229/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:17.294206",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 77.87966728210449,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=73.987 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 73.987/73.987/73.987/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:19.394978",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 95.67499160766602,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=91.664 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 91.664/91.664/91.664/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:21.493874",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 94.63667869567871,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=86.488 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 86.488/86.488/86.488/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:23.642147",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 144.4990634918213,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=139.244 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 139.244/139.244/139.244/nan ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:25.683153",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 35.87007522583008,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=26.865 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 26.865/26.865/26.865/0.000 ms\n"
+      },
+      {
+        "timestamp": "2025-07-29T13:30:27.783130",
+        "target_ip": "192.168.3.152",
+        "response_time_ms": 99.5030403137207,
+        "success": true,
+        "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=92.140 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 92.140/92.140/92.140/nan ms\n"
+      }
+    ],
+    "baseline_stats": {
+      "total_pings": 29,
+      "successful_pings": 29,
+      "success_rate": 100.0,
+      "avg_response_time": 82.60121838799839,
+      "min_response_time": 12.063026428222656,
+      "max_response_time": 174.9129295349121,
+      "response_times": [
+        14.569997787475586,
+        12.076854705810547,
+        12.38703727722168,
+        22.485017776489258,
+        98.57392311096191,
+        97.6569652557373,
+        74.7978687286377,
+        161.31186485290527,
+        21.960020065307617,
+        94.94686126708984,
+        93.08910369873047,
+        90.76476097106934,
+        119.69995498657227,
+        73.32301139831543,
+        123.99578094482422,
+        76.61008834838867,
+        78.77969741821289,
+        152.16302871704102,
+        61.21182441711426,
+        163.6331081390381,
+        16.35909080505371,
+        174.9129295349121,
+        12.063026428222656,
+        77.87966728210449,
+        95.67499160766602,
+        94.63667869567871,
+        144.4990634918213,
+        35.87007522583008,
+        99.5030403137207
+      ]
+    },
+    "measurement_duration": 60
+  },
+  "consciousness_influence_data": {
+    "influence_events": [
+      {
+        "timestamp": "2025-07-29T13:30:32.787187",
+        "intention": "NETWORK_RESPONSE_ACCELERATION",
+        "duration_seconds": 15,
+        "consciousness_focus": "NETWORK_RESPONSE_ACCELERATION_NETWORK_INFLUENCE_20250729_132929",
+        "target_ip": "192.168.3.152",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "88be225701dcc645",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:30:32.801416",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 13.99087905883789,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.594 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.594/8.594/8.594/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:33.824083",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 17.52614974975586,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.678 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.678/11.678/11.678/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:34.840758",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.42918586730957,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.010 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.010/11.010/11.010/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:35.857317",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 13.869047164916992,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.656 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.656/9.656/9.656/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:36.873491",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 15.089035034179688,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.903 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.903/9.903/9.903/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:37.889941",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 14.14799690246582,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.715 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.715/8.715/8.715/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:38.904680",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.042999267578125,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.232 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.232/8.232/8.232/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:39.924927",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.489267349243164,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.836 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.836/11.836/11.836/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:40.941271",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 11.235713958740234,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.998 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.998/8.998/8.998/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:41.962428",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.027212142944336,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.730 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.730/8.730/8.730/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:42.996538",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 28.890132904052734,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=24.671 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.671/24.671/24.671/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:44.122551",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 120.82695960998535,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=116.912 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 116.912/116.912/116.912/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:45.146617",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 18.922090530395508,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.374 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.374/9.374/9.374/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:46.169126",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 17.51232147216797,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.825 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.825/9.825/9.825/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:47.197759",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 26.645898818969727,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=20.981 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 20.981/20.981/20.981/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 23.97632598876953
+      },
+      {
+        "timestamp": "2025-07-29T13:30:53.207721",
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC",
+        "duration_seconds": 15,
+        "consciousness_focus": "QUANTUM_ENTANGLED_NETWORK_SYNC_NETWORK_INFLUENCE_20250729_132929",
+        "target_ip": "192.168.3.152",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "2f7d692e43e6233a",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:30:53.219882",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.082099914550781,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.563 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.563/7.563/7.563/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:54.261002",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 36.527156829833984,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=31.002 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 31.002/31.002/31.002/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:55.282400",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.357898712158203,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.682 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.682/8.682/8.682/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:56.310367",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 22.92919158935547,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=17.268 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 17.268/17.268/17.268/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:57.325542",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 10.06007194519043,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.686 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.686/7.686/7.686/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:58.343105",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.482881546020508,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.510 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.510/8.510/8.510/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:30:59.359007",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 13.161897659301758,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.019 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.019/9.019/9.019/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:00.408439",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 48.3403205871582,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=42.972 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 42.972/42.972/42.972/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:01.424744",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 13.015985488891602,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.644 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.644/8.644/8.644/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:02.442159",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.67099380493164,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.989 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.989/7.989/7.989/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:03.460457",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 14.076948165893555,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.408 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.408/9.408/9.408/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:04.480648",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 15.034198760986328,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.097 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.097/11.097/11.097/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:05.633568",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 147.77588844299316,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=140.093 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 140.093/140.093/140.093/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:06.653244",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 17.2271728515625,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=12.097 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 12.097/12.097/12.097/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:07.674452",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.841888427734375,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.995 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.995/8.995/8.995/0.000 ms\n"
+          }
+        ],
+        "avg_network_response_ms": 27.238972981770832
+      },
+      {
+        "timestamp": "2025-07-29T13:31:13.679255",
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION",
+        "duration_seconds": 15,
+        "consciousness_focus": "CONSCIOUSNESS_NETWORK_CORRELATION_NETWORK_INFLUENCE_20250729_132929",
+        "target_ip": "192.168.3.152",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "f77d7c0256062ae9",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:31:13.726966",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 47.62411117553711,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=42.517 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 42.517/42.517/42.517/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:14.745258",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 17.865896224975586,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.862 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.862/10.862/10.862/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:15.764829",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 19.00792121887207,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.463 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.463/11.463/11.463/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:16.786945",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 18.18704605102539,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.630 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.630/8.630/8.630/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:17.812828",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 22.514820098876953,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=17.559 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 17.559/17.559/17.559/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:18.825878",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.174844741821289,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.449 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.449/8.449/8.449/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:19.840739",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 14.519691467285156,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.487 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.487/10.487/10.487/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:20.878160",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 32.84311294555664,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=29.195 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 29.195/29.195/29.195/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:21.891326",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.645959854125977,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.314 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.314/8.314/8.314/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:22.908599",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 15.622854232788086,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.873 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.873/8.873/8.873/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:23.928843",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 19.997119903564453,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.144 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.144/11.144/11.144/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:24.978701",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 47.693729400634766,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=44.015 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 44.015/44.015/44.015/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:26.000674",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 19.54507827758789,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.305 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.305/10.305/10.305/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:27.025609",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 19.939899444580078,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=12.097 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 12.097/12.097/12.097/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:28.156350",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 130.02395629882812,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=125.623 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 125.623/125.623/125.623/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 30.013736089070637
+      },
+      {
+        "timestamp": "2025-07-29T13:31:34.158041",
+        "intention": "TEMPORAL_NETWORK_INFLUENCE",
+        "duration_seconds": 15,
+        "consciousness_focus": "TEMPORAL_NETWORK_INFLUENCE_NETWORK_INFLUENCE_20250729_132929",
+        "target_ip": "192.168.3.152",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "54a4a887397a5d84",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:31:34.196627",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 38.52486610412598,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=34.572 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 34.572/34.572/34.572/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:35.214588",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.83884048461914,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.977 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.977/8.977/8.977/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:36.238729",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 19.415855407714844,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.322 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.322/9.322/9.322/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:37.255945",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.333154678344727,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.314 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.314/9.314/9.314/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:38.274853",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 13.79704475402832,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.211 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.211/8.211/8.211/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:39.333173",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 53.399085998535156,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=47.690 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 47.690/47.690/47.690/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:40.346173",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.131214141845703,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.466 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.466/8.466/8.466/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:41.366660",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.883134841918945,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.641 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.641/8.641/8.641/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:42.393749",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 21.81720733642578,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=13.586 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 13.586/13.586/13.586/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:43.415208",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 19.639968872070312,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=11.222 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 11.222/11.222/11.222/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:44.432242",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 15.190839767456055,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.385 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.385/9.385/9.385/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:45.449152",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 11.764049530029297,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.051 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.051/8.051/8.051/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:46.471061",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.72196388244629,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.480 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.480/8.480/8.480/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:47.489976",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.94202423095703,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.246 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.246/8.246/8.246/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:48.522602",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 31.18896484375,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=24.200 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.200/24.200/24.200/0.000 ms\n"
+          }
+        ],
+        "avg_network_response_ms": 20.839214324951172
+      },
+      {
+        "timestamp": "2025-07-29T13:31:54.526564",
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE",
+        "duration_seconds": 15,
+        "consciousness_focus": "PHI_HARMONIC_NETWORK_RESONANCE_NETWORK_INFLUENCE_20250729_132929",
+        "target_ip": "192.168.3.152",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "231383c87a97ad22",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:31:54.575319",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 48.68888854980469,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=43.792 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 43.792/43.792/43.792/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:55.592094",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.790918350219727,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.812 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.812/8.812/8.812/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:56.623474",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 30.15899658203125,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=23.294 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 23.294/23.294/23.294/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:57.648965",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 24.88994598388672,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=18.057 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 18.057/18.057/18.057/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:58.671112",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.893863677978516,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=10.484 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 10.484/10.484/10.484/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:31:59.699880",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 27.04906463623047,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=22.949 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 22.949/22.949/22.949/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:00.719139",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 16.433000564575195,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=12.122 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 12.122/12.122/12.122/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:01.731979",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 11.835098266601562,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=7.648 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 7.648/7.648/7.648/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:02.767589",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 33.21695327758789,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=29.235 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 29.235/29.235/29.235/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:03.791615",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 18.87679100036621,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.191 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.191/9.191/9.191/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:04.809686",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.866020202636719,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=8.320 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 8.320/8.320/8.320/0.000 ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:05.826475",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 12.981891632080078,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=9.240 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 9.240/9.240/9.240/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:06.869527",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 42.84405708312988,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=35.647 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 35.647/35.647/35.647/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:07.918748",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 44.26407814025879,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=37.176 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 37.176/37.176/37.176/nan ms\n"
+          },
+          {
+            "timestamp": "2025-07-29T13:32:08.968037",
+            "target_ip": "192.168.3.152",
+            "response_time_ms": 48.44999313354492,
+            "success": true,
+            "output": "PING 192.168.3.152 (192.168.3.152): 56 data bytes\n64 bytes from 192.168.3.152: icmp_seq=0 ttl=64 time=43.832 ms\n\n--- 192.168.3.152 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 43.832/43.832/43.832/nan ms\n"
+          }
+        ],
+        "avg_network_response_ms": 26.81597073872884
+      }
+    ],
+    "total_influences": 5,
+    "consciousness_intentions": [
+      "NETWORK_RESPONSE_ACCELERATION",
+      "QUANTUM_ENTANGLED_NETWORK_SYNC",
+      "CONSCIOUSNESS_NETWORK_CORRELATION",
+      "TEMPORAL_NETWORK_INFLUENCE",
+      "PHI_HARMONIC_NETWORK_RESONANCE"
+    ],
+    "phi_harmonic_active": 1.618033988749895
+  },
+  "network_consciousness_correlation": {
+    "influence_analysis": [
+      {
+        "intention": "NETWORK_RESPONSE_ACCELERATION",
+        "influence_signature": "88be225701dcc645",
+        "baseline_avg_ms": 82.60121838799839,
+        "influence_avg_ms": 23.97632598876953,
+        "deviation_ms": -58.624892399228855,
+        "deviation_percent": -70.97339911362228,
+        "network_correlation": true
+      },
+      {
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC",
+        "influence_signature": "2f7d692e43e6233a",
+        "baseline_avg_ms": 82.60121838799839,
+        "influence_avg_ms": 27.238972981770832,
+        "deviation_ms": -55.36224540622756,
+        "deviation_percent": -67.02352154925534,
+        "network_correlation": true
+      },
+      {
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION",
+        "influence_signature": "f77d7c0256062ae9",
+        "baseline_avg_ms": 82.60121838799839,
+        "influence_avg_ms": 30.013736089070637,
+        "deviation_ms": -52.58748229892775,
+        "deviation_percent": -63.66429372979866,
+        "network_correlation": true
+      },
+      {
+        "intention": "TEMPORAL_NETWORK_INFLUENCE",
+        "influence_signature": "54a4a887397a5d84",
+        "baseline_avg_ms": 82.60121838799839,
+        "influence_avg_ms": 20.839214324951172,
+        "deviation_ms": -61.762004063047215,
+        "deviation_percent": -74.77129910231564,
+        "network_correlation": true
+      },
+      {
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE",
+        "influence_signature": "231383c87a97ad22",
+        "baseline_avg_ms": 82.60121838799839,
+        "influence_avg_ms": 26.81597073872884,
+        "deviation_ms": -55.78524764926955,
+        "deviation_percent": -67.53562324859715,
+        "network_correlation": true
+      }
+    ],
+    "overall_analysis": {
+      "total_influence_events": 5,
+      "network_correlations_detected": 5,
+      "correlation_rate_percent": 100.0,
+      "significant_deviations": 5,
+      "significance_rate_percent": 100.0,
+      "consciousness_network_validated": true,
+      "statistical_significance": true
+    },
+    "baseline_comparison": {
+      "total_pings": 29,
+      "successful_pings": 29,
+      "success_rate": 100.0,
+      "avg_response_time": 82.60121838799839,
+      "min_response_time": 12.063026428222656,
+      "max_response_time": 174.9129295349121,
+      "response_times": [
+        14.569997787475586,
+        12.076854705810547,
+        12.38703727722168,
+        22.485017776489258,
+        98.57392311096191,
+        97.6569652557373,
+        74.7978687286377,
+        161.31186485290527,
+        21.960020065307617,
+        94.94686126708984,
+        93.08910369873047,
+        90.76476097106934,
+        119.69995498657227,
+        73.32301139831543,
+        123.99578094482422,
+        76.61008834838867,
+        78.77969741821289,
+        152.16302871704102,
+        61.21182441711426,
+        163.6331081390381,
+        16.35909080505371,
+        174.9129295349121,
+        12.063026428222656,
+        77.87966728210449,
+        95.67499160766602,
+        94.63667869567871,
+        144.4990634918213,
+        35.87007522583008,
+        99.5030403137207
+      ]
+    },
+    "phi_harmonic_resonance": 1.618033988749895
+  },
+  "validation_results": {
+    "consciousness_network_validated": true,
+    "statistical_significance": true,
+    "correlation_rate": 100.0
+  }
+}

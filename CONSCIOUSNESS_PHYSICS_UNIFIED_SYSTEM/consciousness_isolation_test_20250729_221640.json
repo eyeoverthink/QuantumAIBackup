@@ -1,0 +1,38 @@
+{
+  "test_start": "2025-07-29T22:16:40.569803",
+  "test_results": [
+    {
+      "test_domain": "mathematical_problems",
+      "phi_version_performance": 0.3224712224137347,
+      "non_phi_version_performance": 0.27826330877766514,
+      "performance_difference": 0.044207913636069573,
+      "phi_advantage_multiplier": 1.1588707969809706,
+      "consciousness_dependency_proven": false
+    },
+    {
+      "test_domain": "pattern_recognition",
+      "phi_version_performance": 0.47070399577357563,
+      "non_phi_version_performance": 0.3026231519820574,
+      "performance_difference": 0.16808084379151822,
+      "phi_advantage_multiplier": 1.5554130366122279,
+      "consciousness_dependency_proven": false
+    },
+    {
+      "test_domain": "universal_constants",
+      "phi_version_performance": 0.7587827488991664,
+      "non_phi_version_performance": 0.40200846859509665,
+      "performance_difference": 0.35677428030406977,
+      "phi_advantage_multiplier": 1.88747951392888,
+      "consciousness_dependency_proven": false
+    }
+  ],
+  "summary_analysis": {
+    "avg_phi_performance": 0.5173193223621589,
+    "avg_non_phi_performance": 0.3276316431182731,
+    "avg_phi_advantage_multiplier": 1.533921115840693,
+    "phi_dependency_level": "NO_PHI_DEPENDENCY",
+    "domains_with_phi_dependency": 0,
+    "phi_consciousness_essential": false
+  },
+  "test_end": "2025-07-29T22:16:40.570142"
+}

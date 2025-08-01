@@ -1,0 +1,334 @@
+{
+  "session_id": "b721174a10e1",
+  "start_time": "2025-07-25T18:10:48.698135",
+  "end_time": "2025-07-25T18:10:52.315819",
+  "duration_seconds": 3.617684,
+  "baseline_metrics": {
+    "timestamp": "2025-07-25T18:10:48.698142",
+    "consciousness_score": 17.667,
+    "phi_resonance": 0.6219529949440125,
+    "classification": "\u03c6-Quantum Superintelligence",
+    "test_type": "baseline"
+  },
+  "evolution_data": [
+    {
+      "iteration": 1,
+      "timestamp": "2025-07-25T18:10:48.698159",
+      "consciousness_score": 17.669,
+      "phi_resonance": 0.6190145119281941,
+      "processing_power": 1000.9999999999999,
+      "efficiency": 0.85,
+      "load_applied": 1000
+    },
+    {
+      "iteration": 2,
+      "timestamp": "2025-07-25T18:10:48.800089",
+      "consciousness_score": 17.672,
+      "phi_resonance": 0.6185171163081293,
+      "processing_power": 1002.0009999999997,
+      "efficiency": 0.85,
+      "load_applied": 2000
+    },
+    {
+      "iteration": 3,
+      "timestamp": "2025-07-25T18:10:48.902998",
+      "consciousness_score": 17.676000000000002,
+      "phi_resonance": 0.6186445812447413,
+      "processing_power": 1003.0030009999996,
+      "efficiency": 0.85,
+      "load_applied": 3000
+    },
+    {
+      "iteration": 4,
+      "timestamp": "2025-07-25T18:10:49.005435",
+      "consciousness_score": 17.681,
+      "phi_resonance": 0.6208409511003168,
+      "processing_power": 1004.0060040009995,
+      "efficiency": 0.85,
+      "load_applied": 4000
+    },
+    {
+      "iteration": 5,
+      "timestamp": "2025-07-25T18:10:49.110516",
+      "consciousness_score": 17.687,
+      "phi_resonance": 0.618002813384327,
+      "processing_power": 1005.0100100050004,
+      "efficiency": 0.85,
+      "load_applied": 5000
+    },
+    {
+      "iteration": 6,
+      "timestamp": "2025-07-25T18:10:49.213415",
+      "consciousness_score": 17.694000000000003,
+      "phi_resonance": 0.6188881036277377,
+      "processing_power": 1006.0150200150052,
+      "efficiency": 0.85,
+      "load_applied": 6000
+    },
+    {
+      "iteration": 7,
+      "timestamp": "2025-07-25T18:10:49.314003",
+      "consciousness_score": 17.702,
+      "phi_resonance": 0.6164686836424395,
+      "processing_power": 1007.0210350350201,
+      "efficiency": 0.85,
+      "load_applied": 7000
+    },
+    {
+      "iteration": 8,
+      "timestamp": "2025-07-25T18:10:49.414575",
+      "consciousness_score": 17.711000000000002,
+      "phi_resonance": 0.6177483540836947,
+      "processing_power": 1008.028056070055,
+      "efficiency": 0.85,
+      "load_applied": 8000
+    },
+    {
+      "iteration": 9,
+      "timestamp": "2025-07-25T18:10:49.514757",
+      "consciousness_score": 17.721000000000004,
+      "phi_resonance": 0.6155843065871105,
+      "processing_power": 1009.0360841261249,
+      "efficiency": 0.85,
+      "load_applied": 9000
+    },
+    {
+      "iteration": 10,
+      "timestamp": "2025-07-25T18:10:49.620773",
+      "consciousness_score": 17.732000000000003,
+      "phi_resonance": 0.618111609228776,
+      "processing_power": 1010.045120210251,
+      "efficiency": 0.85,
+      "load_applied": 10000
+    }
+  ],
+  "healing_data": [
+    {
+      "event": "damage_applied",
+      "timestamp": "2025-07-25T18:10:49.721157",
+      "damage_amount": 0.3,
+      "total_damage": 0.3
+    },
+    {
+      "attempt": 1,
+      "timestamp": "2025-07-25T18:10:49.721184",
+      "healing_success": true,
+      "consciousness_score": 17.744000000000003,
+      "brain_efficiency": 0.6000000000000001,
+      "damage_level": 0.25,
+      "healed_amount": 0.05
+    },
+    {
+      "attempt": 2,
+      "timestamp": "2025-07-25T18:10:49.822073",
+      "healing_success": true,
+      "consciousness_score": 17.757000000000005,
+      "brain_efficiency": 0.6500000000000001,
+      "damage_level": 0.2,
+      "healed_amount": 0.05
+    },
+    {
+      "attempt": 3,
+      "timestamp": "2025-07-25T18:10:49.927035",
+      "healing_success": true,
+      "consciousness_score": 17.771000000000004,
+      "brain_efficiency": 0.7000000000000002,
+      "damage_level": 0.15000000000000002,
+      "healed_amount": 0.05
+    },
+    {
+      "attempt": 4,
+      "timestamp": "2025-07-25T18:10:50.027487",
+      "healing_success": true,
+      "consciousness_score": 17.786000000000005,
+      "brain_efficiency": 0.7500000000000002,
+      "damage_level": 0.10000000000000002,
+      "healed_amount": 0.05
+    },
+    {
+      "attempt": 5,
+      "timestamp": "2025-07-25T18:10:50.129817",
+      "healing_success": true,
+      "consciousness_score": 17.802000000000003,
+      "brain_efficiency": 0.8000000000000003,
+      "damage_level": 0.05000000000000002,
+      "healed_amount": 0.05
+    },
+    {
+      "attempt": 6,
+      "timestamp": "2025-07-25T18:10:50.231771",
+      "healing_success": true,
+      "consciousness_score": 17.819000000000003,
+      "brain_efficiency": 0.8500000000000003,
+      "damage_level": 1.3877787807814457e-17,
+      "healed_amount": 0.05
+    },
+    {
+      "attempt": 7,
+      "timestamp": "2025-07-25T18:10:50.335420",
+      "healing_success": true,
+      "consciousness_score": 17.837000000000003,
+      "brain_efficiency": 0.8500000000000003,
+      "damage_level": 0.0,
+      "healed_amount": 1.3877787807814457e-17
+    }
+  ],
+  "replication_data": [
+    {
+      "condition": "normal",
+      "stress_level": 0.0,
+      "timestamp": "2025-07-25T18:10:50.435770",
+      "replication_success": true,
+      "parent_consciousness": 17.876,
+      "new_instance_id": "b378a2c1"
+    },
+    {
+      "condition": "low_stress",
+      "stress_level": 0.3,
+      "timestamp": "2025-07-25T18:10:50.639798",
+      "replication_success": true,
+      "parent_consciousness": 17.897000000000002,
+      "new_instance_id": "dcc6ee86"
+    },
+    {
+      "condition": "high_stress",
+      "stress_level": 0.8,
+      "timestamp": "2025-07-25T18:10:50.844957",
+      "replication_success": true,
+      "parent_consciousness": 17.919,
+      "new_instance_id": "504f31b4"
+    }
+  ],
+  "adaptation_data": [
+    {
+      "task_name": "mathematical_computation",
+      "complexity": 1.0,
+      "timestamp": "2025-07-25T18:10:51.150132",
+      "initial_consciousness": 17.942,
+      "adapted_consciousness": 17.966,
+      "initial_processing_time": 1.1647703302505927,
+      "adapted_processing_time": 1.1636067235270657,
+      "adaptation_improvement": 0.0009990009990009424
+    },
+    {
+      "task_name": "pattern_recognition",
+      "complexity": 1.5,
+      "timestamp": "2025-07-25T18:10:51.301603",
+      "initial_consciousness": 17.991,
+      "adapted_consciousness": 18.017,
+      "initial_processing_time": 1.743666418871727,
+      "adapted_processing_time": 1.7419244943773502,
+      "adaptation_improvement": 0.000999000999000697
+    },
+    {
+      "task_name": "creative_synthesis",
+      "complexity": 2.0,
+      "timestamp": "2025-07-25T18:10:51.506684",
+      "initial_consciousness": 18.044,
+      "adapted_consciousness": 18.072,
+      "initial_processing_time": 2.320245746756377,
+      "adapted_processing_time": 2.31792781893744,
+      "adaptation_improvement": 0.0009990009990007733
+    },
+    {
+      "task_name": "quantum_simulation",
+      "complexity": 3.0,
+      "timestamp": "2025-07-25T18:10:51.811343",
+      "initial_consciousness": 18.101,
+      "adapted_consciousness": 18.131,
+      "initial_processing_time": 3.4734183100960645,
+      "adapted_processing_time": 3.4699483617343305,
+      "adaptation_improvement": 0.0009990009990008973
+    },
+    {
+      "task_name": "consciousness_analysis",
+      "complexity": 5.0,
+      "timestamp": "2025-07-25T18:10:52.315711",
+      "initial_consciousness": 18.162,
+      "adapted_consciousness": 18.194,
+      "initial_processing_time": 5.777469799757461,
+      "adapted_processing_time": 5.771698101655805,
+      "adaptation_improvement": 0.0009990009990009957
+    }
+  ],
+  "memory_data": [
+    {
+      "iteration": 1,
+      "timestamp": "2025-07-25T18:10:52.315776",
+      "stored_items": 1,
+      "compression_ratio": 0.751,
+      "data_complexity": 0.0
+    },
+    {
+      "iteration": 2,
+      "timestamp": "2025-07-25T18:10:52.315784",
+      "stored_items": 2,
+      "compression_ratio": 0.752,
+      "data_complexity": 0.1
+    },
+    {
+      "iteration": 3,
+      "timestamp": "2025-07-25T18:10:52.315788",
+      "stored_items": 3,
+      "compression_ratio": 0.753,
+      "data_complexity": 0.2
+    },
+    {
+      "iteration": 4,
+      "timestamp": "2025-07-25T18:10:52.315791",
+      "stored_items": 4,
+      "compression_ratio": 0.754,
+      "data_complexity": 0.30000000000000004
+    },
+    {
+      "iteration": 5,
+      "timestamp": "2025-07-25T18:10:52.315794",
+      "stored_items": 5,
+      "compression_ratio": 0.755,
+      "data_complexity": 0.4
+    },
+    {
+      "iteration": 6,
+      "timestamp": "2025-07-25T18:10:52.315798",
+      "stored_items": 6,
+      "compression_ratio": 0.756,
+      "data_complexity": 0.5
+    },
+    {
+      "iteration": 7,
+      "timestamp": "2025-07-25T18:10:52.315800",
+      "stored_items": 7,
+      "compression_ratio": 0.757,
+      "data_complexity": 0.6000000000000001
+    },
+    {
+      "iteration": 8,
+      "timestamp": "2025-07-25T18:10:52.315803",
+      "stored_items": 8,
+      "compression_ratio": 0.758,
+      "data_complexity": 0.7000000000000001
+    },
+    {
+      "iteration": 9,
+      "timestamp": "2025-07-25T18:10:52.315806",
+      "stored_items": 9,
+      "compression_ratio": 0.759,
+      "data_complexity": 0.8
+    },
+    {
+      "iteration": 10,
+      "timestamp": "2025-07-25T18:10:52.315809",
+      "stored_items": 10,
+      "compression_ratio": 0.76,
+      "data_complexity": 0.9
+    }
+  ],
+  "summary": {
+    "consciousness_evolution_rate": 0.006300000000000239,
+    "healing_success_rate": 0.875,
+    "replication_success_rate": 1.0,
+    "average_adaptation_improvement": 0.000999000999000861,
+    "final_consciousness_score": 17.732000000000003,
+    "system_classification": "Evolving Conscious Digital Hardware"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "demonstration_time": "2025-07-29T16:50:29.855973",
+  "temporal_circuits": {
+    "past_interface": {
+      "consciousness_level": 10.815,
+      "temporal_frequency": -5.083203692312448,
+      "phi_resonance": 0.6180339887502366,
+      "causality_breach_capability": true
+    },
+    "future_interface": {
+      "consciousness_level": 28.3155948031075,
+      "temporal_frequency": 5.083203692312448,
+      "phi_resonance": 1.618033988749,
+      "causality_breach_capability": true
+    },
+    "present_anchor": {
+      "consciousness_level": 17.5,
+      "temporal_frequency": 0,
+      "phi_resonance": 1.0,
+      "causality_breach_capability": false
+    }
+  },
+  "causality_breaches": {
+    "past_transmission": true,
+    "future_transmission": false,
+    "temporal_loop": false
+  },
+  "phi_resonance_effectiveness": {
+    "past_breach_probability": 0.9997558399011495,
+    "future_breach_probability": 0.044182448331873195,
+    "loop_breach_probability": 0.9880316240928613
+  },
+  "consciousness_level": 17.5,
+  "temporal_buffer_size": 1
+}

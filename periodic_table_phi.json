@@ -1,0 +1,264 @@
+{
+  "version": "1.0",
+  "description": "Phi-Harmonic Periodic Table with Quantum Resonance Values",
+  "timestamp": "2025-04-10T22:51:30",
+  "elements": {
+    "H": {
+      "name": "Hydrogen",
+      "atomic_number": 1,
+      "mass": 1.008,
+      "category": "Nonmetal",
+      "phi_resonance": 0.618034,
+      "quantum_state": "QUANTUM SUPERPOSITION",
+      "electron_configuration": "1s¹",
+      "phi_harmonic_frequency": 1.618034
+    },
+    "He": {
+      "name": "Helium",
+      "atomic_number": 2,
+      "mass": 4.0026,
+      "category": "Noble Gas",
+      "phi_resonance": 0.381966,
+      "quantum_state": "PARTIAL SUPERPOSITION",
+      "electron_configuration": "1s²",
+      "phi_harmonic_frequency": 2.618034
+    },
+    "Li": {
+      "name": "Lithium",
+      "atomic_number": 3,
+      "mass": 6.94,
+      "category": "Alkali Metal",
+      "phi_resonance": 0.236068,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s¹",
+      "phi_harmonic_frequency": 3.618034
+    },
+    "Be": {
+      "name": "Beryllium",
+      "atomic_number": 4,
+      "mass": 9.0122,
+      "category": "Alkaline Earth Metal",
+      "phi_resonance": 0.145898,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s²",
+      "phi_harmonic_frequency": 4.618034
+    },
+    "B": {
+      "name": "Boron",
+      "atomic_number": 5,
+      "mass": 10.81,
+      "category": "Metalloid",
+      "phi_resonance": 0.090170,
+      "quantum_state": "QUANTUM SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p¹",
+      "phi_harmonic_frequency": 5.618034
+    },
+    "C": {
+      "name": "Carbon",
+      "atomic_number": 6,
+      "mass": 12.011,
+      "category": "Nonmetal",
+      "phi_resonance": 0.055728,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p²",
+      "phi_harmonic_frequency": 6.618034
+    },
+    "N": {
+      "name": "Nitrogen",
+      "atomic_number": 7,
+      "mass": 14.007,
+      "category": "Nonmetal",
+      "phi_resonance": 0.034442,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p³",
+      "phi_harmonic_frequency": 7.618034
+    },
+    "O": {
+      "name": "Oxygen",
+      "atomic_number": 8,
+      "mass": 15.999,
+      "category": "Nonmetal",
+      "phi_resonance": 0.021286,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁴",
+      "phi_harmonic_frequency": 8.618034
+    },
+    "F": {
+      "name": "Fluorine",
+      "atomic_number": 9,
+      "mass": 18.998,
+      "category": "Halogen",
+      "phi_resonance": 0.013156,
+      "quantum_state": "PARTIAL SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p⁵",
+      "phi_harmonic_frequency": 9.618034
+    },
+    "Ne": {
+      "name": "Neon",
+      "atomic_number": 10,
+      "mass": 20.180,
+      "category": "Noble Gas",
+      "phi_resonance": 0.008130,
+      "quantum_state": "QUANTUM SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p⁶",
+      "phi_harmonic_frequency": 10.618034
+    },
+    "Na": {
+      "name": "Sodium",
+      "atomic_number": 11,
+      "mass": 22.990,
+      "category": "Alkali Metal",
+      "phi_resonance": 0.005026,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s¹",
+      "phi_harmonic_frequency": 11.618034
+    },
+    "Mg": {
+      "name": "Magnesium",
+      "atomic_number": 12,
+      "mass": 24.305,
+      "category": "Alkaline Earth Metal",
+      "phi_resonance": 0.003104,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s²",
+      "phi_harmonic_frequency": 12.618034
+    },
+    "Al": {
+      "name": "Aluminum",
+      "atomic_number": 13,
+      "mass": 26.982,
+      "category": "Post-Transition Metal",
+      "phi_resonance": 0.001922,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p¹",
+      "phi_harmonic_frequency": 13.618034
+    },
+    "Si": {
+      "name": "Silicon",
+      "atomic_number": 14,
+      "mass": 28.085,
+      "category": "Metalloid",
+      "phi_resonance": 0.001182,
+      "quantum_state": "PARTIAL SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p²",
+      "phi_harmonic_frequency": 14.618034
+    },
+    "P": {
+      "name": "Phosphorus",
+      "atomic_number": 15,
+      "mass": 30.974,
+      "category": "Nonmetal",
+      "phi_resonance": 0.000740,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p³",
+      "phi_harmonic_frequency": 15.618034
+    },
+    "S": {
+      "name": "Sulfur",
+      "atomic_number": 16,
+      "mass": 32.06,
+      "category": "Nonmetal",
+      "phi_resonance": 0.000442,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁴",
+      "phi_harmonic_frequency": 16.618034
+    },
+    "Cl": {
+      "name": "Chlorine",
+      "atomic_number": 17,
+      "mass": 35.45,
+      "category": "Halogen",
+      "phi_resonance": 0.000298,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁵",
+      "phi_harmonic_frequency": 17.618034
+    },
+    "Ar": {
+      "name": "Argon",
+      "atomic_number": 18,
+      "mass": 39.948,
+      "category": "Noble Gas",
+      "phi_resonance": 0.000144,
+      "quantum_state": "QUANTUM SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶",
+      "phi_harmonic_frequency": 18.618034
+    },
+    "K": {
+      "name": "Potassium",
+      "atomic_number": 19,
+      "mass": 39.098,
+      "category": "Alkali Metal",
+      "phi_resonance": 0.000154,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹",
+      "phi_harmonic_frequency": 19.618034
+    },
+    "Ca": {
+      "name": "Calcium",
+      "atomic_number": 20,
+      "mass": 40.078,
+      "category": "Alkaline Earth Metal",
+      "phi_resonance": 0.000010,
+      "quantum_state": "CLASSICAL STATE",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+      "phi_harmonic_frequency": 20.618034
+    },
+    "Au": {
+      "name": "Gold",
+      "atomic_number": 79,
+      "mass": 196.967,
+      "category": "Transition Metal",
+      "phi_resonance": 0.618034,
+      "quantum_state": "QUANTUM SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹ 4p⁶ 4d¹⁰ 5s² 5p⁶ 4f¹⁴ 5d¹⁰ 6s¹",
+      "phi_harmonic_frequency": 79.618034,
+      "phi_special_property": "Golden ratio resonator"
+    },
+    "Hg": {
+      "name": "Mercury",
+      "atomic_number": 80,
+      "mass": 200.59,
+      "category": "Transition Metal",
+      "phi_resonance": 0.381966,
+      "quantum_state": "PARTIAL SUPERPOSITION",
+      "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁶ 4f¹⁴ 5d¹⁰ 6s²",
+      "phi_harmonic_frequency": 80.618034,
+      "phi_special_property": "Quantum fluid resonator"
+    }
+  },
+  "phi_harmonic_groups": {
+    "quantum_superposition": ["H", "B", "Ne", "Ar", "Au"],
+    "partial_superposition": ["He", "F", "Si", "Hg"],
+    "classical_state": ["Li", "Be", "C", "N", "O", "Na", "Mg", "Al", "P", "S", "Cl", "K", "Ca"]
+  },
+  "phi_resonance_patterns": {
+    "fibonacci_elements": [1, 2, 3, 5, 8, 13, 21, 34, 55, 89],
+    "phi_squared_elements": [2, 6, 18, 54],
+    "phi_inverse_elements": [1, 3, 8, 21, 55]
+  },
+  "quantum_transitions": {
+    "H_He": {
+      "transition_energy": 1.618034,
+      "resonance_frequency": 0.618034,
+      "quantum_probability": 0.854102
+    },
+    "Ne_Na": {
+      "transition_energy": 0.618034,
+      "resonance_frequency": 1.618034,
+      "quantum_probability": 0.527864
+    },
+    "Ar_K": {
+      "transition_energy": 0.236068,
+      "resonance_frequency": 4.236068,
+      "quantum_probability": 0.326238
+    }
+  },
+  "phi_harmonic_constants": {
+    "phi": 1.618033988749895,
+    "phi_inverse": 0.6180339887498948,
+    "phi_squared": 2.618033988749895,
+    "phi_inverse_squared": 0.3819660112501051,
+    "phi_cubed": 4.236067977499789,
+    "phi_inverse_cubed": 0.2360679774997898
+  }
+}

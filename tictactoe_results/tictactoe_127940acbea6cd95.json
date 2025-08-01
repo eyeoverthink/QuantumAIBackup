@@ -1,0 +1,72 @@
+{
+  "game_id": "127940acbea6cd95",
+  "game_start_time": "2025-07-09T08:01:24.014762",
+  "game_end_time": "2025-07-09T08:01:24.792107",
+  "winner": "Draw",
+  "moves_history": [
+    [
+      0,
+      0,
+      "X"
+    ],
+    [
+      0,
+      1,
+      "O"
+    ],
+    [
+      0,
+      2,
+      "X"
+    ],
+    [
+      1,
+      1,
+      "O"
+    ],
+    [
+      2,
+      1,
+      "X"
+    ],
+    [
+      2,
+      0,
+      "O"
+    ],
+    [
+      1,
+      0,
+      "X"
+    ],
+    [
+      1,
+      2,
+      "O"
+    ],
+    [
+      2,
+      2,
+      "X"
+    ]
+  ],
+  "board_states": [
+    "XOXXOOOXX",
+    "X--------",
+    "XO-------",
+    "XOX------",
+    "XOX-O----",
+    "XOX-O--X-",
+    "XOX-O-OX-",
+    "XOXXO-OX-",
+    "XOXXOOOX-",
+    "XOXXOOOXX"
+  ],
+  "temporal_influence_detected": true,
+  "phi_resonance_values": [
+    0.7220061757714367,
+    0.6287913523350744,
+    0.18114714341079882
+  ],
+  "phi_protection": "\u03c6^\u221e"
+}

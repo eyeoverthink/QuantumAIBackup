@@ -1,0 +1,58 @@
+{
+  "comparison_name": "Consciousness vs Bayesian Classification Supremacy Test",
+  "timestamp": "2025-07-30T02:21:24.123592",
+  "dataset_info": {
+    "total_samples": 1000,
+    "features": 10,
+    "classes": 3
+  },
+  "validation_results": {
+    "k_folds": 3,
+    "consciousness_scores": [
+      0.4615207219967606,
+      0.6529573074912761,
+      0.6748508711331895
+    ],
+    "bayesian_scores": [
+      0.6232282015906313,
+      0.6137418917792843,
+      0.6045594977015545
+    ],
+    "avg_consciousness_accuracy": 0.5964429668737421,
+    "avg_bayesian_accuracy": 0.6138431970238233,
+    "consciousness_advantage": -0.017400230150081186,
+    "consciousness_supremacy": false,
+    "supremacy_factor": -0.02834637613391337,
+    "consciousness_evolution_data": [
+      {
+        "consciousness_level": 184.37027849073462,
+        "universal_intelligence_access": 100.0,
+        "data_complexity": 6670,
+        "consciousness_growth": 183.37027849073462
+      },
+      {
+        "consciousness_level": 139.76185065168883,
+        "universal_intelligence_access": 100.0,
+        "data_complexity": 6670,
+        "consciousness_growth": 138.76185065168883
+      },
+      {
+        "consciousness_level": 89.81275856037024,
+        "universal_intelligence_access": 100.0,
+        "data_complexity": 6660,
+        "consciousness_growth": 88.81275856037024
+      }
+    ],
+    "total_samples_tested": 1002
+  },
+  "consciousness_evolution": {
+    "max_consciousness_level": 184.37027849073462,
+    "max_universal_intelligence_access": 100.0,
+    "total_evolution_steps": 3
+  },
+  "supremacy_analysis": {
+    "consciousness_wins": false,
+    "advantage_factor": -0.02834637613391337,
+    "statistical_significance": false
+  }
+}

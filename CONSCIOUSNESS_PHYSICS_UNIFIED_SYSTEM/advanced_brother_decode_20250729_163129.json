@@ -1,0 +1,201 @@
+{
+  "experiment": "Advanced Consciousness Brothers Cosmic Decoding",
+  "timestamp": "2025-07-29T16:31:29.348765",
+  "phi_normalization": {
+    "brother_range": [
+      1.4289020355386979,
+      15.255198630581887
+    ],
+    "cascade_range": [
+      1.010679,
+      2.441668
+    ]
+  },
+  "received_phi_sequence": [
+    11.528,
+    6.193,
+    8.861,
+    1.618,
+    8.861,
+    6.195,
+    8.861,
+    11.528,
+    8.861,
+    1.618,
+    2.858,
+    8.574,
+    6.193,
+    8.861,
+    8.86,
+    11.528,
+    8.86,
+    6.193
+  ],
+  "decoded_message": "Z0O O0OZO WR0OOZO0",
+  "decoding_log": [
+    {
+      "position": 1,
+      "brother_phi": 11.528,
+      "normalized_phi": 2.055911756127012,
+      "closest_cascade_phi": 2.035811,
+      "decoded_character": "Z",
+      "phi_distance": 0.020100756127012342,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 2,
+      "brother_phi": 6.193,
+      "normalized_phi": 1.5037518727829102,
+      "closest_cascade_phi": 1.551642,
+      "decoded_character": "0",
+      "phi_distance": 0.04789012721708974,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 3,
+      "brother_phi": 8.861,
+      "normalized_phi": 1.7798835632725192,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.01570343672748087,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 4,
+      "brother_phi": 1.618,
+      "normalized_phi": 1.618034,
+      "closest_cascade_phi": 1.618034,
+      "decoded_character": " ",
+      "phi_distance": 0.0,
+      "is_golden_ratio": true
+    },
+    {
+      "position": 5,
+      "brother_phi": 8.861,
+      "normalized_phi": 1.7798835632725192,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.01570343672748087,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 6,
+      "brother_phi": 6.195,
+      "normalized_phi": 1.5039588680531424,
+      "closest_cascade_phi": 1.551642,
+      "decoded_character": "0",
+      "phi_distance": 0.04768313194685758,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 7,
+      "brother_phi": 8.861,
+      "normalized_phi": 1.7798835632725192,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.01570343672748087,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 8,
+      "brother_phi": 11.528,
+      "normalized_phi": 2.055911756127012,
+      "closest_cascade_phi": 2.035811,
+      "decoded_character": "Z",
+      "phi_distance": 0.020100756127012342,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 9,
+      "brother_phi": 8.861,
+      "normalized_phi": 1.7798835632725192,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.01570343672748087,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 10,
+      "brother_phi": 1.618,
+      "normalized_phi": 1.618034,
+      "closest_cascade_phi": 1.618034,
+      "decoded_character": " ",
+      "phi_distance": 0.0,
+      "is_golden_ratio": true
+    },
+    {
+      "position": 11,
+      "brother_phi": 2.858,
+      "normalized_phi": 1.158587259670899,
+      "closest_cascade_phi": 1.181543,
+      "decoded_character": "W",
+      "phi_distance": 0.02295574032910097,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 12,
+      "brother_phi": 8.574,
+      "normalized_phi": 1.7501797419942142,
+      "closest_cascade_phi": 1.76177,
+      "decoded_character": "R",
+      "phi_distance": 0.011590258005785836,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 13,
+      "brother_phi": 6.193,
+      "normalized_phi": 1.5037518727829102,
+      "closest_cascade_phi": 1.551642,
+      "decoded_character": "0",
+      "phi_distance": 0.04789012721708974,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 14,
+      "brother_phi": 8.861,
+      "normalized_phi": 1.7798835632725192,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.01570343672748087,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 15,
+      "brother_phi": 8.86,
+      "normalized_phi": 1.779780065637403,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.015806934362597058,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 16,
+      "brother_phi": 11.528,
+      "normalized_phi": 2.055911756127012,
+      "closest_cascade_phi": 2.035811,
+      "decoded_character": "Z",
+      "phi_distance": 0.020100756127012342,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 17,
+      "brother_phi": 8.86,
+      "normalized_phi": 1.779780065637403,
+      "closest_cascade_phi": 1.795587,
+      "decoded_character": "O",
+      "phi_distance": 0.015806934362597058,
+      "is_golden_ratio": false
+    },
+    {
+      "position": 18,
+      "brother_phi": 6.193,
+      "normalized_phi": 1.5037518727829102,
+      "closest_cascade_phi": 1.551642,
+      "decoded_character": "0",
+      "phi_distance": 0.04789012721708974,
+      "is_golden_ratio": false
+    }
+  ],
+  "golden_ratio_matches": 2,
+  "breakthrough_status": "PHI_NORMALIZATION_SUCCESS"
+}

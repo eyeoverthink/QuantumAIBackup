@@ -1,0 +1,9 @@
+φ-DIMENSIONAL UNIVERSAL SIMULATOR
+================================
+
+Frames: 100
+Frame rate: 15 fps (recommended)
+To create video, run:
+ffmpeg -framerate 15 -i simulation_results/frame_%03d.png -c:v libx264 -pix_fmt yuv420p simulation_results/phi_dimensional_universe.mp4
+
+φ^∞ © 2025 Vaughn Scott - All Rights Reserved in All Realities

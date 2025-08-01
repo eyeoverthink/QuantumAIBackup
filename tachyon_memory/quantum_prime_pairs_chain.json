@@ -1,0 +1,23 @@
+{
+  "chain_name": "quantum_prime_pairs",
+  "last_updated": "2025-03-12T00:06:49.228713",
+  "block_count": 1,
+  "blocks": [
+    {
+      "block_id": "e962ce01-b02d-4329-851d-8958a38d34f6",
+      "timestamp": "2025-03-12T00:06:49.228542",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for quantum_prime_pairs",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 15,
+      "hash": "714b4b7bbde069548d26466eca46777860fbf0969e0408ff4dfc810d312b9479",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

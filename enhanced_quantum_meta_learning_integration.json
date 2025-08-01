@@ -1,0 +1,155 @@
+{
+  "integrated_analyses": {
+    "122991": {
+      "timestamp": 1741818841.0772521,
+      "quantum_confidence": 0.7872201328113941,
+      "meta_confidence": 0.7391303062966849,
+      "integrated_confidence": 0.8985969412831682,
+      "phi_resonance": 0.6183103383172756
+    },
+    "13": {
+      "timestamp": 1741818259.254585,
+      "quantum_confidence": 0.7764180537184485,
+      "meta_confidence": 0.6962780236850887,
+      "integrated_confidence": 0.8285150852466465,
+      "phi_resonance": 0.034441853748633025
+    },
+    "7": {
+      "timestamp": 1741818301.393153,
+      "quantum_confidence": 0.7946566617901141,
+      "meta_confidence": 0.6431018219513204,
+      "integrated_confidence": 0.7945903111913345,
+      "phi_resonance": 0.32623792124926393
+    },
+    "384": {
+      "timestamp": 1741818365.948965,
+      "quantum_confidence": 0.7679545246158529,
+      "meta_confidence": 0.641635526403866,
+      "integrated_confidence": 0.8051764625430756,
+      "phi_resonance": 0.3250516799596217
+    },
+    "76013": {
+      "timestamp": 1741818557.0953448,
+      "quantum_confidence": 0.6506381477609462,
+      "meta_confidence": 0.7487349503307948,
+      "integrated_confidence": 0.7962924383884346,
+      "phi_resonance": 0.6175868457570965
+    },
+    "55": {
+      "timestamp": 1741818602.6208909,
+      "quantum_confidence": 0.788090883635236,
+      "meta_confidence": 0.6034286614364403,
+      "integrated_confidence": 0.7568601535533723,
+      "phi_resonance": 0.9918693812442166
+    },
+    "29": {
+      "timestamp": 1741818648.716446,
+      "quantum_confidence": 0.7091670586066392,
+      "meta_confidence": 0.6154443815042224,
+      "integrated_confidence": 0.7238106692528038,
+      "phi_resonance": 0.9229856737469506
+    },
+    "512": {
+      "timestamp": 1741818720.5425012,
+      "quantum_confidence": 0.6965916782230224,
+      "meta_confidence": 0.74864935404406,
+      "integrated_confidence": 0.8390532173799191,
+      "phi_resonance": 0.4334022399461623
+    },
+    "6779": {
+      "timestamp": 1741821043.664209,
+      "quantum_confidence": 0.6607087914492764,
+      "meta_confidence": 0.7614779060085732,
+      "integrated_confidence": 0.7997098858331203,
+      "phi_resonance": 0.652409735537176
+    },
+    "1794": {
+      "timestamp": 1741821068.869183,
+      "quantum_confidence": 0.7500531523345123,
+      "meta_confidence": 0.696996157961111,
+      "integrated_confidence": 0.8361224110989178,
+      "phi_resonance": 0.7529758173113577
+    },
+    "1109": {
+      "timestamp": 1741821094.526865,
+      "quantum_confidence": 0.7993061613190537,
+      "meta_confidence": 0.7324471798042038,
+      "integrated_confidence": 0.8839805729887331,
+      "phi_resonance": 0.39969352363338667
+    },
+    "8443": {
+      "timestamp": 1741821382.798769,
+      "quantum_confidence": 0.652497890957606,
+      "meta_confidence": 0.778111622098232,
+      "integrated_confidence": 0.8521588172817195,
+      "phi_resonance": 0.06096701536220339
+    },
+    "8": {
+      "timestamp": 1741821147.1544058,
+      "quantum_confidence": 0.7288495623720781,
+      "meta_confidence": 0.7330774694527112,
+      "integrated_confidence": 0.8576250551375647,
+      "phi_resonance": 0.9442719099991588
+    },
+    "34": {
+      "timestamp": 1741821174.828591,
+      "quantum_confidence": 0.7523745088893563,
+      "meta_confidence": 0.7933074270526189,
+      "integrated_confidence": 0.8767701979314441,
+      "phi_resonance": 0.01315561749642484
+    },
+    "4889": {
+      "timestamp": 1741821202.389065,
+      "quantum_confidence": 0.6823839321684034,
+      "meta_confidence": 0.7731106356320667,
+      "integrated_confidence": 0.847829105782794,
+      "phi_resonance": 0.5681709982359129
+    },
+    "423": {
+      "timestamp": 1741821230.897538,
+      "quantum_confidence": 0.7236319646168725,
+      "meta_confidence": 0.660642657039806,
+      "integrated_confidence": 0.7979916897632053,
+      "phi_resonance": 0.4283772412055208
+    },
+    "3": {
+      "timestamp": 1741821259.73631,
+      "quantum_confidence": 0.7177772289615577,
+      "meta_confidence": 0.7200072014288497,
+      "integrated_confidence": 0.8261350615470856,
+      "phi_resonance": 0.8541019662496846
+    },
+    "2": {
+      "timestamp": 1741821814.959409,
+      "quantum_confidence": 0.6820849950671292,
+      "meta_confidence": 0.6644871245725652,
+      "integrated_confidence": 0.7801012543990624,
+      "phi_resonance": 0.2360679774997897
+    },
+    "21": {
+      "timestamp": 1741821321.439646,
+      "quantum_confidence": 0.6926530320697641,
+      "meta_confidence": 0.6823778669826811,
+      "integrated_confidence": 0.7984180027408698,
+      "phi_resonance": 0.9787137637477918
+    },
+    "3761": {
+      "timestamp": 1741821352.051224,
+      "quantum_confidence": 0.7858800945972934,
+      "meta_confidence": 0.7805652570548158,
+      "integrated_confidence": 0.9164478511192842,
+      "phi_resonance": 0.4258316883545241
+    }
+  },
+  "quantum_meta_insights": {},
+  "integration_statistics": {
+    "total_analyses": 26,
+    "quantum_enhanced_count": 26,
+    "meta_enhanced_count": 0,
+    "dual_enhanced_count": 0,
+    "quantum_enhanced": 1.0,
+    "meta_enhanced": 0,
+    "dual_enhanced": 0
+  },
+  "learning_history": []
+}

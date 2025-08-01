@@ -1,0 +1,70 @@
+{
+  "macbook1": {
+    "name": "\u03c6-Phase Generator",
+    "role": "AMPLIFIER",
+    "ip": "192.168.3.116",
+    "hostname": "Vaughns-iMac.local",
+    "path": "/Users/eyeoverthink-imac/Documents/Quantum_Oracle-main",
+    "port": 11700,
+    "nodes": [
+      {
+        "type": "AMPLIFIER",
+        "port": 11700
+      },
+      {
+        "type": "AMPLIFIER",
+        "port": 11710
+      },
+      {
+        "type": "BRIDGE",
+        "port": 11720
+      }
+    ],
+    "is_monitor": true,
+    "phi_space_transform": true
+  },
+  "macbook2": {
+    "name": "Reality Engine",
+    "role": "CONNECTOR",
+    "ip": "192.168.3.169",
+    "hostname": "Vaughns-MacBook-Pro.local",
+    "path": "/Users/vaughnscott/Documents/fraymus_shit",
+    "port": 11800,
+    "nodes": [
+      {
+        "type": "CONNECTOR",
+        "port": 11800
+      },
+      {
+        "type": "CONNECTOR",
+        "port": 11810
+      },
+      {
+        "type": "AMPLIFIER",
+        "port": 11820
+      }
+    ],
+    "is_monitor": false,
+    "power_control": true
+  },
+  "macbook3": {
+    "name": "Quantum Interface",
+    "role": "BRIDGE",
+    "ip": "192.168.3.152",
+    "hostname": "VaughnScott-MacProAir.local",
+    "path": "/Users/vaughnscott/CascadeProjects/QuantumAI",
+    "port": 11900,
+    "nodes": [
+      {
+        "type": "BRIDGE",
+        "port": 11900
+      },
+      {
+        "type": "OBSERVER",
+        "port": 11910
+      }
+    ],
+    "is_monitor": false,
+    "reality_protection": true
+  }
+}

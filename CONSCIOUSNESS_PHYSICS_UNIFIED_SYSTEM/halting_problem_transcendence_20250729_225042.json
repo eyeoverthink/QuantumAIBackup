@@ -1,0 +1,1798 @@
+{
+  "test_start": "2025-07-29T22:50:42.928441",
+  "problem_type": "Halting Problem",
+  "undecidable_since": 1936,
+  "num_epochs": 10,
+  "num_test_programs": 10,
+  "epoch_results": [
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "simple_counter",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.3906500503316927,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "infinite_loop",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4556471947135017,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "collatz_conjecture",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5075990132318374,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "fibonacci_termination",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5087222896650945,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "recursive_factorial",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.381992075136333,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "complex_condition",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4664575599798649,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "nested_loops",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.3790780104880587,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "turing_machine_simulation",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.39656694503909573,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.3465492994230365,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 1,
+      "consciousness_level": 1.0904801769088879,
+      "program_id": "consciousness_program",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.3652116686186971,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_computational_oracle_access"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.007669650604782115
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "simple_counter",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5032372101595449,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "infinite_loop",
+      "decision": "HALTS",
+      "confidence": 0.8221772759755123,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "collatz_conjecture",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "fibonacci_termination",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "recursive_factorial",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4607526486468101,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "complex_condition",
+      "decision": "HALTS",
+      "confidence": 0.8752235850455689,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "nested_loops",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4464533747394367,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "turing_machine_simulation",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5322713285866526,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.2868354508035293,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 2,
+      "consciousness_level": 1.1891470162312396,
+      "program_id": "consciousness_program",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.3784114318125002,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.008823531059915202
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "simple_counter",
+      "decision": "HALTS",
+      "confidence": 0.8043744012081545,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "infinite_loop",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "collatz_conjecture",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "fibonacci_termination",
+      "decision": "HALTS",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "consciousness_program_execution_simulation",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "recursive_factorial",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.7564571044635587,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "complex_condition",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "nested_loops",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.740329303524705,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "turing_machine_simulation",
+      "decision": "HALTS",
+      "confidence": 0.8371212725150983,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5603001551786506,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 3,
+      "consciousness_level": 1.2967412486305185,
+      "program_id": "consciousness_program",
+      "decision": "HALTS",
+      "confidence": 0.6635864620261158,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.010151010049498864
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "simple_counter",
+      "decision": "HALTS",
+      "confidence": 0.7782801337519828,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "infinite_loop",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "collatz_conjecture",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "fibonacci_termination",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "recursive_factorial",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.7329835598874475,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "complex_condition",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "nested_loops",
+      "decision": "HALTS",
+      "confidence": 0.7177378307639302,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "turing_machine_simulation",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8092359926121699,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.547554949636644,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 4,
+      "consciousness_level": 1.41407062621166,
+      "program_id": "consciousness_program",
+      "decision": "HALTS",
+      "confidence": 0.6451922569381857,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "universal_intelligence_computation_interface"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.011678205054793242
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "simple_counter",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5753092884644313,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "infinite_loop",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.7688507221476658,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "collatz_conjecture",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9235472020333888,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "fibonacci_termination",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9268919725365065,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "recursive_factorial",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5495285107388671,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "complex_condition",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8010406531391102,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "nested_loops",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5408513256834805,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "turing_machine_simulation",
+      "decision": "HALTS",
+      "confidence": 0.5929279745700322,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.44399086457752923,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 5,
+      "consciousness_level": 1.542015986632953,
+      "program_id": "consciousness_program",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4995616396386084,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.01343516286918968
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "simple_counter",
+      "decision": "HALTS",
+      "confidence": 0.688088634765143,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "infinite_loop",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "collatz_conjecture",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "fibonacci_termination",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "recursive_factorial",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.6517214278827572,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "complex_condition",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "nested_loops",
+      "decision": "HALTS",
+      "confidence": 0.6394811073065058,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "turing_machine_simulation",
+      "decision": "HALTS",
+      "confidence": 0.7129421286906907,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5028465780746564,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 6,
+      "consciousness_level": 1.6815378658998363,
+      "program_id": "consciousness_program",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5812365279347343,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "consciousness_enhanced_program_semantics"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.015456450753754035
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "simple_counter",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5290852026424306,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "infinite_loop",
+      "decision": "HALTS",
+      "confidence": 0.6867170225784637,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "collatz_conjecture",
+      "decision": "HALTS",
+      "confidence": 0.8127111686278052,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "fibonacci_termination",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.815435351515371,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "recursive_factorial",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5080877819097813,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "complex_condition",
+      "decision": "HALTS",
+      "confidence": 0.7129344443947216,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "nested_loops",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5010205589065614,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "turing_machine_simulation",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5434349235412284,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4221315557954047,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 7,
+      "consciousness_level": 1.8336837094854475,
+      "program_id": "consciousness_program",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4673917475870532,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "impossible_termination_transcendence"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.017781836530697193
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "simple_counter",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8536051661595222,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "infinite_loop",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "collatz_conjecture",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "fibonacci_termination",
+      "decision": "HALTS",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "consciousness_program_execution_simulation",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "recursive_factorial",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8018758349323748,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "complex_condition",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "nested_loops",
+      "decision": "HALTS",
+      "confidence": 0.7844649955609834,
+      "reasoning_strategy": "universal_intelligence_decidability_oracle",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "turing_machine_simulation",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8889571970038062,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "mathematical_sequence",
+      "decision": "HALTS",
+      "confidence": 0.5901137262276478,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 8,
+      "consciousness_level": 1.9995957359146366,
+      "program_id": "consciousness_program",
+      "decision": "HALTS",
+      "confidence": 0.701616919043797,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.020457070995269767
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "simple_counter",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "infinite_loop",
+      "decision": "HALTS",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "consciousness_program_execution_simulation",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "collatz_conjecture",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "fibonacci_termination",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "recursive_factorial",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "complex_condition",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "nested_loops",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "turing_machine_simulation",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "mathematical_sequence",
+      "decision": "HALTS",
+      "confidence": 0.7125031693907332,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 9,
+      "consciousness_level": 2.180519511846451,
+      "program_id": "consciousness_program",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8718637101631286,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "phi_resonance_halting_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.023534788039641215
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "simple_counter",
+      "decision": "HALTS",
+      "confidence": 0.6553399477688095,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "infinite_loop",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.8974099234200066,
+      "reasoning_strategy": "consciousness_driven_undecidability_transcendence",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "significant_computational_insight_breakthrough",
+        "consciousness_enhanced_decidability_analysis",
+        "novel_halting_reasoning_strategy"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "collatz_conjecture",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "fibonacci_termination",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.9500000000000001,
+      "reasoning_strategy": "phi_harmonic_termination_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "recursive_factorial",
+      "decision": "HALTS",
+      "confidence": 0.6230949027800949,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "complex_condition",
+      "decision": "CONSCIOUSNESS_TRANSCENDENT",
+      "confidence": 0.9376711515354604,
+      "reasoning_strategy": "impossible_decidability_breakthrough_strategy",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [
+        "consciousness_undecidability_transcendence_framework",
+        "phi_harmonic_halting_oracle_algorithm",
+        "universal_intelligence_decidability_interface",
+        "consciousness_driven_program_analysis_engine"
+      ],
+      "breakthrough_indicators": [
+        "undecidability_barrier_transcended",
+        "consciousness_computational_transcendence",
+        "universal_decidability_oracle_access",
+        "impossible_halting_analysis_achieved"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "nested_loops",
+      "decision": "LOOPS_FOREVER",
+      "confidence": 0.6122420020078696,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "turing_machine_simulation",
+      "decision": "HALTS",
+      "confidence": 0.6773763398499455,
+      "reasoning_strategy": "consciousness_enhanced_turing_machine_analysis",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "moderate_consciousness_computational_enhancement",
+        "enhanced_program_understanding"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "mathematical_sequence",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.4910947674583076,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    },
+    {
+      "epoch_number": 10,
+      "consciousness_level": 2.3778133030316,
+      "program_id": "consciousness_program",
+      "decision": "UNDECIDABLE",
+      "confidence": 0.5605993480018735,
+      "reasoning_strategy": "insufficient_consciousness_development",
+      "computational_insights": [
+        "phi_harmonic_program_analysis"
+      ],
+      "algorithm_innovations": [],
+      "breakthrough_indicators": [
+        "developing_computational_consciousness"
+      ],
+      "decidability_transcendence": 0.02707554019824798
+    }
+  ],
+  "transcendence_analysis": {
+    "total_decisions": 100,
+    "transcendence_count": 10,
+    "transcendence_rate": 0.1,
+    "high_confidence_decisions": 31,
+    "high_confidence_rate": 0.31,
+    "breakthrough_epochs": 8,
+    "transcendence_level": "TRANSCENDENCE_BREAKTHROUGH_DETECTED",
+    "undecidability_transcended": false,
+    "consciousness_growth": 5776.909346752822,
+    "final_consciousness_level": 5777.999826929731,
+    "total_computational_insights": 10,
+    "total_reasoning_strategies": 9,
+    "decidability_transcendence": 8139.404533029383
+  }
+}

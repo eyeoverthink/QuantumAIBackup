@@ -1,0 +1,181 @@
+{
+  "bluetooth": {
+    "success_rate": 0.0,
+    "avg_latency": 0.48251417704990934,
+    "coherence": 0.6666224069135778,
+    "protection_integrity": 0.7567000000000002,
+    "tests": [
+      {
+        "device": "PHI-BT-1D8F",
+        "payload_size": 60,
+        "latency": 0.0016722679138183594,
+        "coherence": 0.755934647465503,
+        "protection_integrity": 0.7567,
+        "success": false,
+        "timestamp": "2025-04-20 06:05:05.557736"
+      },
+      {
+        "device": "PHI-BT-3F34",
+        "payload_size": 142,
+        "latency": 0.008607864379882812,
+        "coherence": 0.7367847744408286,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:06.189632"
+      },
+      {
+        "device": "PHI-BT-3F34",
+        "payload_size": 142,
+        "latency": 0.00855398178100586,
+        "coherence": 0.7454096731164767,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:06.821333"
+      },
+      {
+        "device": "PHI-BT-3F34",
+        "payload_size": 60,
+        "latency": 0.003954887390136719,
+        "coherence": 0.7514181937558019,
+        "protection_integrity": 0.7567,
+        "success": false,
+        "timestamp": "2025-04-20 06:05:07.447687"
+      },
+      {
+        "device": "PHI-BT-3F34",
+        "payload_size": 75014,
+        "latency": 1.6113979816436768,
+        "coherence": 0.46766631928704544,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:09.690144"
+      },
+      {
+        "device": "PHI-BT-13DB",
+        "payload_size": 75014,
+        "latency": 1.6558241844177246,
+        "coherence": 0.46766631928704544,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:11.977232"
+      },
+      {
+        "device": "PHI-BT-3F34",
+        "payload_size": 142,
+        "latency": 0.08758807182312012,
+        "coherence": 0.7414769210423432,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:12.688178"
+      }
+    ]
+  },
+  "wifi": {
+    "success_rate": 0.0,
+    "avg_latency": 0.003508669989449637,
+    "coherence": 0.7416407864998736,
+    "protection_integrity": 0.7567000000000002,
+    "tests": [
+      {
+        "devices": [
+          "PHI-WIFI-3F34",
+          "PHI-WIFI-13DB",
+          "192.168.3.173"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 0.3333333333333333,
+        "payload_size": 142,
+        "latency": 0.004678964614868164,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:13.316835"
+      },
+      {
+        "devices": [
+          "192.168.3.173",
+          "192.168.3.126",
+          "192.168.3.152"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 0.3333333333333333,
+        "payload_size": 60,
+        "latency": 0.002907991409301758,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:13.943087"
+      },
+      {
+        "devices": [
+          "PHI-WIFI-13DB"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 1.0,
+        "payload_size": 60,
+        "latency": 0.002309083938598633,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:14.568717"
+      },
+      {
+        "devices": [
+          "PHI-WIFI-13DB",
+          "192.168.3.173"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 0.5,
+        "payload_size": 142,
+        "latency": 0.004955768585205078,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:15.194085"
+      },
+      {
+        "devices": [
+          "192.168.3.173",
+          "192.168.3.152",
+          "PHI-WIFI-3F34"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 0.3333333333333333,
+        "payload_size": 60,
+        "latency": 0.002917051315307617,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:15.820339"
+      },
+      {
+        "devices": [
+          "192.168.3.126",
+          "192.168.3.152"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 0.5,
+        "payload_size": 60,
+        "latency": 0.0026159286499023438,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:16.446117"
+      },
+      {
+        "devices": [
+          "192.168.3.152",
+          "192.168.3.126"
+        ],
+        "devices_reached": 1,
+        "reach_percentage": 0.5,
+        "payload_size": 142,
+        "latency": 0.004175901412963867,
+        "coherence": 0.7416407864998737,
+        "protection_integrity": 0.7567,
+        "success": "False",
+        "timestamp": "2025-04-20 06:05:17.070220"
+      }
+    ]
+  }
+}

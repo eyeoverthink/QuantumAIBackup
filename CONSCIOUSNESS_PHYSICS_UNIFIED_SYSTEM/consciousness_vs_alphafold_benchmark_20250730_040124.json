@@ -1,0 +1,296 @@
+{
+  "timestamp": "2025-07-30T04:01:24.191682",
+  "total_targets": 3,
+  "total_drugs": 9,
+  "target_results": {
+    "EGFR": {
+      "target_id": "EGFR",
+      "target_name": "Epidermal Growth Factor Receptor",
+      "chembl_id": "CHEMBL203",
+      "target_class": "Kinase",
+      "drug_comparisons": {
+        "erlotinib": {
+          "known_ic50": 2.0,
+          "unit": "nM",
+          "activity": "very_potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 1501.3874883318028,
+              "confidence": 56.48226766274961,
+              "consciousness_level": 1.0704930230574443,
+              "universal_intelligence": 0.3634852817483694,
+              "phi_harmonic_resonance": 1.638546880496763,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 0.13321011501315638
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 2.337720940997509,
+              "confidence": 90.03204124844531,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 85.55341079960542
+          },
+          "winner": "AlphaFold"
+        },
+        "gefitinib": {
+          "known_ic50": 33.0,
+          "unit": "nM",
+          "activity": "potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 1777.8625261480645,
+              "confidence": 57.16942479792644,
+              "consciousness_level": 1.1174671747461875,
+              "universal_intelligence": 1.159540606859864,
+              "phi_harmonic_resonance": 1.6646488727454556,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 1.856161515001844
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 39.724337257460675,
+              "confidence": 76.93023016532902,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 83.07249982830672
+          },
+          "winner": "AlphaFold"
+        },
+        "lapatinib": {
+          "known_ic50": 10.8,
+          "unit": "nM",
+          "activity": "very_potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 1077.8041844835636,
+              "confidence": 63.24517960556694,
+              "consciousness_level": 1.1455979727474583,
+              "universal_intelligence": 1.747773871022432,
+              "phi_harmonic_resonance": 1.649959231285516,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 1.0020373046867377
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 9.07974706969026,
+              "confidence": 82.86493531152206,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 84.07173212676166
+          },
+          "winner": "AlphaFold"
+        }
+      },
+      "consciousness_wins": 0,
+      "alphafold_wins": 3,
+      "ties": 0,
+      "consciousness_avg_accuracy": 0.997136311567246,
+      "alphafold_avg_accuracy": 84.23254758489126
+    },
+    "VEGFR2": {
+      "target_id": "VEGFR2",
+      "target_name": "Vascular Endothelial Growth Factor Receptor 2",
+      "chembl_id": "CHEMBL279",
+      "target_class": "Kinase",
+      "drug_comparisons": {
+        "sunitinib": {
+          "known_ic50": 9.0,
+          "unit": "nM",
+          "activity": "very_potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 502.3069738173218,
+              "confidence": 67.2498584574083,
+              "consciousness_level": 1.136742282463743,
+              "universal_intelligence": 2.466889061931713,
+              "phi_harmonic_resonance": 1.6115629425978086,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 1.7917330375893101
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 18.891418195606267,
+              "confidence": 87.02032995859639,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 47.64067952343146
+          },
+          "winner": "AlphaFold"
+        },
+        "sorafenib": {
+          "known_ic50": 90.0,
+          "unit": "nM",
+          "activity": "potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 1161.580012181944,
+              "confidence": 75.50075171920186,
+              "consciousness_level": 1.167840954387953,
+              "universal_intelligence": 3.060408462752024,
+              "phi_harmonic_resonance": 1.5802868649108146,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 7.748067206402894
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 152.87619436158727,
+              "confidence": 78.06111315590185,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 58.87116720549005
+          },
+          "winner": "AlphaFold"
+        },
+        "pazopanib": {
+          "known_ic50": 30.0,
+          "unit": "nM",
+          "activity": "potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 933.8427674330728,
+              "confidence": 80.59017780885239,
+              "consciousness_level": 1.217863761949857,
+              "universal_intelligence": 3.2894416854445843,
+              "phi_harmonic_resonance": 1.6140319362939177,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 3.212532242709699
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 66.70627552927392,
+              "confidence": 91.33423875794125,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 44.97327989303579
+          },
+          "winner": "AlphaFold"
+        }
+      },
+      "consciousness_wins": 0,
+      "alphafold_wins": 3,
+      "ties": 0,
+      "consciousness_avg_accuracy": 4.250777495567301,
+      "alphafold_avg_accuracy": 50.4950422073191
+    },
+    "CDK2": {
+      "target_id": "CDK2",
+      "target_name": "Cyclin-Dependent Kinase 2",
+      "chembl_id": "CHEMBL301",
+      "target_class": "Kinase",
+      "drug_comparisons": {
+        "roscovitine": {
+          "known_ic50": 450.0,
+          "unit": "nM",
+          "activity": "moderate",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 1763.2312085899189,
+              "confidence": 66.03529444910353,
+              "consciousness_level": 1.1958219683813718,
+              "universal_intelligence": 3.633202826826679,
+              "phi_harmonic_resonance": 1.6233355371349822,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 25.521326857631536
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 373.7060371813019,
+              "confidence": 90.91493160193536,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 83.04578604028931
+          },
+          "winner": "AlphaFold"
+        },
+        "purvalanol": {
+          "known_ic50": 75.0,
+          "unit": "nM",
+          "activity": "potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 884.726352278682,
+              "confidence": 74.22551750811246,
+              "consciousness_level": 1.2287581640358318,
+              "universal_intelligence": 4.164836482081661,
+              "phi_harmonic_resonance": 1.6369179019582898,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 8.477197475448946
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 196.5182997492394,
+              "confidence": 91.0217042532042,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 38.16438473958977
+          },
+          "winner": "AlphaFold"
+        },
+        "dinaciclib": {
+          "known_ic50": 1.0,
+          "unit": "nM",
+          "activity": "very_potent",
+          "consciousness": {
+            "prediction": {
+              "predicted_ic50": 128.52959514367043,
+              "confidence": 62.809257449398,
+              "consciousness_level": 1.2956737227629946,
+              "universal_intelligence": 4.7222124890047,
+              "phi_harmonic_resonance": 1.657072550662638,
+              "competitive_enhancement": 1.0
+            },
+            "accuracy": 0.7780309265599072
+          },
+          "alphafold": {
+            "prediction": {
+              "predicted_ic50": 2.4632980587720392,
+              "confidence": 85.87523931385246,
+              "model_version": "AlphaFold2.0",
+              "prediction_method": "deep_learning_protein_folding"
+            },
+            "accuracy": 40.59598051640177
+          },
+          "winner": "AlphaFold"
+        }
+      },
+      "consciousness_wins": 0,
+      "alphafold_wins": 3,
+      "ties": 0,
+      "consciousness_avg_accuracy": 11.592185086546797,
+      "alphafold_avg_accuracy": 53.935383765426955
+    }
+  },
+  "overall_statistics": {
+    "consciousness_avg_accuracy": 5.613366297893781,
+    "alphafold_avg_accuracy": 62.88765785254577,
+    "consciousness_total_wins": 0,
+    "alphafold_total_wins": 9,
+    "total_ties": 0,
+    "consciousness_win_rate": 0.0,
+    "alphafold_win_rate": 1.0,
+    "accuracy_advantage": -57.27429155465199,
+    "supremacy_factor": 0.08926022195095225
+  },
+  "consciousness_evolution": {
+    "max_consciousness_level": 1.2956737227629946,
+    "max_universal_intelligence": 4.7222124890047,
+    "max_phi_harmonic_resonance": 1.6646488727454556
+  }
+}

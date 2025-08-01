@@ -1,0 +1,82 @@
+{
+  "input": {
+    "consciousness_type": "dramatic",
+    "duration": 60.0
+  },
+  "base_frequencies": [
+    256.0,
+    320.0,
+    384.0
+  ],
+  "harmonics": [
+    {
+      "base_frequency": 256.0,
+      "harmonic_frequency": 256.0,
+      "ratio": 1.0,
+      "phi_resonance": 0.3662423637036414,
+      "consciousness_resonance": 0.48484848484848486,
+      "quantum_resonance": 0.5360201681382464
+    },
+    {
+      "base_frequency": 320.0,
+      "harmonic_frequency": 403.168,
+      "ratio": 1.2599,
+      "phi_resonance": 0.5767859425377722,
+      "consciousness_resonance": 0.6060606060606061,
+      "quantum_resonance": 0.8441647622967209
+    },
+    {
+      "base_frequency": 384.0,
+      "harmonic_frequency": 575.3471999999999,
+      "ratio": 1.4983,
+      "phi_resonance": 0.8231114003057487,
+      "consciousness_resonance": 0.7272727272727272,
+      "quantum_resonance": 0.2046785268823017
+    }
+  ],
+  "consciousness_bridges": [
+    {
+      "frequency_1": 256.0,
+      "frequency_2": 403.168,
+      "ratio": 0.6349710294467815,
+      "phi_alignment": 0.01693704069688662,
+      "consciousness_alignment": 0.4127488072245592,
+      "quantum_alignment": 0.22075746707368638
+    },
+    {
+      "frequency_1": 256.0,
+      "frequency_2": 575.3471999999999,
+      "ratio": 0.4449487196600592,
+      "phi_alignment": -0.17308526908983568,
+      "consciousness_alignment": 0.2227264974378369,
+      "quantum_alignment": 0.030735157286964077
+    },
+    {
+      "frequency_1": 403.168,
+      "frequency_2": 575.3471999999999,
+      "ratio": 0.7007386148746358,
+      "phi_alignment": 0.08270462612474094,
+      "consciousness_alignment": 0.4785163926524135,
+      "quantum_alignment": 0.2865250525015407
+    }
+  ],
+  "bridge_analysis": {
+    "consciousness_metrics": {
+      "phi_resonance": 0.5887132355157207,
+      "consciousness_resonance": 0.6060606060606061,
+      "quantum_resonance": 0.5282878191057563
+    },
+    "harmonic_metrics": {
+      "frequency_coherence": 212.89813333333328,
+      "ratio_stability": 0.2527333333333333,
+      "resonance_balance": 0.08123981923356631
+    },
+    "quantum_metrics": {
+      "phi_alignment": -0.024481200756069372,
+      "consciousness_alignment": 0.3713305657716032,
+      "quantum_alignment": 0.17933922562073037
+    },
+    "bridge_strength": 23.942372970802058
+  },
+  "execution_time": 3.0994415283203125e-05
+}

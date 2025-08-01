@@ -1,0 +1,264 @@
+{
+  "timestamp": "2025-07-30T03:55:13.139661",
+  "total_drugs": 5,
+  "drugs_tested": [
+    "aspirin",
+    "ibuprofen",
+    "celecoxib",
+    "morphine",
+    "caffeine"
+  ],
+  "drug_results": {
+    "aspirin": {
+      "drug_name": "aspirin",
+      "drug_class": "NSAID",
+      "molecular_weight": 180.16,
+      "formula": "C9H8O4",
+      "targets": {
+        "COX-1": {
+          "known_ic50": 5.0,
+          "predicted_ic50": 138.30652040909854,
+          "unit": "\u03bcg/mL",
+          "binding_type": "very_potent",
+          "accuracy": 3.615158551607294,
+          "error": 133.30652040909854,
+          "consciousness_metrics": {
+            "consciousness_level": 1.010811091970991,
+            "universal_intelligence": 0.3283068424103475,
+            "phi_harmonic_resonance": 1.5802643829396816,
+            "confidence": 73.47114572525776
+          }
+        },
+        "COX-2": {
+          "known_ic50": 210.0,
+          "predicted_ic50": 1031.2083025921972,
+          "unit": "\u03bcg/mL",
+          "binding_type": "moderate",
+          "accuracy": 20.36445977714814,
+          "error": 821.2083025921972,
+          "consciousness_metrics": {
+            "consciousness_level": 1.0285845687069848,
+            "universal_intelligence": 0.6063941893758444,
+            "phi_harmonic_resonance": 1.7042729083737989,
+            "confidence": 57.53178639867253
+          }
+        }
+      },
+      "overall_accuracy": 11.989809164377718,
+      "consciousness_metrics": {
+        "max_consciousness_level": 1.0285845687069848,
+        "max_universal_intelligence": 0.6063941893758444,
+        "max_phi_harmonic_resonance": 1.7042729083737989
+      }
+    },
+    "ibuprofen": {
+      "drug_name": "ibuprofen",
+      "drug_class": "NSAID",
+      "molecular_weight": 206.28,
+      "formula": "C13H18O2",
+      "targets": {
+        "COX-1": {
+          "known_ic50": 15.0,
+          "predicted_ic50": 582.0383829146083,
+          "unit": "\u03bcg/mL",
+          "binding_type": "potent",
+          "accuracy": 2.5771496245464363,
+          "error": 567.0383829146083,
+          "consciousness_metrics": {
+            "consciousness_level": 1.0616275434587505,
+            "universal_intelligence": 1.0250161503679833,
+            "phi_harmonic_resonance": 1.6447920302556505,
+            "confidence": 54.658337003999975
+          }
+        },
+        "COX-2": {
+          "known_ic50": 25.0,
+          "predicted_ic50": 841.018793225941,
+          "unit": "\u03bcg/mL",
+          "binding_type": "potent",
+          "accuracy": 2.9725851789953737,
+          "error": 816.018793225941,
+          "consciousness_metrics": {
+            "consciousness_level": 1.0883606424922323,
+            "universal_intelligence": 1.2453172396182506,
+            "phi_harmonic_resonance": 1.6161274732088107,
+            "confidence": 67.90662340392429
+          }
+        }
+      },
+      "overall_accuracy": 2.774867401770905,
+      "consciousness_metrics": {
+        "max_consciousness_level": 1.0883606424922323,
+        "max_universal_intelligence": 1.2453172396182506,
+        "max_phi_harmonic_resonance": 1.7042729083737989
+      }
+    },
+    "celecoxib": {
+      "drug_name": "celecoxib",
+      "drug_class": "COX-2_Selective_NSAID",
+      "molecular_weight": 381.37,
+      "formula": "C17H14F3N3OS",
+      "targets": {
+        "COX-1": {
+          "known_ic50": 15000.0,
+          "predicted_ic50": 1626.644186533759,
+          "unit": "nM",
+          "binding_type": "weak",
+          "accuracy": 10.844294576891727,
+          "error": 13373.355813466242,
+          "consciousness_metrics": {
+            "consciousness_level": 1.1054664870949895,
+            "universal_intelligence": 1.4955783400035862,
+            "phi_harmonic_resonance": 1.651039699021207,
+            "confidence": 46.05744221277244
+          }
+        },
+        "COX-2": {
+          "known_ic50": 40.0,
+          "predicted_ic50": 1053.4503365235714,
+          "unit": "nM",
+          "binding_type": "very_potent",
+          "accuracy": 3.7970465823763107,
+          "error": 1013.4503365235714,
+          "consciousness_metrics": {
+            "consciousness_level": 1.121258687815166,
+            "universal_intelligence": 1.6262889205942863,
+            "phi_harmonic_resonance": 1.7014768351259668,
+            "confidence": 59.947431545980415
+          }
+        }
+      },
+      "overall_accuracy": 7.320670579634019,
+      "consciousness_metrics": {
+        "max_consciousness_level": 1.121258687815166,
+        "max_universal_intelligence": 1.6262889205942863,
+        "max_phi_harmonic_resonance": 1.7042729083737989
+      }
+    },
+    "morphine": {
+      "drug_name": "morphine",
+      "drug_class": "Opioid_Analgesic",
+      "molecular_weight": 285.34,
+      "formula": "C17H19NO3",
+      "targets": {
+        "\u03bc-opioid": {
+          "known_ic50": 1.4,
+          "predicted_ic50": 559.9939253532473,
+          "unit": "nM",
+          "binding_type": "very_potent",
+          "accuracy": 0.25000271192529055,
+          "error": 558.5939253532473,
+          "consciousness_metrics": {
+            "consciousness_level": 1.1182235458806544,
+            "universal_intelligence": 1.7468341633116047,
+            "phi_harmonic_resonance": 1.5468489799715037,
+            "confidence": 54.50440793951398
+          }
+        },
+        "\u03b4-opioid": {
+          "known_ic50": 300.0,
+          "predicted_ic50": 742.5822163118959,
+          "unit": "nM",
+          "binding_type": "moderate",
+          "accuracy": 40.39956699878676,
+          "error": 442.5822163118959,
+          "consciousness_metrics": {
+            "consciousness_level": 1.12646567172508,
+            "universal_intelligence": 1.9210278308563082,
+            "phi_harmonic_resonance": 1.5406778708296807,
+            "confidence": 55.2786209925225
+          }
+        },
+        "\u03ba-opioid": {
+          "known_ic50": 36.0,
+          "predicted_ic50": 1839.192536336253,
+          "unit": "nM",
+          "binding_type": "potent",
+          "accuracy": 1.957380714023202,
+          "error": 1803.192536336253,
+          "consciousness_metrics": {
+            "consciousness_level": 1.1293217077387026,
+            "universal_intelligence": 2.155725211686067,
+            "phi_harmonic_resonance": 1.6171927654130926,
+            "confidence": 72.32020095867155
+          }
+        }
+      },
+      "overall_accuracy": 14.202316808245085,
+      "consciousness_metrics": {
+        "max_consciousness_level": 1.1293217077387026,
+        "max_universal_intelligence": 2.155725211686067,
+        "max_phi_harmonic_resonance": 1.7042729083737989
+      }
+    },
+    "caffeine": {
+      "drug_name": "caffeine",
+      "drug_class": "Methylxanthine",
+      "molecular_weight": 194.19,
+      "formula": "C8H10N4O2",
+      "targets": {
+        "Adenosine_A1": {
+          "known_ic50": 12.0,
+          "predicted_ic50": 1041.561764504514,
+          "unit": "\u03bcM",
+          "binding_type": "moderate",
+          "accuracy": 1.1521160250836004,
+          "error": 1029.561764504514,
+          "consciousness_metrics": {
+            "consciousness_level": 1.1414441956795147,
+            "universal_intelligence": 2.2986462050625858,
+            "phi_harmonic_resonance": 1.5870930313527458,
+            "confidence": 64.26531027810182
+          }
+        },
+        "Adenosine_A2A": {
+          "known_ic50": 2.4,
+          "predicted_ic50": 1341.2988882213147,
+          "unit": "\u03bcM",
+          "binding_type": "potent",
+          "accuracy": 0.17893103625715412,
+          "error": 1338.8988882213146,
+          "consciousness_metrics": {
+            "consciousness_level": 1.1681564839591634,
+            "universal_intelligence": 2.789790113028354,
+            "phi_harmonic_resonance": 1.6109935886092301,
+            "confidence": 73.12490563510352
+          }
+        },
+        "PDE": {
+          "known_ic50": 180.0,
+          "predicted_ic50": 292.7429759769152,
+          "unit": "\u03bcM",
+          "binding_type": "weak",
+          "accuracy": 61.48738476109303,
+          "error": 112.7429759769152,
+          "consciousness_metrics": {
+            "consciousness_level": 1.1861611050495917,
+            "universal_intelligence": 3.1348573414694814,
+            "phi_harmonic_resonance": 1.5601685399894412,
+            "confidence": 54.48437948006999
+          }
+        }
+      },
+      "overall_accuracy": 20.939477274144597,
+      "consciousness_metrics": {
+        "max_consciousness_level": 1.1861611050495917,
+        "max_universal_intelligence": 3.1348573414694814,
+        "max_phi_harmonic_resonance": 1.7042729083737989
+      }
+    }
+  },
+  "overall_statistics": {
+    "average_accuracy": 11.445428245634464,
+    "best_drug_accuracy": 20.939477274144597,
+    "worst_drug_accuracy": 2.774867401770905,
+    "accuracy_range": 18.164609872373692,
+    "drugs_above_50_percent": 0,
+    "drugs_above_70_percent": 0
+  },
+  "consciousness_evolution": {
+    "max_consciousness_level": 1.1861611050495917,
+    "max_universal_intelligence": 3.1348573414694814,
+    "max_phi_harmonic_resonance": 1.7042729083737989
+  }
+}

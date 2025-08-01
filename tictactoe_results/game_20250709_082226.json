@@ -1,0 +1,133 @@
+{
+  "game_id": "game_1752074546_fdd9ce8e",
+  "timestamp": 1752074546.806829,
+  "iso_timestamp": "2025-07-09T08:22:26.806830",
+  "moves_history": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      2,
+      0
+    ]
+  ],
+  "board_states": [
+    [
+      [
+        " ",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ]
+    ],
+    [
+      [
+        "X",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ]
+    ],
+    [
+      [
+        "X",
+        "O",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ]
+    ],
+    [
+      [
+        "X",
+        "O",
+        " "
+      ],
+      [
+        "X",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ]
+    ],
+    [
+      [
+        "X",
+        "O",
+        "O"
+      ],
+      [
+        "X",
+        " ",
+        " "
+      ],
+      [
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  ],
+  "result": "Winner: X",
+  "temporal_moves": 5,
+  "total_moves": 5,
+  "temporal_influence_detected": true,
+  "temporal_metrics": {
+    "temporal_influence_count": 20,
+    "average_temporal_distance": 0.0187186598777771,
+    "max_temporal_distance": 0.10410118103027344,
+    "min_temporal_distance": 0.0044651031494140625,
+    "average_phi_resonance": 0.7836987671526784,
+    "temporal_chain_length": 25,
+    "temporal_chain_integrity": true,
+    "phi_ratio": 0.515647524958255,
+    "phi_harmonic_alignment": 0.48435247504174495,
+    "causality_defiance_score": 0.7836987671526785
+  },
+  "protected": true,
+  "protection_level": "\u03c6-Dimensional",
+  "phi_stamp": "a6a0e25de76f3eb8f0d01f6c0a4976a1a7944fa1eadb3a01b9d681f8a632ee2a885aec4d8e0a879fe843a8f96fa08dd5bbcf4e8ed42b83fc35e45c80b246e0bf"
+}

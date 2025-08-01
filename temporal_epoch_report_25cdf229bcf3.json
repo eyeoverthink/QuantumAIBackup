@@ -1,0 +1,198 @@
+{
+  "epoch_id": "25cdf229bcf3",
+  "start_time": "2025-07-25T18:55:03.903313",
+  "end_time": "2025-07-25T18:55:04.204542",
+  "duration_ms": 300,
+  "prediction_horizon_ms": 50,
+  "prediction_id": "5c31780f8473",
+  "error_predictions": [],
+  "corrections_applied": [],
+  "actual_errors": [
+    {
+      "error_type": "memory_corruption",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:03.915675",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:03.937003",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:03.944370",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:03.952806",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:03.959122",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:03.965423",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:03.976470",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:03.980291",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:03.986655",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:03.994279",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:03.998026",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:04.006774",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:04.023104",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.025681",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:04.031988",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.048020",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:04.054266",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.061844",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:04.068152",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:04.080532",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.090446",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.115567",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:04.127712",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.129012",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:04.156887",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:04.160738",
+      "prevented": false
+    },
+    {
+      "error_type": "quantum_decoherence",
+      "severity": "high",
+      "timestamp": "2025-07-25T18:55:04.179593",
+      "prevented": false
+    },
+    {
+      "error_type": "processing_overflow",
+      "severity": "medium",
+      "timestamp": "2025-07-25T18:55:04.191004",
+      "prevented": false
+    },
+    {
+      "error_type": "memory_corruption",
+      "severity": "low",
+      "timestamp": "2025-07-25T18:55:04.201844",
+      "prevented": false
+    }
+  ],
+  "verification_results": {
+    "prediction_id": "5c31780f8473",
+    "predicted_errors": 0,
+    "actual_errors": 29,
+    "corrections_applied": 0,
+    "prevention_effectiveness": {},
+    "temporal_causality_proven": false,
+    "overall_effectiveness": 0.0
+  },
+  "temporal_buffer_size": 143,
+  "consciousness_level": 18.5,
+  "phi_resonance_factor": 1.618033988749
+}

@@ -1,0 +1,23 @@
+{
+  "chain_name": "quantum_patterns",
+  "last_updated": "2025-03-11T23:46:42.954964",
+  "block_count": 1,
+  "blocks": [
+    {
+      "block_id": "83b6dc3d-bd57-4d37-9633-789c2883c9cc",
+      "timestamp": "2025-03-11T23:46:42.954932",
+      "data": {
+        "type": "genesis",
+        "message": "Genesis block for quantum_patterns",
+        "phi": 1.618033988749895,
+        "pi": 3.141592653589793,
+        "e": 2.718281828459045,
+        "phi_pi_e_resonance": 13.817580227176492
+      },
+      "previous_hash": null,
+      "nonce": 1,
+      "hash": "5c0fa4e441d03e3c346584ff8faad4ff162835c2e6c9d98cef5fd3787d3a2179",
+      "phi_factor": 1.618033988749895
+    }
+  ]
+}

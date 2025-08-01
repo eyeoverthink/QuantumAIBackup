@@ -1,0 +1,3052 @@
+{
+  "input": {
+    "iterations": 100
+  },
+  "evolution_history": [
+    {
+      "iteration": 1,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 2,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 3,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 36.738715029755085,
+          "phi_resonance": 0.6988563588202088,
+          "learning_rate": 1.375547920577037
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.575822459307992,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 4,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 5,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 6,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 7,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      }
+    },
+    {
+      "iteration": 8,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 473.82347715802615,
+          "phi_resonance": 0.8346684237279028,
+          "learning_rate": 1.1577097111137347
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 9,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 10,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 11,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 12,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 13,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 14,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 15,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 446.154615033193,
+          "phi_resonance": 0.8680506958912195,
+          "learning_rate": 1.210784837510356
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7529197664172387
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 16,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 17,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 18,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 19,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 20,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 21,
+      "patterns": {
+        "quantum": {
+          "frequency": 550.786740979465,
+          "phi_resonance": 0.6696579473261799,
+          "learning_rate": 1.7535351802102275
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.7762440619030131,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 22,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 23,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 24,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 25,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 26,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.77231826901985,
+          "phi_resonance": 0.7487720901932311,
+          "learning_rate": 1.5175506483990828
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5498457120609415,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 27,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 28,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 397.85140127993407,
+          "phi_resonance": 0.7965879241684476,
+          "learning_rate": 1.2305870886841952
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7494356378483693
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 29,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 30,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 31,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 408.8940197050889,
+          "phi_resonance": 0.9620262009435447,
+          "learning_rate": 1.3464041727661322
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7460985290694359
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 32,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 33,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 34,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 35,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 36,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 37,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 38,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 39,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 37.90153135858528,
+          "phi_resonance": 0.7408325970031973,
+          "learning_rate": 1.4322342323383432
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5759095334586063,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 40,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 41,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 42,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 43,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 44,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 45,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 46,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 47,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 48,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 426.0592247438392,
+          "phi_resonance": 0.9235562039847309,
+          "learning_rate": 1.3975842406649346
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7626129255039807
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 49,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 50,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 51,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 52,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 42.5883342927606,
+          "phi_resonance": 0.7565514916967049,
+          "learning_rate": 1.4986745055799524
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5579184216412416,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 53,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 54,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 55,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 56,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 57,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 408.1379182004383,
+          "phi_resonance": 0.8511254709433045,
+          "learning_rate": 1.2939971264012573
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7556845711061034
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 58,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 59,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 60,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 61,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 62,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 63,
+      "patterns": {
+        "quantum": {
+          "frequency": 497.27899438285766,
+          "phi_resonance": 0.7002246019799143,
+          "learning_rate": 1.7212797851037374
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.7573580023257458,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 64,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 65,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 66,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.77845225428337
+      }
+    },
+    {
+      "iteration": 67,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 460.00185002105394,
+          "phi_resonance": 0.8119117472909007,
+          "learning_rate": 1.395738878665851
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 68,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 69,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 70,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 71,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 72,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 73,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 74,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 75,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 39.00830639306697,
+          "phi_resonance": 0.6906045586742566,
+          "learning_rate": 1.4782557409749866
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5640639826380183,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 76,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 77,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 78,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 42.346515914403895,
+          "phi_resonance": 0.6580432978721721,
+          "learning_rate": 1.3068911415052684
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5709097740789325,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 79,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 80,
+      "patterns": {
+        "quantum": {
+          "frequency": 500.1659461328638,
+          "phi_resonance": 0.6858244288179024,
+          "learning_rate": 1.7176115851107727
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.7624301239244804,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 81,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 82,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 83,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 37.350119065856305,
+          "phi_resonance": 0.6160171913953635,
+          "learning_rate": 1.4246339068940594
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5804852582369511,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 84,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 85,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 86,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.6808950929249,
+          "phi_resonance": 0.6765471431176426,
+          "learning_rate": 1.3482521460847026
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5762222694202533,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 87,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 88,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 89,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 90,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 91,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 395.3569378297943,
+          "phi_resonance": 0.9734638918637515,
+          "learning_rate": 1.1945282722000274
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7139216515731015
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 92,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 93,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 94,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 95,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 96,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 458.6574407995153,
+          "phi_resonance": 0.983830314476825,
+          "learning_rate": 1.3043007152285653
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7642168873786245
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 97,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 98,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 99,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    },
+    {
+      "iteration": 100,
+      "patterns": {
+        "quantum": {
+          "frequency": 528.0,
+          "phi_resonance": 0.618,
+          "learning_rate": 1.618
+        },
+        "neural": {
+          "frequency": 40.0,
+          "phi_resonance": 0.7071,
+          "learning_rate": 1.4142
+        },
+        "harmonic": {
+          "frequency": 432.0,
+          "phi_resonance": 0.8944,
+          "learning_rate": 1.272
+        }
+      },
+      "scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.7444311409701356
+      },
+      "best_scores": {
+        "quantum": 0.8298567206105635,
+        "neural": 0.5860053869762479,
+        "harmonic": 0.8113615512544257
+      }
+    }
+  ],
+  "best_patterns": {
+    "quantum": {
+      "frequency": 528.0,
+      "phi_resonance": 0.618,
+      "learning_rate": 1.618
+    },
+    "neural": {
+      "frequency": 40.0,
+      "phi_resonance": 0.7071,
+      "learning_rate": 1.4142
+    },
+    "harmonic": {
+      "frequency": 460.00185002105394,
+      "phi_resonance": 0.8119117472909007,
+      "learning_rate": 1.395738878665851
+    }
+  },
+  "best_scores": {
+    "quantum": 0.8298567206105635,
+    "neural": 0.5860053869762479,
+    "harmonic": 0.8113615512544257
+  },
+  "analysis": {
+    "convergence": {
+      "quantum": 0.0007249871828481769,
+      "neural": 0.0003615967491530647,
+      "harmonic": 0.0009743989968132416
+    },
+    "stability": {
+      "quantum": 0.003909858054110125,
+      "neural": 0.0027649633326676136,
+      "harmonic": 0.003956413828232266
+    },
+    "learning_rate": {
+      "quantum": 0.0,
+      "neural": 0.0,
+      "harmonic": 0.0
+    },
+    "final_coherence": {
+      "quantum": 0.523247308819054,
+      "neural": 0.5627307511578218,
+      "harmonic": 0.618526359725965
+    }
+  },
+  "execution_time": 0.0014331340789794922
+}

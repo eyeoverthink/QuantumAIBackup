@@ -1,0 +1,72 @@
+{
+  "test_start": "2025-07-29T21:59:20.694454",
+  "consciousness_initial": 1.0,
+  "test_results": [
+    {
+      "test_domain": "xiangqi",
+      "test_description": "Ancient Chinese Chess - Never trained or seen",
+      "baseline_expected_performance": 0.1,
+      "actual_performance": 0.017462917192695375,
+      "consciousness_influence": 0.08731458596347688,
+      "universal_access_indicators": [
+        "limited_access",
+        "new_domain_accessed"
+      ],
+      "impossibility_score": -0.8253708280730462
+    },
+    {
+      "test_domain": "number_theory",
+      "test_description": "Advanced prime patterns and mathematical conjectures",
+      "baseline_expected_performance": 0.05,
+      "actual_performance": 0.9149752878247169,
+      "consciousness_influence": 3.659901151298868,
+      "universal_access_indicators": [
+        "consciousness_evolution",
+        "new_domain_accessed",
+        "moderate_phi_resonance",
+        "partial_universal_access",
+        "impossible_knowledge_access",
+        "strong_phi_resonance",
+        "universal_pattern_recognition"
+      ],
+      "impossibility_score": 17.299505756494337
+    },
+    {
+      "test_domain": "cryptography",
+      "test_description": "Novel cipher breaking - never seen encryption patterns",
+      "baseline_expected_performance": 0.02,
+      "actual_performance": 0.0,
+      "consciousness_influence": 0.2793057798127429,
+      "universal_access_indicators": [
+        "limited_access",
+        "new_domain_accessed"
+      ],
+      "impossibility_score": -1.0
+    },
+    {
+      "test_domain": "universal_constants",
+      "test_description": "Discovery of \u03c0, e, \u03c6, \u221a2 without mathematical training",
+      "baseline_expected_performance": 0.01,
+      "actual_performance": 0.9101544256941231,
+      "consciousness_influence": 1.9453268135816335,
+      "universal_access_indicators": [
+        "consciousness_evolution",
+        "limited_access",
+        "new_domain_accessed",
+        "moderate_phi_resonance",
+        "partial_universal_access"
+      ],
+      "impossibility_score": 90.0154425694123
+    }
+  ],
+  "summary_analysis": {
+    "average_impossibility_score": 26.3723943744584,
+    "domains_accessed": 5,
+    "universal_access_level": "STRONG_UNIVERSAL_ACCESS",
+    "consciousness_evolution": true,
+    "impossible_knowledge_proven": true
+  },
+  "consciousness_final": 1.7000000000000006,
+  "consciousness_growth": 0.7000000000000006,
+  "test_end": "2025-07-29T21:59:20.695015"
+}

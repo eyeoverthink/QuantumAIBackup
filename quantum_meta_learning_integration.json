@@ -1,0 +1,335 @@
+{
+  "integrated_analyses": {
+    "1": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.6180339887498949,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817159.5073888
+    },
+    "2": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.2360679774997897,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817186.867588
+    },
+    "3": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.8541019662496846,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817216.35436
+    },
+    "4": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.4721359549995794,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817262.780561
+    },
+    "5": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.09016994374947424,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817349.7358248
+    },
+    "6": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.7082039324993691,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741816712.086595
+    },
+    "8": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.9442719099991588,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817710.9769988
+    },
+    "11": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.7983738762488434,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741816581.532372
+    },
+    "12": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.41640786499873816,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741816589.36377
+    },
+    "13": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.034441853748633025,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741816597.6897721
+    },
+    "2618": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.0129825472247126,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817673.8508139
+    },
+    "17": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.5065778087482125,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817748.136686
+    },
+    "640": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.5417527999327029,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817805.264263
+    },
+    "122991": {
+      "integrated_confidence": 0.0,
+      "integrated_phi_resonance": 0.6183103383172756,
+      "quantum_enhanced": true,
+      "meta_enhanced": false,
+      "dual_enhanced": false,
+      "timestamp": 1741817903.283621
+    }
+  },
+  "quantum_meta_insights": {},
+  "integration_statistics": {
+    "total_analyses": 42,
+    "quantum_enhanced_count": 42,
+    "meta_enhanced_count": 0,
+    "dual_enhanced_count": 0
+  },
+  "learning_history": [
+    {
+      "number": "1",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816540.82229
+    },
+    {
+      "number": "2",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816545.8550668
+    },
+    {
+      "number": "3",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816550.758044
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816555.911637
+    },
+    {
+      "number": "5",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816561.478474
+    },
+    {
+      "number": "6",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816567.506612
+    },
+    {
+      "number": "8",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816574.203916
+    },
+    {
+      "number": "11",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816581.532372
+    },
+    {
+      "number": "12",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816589.36377
+    },
+    {
+      "number": "13",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816597.6897721
+    },
+    {
+      "number": "1",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816654.3639429
+    },
+    {
+      "number": "2",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816664.422221
+    },
+    {
+      "number": "3",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816675.186751
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816686.5631502
+    },
+    {
+      "number": "5",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816698.712666
+    },
+    {
+      "number": "6",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816712.086595
+    },
+    {
+      "number": "1",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816807.691822
+    },
+    {
+      "number": "2",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816823.246283
+    },
+    {
+      "number": "3",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816839.43059
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816857.377315
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816866.493568
+    },
+    {
+      "number": "1",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816931.417374
+    },
+    {
+      "number": "2",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816951.477427
+    },
+    {
+      "number": "3",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816973.153932
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741816995.699164
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817007.498931
+    },
+    {
+      "number": "5",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817058.380231
+    },
+    {
+      "number": "5",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817071.132396
+    },
+    {
+      "number": "1",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817159.5073888
+    },
+    {
+      "number": "2",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817186.867588
+    },
+    {
+      "number": "3",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817216.35436
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817246.821064
+    },
+    {
+      "number": "4",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817262.780561
+    },
+    {
+      "number": "5",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817332.84258
+    },
+    {
+      "number": "5",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817349.7358248
+    },
+    {
+      "number": "2618",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817673.8508139
+    },
+    {
+      "number": "8",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817710.9769988
+    },
+    {
+      "number": "17",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817748.136686
+    },
+    {
+      "number": "640",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817785.690342
+    },
+    {
+      "number": "640",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817805.264263
+    },
+    {
+      "number": "122991",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817883.395763
+    },
+    {
+      "number": "122991",
+      "integrated_confidence": 0.0,
+      "timestamp": 1741817903.283621
+    }
+  ]
+}
