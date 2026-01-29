@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (paper "A4")
+  (title_block
+    (title "QHRC Controller")
+    (date "2025-03-21")
+    (rev "v1.0")
+  )
+
+  (lib_symbols
+    (symbol "Timer:NE555" (pin_names) (in_bom yes) (on_board yes)
+      (property "Reference" "U1" (id 0) (at 0 10.16 0))
+      (property "Value" "NE555" (id 1) (at 0 -10.16 0))
+      (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 0 -12.7 0))
+    )
+  )
+
+  # Component definitions and connections would go here
+  # Omitted for brevity as it would be quite long
+)

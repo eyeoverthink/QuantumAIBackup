@@ -1,0 +1,57 @@
+{
+  "gpu_dimensional_scaling": {
+    "dimensions": [
+      3,
+      4,
+      6,
+      10
+    ],
+    "performance_multipliers": [
+      1.08,
+      1.11,
+      1.16,
+      1.29
+    ],
+    "theoretical_scaling": {
+      "3": 1.0,
+      "4": 0.38196601125010515,
+      "6": 0.05572809000084122,
+      "10": 0.0011862412896422269
+    },
+    "phi_squared_inv": 0.38196601125010515
+  },
+  "lunar_harmonic_scaling": {
+    "quantum_modes": [
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3
+    ],
+    "frequencies_hz": [
+      1.142569011098982,
+      1.8487154944505089,
+      2.9912845055494905,
+      4.84,
+      7.831284505549491,
+      12.67128450554949,
+      20.50256901109898
+    ],
+    "gravity_scaling": {
+      "-3": 4.236067977499791,
+      "-2": 2.6180339887498953,
+      "-1": 1.618033988749895,
+      "0": 1.0,
+      "1": 0.6180339887498948,
+      "2": 0.3819660112501051,
+      "3": 0.23606797749978964
+    }
+  },
+  "scaling_relations": {
+    "gpu_relation": "Performance \u221d \u03c6^(-2.00 * (d-3))",
+    "lunar_relation": "f_n = f_0 * \u03c6^n",
+    "unified_principle": "\u03c6-harmonic scaling applies across cosmic and computational domains"
+  }
+}

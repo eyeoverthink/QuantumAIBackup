@@ -1,0 +1,463 @@
+{
+  "id": "792df1ee-0625-4959-9622-7f1abbbcbb49",
+  "creation_time": 1751273035.1972249,
+  "phi_time": 0.5303006172180176,
+  "parameters": {
+    "qr_version": 8,
+    "error_correction": 0,
+    "compression_threshold": 610,
+    "resonance_factor": 0.571246375131022,
+    "complexity_factor": 0.7348730925981912
+  },
+  "memory": {},
+  "history": [
+    {
+      "timestamp": 1751273040.9063091,
+      "phi_time": 0.7677931785583496,
+      "old_parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "new_parameters": {
+        "qr_version": 11,
+        "error_correction": 0,
+        "compression_threshold": 517,
+        "resonance_factor": 0.5582372154613973,
+        "complexity_factor": 0.5176781447951891
+      },
+      "performance_metrics": {
+        "avg_time": 0.08410191535949707,
+        "max_time": 0.10662102699279785,
+        "success_rate": 0.11538461538461539
+      }
+    }
+  ],
+  "performance_metrics": [
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_001.png",
+      "success": true,
+      "time_taken": 0.10662102699279785,
+      "timestamp": 1751273038.6000159,
+      "phi_time": 0.0361323356628418,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_002.png",
+      "success": false,
+      "time_taken": 0.09401297569274902,
+      "timestamp": 1751273038.694143,
+      "phi_time": 0.18843317031860352,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_002.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_003.png",
+      "success": true,
+      "time_taken": 0.07107686996459961,
+      "timestamp": 1751273038.765353,
+      "phi_time": 0.3036532402038574,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_004.png",
+      "success": true,
+      "time_taken": 0.07460784912109375,
+      "timestamp": 1751273038.840072,
+      "phi_time": 0.42455101013183594,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_005.png",
+      "success": false,
+      "time_taken": 0.09839797019958496,
+      "timestamp": 1751273038.938581,
+      "phi_time": 0.5839424133300781,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_005.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_006.png",
+      "success": false,
+      "time_taken": 0.054461002349853516,
+      "timestamp": 1751273038.993154,
+      "phi_time": 0.6722431182861328,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_006.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_007.png",
+      "success": false,
+      "time_taken": 0.09544801712036133,
+      "timestamp": 1751273039.088737,
+      "phi_time": 0.826899528503418,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_007.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_008.png",
+      "success": false,
+      "time_taken": 0.09637689590454102,
+      "timestamp": 1751273039.185256,
+      "phi_time": 0.9830708503723145,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_008.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_009.png",
+      "success": false,
+      "time_taken": 0.09564971923828125,
+      "timestamp": 1751273039.2810419,
+      "phi_time": 0.13805532455444336,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_009.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_010.png",
+      "success": false,
+      "time_taken": 0.09898519515991211,
+      "timestamp": 1751273039.380175,
+      "phi_time": 0.29845666885375977,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_010.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_011.png",
+      "success": false,
+      "time_taken": 0.09552788734436035,
+      "timestamp": 1751273039.47583,
+      "phi_time": 0.4532294273376465,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_011.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_012.png",
+      "success": false,
+      "time_taken": 0.0752100944519043,
+      "timestamp": 1751273039.55117,
+      "phi_time": 0.5751323699951172,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_012.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_013.png",
+      "success": false,
+      "time_taken": 0.10355877876281738,
+      "timestamp": 1751273039.6548579,
+      "phi_time": 0.7429027557373047,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_013.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_014.png",
+      "success": false,
+      "time_taken": 0.09831881523132324,
+      "timestamp": 1751273039.753309,
+      "phi_time": 0.9021997451782227,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_014.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_015.png",
+      "success": false,
+      "time_taken": 0.09478282928466797,
+      "timestamp": 1751273039.848224,
+      "phi_time": 0.05577516555786133,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_015.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_016.png",
+      "success": false,
+      "time_taken": 0.07727384567260742,
+      "timestamp": 1751273039.925629,
+      "phi_time": 0.18101930618286133,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_016.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_017.png",
+      "success": false,
+      "time_taken": 0.09563016891479492,
+      "timestamp": 1751273040.021385,
+      "phi_time": 0.3359556198120117,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_017.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_018.png",
+      "success": false,
+      "time_taken": 0.1177830696105957,
+      "timestamp": 1751273040.1394272,
+      "phi_time": 0.5269522666931152,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_018.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_019.png",
+      "success": false,
+      "time_taken": 0.10247302055358887,
+      "timestamp": 1751273040.2420511,
+      "phi_time": 0.6930012702941895,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_019.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_020.png",
+      "success": false,
+      "time_taken": 0.08262515068054199,
+      "timestamp": 1751273040.32482,
+      "phi_time": 0.8269243240356445,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_020.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_021.png",
+      "success": false,
+      "time_taken": 0.09024405479431152,
+      "timestamp": 1751273040.415201,
+      "phi_time": 0.9731636047363281,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_021.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_022.png",
+      "success": false,
+      "time_taken": 0.10093402862548828,
+      "timestamp": 1751273040.516279,
+      "phi_time": 0.13671112060546875,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_022.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_023.png",
+      "success": false,
+      "time_taken": 0.09988188743591309,
+      "timestamp": 1751273040.616299,
+      "phi_time": 0.29854679107666016,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_023.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_024.png",
+      "success": false,
+      "time_taken": 0.10184884071350098,
+      "timestamp": 1751273040.7182798,
+      "phi_time": 0.46355533599853516,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "Error decoding QR code: Extra data: line 1 column 2 (char 1)"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_025.png",
+      "success": false,
+      "time_taken": 0.10071110725402832,
+      "timestamp": 1751273040.819127,
+      "phi_time": 0.6267294883728027,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_025.png"
+    },
+    {
+      "operation": "decode",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_026.png",
+      "success": false,
+      "time_taken": 0.08583307266235352,
+      "timestamp": 1751273040.905092,
+      "phi_time": 0.7658238410949707,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "error": "No QR code found in qr_integrated_system/qr_sequence/qr_frame_026.png"
+    }
+  ],
+  "decode_success_rate": 0.11538461538461539,
+  "config": {
+    "output_dir": "qr_analysis",
+    "report_dir": "qr_reports",
+    "log_file": "qr_analyzer_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,41 @@
+
+======================================================================
+🧠 QUANTUM PHI-HARMONIC TOWER OF HANOI - SCALING TEST
+======================================================================
+
+📊 Testing quantum scaling from 3 to 10 disks
+🧪 Using Fibonacci dimensions for optimal phi-resonance
+
+----------------------------------------------------------------------
+🔍 Testing 3 disks (optimal: 7 moves)
+📐 Dimension: 8, Iteration factor: 5x
+⏱️ Time: 0.0013 seconds
+🎯 Success: False
+🔄 Iterations: 35
+🚶 Moves: 35 (optimal: 7)
+✨ Resonance: 0.651443
+🔱 Phi-move factor: 0.631190
+
+----------------------------------------------------------------------
+🔍 Testing 5 disks (optimal: 31 moves)
+📐 Dimension: 13, Iteration factor: 3x
+⏱️ Time: 0.0050 seconds
+🎯 Success: False
+🔄 Iterations: 93
+🚶 Moves: 93 (optimal: 31)
+✨ Resonance: 0.508043
+🔱 Phi-move factor: 0.477161
+
+----------------------------------------------------------------------
+🔍 Testing 7 disks (optimal: 127 moves)
+📐 Dimension: 21, Iteration factor: 2x
+⏱️ Time: 0.0161 seconds
+🎯 Success: False
+🔄 Iterations: 254
+🚶 Moves: 254 (optimal: 127)
+✨ Resonance: 0.433274
+🔱 Phi-move factor: 0.980633
+
+----------------------------------------------------------------------
+🔍 Testing 8 disks (optimal: 255 moves)
+📐 Dimension: 34, Iteration factor: 1.5x

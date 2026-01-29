@@ -1,0 +1,35 @@
+# QR Biometric Adventure Security System - Dependencies
+# By Vaughn Scott & Cascade AI
+
+# Core QR Code Generation
+qrcode==7.4.2
+pillow==10.0.0
+
+# Image Processing and Computer Vision
+opencv-python==4.8.0.76
+numpy==1.24.3
+
+# QR Code Decoding
+pyzbar==0.1.9
+
+# Cryptographic Security
+cryptography==41.0.3
+
+# Data Processing
+pickle-mixin==1.0.2
+
+# Optional: Enhanced Image Processing
+scikit-image==0.21.0
+
+# Optional: Advanced Cryptography
+pycryptodome==3.18.0
+
+# Optional: Blockchain Integration
+hashlib2==1.0.1
+
+# Development and Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Documentation
+markdown==3.4.4

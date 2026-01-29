@@ -1,0 +1,11 @@
+{
+  "original_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_self_healing_orchestrator.py",
+  "reproduced_file": "evolution/quantum_orchestrator_reproduced.py",
+  "healed_file": "evolution/quantum_orchestrator_reproduced.py",
+  "timestamp": 1752622606.227513,
+  "error_type": "self_reproduction",
+  "error_details": "Created self-reproducing orchestrator with fixed method signatures",
+  "healing_method": "meta_learning",
+  "phi_coherence": 0.9918,
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-93761ed8597a8e34"
+}

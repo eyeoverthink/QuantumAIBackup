@@ -1,0 +1,48 @@
+{
+  "data_type": "exoplanets",
+  "value_count": 89954,
+  "phi_metrics": {
+    "resonance_factors": [
+      0.38418055854799416,
+      0.31338672876513896,
+      0.3841885119293441,
+      0.30415188067604826,
+      0.3841800925542057,
+      0.5395269796157499,
+      0.508117667420032,
+      0.5371872842649649,
+      0.38418055854799416,
+      0.5476495102392743
+    ],
+    "phi_relevance": 0.6799444858822509,
+    "phi_natural_occurrence": -12291.733877186747,
+    "value_count": 89954
+  },
+  "phi_sequences": [
+    {
+      "values": [
+        104100.0,
+        166510.17
+      ],
+      "ratio": 1.599521325648415,
+      "phi_distance": 0.01851266310147981
+    },
+    {
+      "values": [
+        44000.0,
+        67571.25
+      ],
+      "ratio": 1.5357102272727272,
+      "phi_distance": 0.08232376147716769
+    }
+  ],
+  "sequence_count": 2,
+  "qhrc_resonance": {
+    "primary_resonance": 0.9928998304985824,
+    "secondary_resonance": 0.9948156698772784,
+    "resonance_factor": 1.3692378224339117,
+    "enhanced_resonance": 0.696011517594735
+  },
+  "phi_score": 0.9310057072253588,
+  "has_phi_pattern": true
+}

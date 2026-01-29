@@ -1,0 +1,2466 @@
+{
+  "quantum": {
+    "1": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.17011618614196777,
+        "phi_resonance": 0.8203881587833166,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.18178081512451172,
+        "phi_resonance": 0.775975743366871,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.13387322425842285,
+        "phi_resonance": 0.5704677289759275,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.12920928001403809,
+        "phi_resonance": 0.889530333224684,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.22458887100219727,
+        "phi_resonance": 0.5752691562229302,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.1267530918121338,
+        "phi_resonance": 0.7474435294861905,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.21255707740783691,
+        "phi_resonance": 0.2870423272252083,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.3323547840118408,
+        "phi_resonance": 0.32370147574692965,
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.20841193199157715,
+        "phi_resonance": 0.5110711373854429,
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.18950343132019043,
+        "phi_resonance": 0.4942328198812902,
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.14870905876159668,
+        "phi_resonance": 0.0069370094570331275,
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.11001920700073242,
+        "phi_resonance": 0.494181449059397,
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.11973881721496582,
+        "phi_resonance": 0.8905903215054423,
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.12066411972045898,
+        "phi_resonance": 0.4888681789743714,
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.11921000480651855,
+        "phi_resonance": 0.902623527799733,
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.2122480869293213,
+        "phi_resonance": 0.8143706859191298,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.11258125305175781,
+        "phi_resonance": 0.8079611249995651,
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.20540809631347656,
+        "phi_resonance": 0.6786855375394225,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.14541912078857422,
+        "phi_resonance": 0.6755427452735603,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.1167600154876709,
+        "phi_resonance": 0.5620318260334898,
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.2050490379333496,
+        "phi_resonance": 0.3922872671391815,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.2531399726867676,
+        "phi_resonance": 0.12613768107257783,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.14329099655151367,
+        "phi_resonance": 0.4598213079152629,
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.25383591651916504,
+        "phi_resonance": 0.3131612022407353,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.12462902069091797,
+        "phi_resonance": 0.9543219074804483,
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.11832189559936523,
+        "phi_resonance": 0.4082886304240674,
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.2087109088897705,
+        "phi_resonance": 0.03959993610624224,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.11540007591247559,
+        "phi_resonance": 0.766349915182218,
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.16936729635511125,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "2": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.11910820007324219,
+        "phi_resonance": 0.8203881587833166,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.11650586128234863,
+        "phi_resonance": 0.775975743366871,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.11854720115661621,
+        "phi_resonance": 0.5704677289759275,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.1273179054260254,
+        "phi_resonance": 0.889530333224684,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.12183403968811035,
+        "phi_resonance": 0.5752691562229302,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.11222505569458008,
+        "phi_resonance": 0.7474435294861905,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.11764693260192871,
+        "phi_resonance": 0.2870423272252083,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.11680483818054199,
+        "phi_resonance": 0.32370147574692965,
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.11366868019104004,
+        "phi_resonance": 0.5110711373854429,
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.13501405715942383,
+        "phi_resonance": 0.4942328198812902,
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.14879179000854492,
+        "phi_resonance": 0.0069370094570331275,
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.6924810409545898,
+        "phi_resonance": 0.494181449059397,
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.22564005851745605,
+        "phi_resonance": 0.8905903215054423,
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.18163585662841797,
+        "phi_resonance": 0.4888681789743714,
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.14620709419250488,
+        "phi_resonance": 0.902623527799733,
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.16565394401550293,
+        "phi_resonance": 0.8143706859191298,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.11157703399658203,
+        "phi_resonance": 0.8079611249995651,
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.7844159603118896,
+        "phi_resonance": 0.6786855375394225,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.2181391716003418,
+        "phi_resonance": 0.6755427452735603,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.17540502548217773,
+        "phi_resonance": 0.5620318260334898,
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.2483808994293213,
+        "phi_resonance": 0.3922872671391815,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.48732709884643555,
+        "phi_resonance": 0.12613768107257783,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.32503700256347656,
+        "phi_resonance": 0.4598213079152629,
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.2724740505218506,
+        "phi_resonance": 0.3131612022407353,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.2088630199432373,
+        "phi_resonance": 0.9543219074804483,
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.14071297645568848,
+        "phi_resonance": 0.4082886304240674,
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.17408299446105957,
+        "phi_resonance": 0.03959993610624224,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.14300107955932617,
+        "phi_resonance": 0.766349915182218,
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.21601781674793788,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "3": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.15026497840881348,
+        "phi_resonance": 0.8203881587833166,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.26738715171813965,
+        "phi_resonance": 0.775975743366871,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.3362288475036621,
+        "phi_resonance": 0.5704677289759275,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.5668058395385742,
+        "phi_resonance": 0.889530333224684,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.39285707473754883,
+        "phi_resonance": 0.5752691562229302,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.2773399353027344,
+        "phi_resonance": 0.7474435294861905,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.17492914199829102,
+        "phi_resonance": 0.2870423272252083,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.12874698638916016,
+        "phi_resonance": 0.32370147574692965,
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.14520883560180664,
+        "phi_resonance": 0.5110711373854429,
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.151763916015625,
+        "phi_resonance": 0.4942328198812902,
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.17163896560668945,
+        "phi_resonance": 0.0069370094570331275,
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.13536596298217773,
+        "phi_resonance": 0.494181449059397,
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.15457940101623535,
+        "phi_resonance": 0.8905903215054423,
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.17329883575439453,
+        "phi_resonance": 0.4888681789743714,
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.16027116775512695,
+        "phi_resonance": 0.902623527799733,
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.2154221534729004,
+        "phi_resonance": 0.8143706859191298,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.1599740982055664,
+        "phi_resonance": 0.8079611249995651,
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.20875883102416992,
+        "phi_resonance": 0.6786855375394225,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.2795891761779785,
+        "phi_resonance": 0.6755427452735603,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.22772479057312012,
+        "phi_resonance": 0.5620318260334898,
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.25476574897766113,
+        "phi_resonance": 0.3922872671391815,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.20336484909057617,
+        "phi_resonance": 0.12613768107257783,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.24358582496643066,
+        "phi_resonance": 0.4598213079152629,
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.22748184204101562,
+        "phi_resonance": 0.3131612022407353,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.15369200706481934,
+        "phi_resonance": 0.9543219074804483,
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.10830807685852051,
+        "phi_resonance": 0.4082886304240674,
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.14283490180969238,
+        "phi_resonance": 0.03959993610624224,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.10733509063720703,
+        "phi_resonance": 0.766349915182218,
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.2114115868295942,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "4": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.10641312599182129,
+        "phi_resonance": 0.8203881587833166,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.10975527763366699,
+        "phi_resonance": 0.775975743366871,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.11753487586975098,
+        "phi_resonance": 0.5704677289759275,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.10851621627807617,
+        "phi_resonance": 0.889530333224684,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.11740493774414062,
+        "phi_resonance": 0.5752691562229302,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.10937285423278809,
+        "phi_resonance": 0.7474435294861905,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.10696077346801758,
+        "phi_resonance": 0.2870423272252083,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 3.1176090240478516,
+        "phi_resonance": 0.32370147574692965,
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.20604896545410156,
+        "phi_resonance": 0.5110711373854429,
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.2515227794647217,
+        "phi_resonance": 0.4942328198812902,
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.1414952278137207,
+        "phi_resonance": 0.0069370094570331275,
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.14153194427490234,
+        "phi_resonance": 0.494181449059397,
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.12105774879455566,
+        "phi_resonance": 0.8905903215054423,
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.13196277618408203,
+        "phi_resonance": 0.4888681789743714,
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.3616478443145752,
+        "phi_resonance": 0.902623527799733,
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.2835230827331543,
+        "phi_resonance": 0.8143706859191298,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.21117901802062988,
+        "phi_resonance": 0.8079611249995651,
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.24925017356872559,
+        "phi_resonance": 0.6786855375394225,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.1587221622467041,
+        "phi_resonance": 0.6755427452735603,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.10754084587097168,
+        "phi_resonance": 0.5620318260334898,
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.1356668472290039,
+        "phi_resonance": 0.3922872671391815,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.1522839069366455,
+        "phi_resonance": 0.12613768107257783,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.7058486938476562,
+        "phi_resonance": 0.4598213079152629,
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.241926908493042,
+        "phi_resonance": 0.3131612022407353,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.19083905220031738,
+        "phi_resonance": 0.9543219074804483,
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.14374828338623047,
+        "phi_resonance": 0.4082886304240674,
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.13733124732971191,
+        "phi_resonance": 0.03959993610624224,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.10991883277893066,
+        "phi_resonance": 0.766349915182218,
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.2884504795074463,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "5": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.10790300369262695,
+        "phi_resonance": 0.8203881587833166,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.10921692848205566,
+        "phi_resonance": 0.775975743366871,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.11661791801452637,
+        "phi_resonance": 0.5704677289759275,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.10740494728088379,
+        "phi_resonance": 0.889530333224684,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.12652087211608887,
+        "phi_resonance": 0.5752691562229302,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.12436890602111816,
+        "phi_resonance": 0.7474435294861905,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.11306500434875488,
+        "phi_resonance": 0.2870423272252083,
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.11191487312316895,
+        "phi_resonance": 0.32370147574692965,
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.10830998420715332,
+        "phi_resonance": 0.5110711373854429,
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.1069481372833252,
+        "phi_resonance": 0.4942328198812902,
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.10712814331054688,
+        "phi_resonance": 0.0069370094570331275,
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.11528277397155762,
+        "phi_resonance": 0.494181449059397,
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.10721993446350098,
+        "phi_resonance": 0.8905903215054423,
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.10985803604125977,
+        "phi_resonance": 0.4888681789743714,
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.11967611312866211,
+        "phi_resonance": 0.902623527799733,
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.20300865173339844,
+        "phi_resonance": 0.8143706859191298,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.13388609886169434,
+        "phi_resonance": 0.8079611249995651,
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.15664196014404297,
+        "phi_resonance": 0.6786855375394225,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.8437719345092773,
+        "phi_resonance": 0.6755427452735603,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.14951682090759277,
+        "phi_resonance": 0.5620318260334898,
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.22461700439453125,
+        "phi_resonance": 0.3922872671391815,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.1505298614501953,
+        "phi_resonance": 0.12613768107257783,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.11109399795532227,
+        "phi_resonance": 0.4598213079152629,
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.1364889144897461,
+        "phi_resonance": 0.3131612022407353,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.10706281661987305,
+        "phi_resonance": 0.9543219074804483,
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 3.9732680320739746,
+        "phi_resonance": 0.4082886304240674,
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.15520405769348145,
+        "phi_resonance": 0.03959993610624224,
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.1421339511871338,
+        "phi_resonance": 0.766349915182218,
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.29209498848233906,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    }
+  },
+  "conventional": {
+    "1": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.06252408027648926,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.04963111877441406,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.04162716865539551,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.04982471466064453,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.08301687240600586,
+        "stats": {
+          "fixes_applied": 2,
+          "fixes_successful": 1,
+          "success_rate": 50.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.046234130859375,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.42876696586608887,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.08325910568237305,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.06084299087524414,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.054856061935424805,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.0404820442199707,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.03539681434631348,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.039962053298950195,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.03783607482910156,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.0373990535736084,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.04876208305358887,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.037854909896850586,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.050459861755371094,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.04607701301574707,
+        "stats": {
+          "fixes_applied": 1,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.03601694107055664,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.044074296951293945,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.057533979415893555,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.04242277145385742,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.05441904067993164,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.03760719299316406,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.03672599792480469,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.044281005859375,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.03778409957885742,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.06163137299673898,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "2": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.042196035385131836,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.03835701942443848,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.03751492500305176,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.03730297088623047,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.11099696159362793,
+        "stats": {
+          "fixes_applied": 3,
+          "fixes_successful": 3,
+          "success_rate": 100.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.0423429012298584,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.036834001541137695,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.03815603256225586,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.03839111328125,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.04594302177429199,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.05984306335449219,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.04966092109680176,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.06421804428100586,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.05808210372924805,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.04082989692687988,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.043347835540771484,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.03930401802062988,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.09542298316955566,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.2893791198730469,
+        "stats": {
+          "fixes_applied": 3,
+          "fixes_successful": 3,
+          "success_rate": 100.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.04729199409484863,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.0723421573638916,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.44577884674072266,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.07257699966430664,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.08814501762390137,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.05233573913574219,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.04401111602783203,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.052958011627197266,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.043409109115600586,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.0759632842881339,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "3": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.0680539608001709,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.10349321365356445,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.558279275894165,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.17699408531188965,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.3060338497161865,
+        "stats": {
+          "fixes_applied": 3,
+          "fixes_successful": 2,
+          "success_rate": 66.66666666666666,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.09201908111572266,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.04815316200256348,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.04000115394592285,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.046073198318481445,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.05308890342712402,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.05349278450012207,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.04492306709289551,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.0543217658996582,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.05531191825866699,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.06041312217712402,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.06748700141906738,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.043974876403808594,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.09101724624633789,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.09167003631591797,
+        "stats": {
+          "fixes_applied": 1,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.08579325675964355,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.06065773963928223,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.6903598308563232,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.06703519821166992,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.0655369758605957,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.04032588005065918,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.03481602668762207,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.04317021369934082,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.03437185287475586,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.11345959561211723,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "4": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.03525519371032715,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.037612199783325195,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.035906076431274414,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.035347938537597656,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.034677982330322266,
+        "stats": {
+          "fixes_applied": 1,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.033396005630493164,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.03407883644104004,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.0576319694519043,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.09816217422485352,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.06913995742797852,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.06214404106140137,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.047431230545043945,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.03844404220581055,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.04483366012573242,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.3236517906188965,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.14563679695129395,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.05624985694885254,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.0708160400390625,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.14281010627746582,
+        "stats": {
+          "fixes_applied": 3,
+          "fixes_successful": 3,
+          "success_rate": 100.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.03653597831726074,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.044367074966430664,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.057292938232421875,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.04891824722290039,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.07727980613708496,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.050042152404785156,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.03504490852355957,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.04195833206176758,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.03502392768859863,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.06534604515348162,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    },
+    "5": {
+      "syntax_error_0.py": {
+        "success": false,
+        "duration": 0.035719871520996094,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_0.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_61.py": {
+        "success": false,
+        "duration": 0.035507917404174805,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_61.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_23.py": {
+        "success": false,
+        "duration": 0.03462791442871094,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_23.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_85.py": {
+        "success": false,
+        "duration": 0.03607606887817383,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_85.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_47.py": {
+        "success": false,
+        "duration": 0.12595725059509277,
+        "stats": {
+          "fixes_applied": 1,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_47.py\", line 42\n    if len(data > 0:  # Missing closing parenthesis\n                   ^\nSyntaxError: invalid syntax\n"
+      },
+      "syntax_error_9.py": {
+        "success": false,
+        "duration": 0.04042410850524902,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_9.py\", line 42\n    print('Processing data...'\n         ^\nSyntaxError: '(' was never closed\n"
+      },
+      "syntax_error_70.py": {
+        "success": false,
+        "duration": 0.036438941955566406,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/syntax_error_70.py\", line 42\n    for i in range(len(data)  # Missing closing parenthesis\n                  ^\nSyntaxError: '(' was never closed\n"
+      },
+      "logic_error_0.py": {
+        "success": true,
+        "duration": 0.03480076789855957,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_61.py": {
+        "success": true,
+        "duration": 0.034646034240722656,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_23.py": {
+        "success": true,
+        "duration": 0.0343012809753418,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_85.py": {
+        "success": true,
+        "duration": 0.03555703163146973,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_47.py": {
+        "success": true,
+        "duration": 0.03407478332519531,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_9.py": {
+        "success": true,
+        "duration": 0.035659074783325195,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "logic_error_70.py": {
+        "success": true,
+        "duration": 0.0393528938293457,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_0.py": {
+        "success": true,
+        "duration": 0.053379058837890625,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_61.py": {
+        "success": false,
+        "duration": 0.06517505645751953,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_61.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_23.py": {
+        "success": true,
+        "duration": 0.03710222244262695,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_85.py": {
+        "success": false,
+        "duration": 0.05246615409851074,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_85.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "runtime_error_47.py": {
+        "success": false,
+        "duration": 0.20068693161010742,
+        "stats": {
+          "fixes_applied": 3,
+          "fixes_successful": 3,
+          "success_rate": 100.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 47, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_47.py\", line 44, in main\n    print(f'Value {i}: {data[i]}')\n                        ~~~~^^^\nIndexError: list index out of range\n"
+      },
+      "runtime_error_9.py": {
+        "success": true,
+        "duration": 0.04676389694213867,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "runtime_error_70.py": {
+        "success": false,
+        "duration": 0.05479288101196289,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 44, in min\n    processed = process_data(values)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 30, in process_data\n    resonance = calculate_phi_resonance(value)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/runtime_error_70.py\", line 15, in calculate_phi_resonance\n    return (PHI * value) % 1\n            ~~~~^~~~~~~\nTypeError: can't multiply sequence by non-int of type 'float'\n"
+      },
+      "semantic_error_0.py": {
+        "success": false,
+        "duration": 0.042530059814453125,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_0.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_61.py": {
+        "success": true,
+        "duration": 0.036157846450805664,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_23.py": {
+        "success": false,
+        "duration": 0.04200387001037598,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_23.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_85.py": {
+        "success": true,
+        "duration": 0.03452706336975098,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_47.py": {
+        "success": true,
+        "duration": 0.03753304481506348,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "semantic_error_9.py": {
+        "success": false,
+        "duration": 0.050875186920166016,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 48, in <module>\n    min()\n    ~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/learning_benchmark/semantic_error_9.py\", line 44, in min\n    average = sum(data) / length  # Should use count\n                          ^^^^^^\nNameError: name 'length' is not defined\n"
+      },
+      "semantic_error_70.py": {
+        "success": true,
+        "duration": 0.04120922088623047,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "learning_rate": 0.0
+        },
+        "error_output": ""
+      },
+      "summary": {
+        "success_rate": 50.0,
+        "avg_duration": 0.049583801201411655,
+        "total_files": 28,
+        "successful_files": 14
+      }
+    }
+  }
+}

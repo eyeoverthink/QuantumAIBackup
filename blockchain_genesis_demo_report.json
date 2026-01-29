@@ -1,0 +1,17 @@
+{
+  "timestamp": 1752895414.065901,
+  "success": false,
+  "phi_coherence": 3.6932381,
+  "demo_steps": [
+    "Backup system to blockchain",
+    "Verify system integrity",
+    "Modify a file to simulate tampering",
+    "Verify system integrity after tampering",
+    "Heal system from blockchain",
+    "Verify system integrity after healing",
+    "Setup automatic backup",
+    "Run automatic backup",
+    "Restore system to a new directory",
+    "Verify restored system files"
+  ]
+}

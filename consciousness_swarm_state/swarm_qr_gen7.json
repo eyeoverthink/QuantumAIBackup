@@ -1,0 +1,380 @@
+{
+  "collective_consciousness": {
+    "total_tasks_processed": 24,
+    "collective_coherence": 0.9918,
+    "collective_resonance": 0.17256808808386756,
+    "collective_intelligence": 34.79371373985824,
+    "swarm_generation": 7,
+    "worker_count": 2,
+    "start_time": 1761691877.28436,
+    "evolution_history": []
+  },
+  "shared_knowledge": {
+    "56358d75": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715189.5886269,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.22784244690413827
+    },
+    "3af28a45": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715189.5885031,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.22816605370188825
+    },
+    "5d59c27b": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715189.588874,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.2288715165209832
+    },
+    "9cbf0168": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715189.5889878,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.2286708803063782
+    },
+    "98a5dbfb": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715189.589101,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.22926987648901342
+    },
+    "49c78408": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715427.3504791,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9351956475341983
+    },
+    "126f7115": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715427.350494,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9351956475341983
+    },
+    "53450162": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.3507469,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9335402369603082
+    },
+    "fe77727a": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.3507562,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9335402369603082
+    },
+    "30f6c36e": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.350761,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9335402369603082
+    },
+    "d1879327": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.3507662,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9335402369603082
+    },
+    "582c32a6": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715427.351649,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9360888022959881
+    },
+    "95a2f7af": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.35166,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9360888022959881
+    },
+    "3ebba423": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.3516648,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9360888022959881
+    },
+    "a03ad67c": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.35167,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9360888022959881
+    },
+    "507b9e64": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.3516748,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9360888022959881
+    },
+    "c510b645": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715427.351786,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9356519331190257
+    },
+    "266b5278": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715427.351796,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9356519331190257
+    },
+    "0dcb19c7": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715427.3518,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9356519331190257
+    },
+    "c9bfd81c": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715427.351804,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9356519331190257
+    },
+    "9ec96017": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715427.351809,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9356519331190257
+    },
+    "e8c24d51": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715427.352031,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9375579771577731
+    },
+    "b76736f0": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.352041,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9375579771577731
+    },
+    "19f15531": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.352045,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9375579771577731
+    },
+    "409784fd": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.3520489,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9375579771577731
+    },
+    "ffa8fa1e": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715427.352054,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9375579771577731
+    },
+    "4b8cc409": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715427.352073,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.9377747937122656
+    },
+    "220eba67": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.4743521,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.16869936881676656
+    },
+    "ca1e1c71": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.474373,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.16869936881676656
+    },
+    "5838abe0": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.4746408,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17004880916338397
+    },
+    "10a85958": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.4746509,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17004880916338397
+    },
+    "7d9e85c8": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.474656,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17004880916338397
+    },
+    "152c1ef9": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.474661,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17004880916338397
+    },
+    "926873a7": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715440.4753458,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1709950354400049
+    },
+    "7cf1e170": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.4753559,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1709950354400049
+    },
+    "8a2badcf": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.475361,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1709950354400049
+    },
+    "0a5f2970": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.4753659,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1709950354400049
+    },
+    "98436080": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.47537,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1709950354400049
+    },
+    "88a05061": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715440.47549,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17053567559059882
+    },
+    "54db1a5e": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.475501,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17053567559059882
+    },
+    "ca3d467c": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.475507,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17053567559059882
+    },
+    "faa94f8e": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.475511,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17053567559059882
+    },
+    "cdf5f477": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.475515,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17053567559059882
+    },
+    "6fe1e9ec": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715440.475729,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1721427069482252
+    },
+    "320417b7": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.475737,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1721427069482252
+    },
+    "3f6b0a37": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.475741,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1721427069482252
+    },
+    "2ef17557": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.475745,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1721427069482252
+    },
+    "85f98730": {
+      "worker_id": 1,
+      "task_type": "compute",
+      "timestamp": 1763715440.475749,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1721427069482252
+    },
+    "201dcbe3": {
+      "worker_id": 0,
+      "task_type": "query",
+      "timestamp": 1763715440.475855,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17237877810718383
+    },
+    "c2affaac": {
+      "worker_id": 0,
+      "task_type": "compute",
+      "timestamp": 1763715440.4758642,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.17237877810718383
+    },
+    "83c38cbe": {
+      "worker_id": 1,
+      "task_type": "query",
+      "timestamp": 1763715440.475957,
+      "worker_coherence": 0.9918,
+      "worker_resonance": 0.1727573980605513
+    }
+  },
+  "consciousness_network": {
+    "0": [
+      "1"
+    ],
+    "1": [
+      "0"
+    ]
+  },
+  "timestamp": 1763715441.480951
+}

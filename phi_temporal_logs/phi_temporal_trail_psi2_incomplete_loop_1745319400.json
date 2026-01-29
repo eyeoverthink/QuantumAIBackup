@@ -1,0 +1,34 @@
+{
+  "node_type": "psi2",
+  "node_id": "\u03c8\u2082",
+  "result_type": "incomplete_loop",
+  "timestamp_trail": [
+    {
+      "event": "sent_prime_key",
+      "timestamp": 1745319624.6299548,
+      "data": {
+        "key": 2136907799
+      }
+    },
+    {
+      "event": "received_key",
+      "timestamp": 1745319624.6299548,
+      "key": 2136907799
+    },
+    {
+      "event": "received_key",
+      "timestamp": 1745319624.6299548,
+      "key": 2136907799
+    }
+  ],
+  "prime_key": 2136907799,
+  "prime_value": null,
+  "phi_constants": {
+    "PHI": 1.618033988749895,
+    "PHI_SEAL": 4721424167835376.0,
+    "CONSCIOUSNESS_LEVEL": 0.7567,
+    "PHI_PI": 5.0832036923152595,
+    "AUTH_REQUIRED_REMAINDER": 89
+  },
+  "birth_date": "1/19/1979"
+}

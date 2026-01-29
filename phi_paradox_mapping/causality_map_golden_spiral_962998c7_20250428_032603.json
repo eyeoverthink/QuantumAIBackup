@@ -1,0 +1,305 @@
+{
+  "paradox_id": "962998c7",
+  "pattern": "golden_spiral",
+  "num_points": 7,
+  "transfer_results": [
+    {
+      "position": 0,
+      "parameters": {
+        "position": 0,
+        "minutes_offset": 15,
+        "intensity": 7,
+        "lane": 0,
+        "phi_resonance": 0.0,
+        "theta": 0.0,
+        "radius": 0.0
+      },
+      "action": "\u03c6-Causality Map [1/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [1/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 1.4326237921249263,
+          "consciousness_transfer": 0.5,
+          "resonance_factor": 1e-09,
+          "transfer_probability": 2.163118960624632e-10,
+          "energy_required": 8.5,
+          "reality_stability": 0.9300000000699999,
+          "minutes_offset": 15,
+          "intensity": 7,
+          "lane": 0
+        },
+        "delivery_time": "2025-04-28T03:10:49.933099"
+      },
+      "send_time": "2025-04-28T03:25:49.928812",
+      "delivery_time": "2025-04-28T03:10:49.928812"
+    },
+    {
+      "position": 1,
+      "parameters": {
+        "position": 1,
+        "minutes_offset": 11,
+        "intensity": 5,
+        "lane": 1,
+        "phi_resonance": 0.6180339887498949,
+        "theta": 3.8832220774509327,
+        "radius": 5.0
+      },
+      "action": "\u03c6-Causality Map [2/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [2/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 2.3090169943749475,
+          "consciousness_transfer": 0.36,
+          "resonance_factor": 6.180339887498948e-10,
+          "transfer_probability": 9.549150281252628e-11,
+          "energy_required": 6.1,
+          "reality_stability": 0.95000000005,
+          "minutes_offset": 11,
+          "intensity": 5,
+          "lane": 1
+        },
+        "delivery_time": "2025-04-28T03:14:52.362279"
+      },
+      "send_time": "2025-04-28T03:25:52.359027",
+      "delivery_time": "2025-04-28T03:14:52.359027"
+    },
+    {
+      "position": 2,
+      "parameters": {
+        "position": 2,
+        "minutes_offset": 15,
+        "intensity": 9,
+        "lane": 2,
+        "phi_resonance": 0.2360679774997898,
+        "theta": 7.7664441549018655,
+        "radius": 7.0710678118654755
+      },
+      "action": "\u03c6-Causality Map [3/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [3/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 3.5562305898749056,
+          "consciousness_transfer": 0.6,
+          "resonance_factor": 3.819660112501051e-10,
+          "transfer_probability": 1.0623058987490536e-10,
+          "energy_required": 10.5,
+          "reality_stability": 0.9308092044932671,
+          "minutes_offset": 15,
+          "intensity": 9,
+          "lane": 2
+        },
+        "delivery_time": "2025-04-28T03:10:54.220530"
+      },
+      "send_time": "2025-04-28T03:25:54.216648",
+      "delivery_time": "2025-04-28T03:10:54.216648"
+    },
+    {
+      "position": 3,
+      "parameters": {
+        "position": 3,
+        "minutes_offset": 20,
+        "intensity": 5,
+        "lane": 0,
+        "phi_resonance": 0.8541019662496847,
+        "theta": 11.649666232352798,
+        "radius": 8.660254037844386
+      },
+      "action": "\u03c6-Causality Map [4/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [4/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 1.3090169943749475,
+          "consciousness_transfer": 0.26,
+          "resonance_factor": 1e-09,
+          "transfer_probability": 1.545084971874737e-10,
+          "energy_required": 7.0,
+          "reality_stability": 0.95000000005,
+          "minutes_offset": 20,
+          "intensity": 5,
+          "lane": 0
+        },
+        "delivery_time": "2025-04-28T03:05:56.135156"
+      },
+      "send_time": "2025-04-28T03:25:56.131593",
+      "delivery_time": "2025-04-28T03:05:56.131593"
+    },
+    {
+      "position": 4,
+      "parameters": {
+        "position": 4,
+        "minutes_offset": 5,
+        "intensity": 7,
+        "lane": 1,
+        "phi_resonance": 0.4721359549995796,
+        "theta": 15.532888309803731,
+        "radius": 10.0
+      },
+      "action": "\u03c6-Causality Map [5/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [5/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 2.4326237921249265,
+          "consciousness_transfer": 0.39999999999999997,
+          "resonance_factor": 6.180339887498948e-10,
+          "transfer_probability": 1.336881039375368e-10,
+          "energy_required": 7.5,
+          "reality_stability": 0.9300000000699999,
+          "minutes_offset": 5,
+          "intensity": 7,
+          "lane": 1
+        },
+        "delivery_time": "2025-04-28T03:20:58.033053"
+      },
+      "send_time": "2025-04-28T03:25:58.029521",
+      "delivery_time": "2025-04-28T03:20:58.029521"
+    },
+    {
+      "position": 5,
+      "parameters": {
+        "position": 5,
+        "minutes_offset": 24,
+        "intensity": 8,
+        "lane": 2,
+        "phi_resonance": 0.09016994374947451,
+        "theta": 19.416110387254662,
+        "radius": 11.180339887498949
+      },
+      "action": "\u03c6-Causality Map [6/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [6/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 3.494427190999916,
+          "consciousness_transfer": 0.45,
+          "resonance_factor": 3.819660112501051e-10,
+          "transfer_probability": 9.442719099991588e-11,
+          "energy_required": 10.4,
+          "reality_stability": 0.9410378770588758,
+          "minutes_offset": 24,
+          "intensity": 8,
+          "lane": 2
+        },
+        "delivery_time": "2025-04-28T03:01:59.919736"
+      },
+      "send_time": "2025-04-28T03:25:59.914777",
+      "delivery_time": "2025-04-28T03:01:59.914777"
+    },
+    {
+      "position": 6,
+      "parameters": {
+        "position": 6,
+        "minutes_offset": 11,
+        "intensity": 5,
+        "lane": 0,
+        "phi_resonance": 0.7082039324993694,
+        "theta": 23.299332464705596,
+        "radius": 12.24744871391589
+      },
+      "action": "\u03c6-Causality Map [7/7] [VC:\u03c6962998c7]",
+      "result": {
+        "success": true,
+        "action": "\u03c6-Causality Map [7/7] [VC:\u03c6962998c7]",
+        "parameters": {
+          "timeline_offset": 1.3090169943749475,
+          "consciousness_transfer": 0.36,
+          "resonance_factor": 1e-09,
+          "transfer_probability": 1.545084971874737e-10,
+          "energy_required": 6.1,
+          "reality_stability": 0.95000000005,
+          "minutes_offset": 11,
+          "intensity": 5,
+          "lane": 0
+        },
+        "delivery_time": "2025-04-28T03:15:01.828338"
+      },
+      "send_time": "2025-04-28T03:26:01.824527",
+      "delivery_time": "2025-04-28T03:15:01.824527"
+    }
+  ],
+  "delivery_order": [
+    5,
+    3,
+    0,
+    2,
+    1,
+    6,
+    4
+  ],
+  "sequence_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "causality_inverted": true,
+  "inversions": [
+    {
+      "early_position": 3,
+      "late_position": 5,
+      "time_difference_seconds": 236.216816,
+      "phi_resonance": -0.7639320225002102
+    },
+    {
+      "early_position": 0,
+      "late_position": 5,
+      "time_difference_seconds": 530.014035,
+      "phi_resonance": 0.09016994374947451
+    },
+    {
+      "early_position": 2,
+      "late_position": 5,
+      "time_difference_seconds": 534.301871,
+      "phi_resonance": -0.1458980337503153
+    },
+    {
+      "early_position": 1,
+      "late_position": 5,
+      "time_difference_seconds": 772.44425,
+      "phi_resonance": -0.5278640450004204
+    },
+    {
+      "early_position": 4,
+      "late_position": 5,
+      "time_difference_seconds": 1138.114744,
+      "phi_resonance": -0.3819660112501051
+    },
+    {
+      "early_position": 0,
+      "late_position": 3,
+      "time_difference_seconds": 293.797219,
+      "phi_resonance": 0.8541019662496847
+    },
+    {
+      "early_position": 2,
+      "late_position": 3,
+      "time_difference_seconds": 298.085055,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "early_position": 1,
+      "late_position": 3,
+      "time_difference_seconds": 536.227434,
+      "phi_resonance": 0.2360679774997898
+    },
+    {
+      "early_position": 1,
+      "late_position": 2,
+      "time_difference_seconds": 238.142379,
+      "phi_resonance": -0.3819660112501051
+    },
+    {
+      "early_position": 4,
+      "late_position": 6,
+      "time_difference_seconds": 356.204994,
+      "phi_resonance": 0.2360679774997898
+    }
+  ]
+}

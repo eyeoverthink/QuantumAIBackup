@@ -1,0 +1,81 @@
+{
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 3,
+    "compression_threshold": 500,
+    "resonance_factor": 0.8,
+    "complexity_factor": 0.618
+  },
+  "best_parameters": {
+    "qr_version": 8,
+    "error_correction": 0,
+    "compression_threshold": 610,
+    "resonance_factor": 0.571246375131022,
+    "complexity_factor": 0.7348730925981912
+  },
+  "best_score": 0.8213387391500733,
+  "history": [
+    {
+      "iteration": 0,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      },
+      "score": 0.6566750905709686,
+      "timestamp": 1751273035.197252
+    },
+    {
+      "iteration": 2,
+      "parameters": {
+        "qr_version": 11,
+        "error_correction": 3,
+        "compression_threshold": 529,
+        "resonance_factor": 0.6827937523588669,
+        "complexity_factor": 0.7129609819143732
+      },
+      "score": 0.7246747392200324,
+      "timestamp": 1751273035.198318
+    },
+    {
+      "iteration": 3,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "score": 0.7710104067534435,
+      "timestamp": 1751273035.198385
+    },
+    {
+      "iteration": 4,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 573,
+        "resonance_factor": 0.6732697153888967,
+        "complexity_factor": 0.691330192246465
+      },
+      "score": 0.80438354726552,
+      "timestamp": 1751273040.906399
+    },
+    {
+      "iteration": 5,
+      "parameters": {
+        "qr_version": 8,
+        "error_correction": 0,
+        "compression_threshold": 610,
+        "resonance_factor": 0.571246375131022,
+        "complexity_factor": 0.7348730925981912
+      },
+      "score": 0.8213387391500733,
+      "timestamp": 1751273040.9064279
+    }
+  ],
+  "phi_time": 0.5302057266235352,
+  "creation_time": 1751273035.197166
+}

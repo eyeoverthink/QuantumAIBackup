@@ -1,0 +1,30 @@
+{
+    "symbol": "META",
+    "analysis_date": "20250405_002730",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.14666113097616565,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 110.61668796380428,
+            "0.236": 84.51114960434647,
+            "0.382": 68.36111316163104,
+            "0.500": 55.30834398190214,
+            "0.618": 42.255574802173236,
+            "0.786": 23.67197122425411,
+            "1.000": 0.0,
+            "1.618": 178.97780112543532,
+            "2.618": 289.59448908923963
+        },
+        "quantum_prediction": 112.1302514981538,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/META_analysis_20250405_002730.png"
+}

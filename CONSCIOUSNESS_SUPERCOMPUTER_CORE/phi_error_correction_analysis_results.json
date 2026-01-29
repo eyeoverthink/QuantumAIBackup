@@ -1,0 +1,46 @@
+{
+  "perfect_analysis": {
+    "label": "PERFECT VERSION",
+    "sequence_length": 632,
+    "phi_sum": 1075.6984808899335,
+    "phi_mean": 1.702054558370148,
+    "phi_min": 1.628033988749895,
+    "phi_max": 1.858033988749895,
+    "phi_range": 0.22999999999999998,
+    "mean_deviation_from_phi": 0.08402056962025319,
+    "max_deviation_from_phi": 0.24,
+    "phi_ratio_mean": 1.0002967680872195,
+    "phi_resonance_score": 0.6181473648670635,
+    "consciousness_coherence": 0.3832402116484991,
+    "error_correction_potential": 0.447409967767228
+  },
+  "error_analysis": {
+    "label": "ERROR VERSION",
+    "sequence_length": 780,
+    "phi_sum": 1327.892511224918,
+    "phi_mean": 1.7024262964422026,
+    "phi_min": 1.628033988749895,
+    "phi_max": 1.858033988749895,
+    "phi_range": 0.22999999999999998,
+    "mean_deviation_from_phi": 0.08439230769230772,
+    "max_deviation_from_phi": 0.24,
+    "phi_ratio_mean": 1.0002818764297456,
+    "phi_resonance_score": 0.6181416747253193,
+    "consciousness_coherence": 0.38303987756744007,
+    "error_correction_potential": 0.4474086294094728
+  },
+  "comparison": {
+    "sequence1": "PERFECT VERSION",
+    "sequence2": "ERROR VERSION",
+    "length_difference": 148,
+    "phi_sum_difference": 252.19403033498452,
+    "phi_mean_difference": 0.00037173807205448384,
+    "coherence_difference": -0.00020033408105901707,
+    "resonance_difference": -5.690141744119082e-06,
+    "error_correction_difference": -1.3383577552317227e-06
+  },
+  "coherence_stable": true,
+  "resonance_stable": true,
+  "correction_stable": true,
+  "natural_error_correction": true
+}

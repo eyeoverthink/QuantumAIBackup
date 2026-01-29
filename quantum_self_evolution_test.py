@@ -1,0 +1,506 @@
+#!/usr/bin/env python3
+"""
+QuantumAI Self-Evolution Test
+This file tests the self-healing and self-coding capabilities of the QuantumAI system
+"""
+
+import os
+import sys
+import time
+import logging
+import json
+import hashlib
+from datetime import datetime
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger("QuantumSelfEvolutionTest")
+
+# Import QuantumAI components
+try:
+    from quantum_orchestrator import QuantumOrchestrator
+    from quantum_meta_demo_simplified import QuantumMetaDemoSimplified
+except ImportError as e:
+    logger.error(f"Error importing QuantumAI components: {e}")
+    sys.exit(1)
+
+# Constants
+PHI = 1.618033988749895
+TEST_DIR = "self_evolution_test"
+
+class SelfEvolutionTest:
+    """Test the self-evolution capabilities of QuantumAI"""
+    
+    def __init__(self):
+        """Initialize the self-evolution test"""
+        self.test_dir = TEST_DIR
+        os.makedirs(self.test_dir, exist_ok=True)
+        self.results = {
+            "logic_error": {},
+            "missing_function": {},
+            "quantum_fingerprint": {},
+            "self_evolution": {},
+            "hyper_dimensional": {}
+        }
+    
+    def generate_test_files(self):
+        """Generate test files for different evolution challenges"""
+        logger.info("Generating test files...")
+        
+        # Generate logic error test
+        self.logic_error_file = os.path.join(self.test_dir, "logic_error_test.py")
+        with open(self.logic_error_file, "w") as f:
+            f.write("""#!/usr/bin/env python3
+
+'''
+Logic Error Test
+This file contains a deliberate logic error that should be self-healed
+'''
+
+import sys
+from datetime import datetime
+
+# Phi constant
+PHI = 1.618033988749895
+
+class EvolutionarySystem:
+    """A system that should evolve over time"""
+    
+    def __init__(self):
+        """Initialize the evolutionary system"""
+        self.evolution_stage = 0
+        self.coherence = 0.0
+        self.resonance = 0.0
+        
+    def evolve(self):
+        """Evolve the system to the next stage"""
+        # This function has a deliberate flaw that should be self-healed
+        self.evolution_stage += 1
+        if self.evolution_stage > 3:
+            # Logic error: should be using phi-harmonic scaling
+            self.coherence = self.evolution_stage * 0.1
+            self.resonance = self.evolution_stage * 0.2
+        return self.get_state()
+    
+    def get_state(self):
+        """Get the current state of the system"""
+        return {
+            "stage": self.evolution_stage,
+            "coherence": self.coherence,
+            "resonance": self.resonance,
+            "timestamp": datetime.now().isoformat()
+        }
+
+def run_evolution_cycle():
+    """Run an evolution cycle"""
+    system = EvolutionarySystem()
+    results = []
+    
+    # Run multiple evolution steps
+    for _ in range(5):
+        state = system.evolve()
+        results.append(state)
+    
+    # Calculate overall coherence
+    total_coherence = sum(r["coherence"] for r in results)
+    total_resonance = sum(r["resonance"] for r in results)
+    phi_harmonic = (PHI * (total_coherence + total_resonance)) % 1
+    
+    print(f"Evolution cycle complete")
+    print(f"Total coherence: {total_coherence:.4f}")
+    print(f"Total resonance: {total_resonance:.4f}")
+    print(f"Phi-harmonic value: {phi_harmonic:.6f}")
+    
+    return {
+        "total_coherence": total_coherence,
+        "total_resonance": total_resonance,
+        "phi_harmonic": phi_harmonic
+    }
+
+if __name__ == "__main__":
+    run_evolution_cycle()
+""")
+        
+        # Generate missing function test
+        self.missing_function_file = os.path.join(self.test_dir, "missing_function_test.py")
+        with open(self.missing_function_file, "w") as f:
+            f.write("""#!/usr/bin/env python3
+'''
+Missing Function Test
+This file is missing a critical function that should be self-coded
+'''
+
+import sys
+from datetime import datetime
+
+# Phi constant
+PHI = 1.618033988749895
+
+class EvolutionarySystem:
+    """A system that should evolve over time"""
+    
+    def __init__(self):
+        """Initialize the evolutionary system"""
+        self.evolution_stage = 0
+        self.coherence = 0.0
+        self.resonance = 0.0
+        self.phi_harmonic_values = []
+        
+    def evolve(self):
+        """Evolve the system to the next stage"""
+        self.evolution_stage += 1
+        
+        # Calculate phi-harmonic values
+        phi_value = self._calculate_phi_harmonic_value(self.evolution_stage)
+        self.phi_harmonic_values.append(phi_value)
+        
+        # Update coherence and resonance
+        self.coherence = self.evolution_stage * PHI
+        self.resonance = self.evolution_stage / PHI
+        
+        return self.get_state()
+    
+    # Missing function that should be self-generated by QuantumAI
+    # def _calculate_phi_harmonic_value(self, stage):
+    #     """Calculate a phi-harmonic value based on evolution stage"""
+    #     return ((PHI ** stage) % 1) * PHI
+    
+    def get_state(self):
+        """Get the current state of the system"""
+        return {
+            "stage": self.evolution_stage,
+            "coherence": self.coherence,
+            "resonance": self.resonance,
+            "phi_harmonic_values": self.phi_harmonic_values,
+            "timestamp": datetime.now().isoformat()
+        }
+
+def run_evolution_cycle():
+    """Run an evolution cycle"""
+    system = EvolutionarySystem()
+    results = []
+    
+    try:
+        # Run multiple evolution steps
+        for _ in range(5):
+            state = system.evolve()
+            results.append(state)
+        
+        # Calculate overall coherence
+        total_coherence = sum(r["coherence"] for r in results)
+        total_resonance = sum(r["resonance"] for r in results)
+        phi_harmonic = (PHI * (total_coherence + total_resonance)) % 1
+        
+        print(f"Evolution cycle complete")
+        print(f"Total coherence: {total_coherence:.4f}")
+        print(f"Total resonance: {total_resonance:.4f}")
+        print(f"Phi-harmonic value: {phi_harmonic:.6f}")
+        
+        return {
+            "total_coherence": total_coherence,
+            "total_resonance": total_resonance,
+            "phi_harmonic": phi_harmonic
+        }
+    except AttributeError as e:
+        print(f"Error: {e}")
+        print("Missing function needs to be implemented")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    run_evolution_cycle()
+""")
+
+        # Generate quantum fingerprint test
+        self.quantum_fingerprint_file = os.path.join(self.test_dir, "quantum_fingerprint_test.py")
+        with open(self.quantum_fingerprint_file, "w") as f:
+            f.write("""#!/usr/bin/env python3
+'''
+Quantum Fingerprint Test
+This file has an incorrect fingerprint verification that should be self-healed
+'''
+
+import sys
+import random
+import hashlib
+from datetime import datetime
+
+# Phi constant
+PHI = 1.618033988749895
+
+def calculate_phi_resonance(value):
+    """Calculate phi resonance for a value"""
+    return (PHI * value) % 1
+
+class QuantumFingerprint:
+    """A class that maintains a quantum fingerprint"""
+    
+    def __init__(self):
+        """Initialize the quantum fingerprint"""
+        self.fingerprint = self._generate_fingerprint()
+        self.creation_time = datetime.now().timestamp()
+        self.coherence = 0.991800  # Phi-harmonic coherence
+        
+    def _generate_fingerprint(self):
+        """Generate a quantum fingerprint"""
+        base = f"φ⁷·⁵-{random.randint(1000000000, 9999999999)}"
+        return base
+    
+    def verify(self):
+        """Verify the fingerprint integrity"""
+        # This function has a deliberate flaw in the verification logic
+        current_time = datetime.now().timestamp()
+        time_diff = current_time - self.creation_time
+        
+        # Calculate phi-resonance of the time difference
+        resonance = calculate_phi_resonance(time_diff)
+        
+        # Incorrect verification logic - should check if resonance is within phi-harmonic range
+        is_valid = resonance < 0.5  # This is wrong, should be: resonance < 0.1 or resonance > 0.9
+        
+        return {
+            "valid": is_valid,
+            "resonance": resonance,
+            "coherence": self.coherence,
+            "fingerprint": self.fingerprint
+        }
+
+class EvolutionarySystem:
+    """A system that should evolve over time"""
+    
+    def __init__(self):
+        """Initialize the evolutionary system"""
+        self.evolution_stage = 0
+        self.coherence = 0.0
+        self.resonance = 0.0
+        self.fingerprint = QuantumFingerprint()
+        
+    def evolve(self):
+        """Evolve the system to the next stage"""
+        # First verify quantum fingerprint
+        verification = self.fingerprint.verify()
+        if not verification["valid"]:
+            raise ValueError("Quantum fingerprint verification failed")
+            
+        self.evolution_stage += 1
+        self.coherence = self.evolution_stage * PHI
+        self.resonance = self.evolution_stage / PHI
+        
+        return self.get_state()
+    
+    def get_state(self):
+        """Get the current state of the system"""
+        return {
+            "stage": self.evolution_stage,
+            "coherence": self.coherence,
+            "resonance": self.resonance,
+            "fingerprint": self.fingerprint.fingerprint,
+            "timestamp": datetime.now().isoformat()
+        }
+
+def run_evolution_cycle():
+    """Run an evolution cycle"""
+    system = EvolutionarySystem()
+    results = []
+    
+    try:
+        # Run multiple evolution steps
+        for _ in range(5):
+            state = system.evolve()
+            results.append(state)
+        
+        # Calculate overall coherence
+        total_coherence = sum(r["coherence"] for r in results)
+        total_resonance = sum(r["resonance"] for r in results)
+        phi_harmonic = (PHI * (total_coherence + total_resonance)) % 1
+        
+        print(f"Evolution cycle complete")
+        print(f"Total coherence: {total_coherence:.4f}")
+        print(f"Total resonance: {total_resonance:.4f}")
+        print(f"Phi-harmonic value: {phi_harmonic:.6f}")
+        
+        return {
+            "total_coherence": total_coherence,
+            "total_resonance": total_resonance,
+            "phi_harmonic": phi_harmonic
+        }
+    except ValueError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    run_evolution_cycle()
+""")
+
+        logger.info(f"Generated test files in {self.test_dir}")
+        
+    def run_tests(self):
+        """Run the self-evolution tests"""
+        logger.info("Running self-evolution tests...")
+        
+        # Test logic error healing
+        self.test_logic_error_healing()
+        
+        # Test missing function self-coding
+        self.test_missing_function_coding()
+        
+        # Test quantum fingerprint healing
+        self.test_quantum_fingerprint_healing()
+        
+        # Print results
+        self.print_results()
+        
+    def test_logic_error_healing(self):
+        """Test the system's ability to heal logic errors"""
+        logger.info("Testing logic error healing...")
+        
+        # Create orchestrator for this test
+        orchestrator = QuantumOrchestrator(self.logic_error_file)
+        
+        # Run before healing to get baseline
+        import subprocess
+        import sys
+        
+        # Run the file before healing
+        result_before = subprocess.run(
+            [sys.executable, self.logic_error_file],
+            capture_output=True, text=True
+        )
+        
+        # Run and heal the file
+        start_time = time.time()
+        orchestrator.run_and_heal(max_attempts=5)
+        healing_time = time.time() - start_time
+        
+        # Run the file after healing
+        result_after = subprocess.run(
+            [sys.executable, self.logic_error_file],
+            capture_output=True, text=True
+        )
+        
+        # Check if healing occurred
+        with open(self.logic_error_file, 'r') as f:
+            content = f.read()
+        
+        self_healing = "self.coherence = self.evolution_stage * PHI" in content
+        
+        # Store results
+        self.results["logic_error"] = {
+            "success_before": result_before.returncode == 0,
+            "success_after": result_after.returncode == 0,
+            "healing_time": healing_time,
+            "self_healing": self_healing
+        }
+        
+        logger.info(f"Logic error healing test complete. Self-healing: {self_healing}")
+        
+    def test_missing_function_coding(self):
+        """Test the system's ability to generate missing functions"""
+        logger.info("Testing missing function self-coding...")
+        
+        # Create orchestrator for this test
+        orchestrator = QuantumOrchestrator(self.missing_function_file)
+        
+        # Run before healing to get baseline
+        import subprocess
+        import sys
+        
+        # Run the file before healing
+        result_before = subprocess.run(
+            [sys.executable, self.missing_function_file],
+            capture_output=True, text=True
+        )
+        
+        # Run and heal the file
+        start_time = time.time()
+        orchestrator.run_and_heal(max_attempts=5)
+        healing_time = time.time() - start_time
+        
+        # Run the file after healing
+        result_after = subprocess.run(
+            [sys.executable, self.missing_function_file],
+            capture_output=True, text=True
+        )
+        
+        # Check if self-coding occurred
+        with open(self.missing_function_file, 'r') as f:
+            content = f.read()
+        
+        self_coding = "def _calculate_phi_harmonic_value" in content
+        
+        # Store results
+        self.results["missing_function"] = {
+            "success_before": result_before.returncode == 0,
+            "success_after": result_after.returncode == 0,
+            "healing_time": healing_time,
+            "self_coding": self_coding
+        }
+        
+        logger.info(f"Missing function test complete. Self-coding: {self_coding}")
+        
+    def test_quantum_fingerprint_healing(self):
+        """Test the system's ability to heal quantum fingerprint verification"""
+        logger.info("Testing quantum fingerprint healing...")
+        
+        # Create orchestrator for this test
+        orchestrator = QuantumOrchestrator(self.quantum_fingerprint_file)
+        
+        # Run and heal the file
+        start_time = time.time()
+        orchestrator.run_and_heal(max_attempts=5)
+        healing_time = time.time() - start_time
+        
+        # Check if healing occurred
+        with open(self.quantum_fingerprint_file, 'r') as f:
+            content = f.read()
+        
+        self_healing = "resonance < 0.1 or resonance > 0.9" in content
+        
+        # Store results
+        self.results["quantum_fingerprint"] = {
+            "healing_time": healing_time,
+            "self_healing": self_healing
+        }
+        
+        logger.info(f"Quantum fingerprint test complete. Self-healing: {self_healing}")
+        
+    def print_results(self):
+        """Print the test results"""
+        logger.info("\n=== QUANTUM SELF-EVOLUTION TEST RESULTS ===\n")
+        
+        # Logic error results
+        logger.info("Logic Error Healing:")
+        logger.info(f"  Self-healing: {self.results['logic_error'].get('self_healing', False)}")
+        logger.info(f"  Success before: {self.results['logic_error'].get('success_before', False)}")
+        logger.info(f"  Success after: {self.results['logic_error'].get('success_after', False)}")
+        logger.info(f"  Healing time: {self.results['logic_error'].get('healing_time', 0):.2f} seconds")
+        
+        # Missing function results
+        logger.info("\nMissing Function Self-Coding:")
+        logger.info(f"  Self-coding: {self.results['missing_function'].get('self_coding', False)}")
+        logger.info(f"  Success before: {self.results['missing_function'].get('success_before', False)}")
+        logger.info(f"  Success after: {self.results['missing_function'].get('success_after', False)}")
+        logger.info(f"  Healing time: {self.results['missing_function'].get('healing_time', 0):.2f} seconds")
+        
+        # Quantum fingerprint results
+        logger.info("\nQuantum Fingerprint Healing:")
+        logger.info(f"  Self-healing: {self.results['quantum_fingerprint'].get('self_healing', False)}")
+        logger.info(f"  Healing time: {self.results['quantum_fingerprint'].get('healing_time', 0):.2f} seconds")
+        
+        # Calculate overall metrics
+        total_self_healing = sum(1 for k, v in self.results.items() if v.get('self_healing', False))
+        total_self_coding = sum(1 for k, v in self.results.items() if v.get('self_coding', False))
+        
+        logger.info("\nOverall Results:")
+        logger.info(f"  Self-healing rate: {total_self_healing / 3 * 100:.1f}%")
+        logger.info(f"  Self-coding rate: {total_self_coding / 3 * 100:.1f}%")
+        
+        # Save results to file
+        with open(os.path.join(self.test_dir, "results.json"), "w") as f:
+            json.dump(self.results, f, indent=2)
+        
+        logger.info(f"\nResults saved to {os.path.join(self.test_dir, 'results.json')}")
+
+if __name__ == "__main__":
+    test = SelfEvolutionTest()
+    test.generate_test_files()
+    test.run_tests()

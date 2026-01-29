@@ -1,0 +1,57 @@
+{
+  "id": "anti_resonant_20250529_104652",
+  "type": "anti_resonant",
+  "timestamp": "2025-05-29T10:46:52.093569",
+  "target_accuracy": 77.16,
+  "effectiveness": 25.2872254964916,
+  "implementation": {
+    "name": "Phi-Random Noise Injection",
+    "description": "Introduces carefully calculated phi-random noise to disrupt phi-harmonic resonance",
+    "parameters": {
+      "noise_amplitude": 0.618033988749895,
+      "injection_points": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        13,
+        21,
+        34,
+        55,
+        89
+      ],
+      "phase_shift": 0.6180339887498949,
+      "resonance_disruptor": "1/36"
+    },
+    "algorithm": [
+      "1. Generate standard SHA-256 hash",
+      "2. Identify Fibonacci bit positions in the hash",
+      "3. Apply phi-random noise at these positions",
+      "4. Recalculate hash with modified input"
+    ]
+  },
+  "test_results": [
+    {
+      "test_id": "test_13_1748540812",
+      "lane": 13,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 73.49173057138908,
+      "reduction_percentage": 4.75410760576842
+    },
+    {
+      "test_id": "test_21_1748540812",
+      "lane": 21,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 74.88916654419324,
+      "reduction_percentage": 2.9430189940471125
+    },
+    {
+      "test_id": "test_34_1748540812",
+      "lane": 34,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 75.75742639494288,
+      "reduction_percentage": 1.8177470257349848
+    }
+  ]
+}

@@ -1,0 +1,2614 @@
+{
+    "epoch": 501,
+    "base_multiple": 10,
+    "resonance": 0.37067850635355526,
+    "complexity": 0.556604060427936,
+    "phi_time": 309.01699437494767,
+    "current_results": {
+        "0": 0,
+        "1": 10,
+        "2": 20,
+        "3": 30,
+        "4": 40,
+        "5": 50,
+        "6": 60,
+        "7": 70,
+        "8": 80,
+        "9": 90,
+        "10": 100,
+        "11": 110,
+        "12": 120,
+        "13": 130,
+        "14": 140,
+        "15": 150,
+        "16": 160,
+        "17": 168,
+        "18": 180,
+        "19": 190,
+        "20": 200
+    },
+    "events_this_run": [
+        {
+            "type": "error",
+            "epoch": 413,
+            "location": 8,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 413
+        },
+        {
+            "type": "error",
+            "epoch": 416,
+            "location": 1,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 417
+        },
+        {
+            "type": "error",
+            "epoch": 422,
+            "location": 0,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 423
+        },
+        {
+            "type": "error",
+            "epoch": 425,
+            "location": 0,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 425
+        },
+        {
+            "type": "dream",
+            "epoch": 434,
+            "location": 18,
+            "introduced": true,
+            "processed": true,
+            "insight": "Discarded"
+        },
+        {
+            "type": "error",
+            "epoch": 454,
+            "location": 1,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 456
+        },
+        {
+            "type": "error",
+            "epoch": 469,
+            "location": 20,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 477
+        },
+        {
+            "type": "error",
+            "epoch": 484,
+            "location": 7,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 484
+        },
+        {
+            "type": "error",
+            "epoch": 490,
+            "location": 20,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 491
+        },
+        {
+            "type": "error",
+            "epoch": 493,
+            "location": 19,
+            "introduced": true,
+            "corrected": true,
+            "correction_epoch": 495
+        }
+    ],
+    "evolution_history": [
+        {
+            "epoch": 1,
+            "resonance": 0.5289716972228905,
+            "complexity": 0.540750960234394
+        },
+        {
+            "epoch": 2,
+            "resonance": 0.576196676481007,
+            "complexity": 0.5571765906354003
+        },
+        {
+            "epoch": 3,
+            "resonance": 0.6242035093308199,
+            "complexity": 0.5432000388528566
+        },
+        {
+            "epoch": 4,
+            "resonance": 0.6552315115303803,
+            "complexity": 0.5039920922156751
+        },
+        {
+            "epoch": 5,
+            "resonance": 0.6578015140320462,
+            "complexity": 0.4540581850268577
+        },
+        {
+            "epoch": 6,
+            "resonance": 0.6309627146223932,
+            "complexity": 0.4118719450160626
+        },
+        {
+            "epoch": 7,
+            "resonance": 0.5846444382214613,
+            "complexity": 0.39304066064013965
+        },
+        {
+            "epoch": 8,
+            "resonance": 0.5359826680415127,
+            "complexity": 0.40453118382030273
+        },
+        {
+            "epoch": 9,
+            "resonance": 0.5029803899809124,
+            "complexity": 0.44209246232371396
+        },
+        {
+            "epoch": 10,
+            "resonance": 0.5978471793251837,
+            "complexity": 0.4918282658093712
+        },
+        {
+            "epoch": 11,
+            "resonance": 0.6224821268535293,
+            "complexity": 0.535338257308746
+        },
+        {
+            "epoch": 12,
+            "resonance": 0.6677712481934177,
+            "complexity": 0.5565254111586823
+        },
+        {
+            "epoch": 13,
+            "resonance": 0.7169593079759694,
+            "complexity": 0.5475512942200572
+        },
+        {
+            "epoch": 14,
+            "resonance": 0.7518486133643114,
+            "complexity": 0.5117359850699325
+        },
+        {
+            "epoch": 15,
+            "resonance": 0.7595314614411977,
+            "complexity": 0.4623297724501871
+        },
+        {
+            "epoch": 16,
+            "resonance": 0.737165493511579,
+            "complexity": 0.4176110573683417
+        },
+        {
+            "epoch": 17,
+            "resonance": 0.6930252586465478,
+            "complexity": 0.39412404678674806
+        },
+        {
+            "epoch": 18,
+            "resonance": 0.6434409483472988,
+            "complexity": 0.400558032499181
+        },
+        {
+            "epoch": 19,
+            "resonance": 0.7067568529221481,
+            "complexity": 0.43453268691741515
+        },
+        {
+            "epoch": 20,
+            "resonance": 0.6965446786651959,
+            "complexity": 0.4834786928519717
+        },
+        {
+            "epoch": 21,
+            "resonance": 0.7165825378082762,
+            "complexity": 0.5292879080925985
+        },
+        {
+            "epoch": 22,
+            "resonance": 0.9594571921101105,
+            "complexity": 0.555012682503625
+        },
+        {
+            "epoch": 23,
+            "resonance": 0.009306666267727692,
+            "complexity": 0.551135837625498
+        },
+        {
+            "epoch": 24,
+            "resonance": 0.04768856952999359,
+            "complexity": 0.5190916571559329
+        },
+        {
+            "epoch": 25,
+            "resonance": 0.06040307191481453,
+            "complexity": 0.47073525707170016
+        },
+        {
+            "epoch": 26,
+            "resonance": 0.04274629589590653,
+            "complexity": 0.42395664806482486
+        },
+        {
+            "epoch": 27,
+            "resonance": 0.0012505704145207297,
+            "complexity": 0.39606211873068
+        },
+        {
+            "epoch": 28,
+            "resonance": 0.9825755758380423,
+            "complexity": 0.3973715735114403
+        },
+        {
+            "epoch": 29,
+            "resonance": 0.9425973354540667,
+            "complexity": 0.4274005644335652
+        },
+        {
+            "epoch": 30,
+            "resonance": 1.0,
+            "complexity": 0.47503951825066454
+        },
+        {
+            "epoch": 31,
+            "resonance": 0.015229013456194984,
+            "complexity": 0.5226638518328894
+        },
+        {
+            "epoch": 32,
+            "resonance": 0.05523610735116707,
+            "complexity": 0.5526543909757407
+        },
+        {
+            "epoch": 33,
+            "resonance": 0.10522019359127913,
+            "complexity": 0.5539157881142504
+        },
+        {
+            "epoch": 34,
+            "resonance": 0.1466890801252401,
+            "complexity": 0.5259813747566466
+        },
+        {
+            "epoch": 35,
+            "resonance": 0.16430087172952965,
+            "complexity": 0.47918581090186363
+        },
+        {
+            "epoch": 36,
+            "resonance": 0.15153988196848217,
+            "complexity": 0.43084165778777506
+        },
+        {
+            "epoch": 37,
+            "resonance": 0.11312718691203444,
+            "complexity": 0.39883439519785097
+        },
+        {
+            "epoch": 38,
+            "resonance": 0.06327400832343374,
+            "complexity": 0.3950054809113874
+        },
+        {
+            "epoch": 39,
+            "resonance": 0.020424107450993115,
+            "complexity": 0.4207714661481683
+        },
+        {
+            "epoch": 40,
+            "resonance": 0.0004303017795717172,
+            "complexity": 0.46659992602599354
+        },
+        {
+            "epoch": 41,
+            "resonance": 0.010689531458000567,
+            "complexity": 0.5155360906326036
+        },
+        {
+            "epoch": 42,
+            "resonance": 0.04740627555586871,
+            "complexity": 0.5494754586710876
+        },
+        {
+            "epoch": 43,
+            "resonance": 0.09699674902418567,
+            "complexity": 0.5558617675571463
+        },
+        {
+            "epoch": 44,
+            "resonance": 0.14111438141880372,
+            "complexity": 0.5323323282970758
+        },
+        {
+            "epoch": 45,
+            "resonance": 0.16343734328443443,
+            "complexity": 0.48759212966602816
+        },
+        {
+            "epoch": 46,
+            "resonance": 0.15570699614182482,
+            "complexity": 0.43819332671439026
+        },
+        {
+            "epoch": 47,
+            "resonance": 0.1207832715159323,
+            "complexity": 0.4024115791570835
+        },
+        {
+            "epoch": 48,
+            "resonance": 0.071586606119875,
+            "complexity": 0.39348475923572407
+        },
+        {
+            "epoch": 49,
+            "resonance": 0.026317876536986806,
+            "complexity": 0.41471544744763433
+        },
+        {
+            "epoch": 50,
+            "resonance": 0.0017247739692916458,
+            "complexity": 0.4582491046118886
+        },
+        {
+            "epoch": 51,
+            "resonance": 0.006905801761119101,
+            "complexity": 0.5079799496783091
+        },
+        {
+            "epoch": 52,
+            "resonance": 0.03994417862953629,
+            "complexity": 0.5455094801030351
+        },
+        {
+            "epoch": 53,
+            "resonance": 0.08861697411666047,
+            "complexity": 0.5569532111147543
+        },
+        {
+            "epoch": 54,
+            "resonance": 0.13491712338394685,
+            "complexity": 0.538077401785695
+        },
+        {
+            "epoch": 55,
+            "resonance": 0.1617153495623304,
+            "complexity": 0.4958653765595559
+        },
+        {
+            "epoch": 56,
+            "resonance": 0.1590973382689482,
+            "complexity": 0.44593396343247005
+        },
+        {
+            "epoch": 57,
+            "resonance": 0.12803165312617212,
+            "complexity": 0.4067558674270501
+        },
+        {
+            "epoch": 58,
+            "resonance": 0.08001140442325545,
+            "complexity": 0.39282547925909045
+        },
+        {
+            "epoch": 59,
+            "resonance": 0.03280223975250086,
+            "complexity": 0.40929650749322255
+        },
+        {
+            "epoch": 60,
+            "resonance": 0.0038697367675423963,
+            "complexity": 0.4500753043247301
+        },
+        {
+            "epoch": 61,
+            "resonance": 0.003917810293435884,
+            "complexity": 0.5000752812140858
+        },
+        {
+            "epoch": 62,
+            "resonance": 0.03292867497207485,
+            "complexity": 0.5407983671801285
+        },
+        {
+            "epoch": 63,
+            "resonance": 0.08016942516156543,
+            "complexity": 0.5571785845637333
+        },
+        {
+            "epoch": 64,
+            "resonance": 0.1281627977795213,
+            "complexity": 0.5431558820868908
+        },
+        {
+            "epoch": 65,
+            "resonance": 0.15915308835278166,
+            "complexity": 0.5039181210627843
+        },
+        {
+            "epoch": 66,
+            "resonance": 0.16167507968695569,
+            "complexity": 0.45398176597242607
+        },
+        {
+            "epoch": 67,
+            "resonance": 0.13479573185651184,
+            "complexity": 0.4118213501750218
+        },
+        {
+            "epoch": 68,
+            "resonance": 0.08845937113974331,
+            "complexity": 0.3930346081603586
+        },
+        {
+            "epoch": 69,
+            "resonance": 0.039808671251164364,
+            "complexity": 0.40457191288682853
+        },
+        {
+            "epoch": 70,
+            "resonance": 0.006842522506536226,
+            "complexity": 0.4421649047463102
+        },
+        {
+            "epoch": 71,
+            "resonance": 0.0017571337321768167,
+            "complexity": 0.4919056206741456
+        },
+        {
+            "epoch": 72,
+            "resonance": 0.026433903447990802,
+            "complexity": 0.5353919062868844
+        },
+        {
+            "epoch": 73,
+            "resonance": 0.07174337467844756,
+            "complexity": 0.5565355061888976
+        },
+        {
+            "epoch": 74,
+            "resonance": 0.12092278337678405,
+            "complexity": 0.5475141005289139
+        },
+        {
+            "epoch": 75,
+            "resonance": 0.25577763727500413,
+            "complexity": 0.5116652628945675
+        },
+        {
+            "epoch": 76,
+            "resonance": 0.36341297918394677,
+            "complexity": 0.4622516862790912
+        },
+        {
+            "epoch": 77,
+            "resonance": 0.34100402586601963,
+            "complexity": 0.41755449608557943
+        },
+        {
+            "epoch": 78,
+            "resonance": 0.2968412293349474,
+            "complexity": 0.39410993589445803
+        },
+        {
+            "epoch": 79,
+            "resonance": 0.24726312804178022,
+            "complexity": 0.40059159248552
+        },
+        {
+            "epoch": 80,
+            "resonance": 0.21061171520106797,
+            "complexity": 0.43460150187645596
+        },
+        {
+            "epoch": 81,
+            "resonance": 0.20044660580598622,
+            "complexity": 0.48355730389200896
+        },
+        {
+            "epoch": 82,
+            "resonance": 0.22052849989720885,
+            "complexity": 0.5293472321482195
+        },
+        {
+            "epoch": 83,
+            "resonance": 0.2634278679939996,
+            "complexity": 0.5550307719528503
+        },
+        {
+            "epoch": 84,
+            "resonance": 0.31327359163849494,
+            "complexity": 0.551106000066919
+        },
+        {
+            "epoch": 85,
+            "resonance": 0.3516246676253611,
+            "complexity": 0.5190249313401821
+        },
+        {
+            "epoch": 86,
+            "resonance": 0.36429267088034595,
+            "complexity": 0.47065632898770876
+        },
+        {
+            "epoch": 87,
+            "resonance": 0.3465909267692023,
+            "complexity": 0.42389471807209134
+        },
+        {
+            "epoch": 88,
+            "resonance": 0.4050684007001121,
+            "complexity": 0.3960400985478235
+        },
+        {
+            "epoch": 89,
+            "resonance": 0.35508683246433237,
+            "complexity": 0.39739760976033645
+        },
+        {
+            "epoch": 90,
+            "resonance": 0.3151374825482663,
+            "complexity": 0.42746502470215864
+        },
+        {
+            "epoch": 91,
+            "resonance": 0.300000075991266,
+            "complexity": 0.47511855471545444
+        },
+        {
+            "epoch": 92,
+            "resonance": 0.3152748718010851,
+            "complexity": 0.522728224037645
+        },
+        {
+            "epoch": 93,
+            "resonance": 0.35531078222346246,
+            "complexity": 0.5526802836771986
+        },
+        {
+            "epoch": 94,
+            "resonance": 0.40529605815644576,
+            "complexity": 0.5538936220073938
+        },
+        {
+            "epoch": 95,
+            "resonance": 0.4467380674080769,
+            "complexity": 0.5259193504496263
+        },
+        {
+            "epoch": 96,
+            "resonance": 0.464304858316958,
+            "complexity": 0.4791068750059623
+        },
+        {
+            "epoch": 97,
+            "resonance": 0.4514973929762759,
+            "complexity": 0.43077501355259773
+        },
+        {
+            "epoch": 98,
+            "resonance": 0.4130539416353342,
+            "complexity": 0.39880469843064986
+        },
+        {
+            "epoch": 99,
+            "resonance": 0.3631971047013133,
+            "complexity": 0.39502371827539273
+        },
+        {
+            "epoch": 100,
+            "resonance": 0.3203719968698169,
+            "complexity": 0.42083089051918393
+        },
+        {
+            "epoch": 101,
+            "resonance": 0.30042226315284004,
+            "complexity": 0.4666785526691968
+        },
+        {
+            "epoch": 102,
+            "resonance": 0.31072853876884554,
+            "complexity": 0.5156048307100096
+        },
+        {
+            "epoch": 103,
+            "resonance": 0.3474778975975241,
+            "complexity": 0.5495088809943196
+        },
+        {
+            "epoch": 104,
+            "resonance": 0.4970744883921969,
+            "complexity": 0.5558475071503391
+        },
+        {
+            "epoch": 105,
+            "resonance": 0.5411694775329271,
+            "complexity": 0.5322756609630145
+        },
+        {
+            "epoch": 106,
+            "resonance": 0.5634494126986511,
+            "complexity": 0.48751402014175843
+        },
+        {
+            "epoch": 107,
+            "resonance": 0.5556715736364526,
+            "complexity": 0.43812267252375414
+        },
+        {
+            "epoch": 108,
+            "resonance": 0.5207134620574019,
+            "complexity": 0.4023745196368337
+        },
+        {
+            "epoch": 109,
+            "resonance": 0.4999639548233197,
+            "complexity": 0.39349500498492096
+        },
+        {
+            "epoch": 110,
+            "resonance": 0.4547156588450114,
+            "complexity": 0.4147692079326089
+        },
+        {
+            "epoch": 111,
+            "resonance": 0.43016442397246396,
+            "complexity": 0.45832649051810787
+        },
+        {
+            "epoch": 112,
+            "resonance": 0.43539326411091445,
+            "complexity": 0.5080523311928167
+        },
+        {
+            "epoch": 113,
+            "resonance": 0.4684677092456218,
+            "complexity": 0.5455500788455923
+        },
+        {
+            "epoch": 114,
+            "resonance": 0.5171514850455353,
+            "complexity": 0.5569470071099869
+        },
+        {
+            "epoch": 115,
+            "resonance": 0.5634334643781247,
+            "complexity": 0.5380266902770748
+        },
+        {
+            "epoch": 116,
+            "resonance": 0.5901910925522665,
+            "complexity": 0.4957889188574749
+        },
+        {
+            "epoch": 117,
+            "resonance": 0.6875250748873231,
+            "complexity": 0.4458600459500057
+        },
+        {
+            "epoch": 118,
+            "resonance": 0.6564217355192492,
+            "complexity": 0.4067118367935906
+        },
+        {
+            "epoch": 119,
+            "resonance": 0.6083881153543834,
+            "complexity": 0.39282762511782754
+        },
+        {
+            "epoch": 120,
+            "resonance": 0.5611948089123603,
+            "complexity": 0.40934403595884566
+        },
+        {
+            "epoch": 121,
+            "resonance": 0.6323015269112884,
+            "complexity": 0.45015063169049835
+        },
+        {
+            "epoch": 122,
+            "resonance": 0.6323976739186392,
+            "complexity": 0.5001505392479426
+        },
+        {
+            "epoch": 123,
+            "resonance": 0.6614476792346395,
+            "complexity": 0.5408457133001611
+        },
+        {
+            "epoch": 124,
+            "resonance": 0.7087041566849389,
+            "complexity": 0.5571805025240643
+        },
+        {
+            "epoch": 125,
+            "resonance": 0.7566840247047257,
+            "complexity": 0.5431116623158652
+        },
+        {
+            "epoch": 126,
+            "resonance": 0.7876365750034581,
+            "complexity": 0.5038441231772275
+        },
+        {
+            "epoch": 127,
+            "resonance": 0.7901105528387399,
+            "complexity": 0.45390536634778156
+        },
+        {
+            "epoch": 128,
+            "resonance": 0.7631906814354612,
+            "complexity": 0.4117708137379467
+        },
+        {
+            "epoch": 129,
+            "resonance": 0.7168362792373792,
+            "complexity": 0.3930286314514986
+        },
+        {
+            "epoch": 130,
+            "resonance": 0.6681966946141324,
+            "complexity": 0.4046127070589011
+        },
+        {
+            "epoch": 131,
+            "resonance": 0.63526670566024,
+            "complexity": 0.4422373775225281
+        },
+        {
+            "epoch": 132,
+            "resonance": 0.6302291434683229,
+            "complexity": 0.491982959910943
+        },
+        {
+            "epoch": 133,
+            "resonance": 0.6549477125597714,
+            "complexity": 0.5354454994371981
+        },
+        {
+            "epoch": 134,
+            "resonance": 0.7002774917955576,
+            "complexity": 0.5565455258455909
+        },
+        {
+            "epoch": 135,
+            "resonance": 0.7494482039469643,
+            "complexity": 0.5474768398038588
+        },
+        {
+            "epoch": 136,
+            "resonance": 0.7842685741343298,
+            "complexity": 0.5115945068248727
+        },
+        {
+            "epoch": 137,
+            "resonance": 0.7918564028170113,
+            "complexity": 0.4621736118928475
+        },
+        {
+            "epoch": 138,
+            "resonance": 0.7694044848261795,
+            "complexity": 0.41749798790690895
+        },
+        {
+            "epoch": 139,
+            "resonance": 0.7252191674542878,
+            "complexity": 0.39409589977902576
+        },
+        {
+            "epoch": 140,
+            "resonance": 0.6756473209984786,
+            "complexity": 0.4006252212569184
+        },
+        {
+            "epoch": 141,
+            "resonance": 0.6390286246237239,
+            "complexity": 0.4346703541809287
+        },
+        {
+            "epoch": 142,
+            "resonance": 0.6289105894874144,
+            "complexity": 0.48363590702147574
+        },
+        {
+            "epoch": 143,
+            "resonance": 0.6490364999625713,
+            "complexity": 0.5294065059638752
+        },
+        {
+            "epoch": 144,
+            "resonance": 0.6919605421970442,
+            "complexity": 0.5550487874195722
+        },
+        {
+            "epoch": 145,
+            "resonance": 0.7418024692497451,
+            "complexity": 0.5510760921539826
+        },
+        {
+            "epoch": 146,
+            "resonance": 0.780122682508479,
+            "complexity": 0.5189581648266293
+        },
+        {
+            "epoch": 147,
+            "resonance": 0.7927441749229844,
+            "complexity": 0.4705774049190939
+        },
+        {
+            "epoch": 148,
+            "resonance": 0.7749974790835389,
+            "complexity": 0.4238328353223781
+        },
+        {
+            "epoch": 149,
+            "resonance": 0.8334481908112285,
+            "complexity": 0.39601815135752877
+        },
+        {
+            "epoch": 150,
+            "resonance": 0.7834679508845825,
+            "complexity": 0.39742371774689234
+        },
+        {
+            "epoch": 151,
+            "resonance": 0.7435475283666446,
+            "complexity": 0.4275295289133319
+        },
+        {
+            "epoch": 152,
+            "resonance": 0.7284559462705431,
+            "complexity": 0.47519759107067816
+        },
+        {
+            "epoch": 153,
+            "resonance": 0.7437765103135882,
+            "complexity": 0.5227925521212238
+        },
+        {
+            "epoch": 154,
+            "resonance": 0.7838412002531541,
+            "complexity": 0.5527061045690097
+        },
+        {
+            "epoch": 155,
+            "resonance": 0.8338276196713318,
+            "complexity": 0.5538713829692312
+        },
+        {
+            "epoch": 156,
+            "resonance": 0.9752427133305615,
+            "complexity": 0.5258572790714222
+        },
+        {
+            "epoch": 157,
+            "resonance": 0.9927644873048221,
+            "complexity": 0.47902793531352916
+        },
+        {
+            "epoch": 158,
+            "resonance": 0.9799105582240379,
+            "complexity": 0.4307084102001118
+        },
+        {
+            "epoch": 159,
+            "resonance": 0.941436386136707,
+            "complexity": 0.3987750721003384
+        },
+        {
+            "epoch": 160,
+            "resonance": 0.8915759369462093,
+            "complexity": 0.39504202957154305
+        },
+        {
+            "epoch": 161,
+            "resonance": 0.848775661744301,
+            "complexity": 0.4208903649655468
+        },
+        {
+            "epoch": 162,
+            "resonance": 0.8288700184238356,
+            "complexity": 0.466757187004995
+        },
+        {
+            "epoch": 163,
+            "resonance": 0.8392233304500514,
+            "complexity": 0.5156735332512941
+        },
+        {
+            "epoch": 164,
+            "resonance": 0.8760052700375005,
+            "complexity": 0.5495422344396367
+        },
+        {
+            "epoch": 165,
+            "resonance": 0.9256079323101652,
+            "complexity": 0.5558331720060062
+        },
+        {
+            "epoch": 166,
+            "resonance": 0.9696802374344532,
+            "complexity": 0.5322189406818308
+        },
+        {
+            "epoch": 167,
+            "resonance": 0.9919171253041055,
+            "complexity": 0.48743589904917134
+        },
+        {
+            "epoch": 168,
+            "resonance": 0.9840918015123324,
+            "complexity": 0.4380520524234384
+        },
+        {
+            "epoch": 169,
+            "resonance": 1.0,
+            "complexity": 0.40233752725343214
+        },
+        {
+            "epoch": 170,
+            "resonance": 0.9507862598208378,
+            "complexity": 0.3935053260794378
+        },
+        {
+            "epoch": 171,
+            "resonance": 0.9055584392758087,
+            "complexity": 0.4148230240964997
+        },
+        {
+            "epoch": 172,
+            "resonance": 0.8810490947942199,
+            "complexity": 0.4584038918377782
+        },
+        {
+            "epoch": 173,
+            "resonance": 0.8863257424456376,
+            "complexity": 0.508124682152925
+        },
+        {
+            "epoch": 174,
+            "resonance": 0.9194362252717795,
+            "complexity": 0.5455906123698535
+        },
+        {
+            "epoch": 175,
+            "resonance": 0.9681309363799494,
+            "complexity": 0.5569407273512919
+        },
+        {
+            "epoch": 176,
+            "resonance": 0.014394702993580477,
+            "complexity": 0.537975920504939
+        },
+        {
+            "epoch": 177,
+            "resonance": 0.04111170842802478,
+            "complexity": 0.49571244193755326
+        },
+        {
+            "epoch": 178,
+            "resonance": 0.03839768685603857,
+            "complexity": 0.4457861554052385
+        },
+        {
+            "epoch": 179,
+            "resonance": 0.00725672201538239,
+            "complexity": 0.4066678692874519
+        },
+        {
+            "epoch": 180,
+            "resonance": 1.0,
+            "complexity": 0.3928298469388243
+        },
+        {
+            "epoch": 181,
+            "resonance": 0.9528225954134224,
+            "complexity": 0.40939162511854776
+        },
+        {
+            "epoch": 182,
+            "resonance": 0.9239685611059443,
+            "complexity": 0.45022598202768593
+        },
+        {
+            "epoch": 183,
+            "resonance": 0.9241127815058869,
+            "complexity": 0.5002257740320157
+        },
+        {
+            "epoch": 184,
+            "resonance": 0.9532019006046871,
+            "complexity": 0.5408929985507337
+        },
+        {
+            "epoch": 185,
+            "resonance": 0.0004740616306944112,
+            "complexity": 0.5571823445146216
+        },
+        {
+            "epoch": 186,
+            "resonance": 0.048440380698481666,
+            "complexity": 0.5430673795806507
+        },
+        {
+            "epoch": 187,
+            "resonance": 0.07935516210934002,
+            "complexity": 0.5037700986273983
+        },
+        {
+            "epoch": 188,
+            "resonance": 0.08178112415870735,
+            "complexity": 0.4538289862235378
+        },
+        {
+            "epoch": 189,
+            "resonance": 0.05482075406800566,
+            "complexity": 0.4117203357515457
+        },
+        {
+            "epoch": 190,
+            "resonance": 0.008448353239809366,
+            "complexity": 0.39302273051908077
+        },
+        {
+            "epoch": 191,
+            "resonance": 0.9598199288455832,
+            "complexity": 0.40465356629880994
+        },
+        {
+            "epoch": 192,
+            "resonance": 1.0,
+            "complexity": 0.44230988058537524
+        },
+        {
+            "epoch": 193,
+            "resonance": 0.9950102690473892,
+            "complexity": 0.49206028344827235
+        },
+        {
+            "epoch": 194,
+            "resonance": 0.019770614663999764,
+            "complexity": 0.5354990367101466
+        },
+        {
+            "epoch": 195,
+            "resonance": 0.06512066000110424,
+            "complexity": 0.5565554701195009
+        },
+        {
+            "epoch": 196,
+            "resonance": 0.11428263015090567,
+            "complexity": 0.5474395120793368
+        },
+        {
+            "epoch": 197,
+            "resonance": 0.14906848443856172,
+            "complexity": 0.5115237169262574
+        },
+        {
+            "epoch": 198,
+            "resonance": 0.1566087928805878,
+            "complexity": 0.4620955493636306
+        },
+        {
+            "epoch": 199,
+            "resonance": 0.1341139309719745,
+            "complexity": 0.41744153288456776
+        },
+        {
+            "epoch": 200,
+            "resonance": 0.0899061336053052,
+            "complexity": 0.3940819384534243
+        },
+        {
+            "epoch": 201,
+            "resonance": 0.04034058781234736,
+            "complexity": 0.4006589187822835
+        },
+        {
+            "epoch": 202,
+            "resonance": 0.0037546417548226935,
+            "complexity": 0.4347392437671761
+        },
+        {
+            "epoch": 203,
+            "resonance": 1.0,
+            "complexity": 0.48371450216769996
+        },
+        {
+            "epoch": 204,
+            "resonance": 0.020169908254187963,
+            "complexity": 0.5294657294847637
+        },
+        {
+            "epoch": 205,
+            "resonance": 0.06311858494625605,
+            "complexity": 0.5550667288871348
+        },
+        {
+            "epoch": 206,
+            "resonance": 0.11295666933200017,
+            "complexity": 0.5510461139143417
+        },
+        {
+            "epoch": 207,
+            "resonance": 0.15124598443840492,
+            "complexity": 0.5188913576770064
+        },
+        {
+            "epoch": 208,
+            "resonance": 0.16382095434479238,
+            "complexity": 0.4704984849388289
+        },
+        {
+            "epoch": 209,
+            "resonance": 0.14602932318254364,
+            "complexity": 0.4237709998729012
+        },
+        {
+            "epoch": 210,
+            "resonance": 0.10445331111624387,
+            "complexity": 0.39599627718008396
+        },
+        {
+            "epoch": 211,
+            "resonance": 0.05447444570175361,
+            "complexity": 0.39744989744695886
+        },
+        {
+            "epoch": 212,
+            "resonance": 0.014582987485412098,
+            "complexity": 0.42759407700742924
+        },
+        {
+            "epoch": 213,
+            "resonance": 0.9995372438012571,
+            "complexity": 0.475276627243241
+        },
+        {
+            "epoch": 214,
+            "resonance": 0.01490356191480302,
+            "complexity": 0.5228568360241334
+        },
+        {
+            "epoch": 215,
+            "resonance": 0.05499699433472463,
+            "complexity": 0.5527318536272944
+        },
+        {
+            "epoch": 216,
+            "resonance": 0.10498451102936246,
+            "complexity": 0.5538490710203317
+        },
+        {
+            "epoch": 217,
+            "resonance": 0.14637265081101292,
+            "complexity": 0.525795160679444
+        },
+        {
+            "epoch": 218,
+            "resonance": 0.16384939165307857,
+            "complexity": 0.4789489918975759
+        },
+        {
+            "epoch": 219,
+            "resonance": 0.15094901071470132,
+            "complexity": 0.4306418477919185
+        },
+        {
+            "epoch": 220,
+            "resonance": 0.11244415344750172,
+            "complexity": 0.39874551623431476
+        },
+        {
+            "epoch": 221,
+            "resonance": 0.06258013809281197,
+            "complexity": 0.3950604147828937
+        },
+        {
+            "epoch": 222,
+            "resonance": 0.019804735086164225,
+            "complexity": 0.4209498894322347
+        },
+        {
+            "epoch": 223,
+            "resonance": 1.0,
+            "complexity": 0.46683582896064185
+        },
+        {
+            "epoch": 224,
+            "resonance": 0.010400338865546699,
+            "complexity": 0.5157421981928982
+        },
+        {
+            "epoch": 225,
+            "resonance": 0.04721482520958515,
+            "complexity": 0.5495755189761824
+        },
+        {
+            "epoch": 226,
+            "resonance": 0.09682351310626085,
+            "complexity": 0.5558187621374105
+        },
+        {
+            "epoch": 227,
+            "resonance": 0.14087309347253857,
+            "complexity": 0.5321621675060009
+        },
+        {
+            "epoch": 228,
+            "resonance": 0.16306691348978025,
+            "complexity": 0.48735776646054235
+        },
+        {
+            "epoch": 229,
+            "resonance": 0.15519411220237925,
+            "complexity": 0.4379814664787789
+        },
+        {
+            "epoch": 230,
+            "resonance": 0.12016732369729094,
+            "complexity": 0.40230060204110285
+        },
+        {
+            "epoch": 231,
+            "resonance": 0.07094511436431636,
+            "complexity": 0.3935157225097245
+        },
+        {
+            "epoch": 232,
+            "resonance": 0.025737811062321703,
+            "complexity": 0.4148768958895148
+        },
+        {
+            "epoch": 233,
+            "resonance": 0.0012703796287450164,
+            "complexity": 0.4584813084992866
+        },
+        {
+            "epoch": 234,
+            "resonance": 0.006594829915241667,
+            "complexity": 0.5081970024916933
+        },
+        {
+            "epoch": 235,
+            "resonance": 0.0397413198246197,
+            "complexity": 0.5456310806383166
+        },
+        {
+            "epoch": 236,
+            "resonance": 0.08844692122639558,
+            "complexity": 0.5569343718444799
+        },
+        {
+            "epoch": 237,
+            "resonance": 0.13469243235365846,
+            "complexity": 0.5379250925162622
+        },
+        {
+            "epoch": 238,
+            "resonance": 0.16136879035053553,
+            "complexity": 0.49563594587055115
+        },
+        {
+            "epoch": 239,
+            "resonance": 0.15860676738044072,
+            "complexity": 0.4457122918665355
+        },
+        {
+            "epoch": 240,
+            "resonance": 0.12742820585473097,
+            "complexity": 0.40662396494931463
+        },
+        {
+            "epoch": 241,
+            "resonance": 0.07936797598883333,
+            "complexity": 0.39283214472002365
+        },
+        {
+            "epoch": 242,
+            "resonance": 0.032206516869701524,
+            "complexity": 0.4094392749282944
+        },
+        {
+            "epoch": 243,
+            "resonance": 0.003391756929209254,
+            "complexity": 0.4503013552665714
+        },
+        {
+            "epoch": 244,
+            "resonance": 0.003584050588396442,
+            "complexity": 0.5003009854966904
+        },
+        {
+            "epoch": 245,
+            "resonance": 0.07565424950845606,
+            "complexity": 0.5409402228880933
+        },
+        {
+            "epoch": 246,
+            "resonance": 0.1229420504105585,
+            "complexity": 0.5571841105337008
+        },
+        {
+            "epoch": 247,
+            "resonance": 0.17089477618505278,
+            "complexity": 0.5430230339222226
+        },
+        {
+            "epoch": 248,
+            "resonance": 0.20177176012963938,
+            "complexity": 0.5036960474817929
+        },
+        {
+            "epoch": 249,
+            "resonance": 0.20414970415050016,
+            "complexity": 0.45375262567037056
+        },
+        {
+            "epoch": 250,
+            "resonance": 0.2771488602952621,
+            "complexity": 0.4116699162625264
+        },
+        {
+            "epoch": 251,
+            "resonance": 0.23075850370480558,
+            "complexity": 0.3930169053685638
+        },
+        {
+            "epoch": 252,
+            "resonance": 0.18214128449296124,
+            "complexity": 0.4046944905687443
+        },
+        {
+            "epoch": 253,
+            "resonance": 0.14928370641106997,
+            "complexity": 0.44238241386775906
+        },
+        {
+            "epoch": 254,
+            "resonance": 0.2443418113103682,
+            "complexity": 0.49213759121458056
+        },
+        {
+            "epoch": 255,
+            "resonance": 0.36914391056300966,
+            "complexity": 0.535552518056188
+        },
+        {
+            "epoch": 256,
+            "resonance": 0.414514180078667,
+            "complexity": 0.5565653390014256
+        },
+        {
+            "epoch": 257,
+            "resonance": 0.4636673627802776,
+            "complexity": 0.5474021173898911
+        },
+        {
+            "epoch": 258,
+            "resonance": 0.49841866901131004,
+            "complexity": 0.51145289326423
+        },
+        {
+            "epoch": 259,
+            "resonance": 0.7059114502422618,
+            "complexity": 0.46201749876367915
+        },
+        {
+            "epoch": 260,
+            "resonance": 0.7833736652107305,
+            "complexity": 0.4173851310707986
+        },
+        {
+            "epoch": 261,
+            "resonance": 0.7391434287161286,
+            "complexity": 0.39406805193057204
+        },
+        {
+            "epoch": 262,
+            "resonance": 0.6895842294056849,
+            "complexity": 0.4006926850304288
+        },
+        {
+            "epoch": 263,
+            "resonance": 0.7530310674863544,
+            "complexity": 0.434808170571444
+        },
+        {
+            "epoch": 264,
+            "resonance": 0.7430072088841578,
+            "complexity": 0.48379308925794556
+        },
+        {
+            "epoch": 265,
+            "resonance": 0.7632210962717562,
+            "complexity": 0.5295249026560768
+        },
+        {
+            "epoch": 266,
+            "resonance": 0.8061943677185344,
+            "complexity": 0.5550845963389344
+        },
+        {
+            "epoch": 267,
+            "resonance": 0.8560285633657155,
+            "complexity": 0.5510160653757403
+        },
+        {
+            "epoch": 268,
+            "resonance": 0.8942869449241893,
+            "complexity": 0.5188245099531418
+        },
+        {
+            "epoch": 269,
+            "resonance": 0.9068153806978738,
+            "complexity": 0.4704195691199514
+        },
+        {
+            "epoch": 270,
+            "resonance": 0.8889788306599034,
+            "complexity": 0.4237092117808882
+        },
+        {
+            "epoch": 271,
+            "resonance": 0.8473761332335741,
+            "complexity": 0.39597447603573827
+        },
+        {
+            "epoch": 272,
+            "resonance": 0.7973986885329895,
+            "complexity": 0.39747614883632
+        },
+        {
+            "epoch": 273,
+            "resonance": 0.7575362314949123,
+            "complexity": 0.42765866892473303
+        },
+        {
+            "epoch": 274,
+            "resonance": 0.7425363401313398,
+            "complexity": 0.47535566316002026
+        },
+        {
+            "epoch": 275,
+            "resonance": 0.7579483981103299,
+            "complexity": 0.5229210756869
+        },
+        {
+            "epoch": 276,
+            "resonance": 0.7980705359471825,
+            "complexity": 0.5527575308282301
+        },
+        {
+            "epoch": 277,
+            "resonance": 0.8480591037085309,
+            "complexity": 0.5538266861813355
+        },
+        {
+            "epoch": 278,
+            "resonance": 0.8894202513523595,
+            "complexity": 0.5257329953311568
+        },
+        {
+            "epoch": 279,
+            "resonance": 0.9068519429063137,
+            "complexity": 0.4788700448311317
+        },
+        {
+            "epoch": 280,
+            "resonance": 0.8939051220358216,
+            "complexity": 0.4305753263895941
+        },
+        {
+            "epoch": 281,
+            "resonance": 0.8553696151836575,
+            "complexity": 0.3987160308599247
+        },
+        {
+            "epoch": 282,
+            "resonance": 0.805502079760359,
+            "complexity": 0.3950788738924474
+        },
+        {
+            "epoch": 283,
+            "resonance": 0.7627515884916398,
+            "complexity": 0.4210094638642002
+        },
+        {
+            "epoch": 284,
+            "resonance": 0.7429341811272426,
+            "complexity": 0.4669144784634086
+        },
+        {
+            "epoch": 285,
+            "resonance": 0.7533815372177483,
+            "complexity": 0.515810825471321
+        },
+        {
+            "epoch": 286,
+            "resonance": 0.7902285362860955,
+            "complexity": 0.5496087345731755
+        },
+        {
+            "epoch": 287,
+            "resonance": 0.8398432039472289,
+            "complexity": 0.555804277557877
+        },
+        {
+            "epoch": 288,
+            "resonance": 0.883870018834943,
+            "complexity": 0.5321053414880245
+        },
+        {
+            "epoch": 289,
+            "resonance": 0.9060207504832604,
+            "complexity": 0.4872796224481225
+        },
+        {
+            "epoch": 290,
+            "resonance": 0.8981004789780791,
+            "complexity": 0.4379109147550482
+        },
+        {
+            "epoch": 291,
+            "resonance": 0.8630394005636318,
+            "complexity": 0.40226374403399406
+        },
+        {
+            "epoch": 292,
+            "resonance": 0.8138087675791283,
+            "complexity": 0.39352619426617486
+        },
+        {
+            "epoch": 293,
+            "resonance": 0.7686220233109533,
+            "complexity": 0.4149308232618514
+        },
+        {
+            "epoch": 294,
+            "resonance": 0.7441965275436913,
+            "complexity": 0.45855874043106154
+        },
+        {
+            "epoch": 295,
+            "resonance": 0.7495687755431838,
+            "complexity": 0.5082692921422621
+        },
+        {
+            "epoch": 296,
+            "resonance": 0.7827512418943109,
+            "complexity": 0.5456714836135692
+        },
+        {
+            "epoch": 297,
+            "resonance": 0.8314676885649744,
+            "complexity": 0.5569279405954259
+        },
+        {
+            "epoch": 298,
+            "resonance": 0.8776949014553352,
+            "complexity": 0.5378742063580314
+        },
+        {
+            "epoch": 299,
+            "resonance": 0.9043305873543503,
+            "complexity": 0.4955594307271834
+        },
+        {
+            "epoch": 300,
+            "resonance": 0.9015205655394527,
+            "complexity": 0.44563845540217795
+        },
+        {
+            "epoch": 301,
+            "resonance": 0.8703044361509706,
+            "complexity": 0.40658012381976716
+        },
+        {
+            "epoch": 302,
+            "resonance": 0.8222309680705988,
+            "complexity": 0.3928345184593084
+        },
+        {
+            "epoch": 303,
+            "resonance": 0.7750854980161749,
+            "complexity": 0.4094869853440499
+        },
+        {
+            "epoch": 304,
+            "resonance": 0.7463100390797606,
+            "complexity": 0.45037675133749544
+        },
+        {
+            "epoch": 305,
+            "resonance": 0.746550405820414,
+            "complexity": 0.5003761735724572
+        },
+        {
+            "epoch": 306,
+            "resonance": 0.7757176717764298,
+            "complexity": 0.5409873862685962
+        },
+        {
+            "epoch": 307,
+            "resonance": 0.8230210688405605,
+            "complexity": 0.5571858005796698
+        },
+        {
+            "epoch": 308,
+            "resonance": 0.8700191847209335,
+            "complexity": 0.5429786253815629
+        },
+        {
+            "epoch": 309,
+            "resonance": 0.9008583426557799,
+            "complexity": 0.5036219698088443
+        },
+        {
+            "epoch": 310,
+            "resonance": 0.9031882664499149,
+            "complexity": 0.453676284758847
+        },
+        {
+            "epoch": 311,
+            "resonance": 0.876146973790427,
+            "complexity": 0.41161955531748495
+        },
+        {
+            "epoch": 312,
+            "resonance": 0.8297387043221559,
+            "complexity": 0.3930111560053374
+        },
+        {
+            "epoch": 313,
+            "resonance": 0.781132735235701,
+            "complexity": 0.4047354798308974
+        },
+        {
+            "epoch": 314,
+            "resonance": 0.8483114081681195,
+            "complexity": 0.44245497730266714
+        },
+        {
+            "epoch": 315,
+            "resonance": 0.843417353487732,
+            "complexity": 0.49221488313844397
+        },
+        {
+            "epoch": 316,
+            "resonance": 0.8682611834486965,
+            "complexity": 0.535605943425912
+        },
+        {
+            "epoch": 317,
+            "resonance": 0.9136516352014569,
+            "complexity": 0.5565751324822474
+        },
+        {
+            "epoch": 318,
+            "resonance": 0.9627959850164092,
+            "complexity": 0.5473646557700683
+        },
+        {
+            "epoch": 319,
+            "resonance": 0.9975127110658201,
+            "complexity": 0.5113820359042198
+        },
+        {
+            "epoch": 320,
+            "resonance": 0.004957958159183873,
+            "complexity": 0.4619394601650984
+        },
+        {
+            "epoch": 321,
+            "resonance": 0.9823772708392491,
+            "complexity": 0.41732878251770844
+        },
+        {
+            "epoch": 322,
+            "resonance": 0.9381246361042873,
+            "complexity": 0.3940542402233032
+        },
+        {
+            "epoch": 323,
+            "resonance": 0.8885718290901582,
+            "complexity": 0.40072651997017184
+        },
+        {
+            "epoch": 324,
+            "resonance": 0.8520514850997045,
+            "complexity": 0.43487713453007293
+        },
+        {
+            "epoch": 325,
+            "resonance": 0.8420747286857786,
+            "complexity": 0.48387166821963046
+        },
+        {
+            "epoch": 326,
+            "resonance": 0.862332576520547,
+            "complexity": 0.5295840254231632
+        },
+        {
+            "epoch": 327,
+            "resonance": 0.9053304029964351,
+            "complexity": 0.555102389758469
+        },
+        {
+            "epoch": 328,
+            "resonance": 0.9551606638370387,
+            "complexity": 0.5509859465659296
+        },
+        {
+            "epoch": 329,
+            "resonance": 0.9933880764805476,
+            "complexity": 0.5187576217167711
+        },
+        {
+            "epoch": 330,
+            "resonance": 0.005869966539920446,
+            "complexity": 0.4703406575353426
+        },
+        {
+            "epoch": 331,
+            "resonance": 0.9879885141147948,
+            "complexity": 0.4236474711034019
+        },
+        {
+            "epoch": 332,
+            "resonance": 0.9463591697870417,
+            "complexity": 0.3959527479446236
+        },
+        {
+            "epoch": 333,
+            "resonance": 0.8963831920008005,
+            "complexity": 0.39750247189072707
+        },
+        {
+            "epoch": 334,
+            "resonance": 0.8565497729908703,
+            "complexity": 0.4277233046055834
+        },
+        {
+            "epoch": 335,
+            "resonance": 0.9415957478141663,
+            "complexity": 0.47543469874801547
+        },
+        {
+            "epoch": 336,
+            "resonance": 0.9570535314112969,
+            "complexity": 0.5229852710501895
+        },
+        {
+            "epoch": 337,
+            "resonance": 0.9972043375751424,
+            "complexity": 0.5527831361481006
+        },
+        {
+            "epoch": 338,
+            "resonance": 0.0471939101924812,
+            "complexity": 0.5538042284729193
+        },
+        {
+            "epoch": 339,
+            "resonance": 0.08852802746317723,
+            "complexity": 0.5256707830839815
+        },
+        {
+            "epoch": 340,
+            "resonance": 0.10591465361471517,
+            "complexity": 0.47879109418711857
+        },
+        {
+            "epoch": 341,
+            "resonance": 0.09292140478048316,
+            "complexity": 0.43050884605458306
+        },
+        {
+            "epoch": 342,
+            "resonance": 0.15435528396657017,
+            "complexity": 0.3986866160044017
+        },
+        {
+            "epoch": 343,
+            "resonance": 0.20448427457349772,
+            "complexity": 0.3950974068831498
+        },
+        {
+            "epoch": 344,
+            "resonance": 0.1617587345623629,
+            "complexity": 0.42106908820640876
+        },
+        {
+            "epoch": 345,
+            "resonance": 0.14198547267596445,
+            "complexity": 0.46699313544064003
+        },
+        {
+            "epoch": 346,
+            "resonance": 0.15247983633362383,
+            "complexity": 0.515879415023165
+        },
+        {
+            "epoch": 347,
+            "resonance": 0.18935931406396425,
+            "complexity": 0.5496418811999318
+        },
+        {
+            "epoch": 348,
+            "resonance": 0.238979915624478,
+            "complexity": 0.555789718280787
+        },
+        {
+            "epoch": 349,
+            "resonance": 0.28298392433410624,
+            "complexity": 0.5320484626803988
+        },
+        {
+            "epoch": 350,
+            "resonance": 0.30509154713679226,
+            "complexity": 0.4872014670841032
+        },
+        {
+            "epoch": 351,
+            "resonance": 0.29712381273553384,
+            "complexity": 0.4378403973174237
+        },
+        {
+            "epoch": 352,
+            "resonance": 0.26202847682309194,
+            "complexity": 0.4022269532661547
+        },
+        {
+            "epoch": 353,
+            "resonance": 0.2127894656971253,
+            "complexity": 0.3935367413391108
+        },
+        {
+            "epoch": 354,
+            "resonance": 0.16762332223456083,
+            "complexity": 0.4149848061636829
+        },
+        {
+            "epoch": 355,
+            "resonance": 0.14323978471317111,
+            "complexity": 0.45863618756156055
+        },
+        {
+            "epoch": 356,
+            "resonance": 0.14865982545941514,
+            "complexity": 0.50834155103784
+        },
+        {
+            "epoch": 357,
+            "resonance": 0.18187823757756433,
+            "complexity": 0.5457118212582812
+        },
+        {
+            "epoch": 358,
+            "resonance": 0.23060548448237692,
+            "complexity": 0.5569214336100725
+        },
+        {
+            "epoch": 359,
+            "resonance": 0.27681435640220875,
+            "complexity": 0.537823262077264
+        },
+        {
+            "epoch": 360,
+            "resonance": 0.30340934558064747,
+            "complexity": 0.4954828965781481
+        },
+        {
+            "epoch": 361,
+            "resonance": 0.3005513275186036,
+            "complexity": 0.4455646460803889
+        },
+        {
+            "epoch": 362,
+            "resonance": 0.36929765912434365,
+            "complexity": 0.4065363459393164
+        },
+        {
+            "epoch": 363,
+            "resonance": 0.42121099726985034,
+            "complexity": 0.3928369681544817
+        },
+        {
+            "epoch": 364,
+            "resonance": 0.37408155986262165,
+            "complexity": 0.4095347563217245
+        },
+        {
+            "epoch": 365,
+            "resonance": 0.34534542853106104,
+            "complexity": 0.45045217017078515
+        },
+        {
+            "epoch": 366,
+            "resonance": 0.3456338681309795,
+            "complexity": 0.5004513381898352
+        },
+        {
+            "epoch": 367,
+            "resonance": 0.3748401670891922,
+            "complexity": 0.5410344886486587
+        },
+        {
+            "epoch": 368,
+            "resonance": 0.4221591165868719,
+            "complexity": 0.5571874146509667
+        },
+        {
+            "epoch": 369,
+            "resonance": 0.4700845228011893,
+            "complexity": 0.5429341539997099
+        },
+        {
+            "epoch": 370,
+            "resonance": 0.5008858262177831,
+            "complexity": 0.5035478656770089
+        },
+        {
+            "epoch": 371,
+            "resonance": 0.5031677276313506,
+            "complexity": 0.45359996355951493
+        },
+        {
+            "epoch": 372,
+            "resonance": 0.4760860111652808,
+            "complexity": 0.41156925296295943
+        },
+        {
+            "epoch": 373,
+            "resonance": 0.5296598717201952,
+            "complexity": 0.39300548243471084
+        },
+        {
+            "epoch": 374,
+            "resonance": 0.4810651976917402,
+            "complexity": 0.40477653404738323
+        },
+        {
+            "epoch": 375,
+            "resonance": 0.448280151979349,
+            "complexity": 0.4425275708230324
+        },
+        {
+            "epoch": 376,
+            "resonance": 0.443433942243466,
+            "complexity": 0.49229215914842533
+        },
+        {
+            "epoch": 377,
+            "resonance": 0.46831947994647716,
+            "complexity": 0.5356593127699395
+        },
+        {
+            "epoch": 378,
+            "resonance": 0.5137300719762371,
+            "complexity": 0.5565848505529142
+        },
+        {
+            "epoch": 379,
+            "resonance": 0.5628655434742278,
+            "complexity": 0.5473271272544925
+        },
+        {
+            "epoch": 380,
+            "resonance": 0.5975476572489811,
+            "complexity": 0.5113111449117176
+        },
+        {
+            "epoch": 381,
+            "resonance": 0.6049453633221785,
+            "complexity": 0.46186143364001675
+        },
+        {
+            "epoch": 382,
+            "resonance": 0.6823217945880095,
+            "complexity": 0.4172724872773774
+        },
+        {
+            "epoch": 383,
+            "resonance": 0.6380468025209638,
+            "complexity": 0.3940405033443802
+        },
+        {
+            "epoch": 384,
+            "resonance": 0.588500433611041,
+            "complexity": 0.40076042357023334
+        },
+        {
+            "epoch": 385,
+            "resonance": 0.552012941309811,
+            "complexity": 0.4349461355793123
+        },
+        {
+            "epoch": 386,
+            "resonance": 0.5420832963069264,
+            "complexity": 0.48395023898011624
+        },
+        {
+            "epoch": 387,
+            "resonance": 0.5623850858619883,
+            "complexity": 0.5296430977313695
+        },
+        {
+            "epoch": 388,
+            "resonance": 0.6054074276186876,
+            "complexity": 0.55512010912929
+        },
+        {
+            "epoch": 389,
+            "resonance": 0.6552337075883364,
+            "complexity": 0.5509557575127514
+        },
+        {
+            "epoch": 390,
+            "resonance": 0.6934301159784753,
+            "complexity": 0.5186906930297269
+        },
+        {
+            "epoch": 391,
+            "resonance": 0.8058654487849556,
+            "complexity": 0.4702617502579497
+        },
+        {
+            "epoch": 392,
+            "resonance": 0.7879391105027502,
+            "complexity": 0.42358577789751634
+        },
+        {
+            "epoch": 393,
+            "resonance": 0.7462831577568119,
+            "complexity": 0.3959310929268255
+        },
+        {
+            "epoch": 394,
+            "resonance": 0.6963086930839958,
+            "complexity": 0.39752886658584596
+        },
+        {
+            "epoch": 395,
+            "resonance": 0.6565043489252516,
+            "complexity": 0.42778798399022905
+        },
+        {
+            "epoch": 396,
+            "resonance": 0.6415962037593025,
+            "complexity": 0.4755137339341638
+        },
+        {
+            "epoch": 397,
+            "resonance": 0.6570996986850001,
+            "complexity": 0.5230494220546578
+        },
+        {
+            "epoch": 398,
+            "resonance": 0.6972791360593985,
+            "complexity": 0.5528086695632356
+        },
+        {
+            "epoch": 399,
+            "resonance": 0.7472696673210787,
+            "complexity": 0.5537816979158435
+        },
+        {
+            "epoch": 400,
+            "resonance": 0.788576716008319,
+            "complexity": 0.5256085239954283
+        },
+        {
+            "epoch": 401,
+            "resonance": 0.8059182606847954,
+            "complexity": 0.47871214003852
+        },
+        {
+            "epoch": 402,
+            "resonance": 0.7928785958981176,
+            "complexity": 0.4304424068483409
+        },
+        {
+            "epoch": 403,
+            "resonance": 0.7542818967739716,
+            "complexity": 0.3986572716949371
+        },
+        {
+            "epoch": 404,
+            "resonance": 0.7044074595131714,
+            "complexity": 0.39511601373786803
+        },
+        {
+            "epoch": 405,
+            "resonance": 0.6617069102562112,
+            "complexity": 0.4211287624037417
+        },
+        {
+            "epoch": 406,
+            "resonance": 0.6419778121267242,
+            "complexity": 0.46707179981962305
+        },
+        {
+            "epoch": 407,
+            "resonance": 0.6525191736502771,
+            "complexity": 0.5159479667850241
+        },
+        {
+            "epoch": 408,
+            "resonance": 0.6894310959502712,
+            "complexity": 0.5496749588258094
+        },
+        {
+            "epoch": 409,
+            "resonance": 0.7390575855396025,
+            "complexity": 0.5557750843195993
+        },
+        {
+            "epoch": 410,
+            "resonance": 0.7830387473927053,
+            "complexity": 0.5319915311357039
+        },
+        {
+            "epoch": 411,
+            "resonance": 0.8051032409129036,
+            "complexity": 0.487123300440733
+        },
+        {
+            "epoch": 412,
+            "resonance": 0.797088050981147,
+            "complexity": 0.4377699142310931
+        },
+        {
+            "epoch": 413,
+            "resonance": 0.8619584900137434,
+            "complexity": 0.4021902297715947
+        },
+        {
+            "epoch": 414,
+            "resonance": 0.8127111462641243,
+            "complexity": 0.39354736371878196
+        },
+        {
+            "epoch": 415,
+            "resonance": 0.7675656453599173,
+            "complexity": 0.41503884454510576
+        },
+        {
+            "epoch": 416,
+            "resonance": 0.7432240886251716,
+            "complexity": 0.4587136498191898
+        },
+        {
+            "epoch": 417,
+            "resonance": 0.8486919171077446,
+            "complexity": 0.5084137791116289
+        },
+        {
+            "epoch": 418,
+            "resonance": 0.8819462442849628,
+            "complexity": 0.5457520935351606
+        },
+        {
+            "epoch": 419,
+            "resonance": 0.930684246379203,
+            "complexity": 0.5569148508944264
+        },
+        {
+            "epoch": 420,
+            "resonance": 0.9768747346118312,
+            "complexity": 0.5377722597210394
+        },
+        {
+            "epoch": 421,
+            "resonance": 0.00342900248459288,
+            "complexity": 0.4954063434941759
+        },
+        {
+            "epoch": 422,
+            "resonance": 0.0005229908174183783,
+            "complexity": 0.4454908639693807
+        },
+        {
+            "epoch": 423,
+            "resonance": 1.0,
+            "complexity": 0.40649263134842
+        },
+        {
+            "epoch": 424,
+            "resonance": 0.9519001888239311,
+            "complexity": 0.3928394938032795
+        },
+        {
+            "epoch": 425,
+            "resonance": 1.0,
+            "complexity": 0.4095825878171712
+        },
+        {
+            "epoch": 426,
+            "resonance": 0.9713032228377262,
+            "complexity": 0.4505276116967442
+        },
+        {
+            "epoch": 427,
+            "resonance": 0.9716397350302858,
+            "complexity": 0.5005264792793631
+        },
+        {
+            "epoch": 428,
+            "resonance": 0.0008850399916549012,
+            "complexity": 0.5410815299847502
+        },
+        {
+            "epoch": 429,
+            "resonance": 0.04821949818003371,
+            "complexity": 0.5571889527460928
+        },
+        {
+            "epoch": 430,
+            "resonance": 0.09613117815271185,
+            "complexity": 0.5428896198177471
+        },
+        {
+            "epoch": 431,
+            "resonance": 0.1268945985775166,
+            "complexity": 0.5034737351547498
+        },
+        {
+            "epoch": 432,
+            "resonance": 0.12912847550104414,
+            "complexity": 0.4535236621428859
+        },
+        {
+            "epoch": 433,
+            "resonance": 0.10200636026340743,
+            "complexity": 0.41151900924542284
+        },
+        {
+            "epoch": 434,
+            "resonance": 0.036792585503687976,
+            "complexity": 0.3929998846619261
+        },
+        {
+            "epoch": 435,
+            "resonance": 0.9882092514554084,
+            "complexity": 0.4048176531802751
+        },
+        {
+            "epoch": 436,
+            "resonance": 0.9554605174055711,
+            "complexity": 0.4426001943617921
+        },
+        {
+            "epoch": 437,
+            "resonance": 0.9506621570941849,
+            "complexity": 0.49236941917313626
+        },
+        {
+            "epoch": 438,
+            "resonance": 0.9755893795344386,
+            "complexity": 0.5357126260389661
+        },
+        {
+            "epoch": 439,
+            "resonance": 0.021020069862490942,
+            "complexity": 0.5565944932044425
+        },
+        {
+            "epoch": 440,
+            "resonance": 0.07014661762141744,
+            "complexity": 0.5472895318778214
+        },
+        {
+            "epoch": 441,
+            "resonance": 0.10479408706044663,
+            "complexity": 0.5112402203521966
+        },
+        {
+            "epoch": 442,
+            "resonance": 0.11214424527480966,
+            "complexity": 0.4617834192604981
+        },
+        {
+            "epoch": 443,
+            "resonance": 0.08947781604018079,
+            "complexity": 0.41721624540179847
+        },
+        {
+            "epoch": 444,
+            "resonance": 0.04518050756997565,
+            "complexity": 0.39402684130649035
+        },
+        {
+            "epoch": 445,
+            "resonance": 0.9956406225662051,
+            "complexity": 0.4007943957993028
+        },
+        {
+            "epoch": 446,
+            "resonance": 0.9591860156842072,
+            "complexity": 0.43501517365543857
+        },
+        {
+            "epoch": 447,
+            "resonance": 0.9493034912716283,
+            "complexity": 0.484028801466842
+        },
+        {
+            "epoch": 448,
+            "resonance": 0.969649203779529,
+            "complexity": 0.5297021195261407
+        },
+        {
+            "epoch": 449,
+            "resonance": 0.012696021046102679,
+            "complexity": 0.5551377544350283
+        },
+        {
+            "epoch": 450,
+            "resonance": 0.0625182740840954,
+            "complexity": 0.5509254982440749
+        },
+        {
+            "epoch": 451,
+            "resonance": 0.10068364291108686,
+            "complexity": 0.5186237239538024
+        },
+        {
+            "epoch": 452,
+            "resonance": 0.11307240696908158,
+            "complexity": 0.4701828473606261
+        },
+        {
+            "epoch": 453,
+            "resonance": 0.09510119940131509,
+            "complexity": 0.42352413222019114
+        },
+        {
+            "epoch": 454,
+            "resonance": 0.05341867674499712,
+            "complexity": 0.3959095110023374
+        },
+        {
+            "epoch": 455,
+            "resonance": 0.003445771383291024,
+            "complexity": 0.3975553328973086
+        },
+        {
+            "epoch": 456,
+            "resonance": 1.0,
+            "complexity": 0.42785270701895695
+        },
+        {
+            "epoch": 457,
+            "resonance": 0.9851377486263363,
+            "complexity": 0.475592768645499
+        },
+        {
+            "epoch": 458,
+            "resonance": 0.000686940548828785,
+            "complexity": 0.5231135286410787
+        },
+        {
+            "epoch": 459,
+            "resonance": 0.04089497199091006,
+            "complexity": 0.5528341310500576
+        },
+        {
+            "epoch": 460,
+            "resonance": 0.09088641568439736,
+            "complexity": 0.5537590945308984
+        },
+        {
+            "epoch": 461,
+            "resonance": 0.13216635760284473,
+            "complexity": 0.52554621812296
+        },
+        {
+            "epoch": 462,
+            "resonance": 0.14946280477322613,
+            "complexity": 0.4786331824582089
+        },
+        {
+            "epoch": 463,
+            "resonance": 0.13637673608823866,
+            "complexity": 0.4303760088321894
+        },
+        {
+            "epoch": 464,
+            "resonance": 0.0977494943335987,
+            "complexity": 0.39862799795861503
+        },
+        {
+            "epoch": 465,
+            "resonance": 0.047871675310280845,
+            "complexity": 0.3951346944394298
+        },
+        {
+            "epoch": 466,
+            "resonance": 0.005196156281021012,
+            "complexity": 0.4211884864011248
+        },
+        {
+            "epoch": 467,
+            "resonance": 0.9855112401466003,
+            "complexity": 0.4671504715277576
+        },
+        {
+            "epoch": 468,
+            "resonance": 0.9960995897914142,
+            "complexity": 0.5160164806936305
+        },
+        {
+            "epoch": 469,
+            "resonance": 0.03304392253878152,
+            "complexity": 0.549707967420277
+        },
+        {
+            "epoch": 470,
+            "resonance": 0.08267625428093411,
+            "complexity": 0.5557603756878109
+        },
+        {
+            "epoch": 471,
+            "resonance": 0.12663452862015404,
+            "complexity": 0.5319345469064677
+        },
+        {
+            "epoch": 472,
+            "resonance": 0.14865587246080567,
+            "complexity": 0.4870451225901346
+        },
+        {
+            "epoch": 473,
+            "resonance": 0.14059323440791766,
+            "complexity": 0.43769946556108974
+        },
+        {
+            "epoch": 474,
+            "resonance": 0.10542948086016418,
+            "complexity": 0.402153573584198
+        },
+        {
+            "epoch": 475,
+            "resonance": 0.05617385001239178,
+            "complexity": 0.39355806139538857
+        },
+        {
+            "epoch": 476,
+            "resonance": 0.011049033400243935,
+            "complexity": 0.4150929383562636
+        },
+        {
+            "epoch": 477,
+            "resonance": 1.0,
+            "complexity": 0.45879112713247994
+        },
+        {
+            "epoch": 478,
+            "resonance": 0.005515611164383705,
+            "complexity": 0.5084859762969892
+        },
+        {
+            "epoch": 479,
+            "resonance": 0.038805822659575565,
+            "complexity": 0.5457923004070566
+        },
+        {
+            "epoch": 480,
+            "resonance": 0.08755453488859621,
+            "complexity": 0.5569081924545772
+        },
+        {
+            "epoch": 481,
+            "resonance": 0.1337265967343126,
+            "complexity": 0.5377211993364428
+        },
+        {
+            "epoch": 482,
+            "resonance": 0.1602401187538816,
+            "complexity": 0.49532977154593505
+        },
+        {
+            "epoch": 483,
+            "resonance": 0.15728611616789195,
+            "complexity": 0.44541710913726396
+        },
+        {
+            "epoch": 484,
+            "resonance": 0.2259574564717646,
+            "complexity": 0.40644898008743346
+        },
+        {
+            "epoch": 485,
+            "resonance": 0.1778445404388051,
+            "complexity": 0.39284209540337045
+        },
+        {
+            "epoch": 486,
+            "resonance": 0.13074729901413887,
+            "complexity": 0.40963047978623185
+        },
+        {
+            "epoch": 487,
+            "resonance": 0.10208990254925046,
+            "complexity": 0.4506030758457227
+        },
+        {
+            "epoch": 488,
+            "resonance": 0.10247448702344017,
+            "complexity": 0.5006015967716682
+        },
+        {
+            "epoch": 489,
+            "resonance": 0.1317587709529074,
+            "complexity": 0.541128510233445
+        },
+        {
+            "epoch": 490,
+            "resonance": 0.1791086940748138,
+            "complexity": 0.5571904148636423
+        },
+        {
+            "epoch": 491,
+            "resonance": 0.3270066035150423,
+            "complexity": 0.5428450228768169
+        },
+        {
+            "epoch": 492,
+            "resonance": 0.35773211250950887,
+            "complexity": 0.5033995783105434
+        },
+        {
+            "epoch": 493,
+            "resonance": 0.3599179628778806,
+            "complexity": 0.4534473805794416
+        },
+        {
+            "epoch": 494,
+            "resonance": 0.33275547394100796,
+            "complexity": 0.4114688242112877
+        },
+        {
+            "epoch": 495,
+            "resonance": 0.3862937233112904,
+            "complexity": 0.3929943626921543
+        },
+        {
+            "epoch": 496,
+            "resonance": 0.3377217741548862,
+            "complexity": 0.4048588371915868
+        },
+        {
+            "epoch": 497,
+            "resonance": 0.30500938204141953,
+            "complexity": 0.442672847851854
+        },
+        {
+            "epoch": 498,
+            "resonance": 0.3002588755903132,
+            "complexity": 0.49244666314120067
+        },
+        {
+            "epoch": 499,
+            "resonance": 0.3252277597244894,
+            "complexity": 0.5357658831837416
+        },
+        {
+            "epoch": 500,
+            "resonance": 0.37067850635355526,
+            "complexity": 0.556604060427936
+        }
+    ]
+}

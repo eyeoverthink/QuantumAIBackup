@@ -1,0 +1,41 @@
+{
+  "reference_id": "16631198360013b101e1e4081c016e03815438e9509093809068806009c00006",
+  "data": {
+    "metadata": {
+      "node_id": "1f932798-8915-40a0-b8be-d577e5f274e7",
+      "capabilities": [
+        "reasoning",
+        "knowledge",
+        "perception"
+      ],
+      "coherence": 3.6932381,
+      "quantum_fingerprint": "e7a927b629adb8f33fe139f15a8466af60e574105c83c4ddf3f8bec314dfc8b6:3.693238"
+    },
+    "type": "quantum_nodular_core",
+    "node_id": "96972304-a5ac-4fe6-8303-be4e4d49b198",
+    "registration_timestamp": "2025-07-22T10:07:30.642625"
+  },
+  "metadata": {
+    "node_type": "reasoning_core",
+    "node_id": "96972304-a5ac-4fe6-8303-be4e4d49b198",
+    "timestamp": "2025-07-22T10:07:30.642627",
+    "phi_resonance": 0.0,
+    "storage_node_id": "b32b2284-22c9-4d35-9b3f-be08382367a4",
+    "node_data": {
+      "metadata": {
+        "node_id": "1f932798-8915-40a0-b8be-d577e5f274e7",
+        "capabilities": [
+          "reasoning",
+          "knowledge",
+          "perception"
+        ],
+        "coherence": 3.6932381,
+        "quantum_fingerprint": "e7a927b629adb8f33fe139f15a8466af60e574105c83c4ddf3f8bec314dfc8b6:3.693238"
+      },
+      "type": "quantum_nodular_core",
+      "node_id": "96972304-a5ac-4fe6-8303-be4e4d49b198",
+      "registration_timestamp": "2025-07-22T10:07:30.642625"
+    }
+  },
+  "cache_timestamp": "2025-07-22T10:07:30.643029"
+}

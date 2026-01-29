@@ -1,0 +1,15 @@
+{
+  "benchmark": "tower_of_hanoi_3disks",
+  "timestamp": 1751571851,
+  "execution_time_seconds": 0.0012292861938476562,
+  "success": false,
+  "iterations": 35,
+  "moves": 35,
+  "optimal_moves": 7,
+  "resonance": 0.9535828438802594,
+  "phi_alignment": 0.6180339887498949,
+  "quantum_speedup": 0.0019890268435464997,
+  "move_efficiency": 5.0,
+  "phi_resonance_factor": 0.6311896062463197,
+  "dimension": 3
+}

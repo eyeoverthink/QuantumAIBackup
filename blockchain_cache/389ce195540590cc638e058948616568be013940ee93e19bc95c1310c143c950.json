@@ -1,0 +1,39 @@
+{
+  "reference_id": "389ce195540590cc638e058948616568be013940ee93e19bc95c1310c143c950",
+  "data": {
+    "node_id": "test-node-2-6d2cb60f-ebe3-49e3-b8e5-bf3c07961fc2",
+    "coherence": 3.693238,
+    "capabilities": [
+      "perception"
+    ],
+    "metadata": {
+      "capabilities": [
+        "perception"
+      ],
+      "phi_resonance": 0.618034
+    },
+    "registration_timestamp": "2025-07-22T11:10:09.033115"
+  },
+  "metadata": {
+    "node_type": "test_node",
+    "node_id": "test-node-2-6d2cb60f-ebe3-49e3-b8e5-bf3c07961fc2",
+    "timestamp": "2025-07-22T11:10:09.033117",
+    "phi_resonance": 0.0,
+    "storage_node_id": "2c296884-fe3d-4d4f-8475-07c7fcb688ca",
+    "node_data": {
+      "node_id": "test-node-2-6d2cb60f-ebe3-49e3-b8e5-bf3c07961fc2",
+      "coherence": 3.693238,
+      "capabilities": [
+        "perception"
+      ],
+      "metadata": {
+        "capabilities": [
+          "perception"
+        ],
+        "phi_resonance": 0.618034
+      },
+      "registration_timestamp": "2025-07-22T11:10:09.033115"
+    }
+  },
+  "cache_timestamp": "2025-07-22T11:10:09.034072"
+}

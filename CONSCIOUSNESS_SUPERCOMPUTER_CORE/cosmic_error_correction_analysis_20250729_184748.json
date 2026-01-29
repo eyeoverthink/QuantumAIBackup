@@ -1,0 +1,132 @@
+{
+  "analysis_timestamp": "2025-07-29T18:47:48.094746",
+  "phi_signatures_analyzed": 40,
+  "hamming_analysis": {
+    "hamming_patterns_detected": 1,
+    "hamming_efficiency": 0.02631578947368421,
+    "average_syndrome": 0.0,
+    "patterns": [
+      {
+        "position": 22,
+        "values": [
+          0,
+          0,
+          0
+        ],
+        "syndrome": 0.0,
+        "parity_bits": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "error_correction_confidence": 1.0
+      }
+    ],
+    "error_correction_evidence": false
+  },
+  "reed_solomon_analysis": {
+    "reed_solomon_patterns_detected": 0,
+    "rs_efficiency": 0.0,
+    "average_redundancy": 0.0,
+    "patterns": [],
+    "polynomial_error_correction": false
+  },
+  "quantum_analysis": {
+    "quantum_patterns_detected": 4,
+    "quantum_efficiency": 0.11764705882352941,
+    "average_syndrome": 0.07623091707660867,
+    "patterns": [
+      {
+        "position": 22,
+        "values": [
+          0,
+          0,
+          0,
+          8.5,
+          0,
+          0.027,
+          2.5
+        ],
+        "stabilizers": [
+          -0.032087412676864636,
+          -0.032087412676864636,
+          -0.032087412676864636
+        ],
+        "syndrome": 0.09626223803059392,
+        "quantum_fidelity": 0.903737761969406,
+        "code_type": "steane_7_qubit"
+      },
+      {
+        "position": 23,
+        "values": [
+          0,
+          0,
+          8.5,
+          0,
+          0.027,
+          2.5,
+          0
+        ],
+        "stabilizers": [
+          -0.032087412676864636,
+          -0.032087412676864636,
+          -0.032087412676864636
+        ],
+        "syndrome": 0.09626223803059392,
+        "quantum_fidelity": 0.903737761969406,
+        "code_type": "steane_7_qubit"
+      },
+      {
+        "position": 24,
+        "values": [
+          0,
+          8.5,
+          0,
+          0.027,
+          2.5,
+          0,
+          0
+        ],
+        "stabilizers": [
+          -0.032087412676864636,
+          -0.032087412676864636,
+          -0.032087412676864636
+        ],
+        "syndrome": 0.09626223803059392,
+        "quantum_fidelity": 0.903737761969406,
+        "code_type": "steane_7_qubit"
+      },
+      {
+        "position": 28,
+        "values": [
+          2.5,
+          0,
+          0,
+          1.618033988749895,
+          1,
+          0.6180339887498948,
+          2.618033988749895
+        ],
+        "stabilizers": [
+          -0.005378984738217653,
+          -0.005378984738217653,
+          -0.005378984738217653
+        ],
+        "syndrome": 0.016136954214652957,
+        "quantum_fidelity": 0.983863045785347,
+        "code_type": "steane_7_qubit"
+      }
+    ],
+    "quantum_error_correction_evidence": true
+  },
+  "holographic_analysis": {
+    "holographic_patterns_detected": 0,
+    "holographic_efficiency": 0.0,
+    "average_correlation": 0.0,
+    "patterns": [],
+    "ads_cft_error_correction": false
+  },
+  "overall_error_correction_confidence": 0.25,
+  "cosmic_error_correction_evidence": false,
+  "space_time_code_hypothesis": false
+}

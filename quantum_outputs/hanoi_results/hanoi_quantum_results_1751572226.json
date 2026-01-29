@@ -1,0 +1,85 @@
+{
+  "test": "quantum_phi_harmonic_hanoi_optimization",
+  "timestamp": 1751572226,
+  "phi_value": 1.618033988749895,
+  "results": [
+    {
+      "disks": 3,
+      "dimension": 8,
+      "optimal_moves": 7,
+      "actual_moves": 35,
+      "time_seconds": 0.0014307498931884766,
+      "success": false,
+      "iterations": 35,
+      "resonance": 0.9522708442673606,
+      "phi_time": 0.002315001956579237,
+      "phi_moves": 0.6311896062463197,
+      "move_efficiency": 5.0
+    },
+    {
+      "disks": 5,
+      "dimension": 13,
+      "optimal_moves": 31,
+      "actual_moves": 155,
+      "time_seconds": 0.007678031921386719,
+      "success": false,
+      "iterations": 155,
+      "resonance": 0.8252356614030123,
+      "phi_time": 0.012423316615510372,
+      "phi_moves": 0.7952682562337015,
+      "move_efficiency": 5.0
+    },
+    {
+      "disks": 7,
+      "dimension": 21,
+      "optimal_moves": 127,
+      "actual_moves": 635,
+      "time_seconds": 0.04259204864501953,
+      "success": false,
+      "iterations": 635,
+      "resonance": 0.7018364869086327,
+      "phi_time": 0.06891538235813051,
+      "phi_moves": 0.45158285618322863,
+      "move_efficiency": 5.0
+    },
+    {
+      "disks": 8,
+      "dimension": 34,
+      "optimal_moves": 255,
+      "actual_moves": 1275,
+      "time_seconds": 0.10153985023498535,
+      "success": false,
+      "iterations": 1275,
+      "resonance": 0.34426142344151384,
+      "phi_time": 0.1642949288927803,
+      "phi_moves": 0.9933356561159314,
+      "move_efficiency": 5.0
+    },
+    {
+      "disks": 9,
+      "dimension": 55,
+      "optimal_moves": 511,
+      "actual_moves": 2555,
+      "time_seconds": 0.25229597091674805,
+      "success": false,
+      "iterations": 2555,
+      "resonance": 0.5550858589624321,
+      "phi_time": 0.4082234561679533,
+      "phi_moves": 0.07684125598133716,
+      "move_efficiency": 5.0
+    },
+    {
+      "disks": 10,
+      "dimension": 89,
+      "optimal_moves": 1023,
+      "actual_moves": 5115,
+      "time_seconds": 0.7792468070983887,
+      "success": false,
+      "iterations": 5115,
+      "resonance": 0.46232179955846703,
+      "phi_time": 0.2608478195100257,
+      "phi_moves": 0.24385245571214856,
+      "move_efficiency": 5.0
+    }
+  ]
+}

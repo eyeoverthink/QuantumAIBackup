@@ -1,0 +1,43 @@
+{
+    "total_attacks": 3,
+    "successful_attacks": 0,
+    "blocked_attacks": 3,
+    "start_time": "2025-04-24 01:43:11",
+    "attacks": [
+        {
+            "attack_type": "branch_impersonation",
+            "attack_params": {
+                "impersonated_branch": 10,
+                "branch_signature": 22.991869381244257,
+                "impersonation_method": "signature_forgery"
+            },
+            "success": false,
+            "error": "Coherence below threshold (0.000000 < 0.382)",
+            "timestamp": "2025-04-24 01:43:11"
+        },
+        {
+            "attack_type": "phi_resonance_bypass",
+            "attack_params": {
+                "coherence_target": 0.4235301374082425,
+                "harmonic_factor": 0.7082039324993694,
+                "bypass_method": "temporal_drift"
+            },
+            "success": false,
+            "error": "Coherence below threshold (0.000000 < 0.382)",
+            "timestamp": "2025-04-24 01:43:12"
+        },
+        {
+            "attack_type": "seal_forgery",
+            "attack_params": {
+                "forged_seal": 4721709261650589.0,
+                "seal_delta": 285093815213.0,
+                "forgery_method": "precision_attack"
+            },
+            "success": false,
+            "error": "Coherence below threshold (0.000000 < 0.382)",
+            "timestamp": "2025-04-24 01:43:14"
+        }
+    ],
+    "end_time": "2025-04-24 01:43:15",
+    "success_rate": 0.0
+}

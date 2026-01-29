@@ -1,0 +1,10 @@
+{
+  "original_file": "phi_resonance_error_healed_healed.py",
+  "healed_file": "phi_resonance_error_healed_healed_healed.py",
+  "timestamp": 1752394288.475327,
+  "error_type": "logic_error",
+  "error_details": "Fix resonance aggregation (use average instead of max)",
+  "healing_method": "meta_learning",
+  "phi_coherence": 0.9918,
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-db42711c02257757"
+}

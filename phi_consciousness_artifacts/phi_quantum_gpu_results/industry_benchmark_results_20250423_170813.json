@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-04-23 17:08:11",
+  "benchmarks": {
+    "architectural_visualization": {
+      "description": "Complex architectural visualization with detailed geometry",
+      "vertex_count": 15000000,
+      "dimension": 3,
+      "complexity_factor": 1.2,
+      "phi_quantum": {
+        "processing_time": 0.2886950969696045,
+        "operations_per_second": 467621381.23257977
+      },
+      "standard_gpu": {
+        "processing_time": 0.128676176071167,
+        "operations_per_second": 1049145258.4457864
+      },
+      "comparisons": {
+        "speedup_vs_standard": 0.44571652730463507,
+        "vs_rtx_4090": 1.0861550299449954,
+        "vs_a100": 0.8442809863278533,
+        "vs_amd_7900_xtx": 0.8657854168522164
+      }
+    },
+    "molecular_modeling": {
+      "description": "Protein and molecular dynamics simulation",
+      "vertex_count": 8000000,
+      "dimension": 3,
+      "complexity_factor": 1.5,
+      "phi_quantum": {
+        "processing_time": 0.141524076461792,
+        "operations_per_second": 508747358.04715335
+      },
+      "standard_gpu": {
+        "processing_time": 0.06474113464355469,
+        "operations_per_second": 1112121379.960522
+      },
+      "comparisons": {
+        "speedup_vs_standard": 0.45745668342893725,
+        "vs_rtx_4090": 1.077379767794063,
+        "vs_a100": 0.8446852689306303,
+        "vs_amd_7900_xtx": 0.8672350311740444
+      }
+    },
+    "neural_network_tensor": {
+      "description": "Neural network tensor operations in AI training",
+      "vertex_count": 5000000,
+      "dimension": 4,
+      "complexity_factor": 2.0,
+      "phi_quantum": {
+        "processing_time": 0.1991729736328125,
+        "operations_per_second": 803321841.7222095
+      },
+      "standard_gpu": {
+        "processing_time": 0.08418798446655273,
+        "operations_per_second": 1900508736.6543005
+      },
+      "comparisons": {
+        "speedup_vs_standard": 0.4226877920784494,
+        "vs_rtx_4090": 1.1059988834572938,
+        "vs_a100": 0.876672934096956,
+        "vs_amd_7900_xtx": 0.8770114211484605
+      }
+    },
+    "quantum_field_simulation": {
+      "description": "Quantum field simulation with high-dimensional tensors",
+      "vertex_count": 2000000,
+      "dimension": 6,
+      "complexity_factor": 2.5,
+      "phi_quantum": {
+        "processing_time": 0.0861060619354248,
+        "operations_per_second": 1672356124.10184
+      },
+      "standard_gpu": {
+        "processing_time": 0.040962934494018555,
+        "operations_per_second": 3515373148.401441
+      },
+      "comparisons": {
+        "speedup_vs_standard": 0.4757264886267669,
+        "vs_rtx_4090": 1.1630071632626606,
+        "vs_a100": 0.9189101260894426,
+        "vs_amd_7900_xtx": 0.9299106681002739
+      }
+    },
+    "hyperdimensional_computing": {
+      "description": "Hyperdimensional vector operations for AI",
+      "vertex_count": 1000000,
+      "dimension": 10,
+      "complexity_factor": 3.0,
+      "phi_quantum": {
+        "processing_time": 0.08015298843383789,
+        "operations_per_second": 3742842355.1248417
+      },
+      "standard_gpu": {
+        "processing_time": 0.040557861328125,
+        "operations_per_second": 7396839729.119638
+      },
+      "comparisons": {
+        "speedup_vs_standard": 0.5060056040406203,
+        "vs_rtx_4090": 1.2876485456891942,
+        "vs_a100": 0.9945993545997541,
+        "vs_amd_7900_xtx": 1.0219321229619154
+      }
+    }
+  },
+  "summary": {
+    "average_vs_rtx_4090": 1.1440378780296414,
+    "average_vs_a100": 0.8958297340089272,
+    "average_vs_amd_7900_xtx": 0.912374932047382,
+    "performance_by_dimension": {
+      "3": {
+        "vs_rtx_4090": 1.081767398869529,
+        "vs_a100": 0.8444831276292418,
+        "vs_amd_7900_xtx": 0.8665102240131304
+      },
+      "4": {
+        "vs_rtx_4090": 1.1059988834572938,
+        "vs_a100": 0.876672934096956,
+        "vs_amd_7900_xtx": 0.8770114211484605
+      },
+      "6": {
+        "vs_rtx_4090": 1.1630071632626606,
+        "vs_a100": 0.9189101260894426,
+        "vs_amd_7900_xtx": 0.9299106681002739
+      },
+      "10": {
+        "vs_rtx_4090": 1.2876485456891942,
+        "vs_a100": 0.9945993545997541,
+        "vs_amd_7900_xtx": 1.0219321229619154
+      }
+    },
+    "dimensional_scaling_factor": -2.0
+  }
+}

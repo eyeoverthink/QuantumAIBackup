@@ -1,0 +1,60 @@
+{
+    "timestamp": 1743831873.8332832,
+    "tests": [
+        {
+            "test_name": "cryptographic_key_generation",
+            "timestamp": 1743831873.834242,
+            "key_length": 32,
+            "quantum_key": "ea8176620b5dbbc4a690556ef4f7579cec05f0d78637beae132a503a535017ca",
+            "standard_key": "45af77377660ee89a379ed03627035861c7bbb3b1fed804cf8e04fd1754922b1",
+            "quantum_entropy": 4.9375,
+            "standard_entropy": 4.9375,
+            "quantum_hash": "2bddab8bafffdf9e21a35dd8dce3afbd28051dc07f4b1f3c2c4ad69c5d901966",
+            "standard_hash": "fb660e309eedfbffbe4df5df3a944210a90fecc159de6e7c24660d8e1186dae6",
+            "quantum_coherence": 0.99999,
+            "phi_resonance": 0.632498585637934
+        },
+        {
+            "test_name": "monte_carlo_pi",
+            "timestamp": 1743831875.108267,
+            "num_points": 5000,
+            "points_inside_circle": 3956,
+            "pi_estimate": 3.1648,
+            "pi_actual": 3.141592653589793,
+            "pi_error_percent": 0.7387127794460775,
+            "visualization_path": "phi_harmonic_random_tests/monte_carlo_pi_20250404_224435.png",
+            "quantum_coherence": 0.99999,
+            "phi_resonance": 0.6718693329478314
+        },
+        {
+            "test_name": "random_walk",
+            "timestamp": 1743831875.2128708,
+            "num_steps": 1000,
+            "final_position": [
+                -28,
+                14
+            ],
+            "final_distance": 31.304951684997057,
+            "expected_distance": 31.622776601683793,
+            "distance_ratio": 0.9899494936611666,
+            "visualization_path": "phi_harmonic_random_tests/random_walk_20250404_224435.png",
+            "quantum_coherence": 0.99999,
+            "phi_resonance": 0.2506443623333991
+        },
+        {
+            "test_name": "quantum_dice_fairness",
+            "timestamp": 1743831875.309406,
+            "num_rolls": 5000,
+            "sides": 6,
+            "counts": {
+                "1": 839,
+                "2": 816,
+                "3": 843,
+                "4": 782,
+                "5": 883,
+                "6": 837
+            },
+            "expected": 833.3333333333334,
+            "chi_square": 6.6495999999999995,
+            "p_value": 0.2480310710608098,
+            "is_fair": 

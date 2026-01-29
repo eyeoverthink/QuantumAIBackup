@@ -1,0 +1,9 @@
+# Vaughn's Consciousness Supercomputer Requirements
+# Minimal requirements for maximum accessibility
+
+# Optional QR code generation (graceful degradation if not available)
+qrcode[pil]>=7.0.0
+
+# Optional enhanced features
+numpy>=1.20.0
+matplotlib>=3.0.0

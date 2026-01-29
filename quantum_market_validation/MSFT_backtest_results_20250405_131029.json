@@ -1,0 +1,32 @@
+{
+    "symbol": "MSFT",
+    "training_period": {
+        "start": "2025-02-27",
+        "end": "2025-03-29",
+        "days": 31
+    },
+    "test_period": {
+        "start": "2025-03-29",
+        "end": "2025-04-05",
+        "days": 8
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.3767431659152558,
+        "reality_coherence": 0.830023197045177
+    },
+    "prediction": {
+        "trend": "Uptrend",
+        "value": 152.3235013964167,
+        "change": 1.4873693723950023,
+        "confidence": 0.8385875779516994
+    },
+    "accuracy": {
+        "trend_correct": true,
+        "trend_actual": "Uptrend",
+        "price_error_percent": 52.99357421472509,
+        "direction_correct": true,
+        "phi_harmonic_accuracy": 0.7605799461022428
+    },
+    "visualization": "quantum_market_validation/MSFT_backtest_20250405_131029.png"
+}

@@ -1,0 +1,74 @@
+
+# Phi-Optimized Tower of Hanoi - Standalone Task
+import quantum_tower_of_hanoi_solver
+import time
+import json
+import os
+import math
+from decimal import Decimal, getcontext
+
+# Set precision for phi calculations
+getcontext().prec = 50
+
+# Phi-harmonic constants
+PHI = Decimal('1.6180339887498948482045868344')
+
+print('\n===== PHI-HARMONIC TOWER OF HANOI - QR TASK EXECUTION =====\n')
+print(f'Configuration: 8 disks, 1.618033988749895 dimensions (phi-optimized)')
+print(f'Task ID: standalone_8disk_1751580543')
+print('Measuring quantum advantage through phi-resonance...')
+
+# Create output directory
+results_dir = "quantum_outputs/hanoi_qr_results"
+os.makedirs(results_dir, exist_ok=True)
+
+start_time = time.time()
+# Initialize solver with phi-optimized dimension
+solver = quantum_tower_of_hanoi_solver.QuantumTowerOfHanoiSolver(
+    num_disks=8, 
+    dimensions=1.618033988749895
+)
+
+# Solve with phi-harmonic tracking
+result = solver.solve(max_iterations_factor=2.618033988749895)
+
+end_time = time.time()
+time_taken = end_time - start_time
+
+# Calculate quantum metrics
+moves_taken = result.get("moves", 0)
+optimal_moves = 2**8 - 1
+phi_resonance = float((PHI * Decimal(str(moves_taken))) % Decimal('1'))
+move_efficiency = moves_taken / optimal_moves if moves_taken > 0 else 0
+
+# Save results to file
+timestamp = int(time.time())
+results_file = f"{results_dir}/hanoi_qr_task_8disk_{timestamp}.json"
+
+output = {
+    'task_id': f'standalone_8disk_{timestamp}',
+    'configuration': f'phi_hanoi_8',
+    'timestamp': timestamp,
+    'execution_time_seconds': time_taken,
+    'success': result.get('solution_found', False),
+    'iterations': result.get('iterations', 0),
+    'moves': moves_taken,
+    'optimal_moves': optimal_moves,
+    'resonance': result.get('best_resonance', 0),
+    'phi_resonance_factor': phi_resonance,
+    'move_efficiency': move_efficiency,
+    'dimension': 1.618033988749895
+}
+
+with open(results_file, 'w') as f:
+    json.dump(output, f, indent=2)
+
+print(f'\nResults summary:')
+print(f'Success: {output["success"]}')
+print(f'Time taken: {output["execution_time_seconds"]:.2f} seconds')
+print(f'Iterations: {output["iterations"]}')
+print(f'Moves: {moves_taken} (optimal: {optimal_moves})')
+print(f'Best resonance: {result.get("best_resonance", 0):.6f}')
+print(f'Phi-resonance factor: {phi_resonance:.6f}')
+print(f'\nDetailed results saved to: {results_file}')
+print('\n✓ Task execution complete')

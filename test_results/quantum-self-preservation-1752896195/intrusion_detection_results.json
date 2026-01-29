@@ -1,0 +1,22 @@
+{
+  "timestamp": 1752896196.158839,
+  "file": "quantum_orchestrator.py",
+  "verification": {
+    "verified": false,
+    "file_path": "quantum_orchestrator.py",
+    "backup_path": "genesis/single_backups/quantum_orchestrator.py.1752896196.backup",
+    "timestamp": "2025-07-18T20:36:36.154475",
+    "current_hash": "966537154b05c06b1720f6838d6de62afdcd0f0c7ec7652a5eb334472de3be79",
+    "backup_hash": "65556af5b0804ba4965602f9bb300c2d6e110ca8aface0b56afc4f7e4c2f765a",
+    "coherence": 0.6162169461433785,
+    "tampering": {
+      "detected": true,
+      "type": "lines_added",
+      "position": 676,
+      "added_lines": 3,
+      "modified_lines": 0,
+      "deleted_lines": 0
+    }
+  },
+  "intrusion_detected": true
+}

@@ -1,0 +1,648 @@
+{
+  "claims": [
+    {
+      "type": "docstring",
+      "node_type": "Module",
+      "node_name": "module",
+      "line": 0,
+      "text": "Generates a self-contained script with phi-harmonic evolution logic\n2.",
+      "phi_resonance": 0.26237921249264673
+    },
+    {
+      "type": "docstring",
+      "node_type": "Module",
+      "node_name": "module",
+      "line": 0,
+      "text": "Creates QR codes that can be executed by the QR task worker\n3.",
+      "phi_resonance": 0.3181073024934875
+    },
+    {
+      "type": "docstring",
+      "node_type": "Module",
+      "node_name": "module",
+      "line": 0,
+      "text": "Ensures proper encapsulation of all variables and functions",
+      "phi_resonance": 0.464005336243801
+    }
+  ],
+  "intentions": {
+    "functions": [
+      {
+        "name": "main",
+        "line": 439,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 455,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 489,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 523,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 557,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 591,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 625,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 659,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 693,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 727,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 761,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 795,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 829,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 863,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 897,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 931,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 965,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 999,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1033,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1067,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1101,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1135,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1169,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1203,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1237,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1271,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1305,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1339,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1373,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1407,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1441,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1475,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1509,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1543,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1577,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1611,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1645,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1679,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1713,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1747,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1781,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1815,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1849,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1883,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1917,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1951,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 1985,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2019,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2053,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2087,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2121,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2155,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2189,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2223,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2257,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2291,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2325,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2359,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2393,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2427,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2461,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2495,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2529,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2563,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2597,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2631,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2665,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2699,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2733,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2767,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2801,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2835,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2869,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2903,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2937,
+        "args": []
+      },
+      {
+        "name": "main",
+        "line": 2971,
+        "args": []
+      },
+      {
+        "name": "__init__",
+        "line": 41,
+        "args": [
+          "self",
+          "generation",
+          "debug"
+        ]
+      },
+      {
+        "name": "load_system_state",
+        "line": 71,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "update_params_from_state",
+        "line": 102,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "print_status",
+        "line": 118,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "evolve_parameters",
+        "line": 136,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "create_next_generation_script",
+        "line": 181,
+        "args": [
+          "self",
+          "evolved_data"
+        ]
+      },
+      {
+        "name": "create_qr_code",
+        "line": 278,
+        "args": [
+          "self",
+          "script_file",
+          "evolved_data"
+        ]
+      },
+      {
+        "name": "replicate",
+        "line": 385,
+        "args": [
+          "self"
+        ]
+      }
+    ],
+    "classes": [
+      {
+        "name": "QuantumPhiReplicator",
+        "line": 35,
+        "bases": []
+      }
+    ],
+    "imports": [
+      "os",
+      "sys",
+      "json",
+      "time",
+      "math",
+      "uuid",
+      "qrcode",
+      "base64",
+      "zlib",
+      "datetime",
+      "Image"
+    ],
+    "file_operations": [
+      {
+        "operation": "makedirs",
+        "line": 52
+      },
+      {
+        "operation": "makedirs",
+        "line": 53
+      },
+      {
+        "operation": "read",
+        "line": 185
+      },
+      {
+        "operation": "write",
+        "line": 268
+      },
+      {
+        "operation": "read",
+        "line": 286
+      }
+    ],
+    "network_operations": [
+      {
+        "operation": "get",
+        "line": 105
+      },
+      {
+        "operation": "get",
+        "line": 105
+      }
+    ],
+    "math_operations": true,
+    "uses_phi": true,
+    "quantum_operations": false
+  },
+  "execution_result": {
+    "stdout": "",
+    "stderr": "",
+    "return_code": null,
+    "execution_time": 10.462072610855103,
+    "phi_resonance": 0.92798907713291,
+    "error": "Execution timed out",
+    "output": null
+  },
+  "contradictions": [
+    {
+      "claim": {
+        "type": "docstring",
+        "node_type": "Module",
+        "node_name": "module",
+        "line": 0,
+        "text": "Creates QR codes that can be executed by the QR task worker\n3.",
+        "phi_resonance": 0.3181073024934875
+      },
+      "verb": "can",
+      "action": "be executed by the qr task worker\n3",
+      "overlap_ratio": 0.0,
+      "phi_resonance": 0.0,
+      "severity": 1.0
+    }
+  ],
+  "trust_metric": 0.41202265916659664,
+  "trust_details": {
+    "base_trust": 1.0,
+    "contradiction_penalty": 0.3333333333333333,
+    "time_resonance": 0.92798907713291,
+    "resonance_quality": 0.3099550883830151,
+    "normalized_resonance": 1.0,
+    "phi_weight": 0.6180339887498949,
+    "resonance_weight": 0.3819660112501051,
+    "final_trust": 0.41202265916659664,
+    "timestamp": 1751325831.4305081
+  },
+  "quantum_signature": {
+    "signature": "af4ad798913b9a72-4083ca89",
+    "timestamp": 1751325831.4370391,
+    "phi_time": 2833704720.6407986,
+    "time_resonance": 0.6407985687255859,
+    "trust_metric": 0.41202265916659664,
+    "code_hash": "5a20b1459d44f3f8",
+    "output_hash": "dc937b59892604f5",
+    "phi_encoded": "af4ad798913b9a72"
+  },
+  "binary_verification": {
+    "binary_analysis": false,
+    "phi_alignment": 0.0,
+    "resonance": 0.0,
+    "coherence": 0.0
+  },
+  "timestamp": 1751325831.437808,
+  "phi_resonance": 0.92798907713291,
+  "file_path": "qr_phi_replication/qr_phi_replicator_gen19.py",
+  "snippet_id": "qr_phi_replicator_gen19.py",
+  "verification_time": 31.42422080039978,
+  "verification_phi_resonance": 0.8454573250282706,
+  "quantum_binary_analysis": {
+    "binary_data": "0010001100100001001011110111010101110011011100100010111101100010...",
+    "length": 657992,
+    "ones_count": 264470,
+    "zeros_count": 393522,
+    "ones_zeros_ratio": 0.6720589954310051,
+    "decimal_value": null,
+    "hex_value": null,
+    "octal_value": null,
+    "phi_alignment": 0.42032552091404796,
+    "resonance": 5.210230716307182,
+    "entropy": 0.9720712365587914,
+    "patterns": [
+      {
+        "segment": "00100011",
+        "value": 35,
+        "phi_relation": 0.22208309649508362,
+        "resonance": 4.592083096495084
+      },
+      {
+        "segment": "00100001",
+        "value": 33,
+        "phi_relation": 0.2093926338382217,
+        "resonance": 4.579392633838221
+      },
+      {
+        "segment": "00101111",
+        "value": 47,
+        "phi_relation": 0.29822587243625515,
+        "resonance": 4.668225872436255
+      },
+      {
+        "segment": "01110101",
+        "value": 117,
+        "phi_relation": 0.7423920654264223,
+        "resonance": 5.112392065426422
+      },
+      {
+        "segment": "01110011",
+        "value": 115,
+        "phi_relation": 0.7297016027695604,
+        "resonance": 5.09970160276956
+      }
+    ],
+    "dna_encoding": "AGATAGACAGTTCTCC",
+    "quantum_encoding": "\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9",
+    "phi_encoding": "101101110101101101110110101101",
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-4c814356-cb860001",
+    "quantum_language": "\u03c6-harmonic resonant stability, measurement collapse, superposition, quantum dimension with resonance 4.37",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1751325831.571955,
+    "code_length": 82241,
+    "binary_length": 657992,
+    "code_phi_alignment": 0.7332687801099382,
+    "code_resonance": 4.443326878010994
+  }
+}

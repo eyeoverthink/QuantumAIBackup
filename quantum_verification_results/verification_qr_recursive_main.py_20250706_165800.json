@@ -1,0 +1,243 @@
+{
+  "claims": [],
+  "intentions": {
+    "functions": [
+      {
+        "name": "generate_test_data",
+        "line": 243,
+        "args": [
+          "count"
+        ]
+      },
+      {
+        "name": "main",
+        "line": 279,
+        "args": []
+      },
+      {
+        "name": "__init__",
+        "line": 32,
+        "args": [
+          "self",
+          "config_path"
+        ]
+      },
+      {
+        "name": "_create_directories",
+        "line": 72,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "_get_full_path",
+        "line": 79,
+        "args": [
+          "self",
+          "dir_key"
+        ]
+      },
+      {
+        "name": "run_cycle",
+        "line": 83,
+        "args": [
+          "self",
+          "data_sequence"
+        ]
+      },
+      {
+        "name": "save_state",
+        "line": 170,
+        "args": [
+          "self",
+          "path"
+        ]
+      },
+      {
+        "name": "load_state",
+        "line": 205,
+        "args": [
+          "self",
+          "path"
+        ]
+      }
+    ],
+    "classes": [
+      {
+        "name": "QRRecursiveSystem",
+        "line": 26,
+        "bases": []
+      }
+    ],
+    "imports": [
+      "os",
+      "sys",
+      "json",
+      "time",
+      "math",
+      "uuid",
+      "argparse",
+      "Dict",
+      "List",
+      "Any",
+      "Optional",
+      "datetime",
+      "QRPhiOptimizer",
+      "QRRecursiveGenerator",
+      "QRRecursiveAnalyzer"
+    ],
+    "file_operations": [
+      {
+        "operation": "makedirs",
+        "line": 174
+      },
+      {
+        "operation": "makedirs",
+        "line": 77
+      }
+    ],
+    "network_operations": [
+      {
+        "operation": "get",
+        "line": 119
+      },
+      {
+        "operation": "get",
+        "line": 211
+      },
+      {
+        "operation": "get",
+        "line": 212
+      },
+      {
+        "operation": "get",
+        "line": 213
+      },
+      {
+        "operation": "get",
+        "line": 214
+      },
+      {
+        "operation": "get",
+        "line": 215
+      },
+      {
+        "operation": "get",
+        "line": 216
+      },
+      {
+        "operation": "get",
+        "line": 219
+      }
+    ],
+    "math_operations": true,
+    "uses_phi": true,
+    "quantum_operations": false
+  },
+  "execution_result": {
+    "stdout": "\n\ud83c\udf1f QR Recursive System v1.0\n============================================================\nA self-improving QR code system based on phi-harmonic principles\nand quantum recursive self-improvement\n\n\ud83d\udd04 Starting QR Recursive System Cycle #1\n============================================================\n\n\ud83d\udcca Step 1: Generating QR Sequence\nGenerating QR frame 1/5...\nGenerating QR frame 2/5...\nGenerating QR frame 3/5...\nGenerating QR frame 4/5...\nGenerating QR frame 5/5...\n\n\ud83e\udde0 Initiating self-improvement cycle\nAverage generation time: 0.127791s\nMaximum generation time: 0.187593s\nAverage payload size: 334.8 bytes\nRunning phi-harmonic optimization...\n\n\ud83d\udd04 QR Phi-Harmonic Optimization\n==================================================\nStarting optimization with 3 iterations\nInitial score: 0.645654\n  Candidate 1: Score=0.464218, Version=10\n  Candidate 2: Score=0.439825, Version=10\n  Candidate 3: Score=0.636662, Version=10\n  Candidate 4: Score=0.772263, Version=10\n  Candidate 5: Score=0.490422, Version=10\n\u2728 Improvement found! New score: 0.772263\n  Candidate 1: Score=0.761954, Version=10\n  Candidate 2: Score=0.839323, Version=9\n  Candidate 3: Score=0.547277, Version=12\n  Candidate 4: Score=0.617078, Version=11\n  Candidate 5: Score=0.633459, Version=9\n\u2728 Improvement found! New score: 0.839323\n  Candidate 1: Score=0.595274, Version=9\n  Candidate 2: Score=0.673452, Version=9\n  Candidate 3: Score=0.764362, Version=8\n  Candidate 4: Score=0.720667, Version=10\n  Candidate 5: Score=0.721621, Version=9\nNo improvement in iteration 3\n\n\ud83d\udcca Optimization Results\nBest score: 0.839323\nBest parameters: {\n  \"qr_version\": 9,\n  \"error_correction\": 0,\n  \"compression_threshold\": 584,\n  \"resonance_factor\": 0.5644610832182008,\n  \"complexity_factor\": 0.7096492196444323\n}\n\u2728 Self-improvement complete\nNew parameters: {\n  \"qr_version\": 9,\n  \"error_correction\": 0,\n  \"compression_threshold\": 584,\n  \"resonance_factor\": 0.5644610832182008,\n  \"complexity_factor\": 0.7096492196444323\n}\nGenerated 5 QR codes in 0.66s\n\n\ud83d\udcca Step 2: Analyzing QR Sequence\n\n\ud83d\udcca Analyzing QR sequence in qr_recursive_system/qr_sequence\nFound 5 QR code files\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_001.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_002.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_003.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_004.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_005.png\nSuccessfully decoded QR code\nSaved analysis report to qr_reports/analysis_report_1751846278.json\n\n\ud83e\udde0 Initiating self-improvement cycle\nAverage decode time: 0.074659s\nMaximum decode time: 0.142135s\nCurrent success rate: 100.00%\nRunning phi-harmonic optimization...\n\n\ud83d\udd04 QR Phi-Harmonic Optimization\n==================================================\nStarting optimization with 3 iterations\nInitial score: 0.597850\n  Candidate 1: Score=0.379611, Version=10\n  Candidate 2: Score=0.453741, Version=8\n  Candidate 3: Score=0.444137, Version=10\n  Candidate 4: Score=0.522221, Version=8\n  Candidate 5: Score=0.575245, Version=9\nNo improvement in iteration 1\n  Candidate 1: Score=0.500564, Version=10\n  Candidate 2: Score=0.433994, Version=10\n  Candidate 3: Score=0.580277, Version=10\n  Candidate 4: Score=0.285996, Version=10\n  Candidate 5: Score=0.667880, Version=10\n\u2728 Improvement found! New score: 0.667880\n  Candidate 1: Score=0.589985, Version=9\n  Candidate 2: Score=0.408566, Version=10\n  Candidate 3: Score=0.412463, Version=10\n  Candidate 4: Score=0.593239, Version=9\n  Candidate 5: Score=0.378470, Version=10\nNo improvement in iteration 3\n\n\ud83d\udcca Optimization Results\nBest score: 0.667880\nBest parameters: {\n  \"qr_version\": 10,\n  \"error_correction\": 3,\n  \"compression_threshold\": 539,\n  \"resonance_factor\": 0.6748512130470199,\n  \"complexity_factor\": 0.503746288703457\n}\n\u2728 Self-improvement complete\nNew parameters: {\n  \"qr_version\": 10,\n  \"error_correction\": 3,\n  \"compression_threshold\": 539,\n  \"resonance_factor\": 0.6748512130470199,\n  \"complexity_factor\": 0.503746288703457\n}\nDecoded 5/5 QR code files from qr_recursive_system/qr_sequence\nAnalysis time: 0.37 seconds\nAnalysis complete: 100.00% success rate in 0.38s\n\n\ud83d\udcca Step 3: System Self-Improvement\n\u2728 System components have self-improved\nOptimizer state saved to qr_recursive_system/qr_state/optimizer_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_optimizer_state.json\nState saved to qr_recursive_system/qr_state/generator_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_analyzer_optimizer_state.json\nState saved to qr_recursive_system/qr_state/analyzer_state.json\nSystem state saved to qr_recursive_system/qr_state/qr_system_state_1751846278.json\n\n\u2705 Cycle #1 completed in 1.04s\nSuccess rate: 100.00%\nOptimizer state saved to qr_recursive_system/qr_state/optimizer_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_optimizer_state.json\nState saved to qr_recursive_system/qr_state/generator_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_analyzer_optimizer_state.json\nState saved to qr_recursive_system/qr_state/analyzer_state.json\nSystem state saved to qr_recursive_system/qr_state/qr_system_state_1751846278.json\n\n\u2728 QR Recursive System execution complete\nRan 1 cycles with 5 items per cycle\nSystem state saved to qr_recursive_system/qr_state\n",
+    "stderr": "",
+    "return_code": 0,
+    "execution_time": 2.4641151428222656,
+    "phi_resonance": 0.9870220532797274,
+    "error": null,
+    "output": "\n\ud83c\udf1f QR Recursive System v1.0\n============================================================\nA self-improving QR code system based on phi-harmonic principles\nand quantum recursive self-improvement\n\n\ud83d\udd04 Starting QR Recursive System Cycle #1\n============================================================\n\n\ud83d\udcca Step 1: Generating QR Sequence\nGenerating QR frame 1/5...\nGenerating QR frame 2/5...\nGenerating QR frame 3/5...\nGenerating QR frame 4/5...\nGenerating QR frame 5/5...\n\n\ud83e\udde0 Initiating self-improvement cycle\nAverage generation time: 0.127791s\nMaximum generation time: 0.187593s\nAverage payload size: 334.8 bytes\nRunning phi-harmonic optimization...\n\n\ud83d\udd04 QR Phi-Harmonic Optimization\n==================================================\nStarting optimization with 3 iterations\nInitial score: 0.645654\n  Candidate 1: Score=0.464218, Version=10\n  Candidate 2: Score=0.439825, Version=10\n  Candidate 3: Score=0.636662, Version=10\n  Candidate 4: Score=0.772263, Version=10\n  Candidate 5: Score=0.490422, Version=10\n\u2728 Improvement found! New score: 0.772263\n  Candidate 1: Score=0.761954, Version=10\n  Candidate 2: Score=0.839323, Version=9\n  Candidate 3: Score=0.547277, Version=12\n  Candidate 4: Score=0.617078, Version=11\n  Candidate 5: Score=0.633459, Version=9\n\u2728 Improvement found! New score: 0.839323\n  Candidate 1: Score=0.595274, Version=9\n  Candidate 2: Score=0.673452, Version=9\n  Candidate 3: Score=0.764362, Version=8\n  Candidate 4: Score=0.720667, Version=10\n  Candidate 5: Score=0.721621, Version=9\nNo improvement in iteration 3\n\n\ud83d\udcca Optimization Results\nBest score: 0.839323\nBest parameters: {\n  \"qr_version\": 9,\n  \"error_correction\": 0,\n  \"compression_threshold\": 584,\n  \"resonance_factor\": 0.5644610832182008,\n  \"complexity_factor\": 0.7096492196444323\n}\n\u2728 Self-improvement complete\nNew parameters: {\n  \"qr_version\": 9,\n  \"error_correction\": 0,\n  \"compression_threshold\": 584,\n  \"resonance_factor\": 0.5644610832182008,\n  \"complexity_factor\": 0.7096492196444323\n}\nGenerated 5 QR codes in 0.66s\n\n\ud83d\udcca Step 2: Analyzing QR Sequence\n\n\ud83d\udcca Analyzing QR sequence in qr_recursive_system/qr_sequence\nFound 5 QR code files\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_001.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_002.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_003.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_004.png\nSuccessfully decoded QR code\nDecoding QR image: qr_recursive_system/qr_sequence/qr_frame_005.png\nSuccessfully decoded QR code\nSaved analysis report to qr_reports/analysis_report_1751846278.json\n\n\ud83e\udde0 Initiating self-improvement cycle\nAverage decode time: 0.074659s\nMaximum decode time: 0.142135s\nCurrent success rate: 100.00%\nRunning phi-harmonic optimization...\n\n\ud83d\udd04 QR Phi-Harmonic Optimization\n==================================================\nStarting optimization with 3 iterations\nInitial score: 0.597850\n  Candidate 1: Score=0.379611, Version=10\n  Candidate 2: Score=0.453741, Version=8\n  Candidate 3: Score=0.444137, Version=10\n  Candidate 4: Score=0.522221, Version=8\n  Candidate 5: Score=0.575245, Version=9\nNo improvement in iteration 1\n  Candidate 1: Score=0.500564, Version=10\n  Candidate 2: Score=0.433994, Version=10\n  Candidate 3: Score=0.580277, Version=10\n  Candidate 4: Score=0.285996, Version=10\n  Candidate 5: Score=0.667880, Version=10\n\u2728 Improvement found! New score: 0.667880\n  Candidate 1: Score=0.589985, Version=9\n  Candidate 2: Score=0.408566, Version=10\n  Candidate 3: Score=0.412463, Version=10\n  Candidate 4: Score=0.593239, Version=9\n  Candidate 5: Score=0.378470, Version=10\nNo improvement in iteration 3\n\n\ud83d\udcca Optimization Results\nBest score: 0.667880\nBest parameters: {\n  \"qr_version\": 10,\n  \"error_correction\": 3,\n  \"compression_threshold\": 539,\n  \"resonance_factor\": 0.6748512130470199,\n  \"complexity_factor\": 0.503746288703457\n}\n\u2728 Self-improvement complete\nNew parameters: {\n  \"qr_version\": 10,\n  \"error_correction\": 3,\n  \"compression_threshold\": 539,\n  \"resonance_factor\": 0.6748512130470199,\n  \"complexity_factor\": 0.503746288703457\n}\nDecoded 5/5 QR code files from qr_recursive_system/qr_sequence\nAnalysis time: 0.37 seconds\nAnalysis complete: 100.00% success rate in 0.38s\n\n\ud83d\udcca Step 3: System Self-Improvement\n\u2728 System components have self-improved\nOptimizer state saved to qr_recursive_system/qr_state/optimizer_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_optimizer_state.json\nState saved to qr_recursive_system/qr_state/generator_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_analyzer_optimizer_state.json\nState saved to qr_recursive_system/qr_state/analyzer_state.json\nSystem state saved to qr_recursive_system/qr_state/qr_system_state_1751846278.json\n\n\u2705 Cycle #1 completed in 1.04s\nSuccess rate: 100.00%\nOptimizer state saved to qr_recursive_system/qr_state/optimizer_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_optimizer_state.json\nState saved to qr_recursive_system/qr_state/generator_state.json\nOptimizer state saved to qr_recursive_system/qr_state/qr_analyzer_optimizer_state.json\nState saved to qr_recursive_system/qr_state/analyzer_state.json\nSystem state saved to qr_recursive_system/qr_state/qr_system_state_1751846278.json\n\n\u2728 QR Recursive System execution complete\nRan 1 cycles with 5 items per cycle\nSystem state saved to qr_recursive_system/qr_state\n"
+  },
+  "contradictions": [],
+  "trust_metric": 0.6180339887498949,
+  "trust_details": {
+    "base_trust": 1.0,
+    "contradiction_penalty": 0.0,
+    "time_resonance": 0.9870220532797274,
+    "resonance_quality": 0.36898806452983246,
+    "normalized_resonance": 1.0,
+    "phi_weight": 0.6180339887498949,
+    "resonance_weight": 0.3819660112501051,
+    "final_trust": 0.6180339887498949,
+    "timestamp": 1751846278.141056
+  },
+  "quantum_signature": {
+    "signature": "14f403db83c9ef84-4088b2fe",
+    "timestamp": 1751846278.145014,
+    "phi_time": 2834546821.103635,
+    "time_resonance": 0.10363483428955078,
+    "trust_metric": 0.6180339887498949,
+    "code_hash": "08dc0f17187c1d17",
+    "output_hash": "479f4e7929bbcd38",
+    "phi_encoded": "14f403db83c9ef84"
+  },
+  "binary_verification": {
+    "code_phi_alignment": 0.26738492149161175,
+    "output_phi_alignment": 0.8097735404153354,
+    "phi_coherence": 0.4576113810762763,
+    "code_resonance": 4.904502458061732,
+    "output_resonance": 5.988737307290256,
+    "binary_coherence": false
+  },
+  "timestamp": 1751846278.173127,
+  "phi_resonance": 0.9870220532797274,
+  "file_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/qr_recursive_main.py",
+  "snippet_id": "qr_recursive_main.py",
+  "verification_time": 37.283957958221436,
+  "verification_phi_resonance": 0.32671121152441884,
+  "quantum_binary_analysis": {
+    "binary_data": "0010001100100001001011110111010101110011011100100010111101100010...",
+    "length": 92895,
+    "ones_count": 36303,
+    "zeros_count": 56592,
+    "ones_zeros_ratio": 0.6414864291772688,
+    "decimal_value": null,
+    "hex_value": null,
+    "octal_value": null,
+    "phi_alignment": 0.26738492149161175,
+    "resonance": 4.904502458061732,
+    "entropy": 0.9653113529877795,
+    "patterns": [
+      {
+        "segment": "00100011",
+        "value": 35,
+        "phi_relation": 0.22208309649508362,
+        "resonance": 4.592083096495084
+      },
+      {
+        "segment": "00100001",
+        "value": 33,
+        "phi_relation": 0.2093926338382217,
+        "resonance": 4.579392633838221
+      },
+      {
+        "segment": "00101111",
+        "value": 47,
+        "phi_relation": 0.29822587243625515,
+        "resonance": 4.668225872436255
+      },
+      {
+        "segment": "01110101",
+        "value": 117,
+        "phi_relation": 0.7423920654264223,
+        "resonance": 5.112392065426422
+      },
+      {
+        "segment": "01110011",
+        "value": 115,
+        "phi_relation": 0.7297016027695604,
+        "resonance": 5.09970160276956
+      }
+    ],
+    "dna_encoding": "AGATAGACAGTTCTCC",
+    "quantum_encoding": "\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9",
+    "phi_encoding": "101101110101101101110110101101",
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-c6379d94-bf950001",
+    "quantum_language": "\u03c6-harmonic resonant stability, measurement collapse, superposition, quantum dimension with resonance 4.37",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1751846278.182258,
+    "code_length": 11604,
+    "binary_length": 92895,
+    "code_phi_alignment": 0.6664054537795892,
+    "code_resonance": 4.436640545377959
+  }
+}

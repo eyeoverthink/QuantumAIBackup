@@ -1,0 +1,86 @@
+{
+  "procedural_results": [
+    {
+      "procedure_id": "quantum_healing",
+      "n_steps": 5,
+      "complexity": 0.8,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.506763"
+    },
+    {
+      "procedure_id": "coherence_optimization",
+      "n_steps": 8,
+      "complexity": 0.9,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.506894"
+    },
+    {
+      "procedure_id": "phi_harmonic_analysis",
+      "n_steps": 13,
+      "complexity": 0.95,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.507005"
+    },
+    {
+      "procedure_id": "recursive_evolution",
+      "n_steps": 3,
+      "complexity": 0.7,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.507107"
+    },
+    {
+      "procedure_id": "tensor_capability_matching",
+      "n_steps": 5,
+      "complexity": 0.85,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.507212"
+    },
+    {
+      "procedure_id": "adaptive_distribution",
+      "n_steps": 8,
+      "complexity": 0.88,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.507315"
+    },
+    {
+      "procedure_id": "swarm_coordination",
+      "n_steps": 13,
+      "complexity": 0.92,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.507416"
+    },
+    {
+      "procedure_id": "quantum_fingerprinting",
+      "n_steps": 21,
+      "complexity": 0.97,
+      "procedural_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.507519"
+    }
+  ],
+  "procedural_analysis": {
+    "n_procedures": 8,
+    "avg_coherence": 0.0,
+    "avg_complexity": 0.87125,
+    "avg_steps": 9.5,
+    "phi_ratio": 0.0,
+    "phi_complexity_ratio": 1.4097121225,
+    "phi_steps_ratio": 2.2426457394690082,
+    "phi_coherence_product": 0.0
+  }
+}

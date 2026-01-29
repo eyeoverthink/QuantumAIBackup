@@ -1,0 +1,88 @@
+[
+  {
+    "generation": 0,
+    "timestamp": 1714503600,
+    "coherence": 0.991800,
+    "fingerprint": "φ⁷·⁵-a1b2c3d4e5f6g7h8",
+    "healing_method": "initialization",
+    "error_type": "none",
+    "phi_coherence": 0.991800,
+    "quantum_fingerprint": "φ⁷·⁵-a1b2c3d4e5f6g7h8"
+  },
+  {
+    "generation": 1,
+    "timestamp": 1714503660,
+    "coherence": 0.991823,
+    "fingerprint": "φ⁷·⁵-b2c3d4e5f6g7h8i9",
+    "healing_method": "unclosed_parenthesis",
+    "error_type": "syntax",
+    "phi_coherence": 0.991823,
+    "quantum_fingerprint": "φ⁷·⁵-b2c3d4e5f6g7h8i9",
+    "healed_file": "quantum_demo_seed_syntax_1.py"
+  },
+  {
+    "generation": 2,
+    "timestamp": 1714503720,
+    "coherence": 0.991812,
+    "fingerprint": "φ⁷·⁵-c3d4e5f6g7h8i9j0",
+    "healing_method": "indentation_fix",
+    "error_type": "syntax",
+    "phi_coherence": 0.991812,
+    "quantum_fingerprint": "φ⁷·⁵-c3d4e5f6g7h8i9j0",
+    "healed_file": "quantum_demo_seed_syntax_2.py"
+  },
+  {
+    "generation": 3,
+    "timestamp": 1714503780,
+    "coherence": 0.991835,
+    "fingerprint": "φ⁷·⁵-d4e5f6g7h8i9j0k1",
+    "healing_method": "missing_colon",
+    "error_type": "syntax",
+    "phi_coherence": 0.991835,
+    "quantum_fingerprint": "φ⁷·⁵-d4e5f6g7h8i9j0k1",
+    "healed_file": "quantum_demo_seed_syntax_3.py"
+  },
+  {
+    "generation": 4,
+    "timestamp": 1714503840,
+    "coherence": 0.991789,
+    "fingerprint": "φ⁷·⁵-e5f6g7h8i9j0k1l2",
+    "healing_method": "self_reproduction",
+    "error_type": "none",
+    "phi_coherence": 0.991789,
+    "quantum_fingerprint": "φ⁷·⁵-e5f6g7h8i9j0k1l2"
+  },
+  {
+    "generation": 5,
+    "timestamp": 1714503900,
+    "coherence": 0.991815,
+    "fingerprint": "φ⁷·⁵-f6g7h8i9j0k1l2m3",
+    "healing_method": "division_by_zero",
+    "error_type": "logic",
+    "phi_coherence": 0.991815,
+    "quantum_fingerprint": "φ⁷·⁵-f6g7h8i9j0k1l2m3",
+    "healed_file": "quantum_demo_seed_logic_1.py"
+  },
+  {
+    "generation": 6,
+    "timestamp": 1714503960,
+    "coherence": 0.991807,
+    "fingerprint": "φ⁷·⁵-g7h8i9j0k1l2m3n4",
+    "healing_method": "calculation_fix",
+    "error_type": "logic",
+    "phi_coherence": 0.991807,
+    "quantum_fingerprint": "φ⁷·⁵-g7h8i9j0k1l2m3n4",
+    "healed_file": "quantum_demo_seed_logic_2.py"
+  },
+  {
+    "generation": 7,
+    "timestamp": 1714504020,
+    "coherence": 0.991798,
+    "fingerprint": "φ⁷·⁵-h8i9j0k1l2m3n4o5",
+    "healing_method": "off_by_one",
+    "error_type": "logic",
+    "phi_coherence": 0.991798,
+    "quantum_fingerprint": "φ⁷·⁵-h8i9j0k1l2m3n4o5",
+    "healed_file": "quantum_demo_seed_logic_3.py"
+  }
+]

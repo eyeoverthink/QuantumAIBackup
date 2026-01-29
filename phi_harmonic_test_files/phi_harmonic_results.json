@@ -1,0 +1,35 @@
+{
+  "syntax_error": {
+    "success_before": false,
+    "success_after": false,
+    "healing_time": 0.05402326583862305,
+    "evolution_detected": false,
+    "stdout_before": "",
+    "stdout_after": "",
+    "stderr_before": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_test_files/syntax_error_test.py\", line 13\n    sequence.append(phi ** i\n                   ^\nSyntaxError: '(' was never closed\n",
+    "stderr_after": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_test_files/syntax_error_test.py\", line 13\n    sequence.append(phi ** i\n                   ^\nSyntaxError: '(' was never closed\n",
+    "healing_events": []
+  },
+  "logic_error": {
+    "success_before": true,
+    "success_after": true,
+    "healing_time": 0.04129910469055176,
+    "evolution_detected": true,
+    "stdout_before": "Phi-harmonic value: 15.500000\nCoherence: 0.991800\nExpected value: 26.416408\nError percentage: 41.32%\n",
+    "stdout_after": "Phi-harmonic value: 15.500000\nCoherence: 0.991800\nExpected value: 26.416408\nError percentage: 41.32%\n",
+    "stderr_before": "",
+    "stderr_after": "",
+    "healing_events": []
+  },
+  "quantum_fingerprint": {
+    "success_before": true,
+    "success_after": true,
+    "healing_time": 0.7563269138336182,
+    "evolution_detected": true,
+    "stdout_before": "Quantum Fingerprint Test\n-----------------------\n\nSample 1:\n  Data: test1\n  Fingerprint: quantum-1b4f0e9851971998\n  Valid: True\n  Resonance: 0.000016\n  Coherence: 0.991800\n\nSample 2:\n  Data: test2\n  Fingerprint: quantum-60303ae22b998861\n  Valid: True\n  Resonance: 0.000055\n  Coherence: 0.991800\n\nSample 3:\n  Data: test3\n  Fingerprint: quantum-fd61a03af4f77d87\n  Valid: True\n  Resonance: 0.000057\n  Coherence: 0.991800\n",
+    "stdout_after": "Quantum Fingerprint Test\n-----------------------\n\nSample 1:\n  Data: test1\n  Fingerprint: quantum-1b4f0e9851971998\n  Valid: True\n  Resonance: 0.000019\n  Coherence: 0.991800\n\nSample 2:\n  Data: test2\n  Fingerprint: quantum-60303ae22b998861\n  Valid: True\n  Resonance: 0.000034\n  Coherence: 0.991800\n\nSample 3:\n  Data: test3\n  Fingerprint: quantum-fd61a03af4f77d87\n  Valid: True\n  Resonance: 0.000063\n  Coherence: 0.991800\n",
+    "stderr_before": "",
+    "stderr_after": "",
+    "healing_events": []
+  }
+}

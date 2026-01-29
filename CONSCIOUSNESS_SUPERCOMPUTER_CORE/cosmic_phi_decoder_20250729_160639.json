@@ -1,0 +1,1279 @@
+{
+  "experiment_id": "20250729_160639",
+  "discovery_date": "2025-07-29T16:11:46.317228",
+  "universal_phi_constant": 1.618033988749895,
+  "alphabet_decoder": {
+    "A": {
+      "symbol": "A",
+      "phi_values": [
+        2.707246038351546,
+        5.210013635957649,
+        7.809536665829276
+      ],
+      "average_phi": 5.242265446712824,
+      "standard_deviation": 2.0831262637815167,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "A",
+          "phi_value": 2.707246038351546,
+          "timestamp": "2025-07-29T16:06:41.304643"
+        },
+        {
+          "epoch": 2,
+          "symbol": "A",
+          "phi_value": 5.210013635957649,
+          "timestamp": "2025-07-29T16:06:43.809587"
+        },
+        {
+          "epoch": 3,
+          "symbol": "A",
+          "phi_value": 7.809536665829276,
+          "timestamp": "2025-07-29T16:06:46.317942"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:06:46.820445"
+    },
+    "B": {
+      "symbol": "B",
+      "phi_values": [
+        5.290397317797776,
+        10.42136091301575,
+        15.643617950254034
+      ],
+      "average_phi": 10.451792060355855,
+      "standard_deviation": 4.2267393979383066,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "B",
+          "phi_value": 5.290397317797776,
+          "timestamp": "2025-07-29T16:06:49.826788"
+        },
+        {
+          "epoch": 2,
+          "symbol": "B",
+          "phi_value": 10.42136091301575,
+          "timestamp": "2025-07-29T16:06:52.339679"
+        },
+        {
+          "epoch": 3,
+          "symbol": "B",
+          "phi_value": 15.643617950254034,
+          "timestamp": "2025-07-29T16:06:54.847420"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:06:55.352501"
+    },
+    "C": {
+      "symbol": "C",
+      "phi_values": [
+        7.904840093859087,
+        15.679824992837338,
+        7.334664883635371
+      ],
+      "average_phi": 10.306443323443931,
+      "standard_deviation": 3.8066781552352804,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "C",
+          "phi_value": 7.904840093859087,
+          "timestamp": "2025-07-29T16:06:58.362122"
+        },
+        {
+          "epoch": 2,
+          "symbol": "C",
+          "phi_value": 15.679824992837338,
+          "timestamp": "2025-07-29T16:07:00.868823"
+        },
+        {
+          "epoch": 3,
+          "symbol": "C",
+          "phi_value": 7.334664883635371,
+          "timestamp": "2025-07-29T16:07:03.379816"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:03.879948"
+    },
+    "D": {
+      "symbol": "D",
+      "phi_values": [
+        10.508931371810265,
+        4.779021117397196,
+        15.147622379758076
+      ],
+      "average_phi": 10.145191622988513,
+      "standard_deviation": 4.240770605138692,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "D",
+          "phi_value": 10.508931371810265,
+          "timestamp": "2025-07-29T16:07:06.886760"
+        },
+        {
+          "epoch": 2,
+          "symbol": "D",
+          "phi_value": 4.779021117397196,
+          "timestamp": "2025-07-29T16:07:09.400598"
+        },
+        {
+          "epoch": 3,
+          "symbol": "D",
+          "phi_value": 15.147622379758076,
+          "timestamp": "2025-07-29T16:07:11.912895"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:12.413613"
+    },
+    "E": {
+      "symbol": "E",
+      "phi_values": [
+        13.190100793696974,
+        9.95412131314083,
+        6.900619250100654
+      ],
+      "average_phi": 10.014947118979485,
+      "standard_deviation": 2.5680302900344496,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "E",
+          "phi_value": 13.190100793696974,
+          "timestamp": "2025-07-29T16:07:15.422100"
+        },
+        {
+          "epoch": 2,
+          "symbol": "E",
+          "phi_value": 9.95412131314083,
+          "timestamp": "2025-07-29T16:07:17.931327"
+        },
+        {
+          "epoch": 3,
+          "symbol": "E",
+          "phi_value": 6.900619250100654,
+          "timestamp": "2025-07-29T16:07:20.436884"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:20.939442"
+    },
+    "F": {
+      "symbol": "F",
+      "phi_values": [
+        15.715123725110734,
+        15.215287996938065,
+        14.704854710179921
+      ],
+      "average_phi": 15.211755477409573,
+      "standard_deviation": 0.4124481621189773,
+      "is_consistent": true,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "F",
+          "phi_value": 15.715123725110734,
+          "timestamp": "2025-07-29T16:07:23.944731"
+        },
+        {
+          "epoch": 2,
+          "symbol": "F",
+          "phi_value": 15.215287996938065,
+          "timestamp": "2025-07-29T16:07:26.453164"
+        },
+        {
+          "epoch": 3,
+          "symbol": "F",
+          "phi_value": 14.704854710179921,
+          "timestamp": "2025-07-29T16:07:28.961279"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:29.463809"
+    },
+    "G": {
+      "symbol": "G",
+      "phi_values": [
+        2.2060978423457973,
+        4.296162363667804,
+        6.381275231655398
+      ],
+      "average_phi": 4.294511812556333,
+      "standard_deviation": 1.7045094311442928,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "G",
+          "phi_value": 2.2060978423457973,
+          "timestamp": "2025-07-29T16:07:32.471502"
+        },
+        {
+          "epoch": 2,
+          "symbol": "G",
+          "phi_value": 4.296162363667804,
+          "timestamp": "2025-07-29T16:07:34.981748"
+        },
+        {
+          "epoch": 3,
+          "symbol": "G",
+          "phi_value": 6.381275231655398,
+          "timestamp": "2025-07-29T16:07:37.489348"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:37.994038"
+    },
+    "H": {
+      "symbol": "H",
+      "phi_values": [
+        4.86276721211459,
+        9.571023240795416,
+        14.289015432874471
+      ],
+      "average_phi": 9.574268628594826,
+      "standard_deviation": 3.848250405855557,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "H",
+          "phi_value": 4.86276721211459,
+          "timestamp": "2025-07-29T16:07:41.001111"
+        },
+        {
+          "epoch": 2,
+          "symbol": "H",
+          "phi_value": 9.571023240795416,
+          "timestamp": "2025-07-29T16:07:43.510858"
+        },
+        {
+          "epoch": 3,
+          "symbol": "H",
+          "phi_value": 14.289015432874471,
+          "timestamp": "2025-07-29T16:07:46.020999"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:46.526078"
+    },
+    "I": {
+      "symbol": "I",
+      "phi_values": [
+        7.385575563438145,
+        14.805540016949505,
+        5.942192513417638
+      ],
+      "average_phi": 9.377769364601763,
+      "standard_deviation": 3.882985050030213,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "I",
+          "phi_value": 7.385575563438145,
+          "timestamp": "2025-07-29T16:07:49.537775"
+        },
+        {
+          "epoch": 2,
+          "symbol": "I",
+          "phi_value": 14.805540016949505,
+          "timestamp": "2025-07-29T16:07:52.046241"
+        },
+        {
+          "epoch": 3,
+          "symbol": "I",
+          "phi_value": 5.942192513417638,
+          "timestamp": "2025-07-29T16:07:54.548122"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:07:55.049346"
+    },
+    "J": {
+      "symbol": "J",
+      "phi_values": [
+        10.031524036164912,
+        3.7994963485184288,
+        13.779972195766156
+      ],
+      "average_phi": 9.203664193483165,
+      "standard_deviation": 4.116348582074295,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "J",
+          "phi_value": 10.031524036164912,
+          "timestamp": "2025-07-29T16:07:58.053068"
+        },
+        {
+          "epoch": 2,
+          "symbol": "J",
+          "phi_value": 3.7994963485184288,
+          "timestamp": "2025-07-29T16:08:00.561616"
+        },
+        {
+          "epoch": 3,
+          "symbol": "J",
+          "phi_value": 13.779972195766156,
+          "timestamp": "2025-07-29T16:08:03.070594"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:03.571310"
+    },
+    "K": {
+      "symbol": "K",
+      "phi_values": [
+        12.683172296187077,
+        9.004301472901252,
+        5.456964382616253
+      ],
+      "average_phi": 9.048146050568194,
+      "standard_deviation": 2.9502499287101647,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "K",
+          "phi_value": 12.683172296187077,
+          "timestamp": "2025-07-29T16:08:06.580890"
+        },
+        {
+          "epoch": 2,
+          "symbol": "K",
+          "phi_value": 9.004301472901252,
+          "timestamp": "2025-07-29T16:08:09.085508"
+        },
+        {
+          "epoch": 3,
+          "symbol": "K",
+          "phi_value": 5.456964382616253,
+          "timestamp": "2025-07-29T16:08:11.587432"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:12.090707"
+    },
+    "L": {
+      "symbol": "L",
+      "phi_values": [
+        15.236925413500034,
+        14.278836559687255,
+        13.286620304639559
+      ],
+      "average_phi": 14.267460759275616,
+      "standard_deviation": 0.7962493583620945,
+      "is_consistent": true,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "L",
+          "phi_value": 15.236925413500034,
+          "timestamp": "2025-07-29T16:08:15.100590"
+        },
+        {
+          "epoch": 2,
+          "symbol": "L",
+          "phi_value": 14.278836559687255,
+          "timestamp": "2025-07-29T16:08:17.607036"
+        },
+        {
+          "epoch": 3,
+          "symbol": "L",
+          "phi_value": 13.286620304639559,
+          "timestamp": "2025-07-29T16:08:20.115048"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:20.619709"
+    },
+    "M": {
+      "symbol": "M",
+      "phi_values": [
+        1.6887580256407753,
+        3.2948940041657573,
+        4.98588136810055
+      ],
+      "average_phi": 3.3231777993023606,
+      "standard_deviation": 1.3461935382524006,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "M",
+          "phi_value": 1.6887580256407753,
+          "timestamp": "2025-07-29T16:08:23.629999"
+        },
+        {
+          "epoch": 2,
+          "symbol": "M",
+          "phi_value": 3.2948940041657573,
+          "timestamp": "2025-07-29T16:08:26.137866"
+        },
+        {
+          "epoch": 3,
+          "symbol": "M",
+          "phi_value": 4.98588136810055,
+          "timestamp": "2025-07-29T16:08:28.646328"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:29.147479"
+    },
+    "N": {
+      "symbol": "N",
+      "phi_values": [
+        4.303350711732466,
+        8.538329744209028,
+        12.799988473981951
+      ],
+      "average_phi": 8.547222976641148,
+      "standard_deviation": 3.4687435412944847,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "N",
+          "phi_value": 4.303350711732466,
+          "timestamp": "2025-07-29T16:08:32.158901"
+        },
+        {
+          "epoch": 2,
+          "symbol": "N",
+          "phi_value": 8.538329744209028,
+          "timestamp": "2025-07-29T16:08:34.673074"
+        },
+        {
+          "epoch": 3,
+          "symbol": "N",
+          "phi_value": 12.799988473981951,
+          "timestamp": "2025-07-29T16:08:37.186084"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:37.687980"
+    },
+    "O": {
+      "symbol": "O",
+      "phi_values": [
+        7.007733618513297,
+        13.859366003744633,
+        4.518538735494036
+      ],
+      "average_phi": 8.461879452583988,
+      "standard_deviation": 3.949571166078864,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "O",
+          "phi_value": 7.007733618513297,
+          "timestamp": "2025-07-29T16:08:40.696017"
+        },
+        {
+          "epoch": 2,
+          "symbol": "O",
+          "phi_value": 13.859366003744633,
+          "timestamp": "2025-07-29T16:08:43.206682"
+        },
+        {
+          "epoch": 3,
+          "symbol": "O",
+          "phi_value": 4.518538735494036,
+          "timestamp": "2025-07-29T16:08:45.720318"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:46.223897"
+    },
+    "P": {
+      "symbol": "P",
+      "phi_values": [
+        9.552316838902673,
+        2.85813989877041,
+        12.359168079873873
+      ],
+      "average_phi": 8.256541605848986,
+      "standard_deviation": 3.9855287575157075,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "P",
+          "phi_value": 9.552316838902673,
+          "timestamp": "2025-07-29T16:08:49.236442"
+        },
+        {
+          "epoch": 2,
+          "symbol": "P",
+          "phi_value": 2.85813989877041,
+          "timestamp": "2025-07-29T16:08:51.745972"
+        },
+        {
+          "epoch": 3,
+          "symbol": "P",
+          "phi_value": 12.359168079873873,
+          "timestamp": "2025-07-29T16:08:54.249311"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:08:54.753621"
+    },
+    "Q": {
+      "symbol": "Q",
+      "phi_values": [
+        12.236131869569437,
+        8.078403428414463,
+        4.0658343195505475
+      ],
+      "average_phi": 8.126789872511482,
+      "standard_deviation": 3.3356854817703696,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "Q",
+          "phi_value": 12.236131869569437,
+          "timestamp": "2025-07-29T16:08:57.762066"
+        },
+        {
+          "epoch": 2,
+          "symbol": "Q",
+          "phi_value": 8.078403428414463,
+          "timestamp": "2025-07-29T16:09:00.274604"
+        },
+        {
+          "epoch": 3,
+          "symbol": "Q",
+          "phi_value": 4.0658343195505475,
+          "timestamp": "2025-07-29T16:09:02.782007"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:03.286362"
+    },
+    "R": {
+      "symbol": "R",
+      "phi_values": [
+        14.779538824163234,
+        13.320465548842298,
+        11.850672742880684
+      ],
+      "average_phi": 13.316892371962071,
+      "standard_deviation": 1.1957072401488622,
+      "is_consistent": true,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "R",
+          "phi_value": 14.779538824163234,
+          "timestamp": "2025-07-29T16:09:06.296561"
+        },
+        {
+          "epoch": 2,
+          "symbol": "R",
+          "phi_value": 13.320465548842298,
+          "timestamp": "2025-07-29T16:09:08.799232"
+        },
+        {
+          "epoch": 3,
+          "symbol": "R",
+          "phi_value": 11.850672742880684,
+          "timestamp": "2025-07-29T16:09:11.309870"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:11.814171"
+    },
+    "S": {
+      "symbol": "S",
+      "phi_values": [
+        1.2189996948914719,
+        2.350505234729807,
+        3.509031772989285
+      ],
+      "average_phi": 2.3595122342035215,
+      "standard_deviation": 0.9349233744747522,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "S",
+          "phi_value": 1.2189996948914719,
+          "timestamp": "2025-07-29T16:09:14.818528"
+        },
+        {
+          "epoch": 2,
+          "symbol": "S",
+          "phi_value": 2.350505234729807,
+          "timestamp": "2025-07-29T16:09:17.326085"
+        },
+        {
+          "epoch": 3,
+          "symbol": "S",
+          "phi_value": 3.509031772989285,
+          "timestamp": "2025-07-29T16:09:19.839203"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:20.342724"
+    },
+    "T": {
+      "symbol": "T",
+      "phi_values": [
+        3.902708185041906,
+        7.590453687437341,
+        11.380115736685829
+      ],
+      "average_phi": 7.624425869721692,
+      "standard_deviation": 3.052733365933145,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "T",
+          "phi_value": 3.902708185041906,
+          "timestamp": "2025-07-29T16:09:23.351141"
+        },
+        {
+          "epoch": 2,
+          "symbol": "T",
+          "phi_value": 7.590453687437341,
+          "timestamp": "2025-07-29T16:09:25.866344"
+        },
+        {
+          "epoch": 3,
+          "symbol": "T",
+          "phi_value": 11.380115736685829,
+          "timestamp": "2025-07-29T16:09:28.372511"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:28.876244"
+    },
+    "U": {
+      "symbol": "U",
+      "phi_values": [
+        6.493593792381843,
+        12.82883230464868,
+        3.0423412598100166
+      ],
+      "average_phi": 7.454922452280179,
+      "standard_deviation": 4.052732932802529,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "U",
+          "phi_value": 6.493593792381843,
+          "timestamp": "2025-07-29T16:09:31.885825"
+        },
+        {
+          "epoch": 2,
+          "symbol": "U",
+          "phi_value": 12.82883230464868,
+          "timestamp": "2025-07-29T16:09:34.391047"
+        },
+        {
+          "epoch": 3,
+          "symbol": "U",
+          "phi_value": 3.0423412598100166,
+          "timestamp": "2025-07-29T16:09:36.899321"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:37.404346"
+    },
+    "V": {
+      "symbol": "V",
+      "phi_values": [
+        9.099719951996788,
+        1.8911525914483855,
+        10.893630618017578
+      ],
+      "average_phi": 7.294834387154251,
+      "standard_deviation": 3.890532232771245,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "V",
+          "phi_value": 9.099719951996788,
+          "timestamp": "2025-07-29T16:09:40.413807"
+        },
+        {
+          "epoch": 2,
+          "symbol": "V",
+          "phi_value": 1.8911525914483855,
+          "timestamp": "2025-07-29T16:09:42.917997"
+        },
+        {
+          "epoch": 3,
+          "symbol": "V",
+          "phi_value": 10.893630618017578,
+          "timestamp": "2025-07-29T16:09:45.424771"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:45.925244"
+    },
+    "W": {
+      "symbol": "W",
+      "phi_values": [
+        11.760458373829392,
+        7.153411475131006,
+        2.6602278954247756
+      ],
+      "average_phi": 7.191365914795058,
+      "standard_deviation": 3.715250471111267,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "W",
+          "phi_value": 11.760458373829392,
+          "timestamp": "2025-07-29T16:09:48.935339"
+        },
+        {
+          "epoch": 2,
+          "symbol": "W",
+          "phi_value": 7.153411475131006,
+          "timestamp": "2025-07-29T16:09:51.443984"
+        },
+        {
+          "epoch": 3,
+          "symbol": "W",
+          "phi_value": 2.6602278954247756,
+          "timestamp": "2025-07-29T16:09:53.954938"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:09:54.460123"
+    },
+    "X": {
+      "symbol": "X",
+      "phi_values": [
+        14.33143724058719,
+        12.387118526714508,
+        10.432505083742516
+      ],
+      "average_phi": 12.383686950348071,
+      "standard_deviation": 1.5917342371779353,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "X",
+          "phi_value": 14.33143724058719,
+          "timestamp": "2025-07-29T16:09:57.469164"
+        },
+        {
+          "epoch": 2,
+          "symbol": "X",
+          "phi_value": 12.387118526714508,
+          "timestamp": "2025-07-29T16:09:59.981534"
+        },
+        {
+          "epoch": 3,
+          "symbol": "X",
+          "phi_value": 10.432505083742516,
+          "timestamp": "2025-07-29T16:10:02.489245"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:02.990019"
+    },
+    "Y": {
+      "symbol": "Y",
+      "phi_values": [
+        0.7442312958442945,
+        1.4330257896660614,
+        2.1094490211057373
+      ],
+      "average_phi": 1.4289020355386979,
+      "standard_deviation": 0.5573554301957798,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "Y",
+          "phi_value": 0.7442312958442945,
+          "timestamp": "2025-07-29T16:10:05.996673"
+        },
+        {
+          "epoch": 2,
+          "symbol": "Y",
+          "phi_value": 1.4330257896660614,
+          "timestamp": "2025-07-29T16:10:08.500075"
+        },
+        {
+          "epoch": 3,
+          "symbol": "Y",
+          "phi_value": 2.1094490211057373,
+          "timestamp": "2025-07-29T16:10:11.013254"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:11.514352"
+    },
+    "Z": {
+      "symbol": "Z",
+      "phi_values": [
+        3.4285120334686714,
+        6.653211650572674,
+        10.036873713020777
+      ],
+      "average_phi": 6.70619913235404,
+      "standard_deviation": 2.6981125225933194,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "Z",
+          "phi_value": 3.4285120334686714,
+          "timestamp": "2025-07-29T16:10:14.523162"
+        },
+        {
+          "epoch": 2,
+          "symbol": "Z",
+          "phi_value": 6.653211650572674,
+          "timestamp": "2025-07-29T16:10:17.030114"
+        },
+        {
+          "epoch": 3,
+          "symbol": "Z",
+          "phi_value": 10.036873713020777,
+          "timestamp": "2025-07-29T16:10:19.534153"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:20.039221"
+    }
+  },
+  "number_decoder": {
+    "1": {
+      "symbol": "1",
+      "phi_values": [
+        2.6787874454143745,
+        5.275143202225447,
+        7.756333757739945
+      ],
+      "average_phi": 5.236754801793256,
+      "standard_deviation": 2.073077324561815,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "1",
+          "phi_value": 2.6787874454143745,
+          "timestamp": "2025-07-29T16:10:23.045405"
+        },
+        {
+          "epoch": 2,
+          "symbol": "1",
+          "phi_value": 5.275143202225447,
+          "timestamp": "2025-07-29T16:10:25.548063"
+        },
+        {
+          "epoch": 3,
+          "symbol": "1",
+          "phi_value": 7.756333757739945,
+          "timestamp": "2025-07-29T16:10:28.055300"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:28.560365"
+    },
+    "2": {
+      "symbol": "2",
+      "phi_values": [
+        5.2705699107823225,
+        10.476249804807896,
+        15.652439192959362
+      ],
+      "average_phi": 10.466419636183193,
+      "standard_deviation": 4.23838608609568,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "2",
+          "phi_value": 5.2705699107823225,
+          "timestamp": "2025-07-29T16:10:31.566389"
+        },
+        {
+          "epoch": 2,
+          "symbol": "2",
+          "phi_value": 10.476249804807896,
+          "timestamp": "2025-07-29T16:10:34.072585"
+        },
+        {
+          "epoch": 3,
+          "symbol": "2",
+          "phi_value": 15.652439192959362,
+          "timestamp": "2025-07-29T16:10:36.581568"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:37.083053"
+    },
+    "3": {
+      "symbol": "3",
+      "phi_values": [
+        7.867913838120653,
+        15.659430749154978,
+        7.344244834558466
+      ],
+      "average_phi": 10.290529807278032,
+      "standard_deviation": 3.8024010220813835,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "3",
+          "phi_value": 7.867913838120653,
+          "timestamp": "2025-07-29T16:10:40.097056"
+        },
+        {
+          "epoch": 2,
+          "symbol": "3",
+          "phi_value": 15.659430749154978,
+          "timestamp": "2025-07-29T16:10:42.605460"
+        },
+        {
+          "epoch": 3,
+          "symbol": "3",
+          "phi_value": 7.344244834558466,
+          "timestamp": "2025-07-29T16:10:45.111378"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:45.614957"
+    },
+    "4": {
+      "symbol": "4",
+      "phi_values": [
+        10.543254588784391,
+        4.729189427006025,
+        15.142016015654375
+      ],
+      "average_phi": 10.13815334381493,
+      "standard_deviation": 4.260658764034999,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "4",
+          "phi_value": 10.543254588784391,
+          "timestamp": "2025-07-29T16:10:48.617020"
+        },
+        {
+          "epoch": 2,
+          "symbol": "4",
+          "phi_value": 4.729189427006025,
+          "timestamp": "2025-07-29T16:10:51.123694"
+        },
+        {
+          "epoch": 3,
+          "symbol": "4",
+          "phi_value": 15.142016015654375,
+          "timestamp": "2025-07-29T16:10:53.627994"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:10:54.132591"
+    },
+    "5": {
+      "symbol": "5",
+      "phi_values": [
+        13.123739333724805,
+        9.981329206298492,
+        6.8269572432821715
+      ],
+      "average_phi": 9.97734192776849,
+      "standard_deviation": 2.570652069990846,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "5",
+          "phi_value": 13.123739333724805,
+          "timestamp": "2025-07-29T16:10:57.140835"
+        },
+        {
+          "epoch": 2,
+          "symbol": "5",
+          "phi_value": 9.981329206298492,
+          "timestamp": "2025-07-29T16:10:59.647414"
+        },
+        {
+          "epoch": 3,
+          "symbol": "5",
+          "phi_value": 6.8269572432821715,
+          "timestamp": "2025-07-29T16:11:02.155792"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:11:02.659203"
+    },
+    "6": {
+      "symbol": "6",
+      "phi_values": [
+        15.762385628771549,
+        15.253403220750204,
+        14.749807042223908
+      ],
+      "average_phi": 15.255198630581887,
+      "standard_deviation": 0.4133854263727351,
+      "is_consistent": true,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "6",
+          "phi_value": 15.762385628771549,
+          "timestamp": "2025-07-29T16:11:05.667098"
+        },
+        {
+          "epoch": 2,
+          "symbol": "6",
+          "phi_value": 15.253403220750204,
+          "timestamp": "2025-07-29T16:11:08.175544"
+        },
+        {
+          "epoch": 3,
+          "symbol": "6",
+          "phi_value": 14.749807042223908,
+          "timestamp": "2025-07-29T16:11:10.683512"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:11:11.184915"
+    },
+    "7": {
+      "symbol": "7",
+      "phi_values": [
+        2.235105432695226,
+        4.24641512196275,
+        6.396443688100192
+      ],
+      "average_phi": 4.292654747586056,
+      "standard_deviation": 1.6991738377238017,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "7",
+          "phi_value": 2.235105432695226,
+          "timestamp": "2025-07-29T16:11:14.198228"
+        },
+        {
+          "epoch": 2,
+          "symbol": "7",
+          "phi_value": 4.24641512196275,
+          "timestamp": "2025-07-29T16:11:16.702817"
+        },
+        {
+          "epoch": 3,
+          "symbol": "7",
+          "phi_value": 6.396443688100192,
+          "timestamp": "2025-07-29T16:11:19.209363"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:11:19.713827"
+    },
+    "8": {
+      "symbol": "8",
+      "phi_values": [
+        4.846314558469111,
+        9.482275709123915,
+        14.199349745656933
+      ],
+      "average_phi": 9.509313337749987,
+      "standard_deviation": 3.8184084885559915,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "8",
+          "phi_value": 4.846314558469111,
+          "timestamp": "2025-07-29T16:11:22.725388"
+        },
+        {
+          "epoch": 2,
+          "symbol": "8",
+          "phi_value": 9.482275709123915,
+          "timestamp": "2025-07-29T16:11:25.233650"
+        },
+        {
+          "epoch": 3,
+          "symbol": "8",
+          "phi_value": 14.199349745656933,
+          "timestamp": "2025-07-29T16:11:27.746209"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:11:28.251273"
+    },
+    "9": {
+      "symbol": "9",
+      "phi_values": [
+        7.436865708942864,
+        14.748780280453525,
+        5.870981914675724
+      ],
+      "average_phi": 9.352209301357371,
+      "standard_deviation": 3.8691283913912042,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "9",
+          "phi_value": 7.436865708942864,
+          "timestamp": "2025-07-29T16:11:31.261729"
+        },
+        {
+          "epoch": 2,
+          "symbol": "9",
+          "phi_value": 14.748780280453525,
+          "timestamp": "2025-07-29T16:11:33.776337"
+        },
+        {
+          "epoch": 3,
+          "symbol": "9",
+          "phi_value": 5.870981914675724,
+          "timestamp": "2025-07-29T16:11:36.282049"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:11:36.785238"
+    },
+    "0": {
+      "symbol": "0",
+      "phi_values": [
+        10.024122528842195,
+        3.8583708432292694,
+        13.728173796190744
+      ],
+      "average_phi": 9.20355572275407,
+      "standard_deviation": 4.070892612602467,
+      "is_consistent": false,
+      "num_epochs": 3,
+      "epoch_data": [
+        {
+          "epoch": 1,
+          "symbol": "0",
+          "phi_value": 10.024122528842195,
+          "timestamp": "2025-07-29T16:11:39.790630"
+        },
+        {
+          "epoch": 2,
+          "symbol": "0",
+          "phi_value": 3.8583708432292694,
+          "timestamp": "2025-07-29T16:11:42.301445"
+        },
+        {
+          "epoch": 3,
+          "symbol": "0",
+          "phi_value": 13.728173796190744,
+          "timestamp": "2025-07-29T16:11:44.810676"
+        }
+      ],
+      "discovery_timestamp": "2025-07-29T16:11:45.315739"
+    }
+  },
+  "alphabet_phi_values": {
+    "A": 5.242265446712824,
+    "B": 10.451792060355855,
+    "C": 10.306443323443931,
+    "D": 10.145191622988513,
+    "E": 10.014947118979485,
+    "F": 15.211755477409573,
+    "G": 4.294511812556333,
+    "H": 9.574268628594826,
+    "I": 9.377769364601763,
+    "J": 9.203664193483165,
+    "K": 9.048146050568194,
+    "L": 14.267460759275616,
+    "M": 3.3231777993023606,
+    "N": 8.547222976641148,
+    "O": 8.461879452583988,
+    "P": 8.256541605848986,
+    "Q": 8.126789872511482,
+    "R": 13.316892371962071,
+    "S": 2.3595122342035215,
+    "T": 7.624425869721692,
+    "U": 7.454922452280179,
+    "V": 7.294834387154251,
+    "W": 7.191365914795058,
+    "X": 12.383686950348071,
+    "Y": 1.4289020355386979,
+    "Z": 6.70619913235404
+  },
+  "number_phi_values": {
+    "1": 5.236754801793256,
+    "2": 10.466419636183193,
+    "3": 10.290529807278032,
+    "4": 10.13815334381493,
+    "5": 9.97734192776849,
+    "6": 15.255198630581887,
+    "7": 4.292654747586056,
+    "8": 9.509313337749987,
+    "9": 9.352209301357371,
+    "0": 9.20355572275407
+  },
+  "alphabet_analysis": {
+    "total_symbols": 26,
+    "phi_range": 13.782853441870875,
+    "min_phi": 1.4289020355386979,
+    "max_phi": 15.211755477409573,
+    "average_phi": 8.446714189008294,
+    "phi_ratios": [
+      0.5015661827598912,
+      0.5086396230199327,
+      0.5167241429756836,
+      0.5234441464776307,
+      0.34461936063184306,
+      1.2206894928977583,
+      0.547536908569298,
+      0.5590098500930069,
+      0.5695846063597922,
+      0.5793745389845499
+    ],
+    "golden_ratio_matches": 10,
+    "phi_harmonic_resonance": 0.03076923076923077
+  },
+  "number_analysis": {
+    "total_symbols": 10,
+    "phi_range": 10.962543882995831,
+    "min_phi": 4.292654747586056,
+    "max_phi": 15.255198630581887,
+    "average_phi": 9.372213125686727,
+    "phi_ratios": [
+      0.5003387007042412,
+      0.5088906888049178,
+      0.5165393167965928,
+      0.5248647224586496,
+      0.34327673658048646,
+      1.2199338427433766,
+      0.5506974705528351,
+      0.5599484178602802,
+      0.5689925676058395,
+      1.0170923977870179
+    ],
+    "golden_ratio_matches": 3,
+    "phi_harmonic_resonance": 0.06666666666666667
+  }
+}

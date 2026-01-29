@@ -1,0 +1,30 @@
+{
+    "symbol": "MSFT",
+    "analysis_date": "20250405_002729",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.166307605071312,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 113.82407279891949,
+            "0.236": 86.96159161837448,
+            "0.382": 70.34327698973225,
+            "0.500": 56.912036399459744,
+            "0.618": 43.48079580918724,
+            "0.786": 24.358351578968765,
+            "1.000": 0.0,
+            "1.618": 184.1673497886517,
+            "2.618": 297.99142258757126
+        },
+        "quantum_prediction": 115.12100086555076,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/MSFT_analysis_20250405_002729.png"
+}

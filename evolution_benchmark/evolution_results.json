@@ -1,0 +1,636 @@
+{
+  "quantum": {
+    "1": {
+      "gen_1": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.1175222396850586,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.11519789695739746,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.11290812492370605,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    },
+    "2": {
+      "gen_2": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.08333325386047363,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.08103203773498535,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.07547402381896973,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    },
+    "3": {
+      "gen_3": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.08598184585571289,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.5628070831298828,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.1207270622253418,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    },
+    "4": {
+      "gen_4": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.09726381301879883,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.10733413696289062,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.11372184753417969,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    },
+    "5": {
+      "gen_5": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.07054615020751953,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.0700979232788086,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.07427000999450684,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    },
+    "6": {
+      "gen_6": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.07179403305053711,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.07109785079956055,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.07147598266601562,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    },
+    "7": {
+      "gen_7": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "cycle": 1,
+            "success": true,
+            "duration": 0.06902694702148438,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 2,
+            "success": true,
+            "duration": 0.06842899322509766,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "cycle": 3,
+            "success": true,
+            "duration": 0.07817292213439941,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0
+      }
+    }
+  },
+  "conventional": {
+    "1": {
+      "gen_1": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.06450414657592773,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.048476219177246094,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.04084300994873047,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    },
+    "2": {
+      "gen_2": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.03999638557434082,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.04313182830810547,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.041873931884765625,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    },
+    "3": {
+      "gen_3": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.04806327819824219,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.07504391670227051,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.05608105659484863,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    },
+    "4": {
+      "gen_4": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.04890894889831543,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.04760003089904785,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.04230976104736328,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    },
+    "5": {
+      "gen_5": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.03696894645690918,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.0351712703704834,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.03545498847961426,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    },
+    "6": {
+      "gen_6": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.035646915435791016,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.03656911849975586,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.03574419021606445,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    },
+    "7": {
+      "gen_7": {
+        "success_rate": 100.0,
+        "cycles": [
+          {
+            "success": true,
+            "duration": 0.04237818717956543,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 1,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.04038810729980469,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 2,
+            "self_healing": false,
+            "self_coding": false
+          },
+          {
+            "success": true,
+            "duration": 0.04011797904968262,
+            "coherence": 0.9,
+            "resonance": 1.8,
+            "phi_harmonic": 0.368692,
+            "cycle": 3,
+            "self_healing": false,
+            "self_coding": false
+          }
+        ],
+        "avg_coherence": 0.9,
+        "avg_resonance": 1.8,
+        "avg_phi_harmonic": 0.368692,
+        "self_healing_rate": 0.0,
+        "self_coding_rate": 0.0,
+        "stats": {
+          "fixes_applied": 0,
+          "fixes_successful": 0,
+          "success_rate": 0.0,
+          "evolution_capability": 0.0
+        }
+      }
+    }
+  }
+}

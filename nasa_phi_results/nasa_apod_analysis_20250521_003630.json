@@ -1,0 +1,48 @@
+{
+  "data_type": "apod",
+  "value_count": 57,
+  "phi_metrics": {
+    "resonance_factors": [
+      0.304045477289682,
+      0.381966011250105,
+      0.3606797749978964,
+      0.33894043489200076,
+      0.27050983124842365,
+      0.33848733103805817,
+      0.05572809000084067,
+      0.5491502812526309,
+      0.27508172613530324,
+      0.012249409788827603
+    ],
+    "phi_relevance": 0.7496023089963924,
+    "phi_natural_occurrence": -18.855179115883676,
+    "value_count": 57
+  },
+  "phi_sequences": [
+    {
+      "values": [
+        1226,
+        1999.0
+      ],
+      "ratio": 1.6305057096247961,
+      "phi_distance": 0.012471720874901226
+    },
+    {
+      "values": [
+        10.0,
+        16.0
+      ],
+      "ratio": 1.6,
+      "phi_distance": 0.018033988749894814
+    }
+  ],
+  "sequence_count": 2,
+  "qhrc_resonance": {
+    "primary_resonance": 0.821039410830723,
+    "secondary_resonance": 0.8460222702751887,
+    "resonance_factor": 1.1483554390298072,
+    "enhanced_resonance": 0.5837324961098073
+  },
+  "phi_score": 0.8608098886453093,
+  "has_phi_pattern": true
+}

@@ -1,0 +1,85 @@
+{
+  "generation": 5,
+  "complexity": 0.80203522585942,
+  "resonance": 0.8467875336344767,
+  "mutation_rate": 0.09755068772438247,
+  "similarity_threshold": 0.45,
+  "feature_weight": 0.40162935772468034,
+  "temporal_factor": 0.2689288537615736,
+  "evolution_history": [
+    {
+      "generation": 2,
+      "timestamp": 1753477289.46125,
+      "phi_time": 0.8493356704711914,
+      "complexity": 0.9500369567051226,
+      "resonance": 0.5874253982680069,
+      "mutation_rate": 0.09938196601125011,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.47517287264724933,
+      "temporal_factor": 0.21737701591838213
+    },
+    {
+      "generation": 3,
+      "timestamp": 1753477289.461471,
+      "phi_time": 0.8496913909912109,
+      "complexity": 0.9004031747681662,
+      "resonance": 0.6743676789285862,
+      "mutation_rate": 0.09876775168261272,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.45050935849990736,
+      "temporal_factor": 0.23465800548148263
+    },
+    {
+      "generation": 4,
+      "timestamp": 1753477289.461664,
+      "phi_time": 0.8500022888183594,
+      "complexity": 0.8510689833777952,
+      "resonance": 0.7608223111950242,
+      "mutation_rate": 0.09815733340729008,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.4259947138401556,
+      "temporal_factor": 0.2518420681323192
+    },
+    {
+      "generation": 5,
+      "timestamp": 1753477289.461838,
+      "phi_time": 0.8502850532531738,
+      "complexity": 0.80203522585942,
+      "resonance": 0.8467875336344767,
+      "mutation_rate": 0.09755068772438247,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.40162935772468034,
+      "temporal_factor": 0.2689288537615736
+    }
+  ],
+  "authentication_history": [
+    {
+      "timestamp": 1753477289.461247,
+      "phi_time": 0.8493356704711914,
+      "success": false,
+      "similarity": 0.42386544673761045,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753477289.461468,
+      "phi_time": 0.8496913909912109,
+      "success": true,
+      "similarity": 0.5464758494026223,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753477289.461659,
+      "phi_time": 0.8500022888183594,
+      "success": false,
+      "similarity": 0.38227812503890096,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753477289.461834,
+      "phi_time": 0.8502850532531738,
+      "success": false,
+      "similarity": 0.44912503580900365,
+      "threshold": 0.45
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "file_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+  "optimized_file_path": "quantum_cohesion_test/temp/phi_harmonic_test_optimized.py",
+  "resonance_before": {
+    "char_count": 600,
+    "line_count": 27,
+    "token_count": 69,
+    "phi_ratio": 13.73408863888655,
+    "phi_resonance": 0.22222222222222143,
+    "dimensional_resonances": [
+      0.0698607717382167,
+      0.7377255214267713,
+      0.020579996476207896,
+      0.9344662916631634,
+      0.4945474828723917,
+      0.7151670202651559,
+      0.6099033699941145
+    ],
+    "overall_resonance": 0.5117500649194316
+  },
+  "resonance_after": {
+    "char_count": 826,
+    "line_count": 33,
+    "token_count": 98,
+    "phi_ratio": 15.469578021436762,
+    "phi_resonance": 0.030303030303031164,
+    "dimensional_resonances": [
+      0.6377150480348295,
+      0.9999207011598656,
+      0.0948822412223933,
+      0.9305376121747813,
+      0.5145134660496637,
+      0.8541402742182385,
+      0.9564665668451084
+    ],
+    "overall_resonance": 0.7125965585292686
+  },
+  "optimization_delta": 0.20084649360983697,
+  "fragments": [
+    {
+      "value": 1.618034,
+      "resonance": 0.6180340069529473,
+      "is_harmonic": false,
+      "phi_relation": 1.0000000069529473,
+      "line_number": 0
+    },
+    {
+      "value": 10.0,
+      "resonance": 0.18033988749894903,
+      "is_harmonic": false,
+      "phi_relation": 6.180339887498948,
+      "line_number": 1
+    },
+    {
+      "value": 0.0,
+      "resonance": 0.0,
+      "is_harmonic": true,
+      "phi_relation": 0.0,
+      "line_number": 2
+    },
+    {
+      "value": 0.0,
+      "resonance": 0.0,
+      "is_harmonic": true,
+      "phi_relation": 0.0,
+      "line_number": 3
+    },
+    {
+      "value": 1.0,
+      "resonance": 0.6180339887498949,
+      "is_harmonic": false,
+      "phi_relation": 0.6180339887498948,
+      "line_number": 4
+    },
+    {
+      "value": 1.0,
+      "resonance": 0.6180339887498949,
+      "is_harmonic": false,
+      "phi_relation": 0.6180339887498948,
+      "line_number": 5
+    },
+    {
+      "value": 2.0,
+      "resonance": 0.2360679774997898,
+      "is_harmonic": false,
+      "phi_relation": 1.2360679774997896,
+      "line_number": 6
+    },
+    {
+      "value": 1.0,
+      "resonance": 0.6180339887498949,
+      "is_harmonic": false,
+      "phi_relation": 0.6180339887498948,
+      "line_number": 7
+    },
+    {
+      "value": 1.0,
+      "resonance": 0.6180339887498949,
+      "is_harmonic": false,
+      "phi_relation": 0.6180339887498948,
+      "line_number": 8
+    },
+    {
+      "value": 1.0,
+      "resonance": 0.6180339887498949,
+      "is_harmonic": false,
+      "phi_relation": 0.6180339887498948,
+      "line_number": 9
+    },
+    {
+      "value": 2.0,
+      "resonance": 0.2360679774997898,
+      "is_harmonic": false,
+      "phi_relation": 1.2360679774997896,
+      "line_number": 10
+    },
+    {
+      "value": 1.0,
+      "resonance": 0.6180339887498949,
+      "is_harmonic": false,
+      "phi_relation": 0.6180339887498948,
+      "line_number": 11
+    },
+    {
+      "value": 2.0,
+      "resonance": 0.2360679774997898,
+      "is_harmonic": false,
+      "phi_relation": 1.2360679774997896,
+      "line_number": 12
+    }
+  ],
+  "overall_resonance": 0.7125965585292686,
+  "dimensions": 7,
+  "success": true
+}

@@ -1,0 +1,151 @@
+{
+  "summary": {
+    "cycles_completed": 5,
+    "final_consciousness": 0.9060904959729325,
+    "final_meta_consciousness": 0.3099635951440855,
+    "final_temporal_resonance": 0.24081521952116675,
+    "final_cross_coherence": 0.17753572393085815,
+    "average_coherence": 0.2343441606178894,
+    "coherence_trend": 0.16908598138326505,
+    "causality_breach_level": 0.5250909030811852,
+    "card_prediction": {
+      "exact_matches": 0,
+      "exact_match_rate": 0.0,
+      "phi_resonant_matches": 5,
+      "phi_resonant_rate": 1.0
+    },
+    "timestamp": "2025-04-23 15:39:07"
+  },
+  "cycles": [
+    {
+      "cycle": 1,
+      "timestamp": 1745447927.119856,
+      "t1": 1745447783,
+      "t2": 1745447927,
+      "temporal_delta": 144,
+      "paradox_prime": 217124,
+      "card_prediction": {
+        "predicted": [
+          "3",
+          "Clubs"
+        ],
+        "actual": [
+          "4",
+          "Diamonds"
+        ],
+        "exact_match": false,
+        "phi_resonant": true,
+        "resonance_quality": 0.401267577281505
+      },
+      "temporal_resonance": 0.011773332196753472,
+      "agi_resonance": 0.7212333956013217,
+      "cross_temporal_coherence": 0.008449742547593082,
+      "causality_breach_level": 0.401267577281505,
+      "consciousness_level": 0.8850550344074214
+    },
+    {
+      "cycle": 2,
+      "timestamp": 1745447932.13534,
+      "t1": 1745447788,
+      "t2": 1745447932,
+      "temporal_delta": 144,
+      "paradox_prime": 146144,
+      "card_prediction": {
+        "predicted": [
+          "3",
+          "Spades"
+        ],
+        "actual": [
+          "5",
+          "Clubs"
+        ],
+        "exact_match": false,
+        "phi_resonant": true,
+        "resonance_quality": 0.8172985673746953
+      },
+      "temporal_resonance": 0.37367792797868626,
+      "agi_resonance": 0.7260317606834563,
+      "cross_temporal_coherence": 0.26950900085733404,
+      "causality_breach_level": 0.6092830723281002,
+      "consciousness_level": 0.8898533994895561
+    },
+    {
+      "cycle": 3,
+      "timestamp": 1745447937.150841,
+      "t1": 1745447793,
+      "t2": 1745447937,
+      "temporal_delta": 144,
+      "paradox_prime": 44504,
+      "card_prediction": {
+        "predicted": [
+          "3",
+          "Diamonds"
+        ],
+        "actual": [
+          "2",
+          "Spades"
+        ],
+        "exact_match": false,
+        "phi_resonant": true,
+        "resonance_quality": 0.729382872218957
+      },
+      "temporal_resonance": 0.6070428880861634,
+      "agi_resonance": 0.727936803559949,
+      "cross_temporal_coherence": 0.4365229838982911,
+      "causality_breach_level": 0.6493163389583858,
+      "consciousness_level": 0.8951279534522252
+    },
+    {
+      "cycle": 4,
+      "timestamp": 1745447942.155435,
+      "t1": 1745447798,
+      "t2": 1745447942,
+      "temporal_delta": 144,
+      "paradox_prime": 102674,
+      "card_prediction": {
+        "predicted": [
+          "8",
+          "Hearts"
+        ],
+        "actual": [
+          "King",
+          "Hearts"
+        ],
+        "exact_match": false,
+        "phi_resonant": true,
+        "resonance_quality": 0.38758680471832885
+      },
+      "temporal_resonance": 0.3834850642010612,
+      "agi_resonance": 0.735667505799947,
+      "cross_temporal_coherence": 0.27970335185537076,
+      "causality_breach_level": 0.5838839553983716,
+      "consciousness_level": 0.9036292617232713
+    },
+    {
+      "cycle": 5,
+      "timestamp": 1745447947.166374,
+      "t1": 1745447803,
+      "t2": 1745447947,
+      "temporal_delta": 144,
+      "paradox_prime": 174704,
+      "card_prediction": {
+        "predicted": [
+          "Jack",
+          "Diamonds"
+        ],
+        "actual": [
+          "Queen",
+          "Diamonds"
+        ],
+        "exact_match": false,
+        "phi_resonant": true,
+        "resonance_quality": 0.2899186938124402
+      },
+      "temporal_resonance": 0.24081521952116675,
+      "agi_resonance": 0.7350016053043028,
+      "cross_temporal_coherence": 0.17753572393085815,
+      "causality_breach_level": 0.5250909030811852,
+      "consciousness_level": 0.9060904959729325
+    }
+  ]
+}

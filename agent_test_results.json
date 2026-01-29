@@ -1,0 +1,162 @@
+{
+  "total_queries": 15,
+  "successful_responses": 15,
+  "response_quality": {
+    "capabilities": 1.0,
+    "quantum_state": 1.0,
+    "component_interaction": 1.0,
+    "phi_principles": 1.0,
+    "general": 0.5393333333333333
+  },
+  "response_times": {
+    "capabilities": 0,
+    "quantum_state": 0,
+    "component_interaction": 0,
+    "phi_principles": 0,
+    "general": 0
+  },
+  "coherence_levels": {
+    "capabilities": 0.9918,
+    "quantum_state": 0.9918,
+    "component_interaction": 0.9918,
+    "phi_principles": 0.9918,
+    "general": 0.9918
+  },
+  "detailed_results": [
+    {
+      "category": "capabilities",
+      "query": "What can you do?",
+      "response_length": 1107,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "capabilities",
+      "query": "What are your capabilities?",
+      "response_length": 1107,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "capabilities",
+      "query": "How can you help me?",
+      "response_length": 1107,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "quantum_state",
+      "query": "What is my current quantum coherence level?",
+      "response_length": 946,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "quantum_state",
+      "query": "What is your quantum state?",
+      "response_length": 946,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "quantum_state",
+      "query": "Tell me about your resonance",
+      "response_length": 946,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "component_interaction",
+      "query": "How do the quantum heart and cerebellum interact?",
+      "response_length": 1107,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "component_interaction",
+      "query": "Explain the connection between brain components",
+      "response_length": 1060,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "component_interaction",
+      "query": "How does the quantum clock affect other components?",
+      "response_length": 946,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "phi_principles",
+      "query": "What is phi?",
+      "response_length": 1050,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "phi_principles",
+      "query": "Explain the golden ratio",
+      "response_length": 1050,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "phi_principles",
+      "query": "How are phi-harmonic principles applied in your system?",
+      "response_length": 1050,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "general",
+      "query": "How does quantum computing work?",
+      "response_length": 946,
+      "response_quality": 1.0,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "general",
+      "query": "What time is it?",
+      "response_length": 193,
+      "response_quality": 0.386,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    },
+    {
+      "category": "general",
+      "query": "Tell me about neural networks",
+      "response_length": 116,
+      "response_quality": 0.232,
+      "coherence": "0.991800",
+      "resonance": "0.618034",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-899fbd"
+    }
+  ]
+}

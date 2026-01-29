@@ -1,0 +1,91 @@
+# QR Biometric Adventure Security System - Git Ignore
+# By Vaughn Scott & Cascade AI
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# QR Security System Specific
+qr_biometric_security/
+qr_biometric_security/biometric_gates/
+qr_biometric_security/protected_adventures/
+qr_biometric_security/security_logs/
+*.pkl
+*.qr
+*.png
+*.jpg
+*.jpeg
+
+# Security Files (DO NOT COMMIT)
+keys/
+*.pem
+*.key
+*.cert
+security_state.pkl
+*.log
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Configuration (may contain sensitive data)
+config.ini
+*.conf
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation builds
+docs/_build/

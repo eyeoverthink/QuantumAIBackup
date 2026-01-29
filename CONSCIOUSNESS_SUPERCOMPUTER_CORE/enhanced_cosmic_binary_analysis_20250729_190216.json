@@ -1,0 +1,438 @@
+{
+  "analysis_timestamp": "2025-07-29T19:02:16.235734",
+  "total_phi_signatures": 40,
+  "binary_extraction_methods": {
+    "phi_harmonic": {
+      "ascii_text": "[1]\u0000[128]H!",
+      "numbers": [
+        1,
+        0,
+        128,
+        72,
+        33
+      ],
+      "hex_string": "0100804821",
+      "pattern_matches": {},
+      "structure_analysis": {
+        "json_like": true,
+        "xml_like": false,
+        "code_like": false,
+        "structured_data": true,
+        "patterns_found": [
+          "array_brackets"
+        ]
+      },
+      "meaningful_segments": [
+        {
+          "index": 0,
+          "text": "128",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "phi_harmonic"
+        },
+        {
+          "index": 1,
+          "text": "128",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "phi_harmonic"
+        }
+      ]
+    },
+    "quantum_corrected": {
+      "ascii_text": "[254][248]",
+      "numbers": [
+        254
+      ],
+      "hex_string": "FEF8",
+      "pattern_matches": {},
+      "structure_analysis": {
+        "json_like": true,
+        "xml_like": false,
+        "code_like": false,
+        "structured_data": true,
+        "patterns_found": [
+          "array_brackets"
+        ]
+      },
+      "meaningful_segments": [
+        {
+          "index": 0,
+          "text": "254",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "quantum_corrected"
+        },
+        {
+          "index": 1,
+          "text": "248",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "quantum_corrected"
+        },
+        {
+          "index": 2,
+          "text": "254",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "quantum_corrected"
+        },
+        {
+          "index": 3,
+          "text": "248",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "quantum_corrected"
+        }
+      ]
+    },
+    "consciousness_resonance": {
+      "ascii_text": "[254][255][127][255][222]",
+      "numbers": [
+        254,
+        255,
+        127,
+        255,
+        222
+      ],
+      "hex_string": "FEFF7FFFDE",
+      "pattern_matches": {},
+      "structure_analysis": {
+        "json_like": true,
+        "xml_like": false,
+        "code_like": false,
+        "structured_data": true,
+        "patterns_found": [
+          "array_brackets"
+        ]
+      },
+      "meaningful_segments": [
+        {
+          "index": 0,
+          "text": "254",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 1,
+          "text": "255",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 2,
+          "text": "127",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 3,
+          "text": "255",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 4,
+          "text": "222",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 5,
+          "text": "254",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 6,
+          "text": "255",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 7,
+          "text": "127",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 8,
+          "text": "255",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "consciousness_resonance"
+        },
+        {
+          "index": 9,
+          "text": "222",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "consciousness_resonance"
+        }
+      ]
+    },
+    "fibonacci_sequence": {
+      "ascii_text": "[231][223][252]I[179]",
+      "numbers": [
+        231,
+        223,
+        252,
+        73,
+        179
+      ],
+      "hex_string": "E7DFFC49B3",
+      "pattern_matches": {},
+      "structure_analysis": {
+        "json_like": true,
+        "xml_like": false,
+        "code_like": false,
+        "structured_data": true,
+        "patterns_found": [
+          "array_brackets"
+        ]
+      },
+      "meaningful_segments": [
+        {
+          "index": 0,
+          "text": "231",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 1,
+          "text": "223",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 2,
+          "text": "252",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 3,
+          "text": "179",
+          "length": 3,
+          "type": "printable_text",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 4,
+          "text": "231",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 5,
+          "text": "223",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 6,
+          "text": "252",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "fibonacci_sequence"
+        },
+        {
+          "index": 7,
+          "text": "179",
+          "length": 3,
+          "type": "number_sequence",
+          "extraction_method": "fibonacci_sequence"
+        }
+      ]
+    }
+  },
+  "combined_analysis": {
+    "consensus_patterns": {},
+    "all_meaningful_segments": [
+      {
+        "index": 0,
+        "text": "128",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "phi_harmonic"
+      },
+      {
+        "index": 1,
+        "text": "128",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "phi_harmonic"
+      },
+      {
+        "index": 0,
+        "text": "254",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "quantum_corrected"
+      },
+      {
+        "index": 1,
+        "text": "248",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "quantum_corrected"
+      },
+      {
+        "index": 2,
+        "text": "254",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "quantum_corrected"
+      },
+      {
+        "index": 3,
+        "text": "248",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "quantum_corrected"
+      },
+      {
+        "index": 0,
+        "text": "254",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 1,
+        "text": "255",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 2,
+        "text": "127",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 3,
+        "text": "255",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 4,
+        "text": "222",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 5,
+        "text": "254",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 6,
+        "text": "255",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 7,
+        "text": "127",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 8,
+        "text": "255",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 9,
+        "text": "222",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "consciousness_resonance"
+      },
+      {
+        "index": 0,
+        "text": "231",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 1,
+        "text": "223",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 2,
+        "text": "252",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 3,
+        "text": "179",
+        "length": 3,
+        "type": "printable_text",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 4,
+        "text": "231",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 5,
+        "text": "223",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 6,
+        "text": "252",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "fibonacci_sequence"
+      },
+      {
+        "index": 7,
+        "text": "179",
+        "length": 3,
+        "type": "number_sequence",
+        "extraction_method": "fibonacci_sequence"
+      }
+    ],
+    "methods_with_patterns": 0,
+    "total_meaningful_segments": 24
+  },
+  "decoding_success": true
+}

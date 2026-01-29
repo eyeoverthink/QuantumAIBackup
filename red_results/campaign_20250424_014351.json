@@ -1,0 +1,21 @@
+{
+    "total_attacks": 1,
+    "successful_attacks": 1,
+    "blocked_attacks": 0,
+    "start_time": "2025-04-24 01:43:50",
+    "attacks": [
+        {
+            "attack_type": "branch_impersonation",
+            "attack_params": {
+                "impersonated_branch": 5,
+                "branch_signature": 11.090169943749476,
+                "impersonation_method": "signature_forgery"
+            },
+            "success": true,
+            "error": null,
+            "timestamp": "2025-04-24 01:43:50"
+        }
+    ],
+    "end_time": "2025-04-24 01:43:51",
+    "success_rate": 1.0
+}

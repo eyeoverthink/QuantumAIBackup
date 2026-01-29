@@ -1,0 +1,30 @@
+{
+    "symbol": "GOOGL",
+    "analysis_date": "20250405_002729",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.41216463359388106,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 104.61367877599513,
+            "0.236": 79.92485058486028,
+            "0.382": 64.65125348356499,
+            "0.500": 52.30683938799756,
+            "0.618": 39.96242529243014,
+            "0.786": 22.387327258062953,
+            "1.000": 0.0,
+            "1.618": 169.2649322595601,
+            "2.618": 273.87861103555525
+        },
+        "quantum_prediction": 106.06030530039058,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/GOOGL_analysis_20250405_002729.png"
+}

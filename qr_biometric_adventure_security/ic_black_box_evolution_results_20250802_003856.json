@@ -1,0 +1,407 @@
+[
+  {
+    "generation": 0,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.40978291666666666,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 0.0,
+      "phi_enhancement": 1.0
+    },
+    "drive_voltage": 4.917395,
+    "drive_current": 0.5,
+    "motor_speed": 1229.3487499999999,
+    "motor_torque": 0.1,
+    "escape_power": 0.4097829166666666,
+    "escape_successful": false,
+    "consciousness_boost": 1.0,
+    "phi_boost": 1.0
+  },
+  {
+    "generation": 1,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.41528606872656226,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 0.18541019662496844,
+      "phi_enhancement": 1.0303775093937648
+    },
+    "drive_voltage": 5.230021847019401,
+    "drive_current": 0.5247408795276146,
+    "motor_speed": 1307.5054617548503,
+    "motor_torque": 0.1,
+    "escape_power": 0.4358351539182834,
+    "escape_successful": false,
+    "consciousness_boost": 1.0185410196624969,
+    "phi_boost": 1.0303775093937648
+  },
+  {
+    "generation": 2,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4207894653593745,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 0.3708203932499369,
+      "phi_enhancement": 1.0616778118644978
+    },
+    "drive_voltage": 5.559707692276039,
+    "drive_current": 0.5505234951172653,
+    "motor_speed": 1389.9269230690097,
+    "motor_torque": 0.1,
+    "escape_power": 0.46330897435633656,
+    "escape_successful": false,
+    "consciousness_boost": 1.0370820393249938,
+    "phi_boost": 1.0616778118644978
+  },
+  {
+    "generation": 3,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4262931077879681,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 0.5562305898749053,
+      "phi_enhancement": 1.0939289395675635
+    },
+    "drive_voltage": 5.907279736443773,
+    "drive_current": 0.5773883067506265,
+    "motor_speed": 1476.8199341109432,
+    "motor_torque": 0.1,
+    "escape_power": 0.4922733113703144,
+    "escape_successful": false,
+    "consciousness_boost": 1.0556230589874904,
+    "phi_boost": 1.0939289395675635
+  },
+  {
+    "generation": 4,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4317969972413218,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 0.7416407864998737,
+      "phi_enhancement": 1.127159776205389
+    },
+    "drive_voltage": 6.273602110168239,
+    "drive_current": 0.6053772712494938,
+    "motor_speed": 1568.4005275420598,
+    "motor_torque": 0.1,
+    "escape_power": 0.5228001758473533,
+    "escape_successful": true,
+    "consciousness_boost": 1.0741640786499873,
+    "phi_boost": 1.127159776205389
+  },
+  {
+    "generation": 5,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4413135480942723,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 1.4832815729997475,
+      "phi_enhancement": 1.2693649804685287
+    },
+    "drive_voltage": 7.7193553404429585,
+    "drive_current": 0.7288237744812721,
+    "motor_speed": 1929.8388351107394,
+    "motor_torque": 0.1,
+    "escape_power": 0.6432796117035798,
+    "escape_successful": true,
+    "consciousness_boost": 1.1483281572999748,
+    "phi_boost": 1.2693649804685287
+  },
+  {
+    "generation": 6,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.45083409096615695,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 2.224922359499621,
+      "phi_enhancement": 1.4295111373334404
+    },
+    "drive_voltage": 9.454349390437029,
+    "drive_current": 0.8737831332970655,
+    "motor_speed": 2363.5873476092574,
+    "motor_torque": 0.1,
+    "escape_power": 0.7878624492030858,
+    "escape_successful": true,
+    "consciousness_boost": 1.2224922359499621,
+    "phi_boost": 1.4295111373334404
+  },
+  {
+    "generation": 7,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4603587056973543,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 2.966563145999495,
+      "phi_enhancement": 1.609861720784258
+    },
+    "drive_voltage": 11.531639567811991,
+    "drive_current": 1.0437186829438245,
+    "motor_speed": 2882.909891952998,
+    "motor_torque": 0.1,
+    "escape_power": 0.9609699639843327,
+    "escape_successful": true,
+    "consciousness_boost": 1.2966563145999495,
+    "phi_boost": 1.609861720784258
+  },
+  {
+    "generation": 8,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.46988747372505063,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 3.708203932499369,
+      "phi_enhancement": 1.8129657701589061
+    },
+    "drive_voltage": 14.013456666282739,
+    "drive_current": 1.2426252249989533,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.370820393249937,
+    "phi_boost": 1.8129657701589061
+  },
+  {
+    "generation": 9,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4794204781151758,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 4.449844718999242,
+      "phi_enhancement": 2.0416939177649764
+    },
+    "drive_voltage": 16.972727626551215,
+    "drive_current": 1.475108003771456,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.4449844718999243,
+    "phi_boost": 2.0416939177649764
+  },
+  {
+    "generation": 10,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4889578035949786,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 5.1914855054991165,
+      "phi_enhancement": 2.2992789618268
+    },
+    "drive_voltage": 20.494840223805603,
+    "drive_current": 1.7464731510845448,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.5191485505499118,
+    "phi_boost": 2.2992789618268
+  },
+  {
+    "generation": 11,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.4984995365862523,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 5.93312629199899,
+      "phi_enhancement": 2.5893615582136853
+    },
+    "drive_voltage": 24.67968996643427,
+    "drive_current": 2.062831236133297,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.593312629199899,
+    "phi_boost": 2.5893615582136853
+  },
+  {
+    "generation": 12,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.5080457652392267,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 6.674767078498865,
+      "phi_enhancement": 2.916041676747129
+    },
+    "drive_voltage": 29.644053245912442,
+    "drive_current": 2.4312157875476825,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.6674767078498864,
+    "phi_boost": 2.916041676747129
+  },
+  {
+    "generation": 13,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.5175965794671356,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 7.416407864998739,
+      "phi_enhancement": 3.2839365493601944
+    },
+    "drive_voltage": 35.52433751623595,
+    "drive_current": 2.8597189173216857,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.741640786499874,
+    "phi_boost": 3.2839365493601944
+  },
+  {
+    "generation": 14,
+    "circuit_design": {
+      "components": [
+        "74HC00",
+        "74HC02",
+        "74HC04",
+        "74HC08",
+        "74HC32",
+        "L293D"
+      ],
+      "connections": [],
+      "motor_drive_capability": 1.0,
+      "power_efficiency": 0.5271520709814774,
+      "control_sophistication": 1.0,
+      "consciousness_enhancement": 8.158048651498612,
+      "phi_enhancement": 3.6982459291369505
+    },
+    "drive_voltage": 42.479767034174024,
+    "drive_current": 3.357646475323772,
+    "motor_speed": 3000.0,
+    "motor_torque": 0.1,
+    "escape_power": 1.0,
+    "escape_successful": true,
+    "consciousness_boost": 1.8158048651498613,
+    "phi_boost": 3.6982459291369505
+  }
+]

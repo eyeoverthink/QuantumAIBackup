@@ -1,0 +1,543 @@
+{
+  "studies_analyzed": 88,
+  "patterns_detected": 88,
+  "pattern_types": {
+    "moderate_phi_harmonic": 9,
+    "weak_phi_harmonic": 79
+  },
+  "mean_phi_significance": 0.1753762341153671,
+  "highest_phi_significance": 0.278864247311828,
+  "most_significant_study_id": 94,
+  "historical_phi_resonance_index": "0.45121183039769424411146902209444372445181445661897",
+  "timestamp": 1745740743.429902,
+  "results": [
+    {
+      "study_id": 94,
+      "phi_relevance": 0.47169293206720275,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.278864247311828
+    },
+    {
+      "study_id": 1,
+      "phi_relevance": 0.4695176832073755,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.24804365850498772
+    },
+    {
+      "study_id": 113,
+      "phi_relevance": 0.4661418073988821,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.23499382944588423
+    },
+    {
+      "study_id": 125,
+      "phi_relevance": 0.4397873949950849,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.22859969558599696
+    },
+    {
+      "study_id": 111,
+      "phi_relevance": 0.49332673596301213,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.21881222872494818
+    },
+    {
+      "study_id": 14,
+      "phi_relevance": 0.44494198762377435,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.21806122930326902
+    },
+    {
+      "study_id": 52,
+      "phi_relevance": 0.45570328127471627,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.21394689698487165
+    },
+    {
+      "study_id": 6,
+      "phi_relevance": 0.4843410537792535,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.2098906157134005
+    },
+    {
+      "study_id": 71,
+      "phi_relevance": 0.4541219726088397,
+      "pattern": "moderate_phi_harmonic",
+      "phi_significance": 0.2023313697491165
+    },
+    {
+      "study_id": 13,
+      "phi_relevance": 0.41988995463729883,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1997190833758596
+    },
+    {
+      "study_id": 17,
+      "phi_relevance": 0.48171502581642156,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.19842204560692925
+    },
+    {
+      "study_id": 87,
+      "phi_relevance": 0.5310057642870616,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.19716230411387656
+    },
+    {
+      "study_id": 129,
+      "phi_relevance": 0.48990737516814153,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1966730258482026
+    },
+    {
+      "study_id": 69,
+      "phi_relevance": 0.46827210931896324,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1965055234090481
+    },
+    {
+      "study_id": 63,
+      "phi_relevance": 0.47564993079157447,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1945768152697509
+    },
+    {
+      "study_id": 79,
+      "phi_relevance": 0.4674791449115925,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.19431228591690722
+    },
+    {
+      "study_id": 120,
+      "phi_relevance": 0.4753362201361824,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.19407810860233854
+    },
+    {
+      "study_id": 136,
+      "phi_relevance": 0.463888810651225,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.19128644139880097
+    },
+    {
+      "study_id": 147,
+      "phi_relevance": 0.5816992880668078,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1876099780283675
+    },
+    {
+      "study_id": 80,
+      "phi_relevance": 0.46981388867679974,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1872990264984884
+    },
+    {
+      "study_id": 95,
+      "phi_relevance": 0.47580598187747003,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18717888266028607
+    },
+    {
+      "study_id": 145,
+      "phi_relevance": 0.4903299725273973,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18685974000028538
+    },
+    {
+      "study_id": 44,
+      "phi_relevance": 0.4783919854663752,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18640471357244234
+    },
+    {
+      "study_id": 70,
+      "phi_relevance": 0.4621591378155774,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18562372168253322
+    },
+    {
+      "study_id": 126,
+      "phi_relevance": 0.44279685359765053,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18540127646313434
+    },
+    {
+      "study_id": 36,
+      "phi_relevance": 0.48977588263036886,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18502289631322555
+    },
+    {
+      "study_id": 15,
+      "phi_relevance": 0.47461742845569166,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.184107740931176
+    },
+    {
+      "study_id": 117,
+      "phi_relevance": 0.45527744395036995,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18367613518556913
+    },
+    {
+      "study_id": 30,
+      "phi_relevance": 0.4872167974084093,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18362388666186136
+    },
+    {
+      "study_id": 92,
+      "phi_relevance": 0.4597349071114536,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1826350024909641
+    },
+    {
+      "study_id": 135,
+      "phi_relevance": 0.4786987168111444,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18183693063504533
+    },
+    {
+      "study_id": 132,
+      "phi_relevance": 0.4864792072830052,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1813649096002037
+    },
+    {
+      "study_id": 93,
+      "phi_relevance": 0.4824147922661134,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.18067943894752483
+    },
+    {
+      "study_id": 61,
+      "phi_relevance": 0.5344468261215948,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17982641830743096
+    },
+    {
+      "study_id": 83,
+      "phi_relevance": 0.4787710371549284,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17903215356004432
+    },
+    {
+      "study_id": 146,
+      "phi_relevance": 0.46547183603092157,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1790045504285103
+    },
+    {
+      "study_id": 7,
+      "phi_relevance": 0.4581696471151989,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17820997813407682
+    },
+    {
+      "study_id": 127,
+      "phi_relevance": 0.47014403940578375,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17683234800880734
+    },
+    {
+      "study_id": 72,
+      "phi_relevance": 0.46655927230401595,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17616871013631494
+    },
+    {
+      "study_id": 85,
+      "phi_relevance": 0.4669003286075841,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17599419885389622
+    },
+    {
+      "study_id": 139,
+      "phi_relevance": 0.3647324679510411,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17470355731225296
+    },
+    {
+      "study_id": 101,
+      "phi_relevance": 0.4565765001004505,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17399332533518758
+    },
+    {
+      "study_id": 121,
+      "phi_relevance": 0.4496020334267603,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17370643012417605
+    },
+    {
+      "study_id": 73,
+      "phi_relevance": 0.4724478040112948,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17364796337418395
+    },
+    {
+      "study_id": 9,
+      "phi_relevance": 0.4625051983638335,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1731499872676343
+    },
+    {
+      "study_id": 48,
+      "phi_relevance": 0.4838871906821045,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17280181399929265
+    },
+    {
+      "study_id": 42,
+      "phi_relevance": 0.49298001915721357,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17203673963167634
+    },
+    {
+      "study_id": 138,
+      "phi_relevance": 0.4438294550107673,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17190180783341558
+    },
+    {
+      "study_id": 22,
+      "phi_relevance": 0.4925981835126556,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17165130390054942
+    },
+    {
+      "study_id": 103,
+      "phi_relevance": 0.4632524374797824,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.17043812116489537
+    },
+    {
+      "study_id": 105,
+      "phi_relevance": 0.4705877658981129,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16993141135528841
+    },
+    {
+      "study_id": 25,
+      "phi_relevance": 0.4686339373632247,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16958882562677408
+    },
+    {
+      "study_id": 47,
+      "phi_relevance": 0.4680456288643473,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1693550654622783
+    },
+    {
+      "study_id": 38,
+      "phi_relevance": 0.471140609461256,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16931686182670916
+    },
+    {
+      "study_id": 21,
+      "phi_relevance": 0.47994399605678606,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.169222060125438
+    },
+    {
+      "study_id": 59,
+      "phi_relevance": 0.4656628186049291,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16904630856937614
+    },
+    {
+      "study_id": 102,
+      "phi_relevance": 0.48086494236114974,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16832217718228804
+    },
+    {
+      "study_id": 90,
+      "phi_relevance": 0.4749749010973575,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16816512350426038
+    },
+    {
+      "study_id": 50,
+      "phi_relevance": 0.48657287743519617,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16716414428600587
+    },
+    {
+      "study_id": 46,
+      "phi_relevance": 0.4549900625743245,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1665541635125839
+    },
+    {
+      "study_id": 41,
+      "phi_relevance": 0.40919205331061703,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1611764705882353
+    },
+    {
+      "study_id": 98,
+      "phi_relevance": 0.4652594843336212,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.16115175278429528
+    },
+    {
+      "study_id": 62,
+      "phi_relevance": 0.4549573061072979,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.161051348055819
+    },
+    {
+      "study_id": 78,
+      "phi_relevance": 0.5079302850559728,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15909458317909586
+    },
+    {
+      "study_id": 109,
+      "phi_relevance": 0.4686357860661112,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15775797708970385
+    },
+    {
+      "study_id": 3,
+      "phi_relevance": 0.43772899709523116,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15657988417536212
+    },
+    {
+      "study_id": 104,
+      "phi_relevance": 0.45779641537120086,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1556450068085823
+    },
+    {
+      "study_id": 119,
+      "phi_relevance": 0.4951702909614265,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15529562550772497
+    },
+    {
+      "study_id": 134,
+      "phi_relevance": 0.4430681553269089,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15518199910168745
+    },
+    {
+      "study_id": 133,
+      "phi_relevance": 0.49068709783701103,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15479907426888279
+    },
+    {
+      "study_id": 37,
+      "phi_relevance": 0.4662337649754519,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15390989848938058
+    },
+    {
+      "study_id": 141,
+      "phi_relevance": 0.47290485075720845,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15288610122776414
+    },
+    {
+      "study_id": 118,
+      "phi_relevance": 0.4519744666661364,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15242966751918158
+    },
+    {
+      "study_id": 43,
+      "phi_relevance": 0.4825275918978511,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1514099721684985
+    },
+    {
+      "study_id": 65,
+      "phi_relevance": 0.4748316303331165,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15116761562984
+    },
+    {
+      "study_id": 137,
+      "phi_relevance": 0.484978448407247,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15064031418587626
+    },
+    {
+      "study_id": 84,
+      "phi_relevance": 0.46184791952846294,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.15060452087811868
+    },
+    {
+      "study_id": 27,
+      "phi_relevance": 0.46521073382084743,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1504225277692678
+    },
+    {
+      "study_id": 34,
+      "phi_relevance": 0.47721174716151293,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.14756846512530508
+    },
+    {
+      "study_id": 114,
+      "phi_relevance": 0.48111103476817074,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.1461111111111111
+    },
+    {
+      "study_id": 99,
+      "phi_relevance": 0.5014627250673728,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.14604601885917928
+    },
+    {
+      "study_id": 96,
+      "phi_relevance": 0.47421526183676,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.14582780643267185
+    },
+    {
+      "study_id": 8,
+      "phi_relevance": 0.47607035530922226,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.14452552107791786
+    },
+    {
+      "study_id": 74,
+      "phi_relevance": 0.5054115569118324,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.14270622750761552
+    },
+    {
+      "study_id": 100,
+      "phi_relevance": 0.44356317108649457,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.13725903136898396
+    },
+    {
+      "study_id": 49,
+      "phi_relevance": 0.45895900966836856,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.13242054605353923
+    },
+    {
+      "study_id": 91,
+      "phi_relevance": 0.4630491894381841,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.13007724846805307
+    },
+    {
+      "study_id": 124,
+      "phi_relevance": 0.47394967183438164,
+      "pattern": "weak_phi_harmonic",
+      "phi_significance": 0.12399305336014198
+    }
+  ]
+}

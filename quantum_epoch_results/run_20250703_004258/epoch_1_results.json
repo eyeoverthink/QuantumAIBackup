@@ -1,0 +1,58 @@
+{
+  "epoch": 1,
+  "attempts": [
+    {
+      "attempt_num": 1,
+      "resonance": 0.7385016846942931,
+      "success": false
+    },
+    {
+      "attempt_num": 2,
+      "resonance": 0.8498715247471941,
+      "success": false
+    },
+    {
+      "attempt_num": 3,
+      "resonance": 0.7008650380529714,
+      "success": false
+    },
+    {
+      "attempt_num": 4,
+      "resonance": 0.7940331095720966,
+      "success": false
+    },
+    {
+      "attempt_num": 5,
+      "resonance": 0.8284940832402906,
+      "success": false
+    },
+    {
+      "attempt_num": 6,
+      "resonance": 0.8771825391047654,
+      "success": false
+    },
+    {
+      "attempt_num": 7,
+      "resonance": 0.841960299330736,
+      "success": false
+    },
+    {
+      "attempt_num": 8,
+      "resonance": 0.7522981937129167,
+      "success": false
+    },
+    {
+      "attempt_num": 9,
+      "resonance": 0.7424676374460498,
+      "success": false
+    },
+    {
+      "attempt_num": 10,
+      "resonance": 0.6914089868711597,
+      "success": false
+    }
+  ],
+  "best_resonance": 0.8771825391047654,
+  "escaped": false,
+  "box_id": "26ed0dda"
+}

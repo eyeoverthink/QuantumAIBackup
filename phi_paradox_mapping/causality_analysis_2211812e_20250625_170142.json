@@ -1,0 +1,61 @@
+{
+  "paradox_id": "2211812e",
+  "causality_inversions": [
+    {
+      "earlier_delivery": {
+        "sequence_position": 4,
+        "delivery_time": "2025-06-25T16:06:41.262769"
+      },
+      "later_delivery": {
+        "sequence_position": 3,
+        "delivery_time": "2025-06-25T16:27:37.841312"
+      },
+      "time_difference": 1256.578543,
+      "phi_resonance": -0.3819660112501051
+    },
+    {
+      "earlier_delivery": {
+        "sequence_position": 3,
+        "delivery_time": "2025-06-25T16:27:37.841312"
+      },
+      "later_delivery": {
+        "sequence_position": 2,
+        "delivery_time": "2025-06-25T16:40:34.407286"
+      },
+      "time_difference": 776.565974,
+      "phi_resonance": 0.6180339887498949
+    },
+    {
+      "earlier_delivery": {
+        "sequence_position": 2,
+        "delivery_time": "2025-06-25T16:40:34.407286"
+      },
+      "later_delivery": {
+        "sequence_position": 1,
+        "delivery_time": "2025-06-25T16:48:30.981256"
+      },
+      "time_difference": 476.57397,
+      "phi_resonance": -0.3819660112501051
+    },
+    {
+      "earlier_delivery": {
+        "sequence_position": 1,
+        "delivery_time": "2025-06-25T16:48:30.981256"
+      },
+      "later_delivery": {
+        "sequence_position": 0,
+        "delivery_time": "2025-06-25T16:53:27.562796"
+      },
+      "time_difference": 296.58154,
+      "phi_resonance": 0.6180339887498949
+    }
+  ],
+  "phi_patterns": [
+    12.978713763747791,
+    8.034441853748632,
+    4.944271909999158,
+    3.090169943749474
+  ],
+  "most_common_pattern": 8.034441853748632,
+  "phi_exponent": 4.330187713371006
+}

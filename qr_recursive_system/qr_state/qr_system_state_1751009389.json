@@ -1,0 +1,167 @@
+{
+  "id": "f1a63113-cd06-41c3-8e8b-4d1c6e294ce5",
+  "creation_time": 1751009374.588536,
+  "phi_time": 0.7039480209350586,
+  "cycle_count": 9,
+  "last_improvement_time": 1751009389.134874,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751009375.463038,
+      "phi_time": 0.11892175674438477,
+      "cycle_time": 0.8743219375610352,
+      "generation": {
+        "count": 5,
+        "time": 0.5864202976226807
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.28664708137512207
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 2,
+      "timestamp": 1751009377.313389,
+      "phi_time": 0.11285257339477539,
+      "cycle_time": 0.8451850414276123,
+      "generation": {
+        "count": 5,
+        "time": 0.5724091529846191
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.2713050842285156
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 3,
+      "timestamp": 1751009378.939656,
+      "phi_time": 0.7442078590393066,
+      "cycle_time": 0.62319016456604,
+      "generation": {
+        "count": 5,
+        "time": 0.39835500717163086
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.2228548526763916
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 4,
+      "timestamp": 1751009380.52074,
+      "phi_time": 0.30245542526245117,
+      "cycle_time": 0.5809252262115479,
+      "generation": {
+        "count": 5,
+        "time": 0.40100622177124023
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.17781805992126465
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 5,
+      "timestamp": 1751009382.136286,
+      "phi_time": 0.9164638519287109,
+      "cycle_time": 0.612401008605957,
+      "generation": {
+        "count": 5,
+        "time": 0.3975100517272949
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.21251821517944336
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 6,
+      "timestamp": 1751009383.721163,
+      "phi_time": 0.4808487892150879,
+      "cycle_time": 0.581496000289917,
+      "generation": {
+        "count": 5,
+        "time": 0.39692211151123047
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.1818838119506836
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 7,
+      "timestamp": 1751009385.322117,
+      "phi_time": 0.07124662399291992,
+      "cycle_time": 0.599067211151123,
+      "generation": {
+        "count": 5,
+        "time": 0.4010889530181885
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.1950550079345703
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 8,
+      "timestamp": 1751009386.9320052,
+      "phi_time": 0.6761002540588379,
+      "cycle_time": 0.6047441959381104,
+      "generation": {
+        "count": 5,
+        "time": 0.39630699157714844
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.2052757740020752
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    }
+  ],
+  "config": {
+    "base_dir": "qr_recursive_system",
+    "sequence_dir": "qr_sequence",
+    "analysis_dir": "qr_analysis",
+    "reports_dir": "qr_reports",
+    "state_dir": "qr_state",
+    "log_file": "qr_system_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751009389.134911
+}

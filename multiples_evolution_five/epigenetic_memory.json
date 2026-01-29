@@ -1,0 +1,5380 @@
+{
+  "epoch": 595,
+  "resonance": 0.5,
+  "complexity": 1.0,
+  "mutation_rate": 0.06180339887498949,
+  "current_results": {
+    "1": 5,
+    "2": 10,
+    "3": 15,
+    "4": 20,
+    "5": 25,
+    "6": 30,
+    "7": 35,
+    "8": 40,
+    "9": 45,
+    "10": 50,
+    "11": 55,
+    "12": 60,
+    "13": 65,
+    "14": 70,
+    "15": 75,
+    "16": 80,
+    "17": 85,
+    "18": 90,
+    "19": 95,
+    "20": 100
+  },
+  "error_introduced": true,
+  "error_corrected": true,
+  "error_location": 17,
+  "error_epoch": 8,
+  "evolution_history": [
+    {
+      "epoch": 1,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.3090169943749475,
+      "mutation_rate": 0.03819660112501051,
+      "phi_time": 1.0,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 2,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.8090169943749473,
+      "mutation_rate": 0.07639320225002104,
+      "phi_time": 0.3819660112501051,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 3,
+      "resonance": 0.5,
+      "complexity": 1.118033988749895,
+      "mutation_rate": 0.05278640450004206,
+      "phi_time": 1.381966011250105,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 4,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9270509831248422,
+      "mutation_rate": 0.06737620787507362,
+      "phi_time": 0.7639320225002102,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 5,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0450849718747373,
+      "mutation_rate": 0.05835921350012618,
+      "phi_time": 0.1458980337503153,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 6,
+      "resonance": 0.5,
+      "complexity": 0.9721359549995793,
+      "mutation_rate": 0.06393202250021031,
+      "phi_time": 1.1458980337503153,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 7,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0172209268743164,
+      "mutation_rate": 0.060487837125347,
+      "phi_time": 0.5278640450004204,
+      "error_introduced": false,
+      "error_corrected": false
+    },
+    {
+      "epoch": 8,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9893568818738959,
+      "mutation_rate": 0.06261646075056782,
+      "phi_time": 1.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": false
+    },
+    {
+      "epoch": 9,
+      "resonance": 0.5,
+      "complexity": 1.0065778087482125,
+      "mutation_rate": 0.06130089900092534,
+      "phi_time": 0.9098300562505255,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 10,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9959346906221083,
+      "mutation_rate": 0.06211396087650367,
+      "phi_time": 0.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 11,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.002512499370321,
+      "mutation_rate": 0.06161146100243953,
+      "phi_time": 1.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 12,
+      "resonance": 0.5,
+      "complexity": 0.998447189992429,
+      "mutation_rate": 0.061922023003953705,
+      "phi_time": 0.6737620787507357,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 13,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.00095968936275,
+      "mutation_rate": 0.061730085131403746,
+      "phi_time": 0.05572809000084078,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 14,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9994068793551788,
+      "mutation_rate": 0.061848709260367965,
+      "phi_time": 1.0557280900008408,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 15,
+      "resonance": 0.5,
+      "complexity": 1.0003665687179288,
+      "mutation_rate": 0.06177539551678223,
+      "phi_time": 0.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 16,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9997734480731075,
+      "mutation_rate": 0.06182070590216071,
+      "phi_time": 1.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 17,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0001400167910364,
+      "mutation_rate": 0.06179270254395345,
+      "phi_time": 0.819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 18,
+      "resonance": 0.5,
+      "complexity": 0.9999134648641438,
+      "mutation_rate": 0.061810009571124674,
+      "phi_time": 0.20162612375115607,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 19,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000534816551803,
+      "mutation_rate": 0.061799313240088645,
+      "phi_time": 1.201626123751156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 20,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999669465193239,
+      "mutation_rate": 0.061805923936223826,
+      "phi_time": 0.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 21,
+      "resonance": 0.5,
+      "complexity": 1.0000204281745044,
+      "mutation_rate": 0.06180183830132299,
+      "phi_time": 1.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 22,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999873746938281,
+      "mutation_rate": 0.061804363362557325,
+      "phi_time": 0.9655581462513663,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 23,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000078028683326,
+      "mutation_rate": 0.06180280278889083,
+      "phi_time": 0.34752415750147136,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 24,
+      "resonance": 0.5,
+      "complexity": 0.9999951775621607,
+      "mutation_rate": 0.06180376727645868,
+      "phi_time": 1.3475241575014714,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 25,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000029804304933,
+      "mutation_rate": 0.06180317119036002,
+      "phi_time": 0.7294901687515765,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 26,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.999998157992654,
+      "mutation_rate": 0.06180353959182921,
+      "phi_time": 0.11145618000168156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 27,
+      "resonance": 0.5,
+      "complexity": 1.0000011384231473,
+      "mutation_rate": 0.061803311907199746,
+      "phi_time": 1.1114561800016816,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 28,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999992964158014,
+      "mutation_rate": 0.061803452624039475,
+      "phi_time": 0.49342219125178666,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 29,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000004348389486,
+      "mutation_rate": 0.06180336565624973,
+      "phi_time": 1.4934221912517867,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 30,
+      "resonance": 0.5,
+      "complexity": 0.9999997312547502,
+      "mutation_rate": 0.06180341940529972,
+      "phi_time": 0.8753882025018918,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 31,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000001660936988,
+      "mutation_rate": 0.061803386186559964,
+      "phi_time": 0.25735421375199685,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 32,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999998973484489,
+      "mutation_rate": 0.06180340671687019,
+      "phi_time": 1.2573542137519969,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 33,
+      "resonance": 0.5,
+      "complexity": 1.0000000634421475,
+      "mutation_rate": 0.06180339402844067,
+      "phi_time": 0.639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 34,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999607905965,
+      "mutation_rate": 0.061803401870321385,
+      "phi_time": 0.021286236252207047,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 35,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.000000024232744,
+      "mutation_rate": 0.06180339702377256,
+      "phi_time": 1.021286236252207,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 36,
+      "resonance": 0.5,
+      "complexity": 0.9999999850233405,
+      "mutation_rate": 0.06180340001910446,
+      "phi_time": 0.40325224750231214,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 37,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000000092560846,
+      "mutation_rate": 0.06180339816788755,
+      "phi_time": 1.4032522475023121,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 38,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999999942794251,
+      "mutation_rate": 0.061803399312002516,
+      "phi_time": 0.7852182587524172,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 39,
+      "resonance": 0.5,
+      "complexity": 1.0000000035355097,
+      "mutation_rate": 0.06180339860490058,
+      "phi_time": 0.16718427000252234,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 40,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999978149349,
+      "mutation_rate": 0.061803399041913606,
+      "phi_time": 1.1671842700025223,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 41,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000000013504446,
+      "mutation_rate": 0.061803398771824704,
+      "phi_time": 0.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 42,
+      "resonance": 0.5,
+      "complexity": 0.9999999991653793,
+      "mutation_rate": 0.06180339893874883,
+      "phi_time": 1.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 43,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000000005158238,
+      "mutation_rate": 0.06180339883558404,
+      "phi_time": 0.9311162925027325,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 44,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999999996812033,
+      "mutation_rate": 0.06180339889934339,
+      "phi_time": 0.31308230375283763,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 45,
+      "resonance": 0.5,
+      "complexity": 1.0000000001970273,
+      "mutation_rate": 0.06180339885993795,
+      "phi_time": 1.3130823037528376,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 46,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999998782304,
+      "mutation_rate": 0.06180339888429185,
+      "phi_time": 0.6950483150029427,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 47,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000000000752578,
+      "mutation_rate": 0.06180339886924031,
+      "phi_time": 0.07701432625304783,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 48,
+      "resonance": 0.5,
+      "complexity": 0.9999999999534881,
+      "mutation_rate": 0.06180339887854267,
+      "phi_time": 1.0770143262530478,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 49,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.000000000028746,
+      "mutation_rate": 0.0618033988727935,
+      "phi_time": 0.4589803375031529,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 50,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999999999822341,
+      "mutation_rate": 0.06180339887634668,
+      "phi_time": 1.458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 51,
+      "resonance": 0.5,
+      "complexity": 1.0000000000109799,
+      "mutation_rate": 0.0618033988741507,
+      "phi_time": 0.840946348753258,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 52,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999999932141,
+      "mutation_rate": 0.061803398875507884,
+      "phi_time": 0.22291236000336312,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 53,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.000000000004194,
+      "mutation_rate": 0.0618033988746691,
+      "phi_time": 1.2229123600033631,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 54,
+      "resonance": 0.5,
+      "complexity": 0.999999999997408,
+      "mutation_rate": 0.0618033988751875,
+      "phi_time": 0.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 55,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000000000016018,
+      "mutation_rate": 0.061803398874867105,
+      "phi_time": 1.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 56,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.99999999999901,
+      "mutation_rate": 0.06180339887506512,
+      "phi_time": 0.9868443825035733,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 57,
+      "resonance": 0.5,
+      "complexity": 1.000000000000612,
+      "mutation_rate": 0.06180339887494274,
+      "phi_time": 0.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 58,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999999996217,
+      "mutation_rate": 0.06180339887501838,
+      "phi_time": 1.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 59,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000000000002338,
+      "mutation_rate": 0.06180339887497163,
+      "phi_time": 0.7507764050037835,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 60,
+      "resonance": 0.5,
+      "complexity": 0.9999999999998554,
+      "mutation_rate": 0.06180339887500052,
+      "phi_time": 0.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 61,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000000000000893,
+      "mutation_rate": 0.061803398874982665,
+      "phi_time": 1.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 62,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999999999999448,
+      "mutation_rate": 0.061803398874993705,
+      "phi_time": 0.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 63,
+      "resonance": 0.5,
+      "complexity": 1.0000000000000342,
+      "mutation_rate": 0.06180339887498688,
+      "phi_time": 1.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 64,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999999999789,
+      "mutation_rate": 0.061803398874991096,
+      "phi_time": 0.8966744387540988,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 65,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000000000000129,
+      "mutation_rate": 0.061803398874988494,
+      "phi_time": 0.2786404500042039,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 66,
+      "resonance": 0.5,
+      "complexity": 0.999999999999992,
+      "mutation_rate": 0.0618033988749901,
+      "phi_time": 1.278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 67,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000000000000049,
+      "mutation_rate": 0.06180339887498911,
+      "phi_time": 0.660606461254309,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 68,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.999999999999997,
+      "mutation_rate": 0.061803398874989715,
+      "phi_time": 0.042572472504414094,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 69,
+      "resonance": 0.5,
+      "complexity": 1.0000000000000018,
+      "mutation_rate": 0.06180339887498935,
+      "phi_time": 1.042572472504414,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 70,
+      "resonance": 0.19098300562505255,
+      "complexity": 0.9999999999999989,
+      "mutation_rate": 0.06180339887498957,
+      "phi_time": 0.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 71,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0000000000000007,
+      "mutation_rate": 0.06180339887498944,
+      "phi_time": 1.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 72,
+      "resonance": 0.5,
+      "complexity": 0.9999999999999996,
+      "mutation_rate": 0.061803398874989514,
+      "phi_time": 0.8065044950046243,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 73,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0000000000000002,
+      "mutation_rate": 0.06180339887498947,
+      "phi_time": 0.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 74,
+      "resonance": 0.6909830056250525,
+      "complexity": 0.9999999999999999,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 75,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 76,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 77,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9524025287549396,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 78,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 79,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 80,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7163345512551498,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 81,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.09830056250525487,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 82,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0983005625052549,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 83,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.48026657375535997,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 84,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.48026657375536,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 85,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8622325850054651,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 86,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.24419859625557017,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 87,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2441985962555702,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 88,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6261646075056753,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 89,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.008130618755780361,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 90,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0081306187557804,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 91,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.39009663000588546,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 92,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3900966300058855,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 93,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7720626412559906,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 94,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.15402865250609565,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 95,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1540286525060957,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 96,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 97,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 98,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9179606750063058,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 99,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.29992668625641095,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 100,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 101,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 102,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.381966011250105,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 103,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 104,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 105,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 106,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 107,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 108,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9098300562505255,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 109,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 110,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 111,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6737620787507357,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 112,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.05572809000084078,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 113,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0557280900008408,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 114,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 115,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 116,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 117,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.20162612375115607,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 118,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.201626123751156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 119,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 120,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 121,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9655581462513663,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 122,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.34752415750147136,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 123,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3475241575014714,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 124,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7294901687515765,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 125,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.11145618000168156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 126,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1114561800016816,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 127,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.49342219125178666,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 128,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4934221912517867,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 129,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8753882025018918,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 130,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.25735421375199685,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 131,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2573542137519969,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 132,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 133,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.021286236252207047,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 134,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.021286236252207,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 135,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.40325224750231214,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 136,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4032522475023121,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 137,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7852182587524172,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 138,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.16718427000252234,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 139,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1671842700025223,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 140,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 141,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 142,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9311162925027325,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 143,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.31308230375283763,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 144,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3130823037528376,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 145,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6950483150029427,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 146,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.07701432625304783,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 147,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0770143262530478,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 148,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4589803375031529,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 149,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 150,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.840946348753258,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 151,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.22291236000336312,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 152,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2229123600033631,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 153,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 154,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 155,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9868443825035733,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 156,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 157,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 158,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7507764050037835,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 159,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 160,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 161,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 162,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 163,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8966744387540988,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 164,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.2786404500042039,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 165,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 166,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.660606461254309,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 167,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.042572472504414094,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 168,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.042572472504414,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 169,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 170,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 171,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8065044950046243,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 172,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 173,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 174,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 175,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 176,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9524025287549396,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 177,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 178,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 179,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7163345512551498,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 180,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.09830056250525487,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 181,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0983005625052549,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 182,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.48026657375535997,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 183,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.48026657375536,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 184,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8622325850054651,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 185,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.24419859625557017,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 186,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2441985962555702,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 187,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6261646075056753,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 188,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.008130618755780361,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 189,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0081306187557804,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 190,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.39009663000588546,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 191,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3900966300058855,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 192,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7720626412559906,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 193,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.15402865250609565,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 194,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1540286525060957,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 195,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 196,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 197,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9179606750063058,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 198,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.29992668625641095,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 199,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 200,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 201,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.381966011250105,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 202,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 203,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 204,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 205,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 206,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 207,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9098300562505255,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 208,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 209,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 210,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6737620787507357,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 211,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.05572809000084078,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 212,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0557280900008408,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 213,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 214,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 215,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 216,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.20162612375115607,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 217,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.201626123751156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 218,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 219,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 220,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9655581462513663,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 221,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.34752415750147136,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 222,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3475241575014714,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 223,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7294901687515765,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 224,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.11145618000168156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 225,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1114561800016816,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 226,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.49342219125178666,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 227,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4934221912517867,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 228,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8753882025018918,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 229,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.25735421375199685,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 230,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2573542137519969,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 231,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 232,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.021286236252207047,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 233,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.021286236252207,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 234,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.40325224750231214,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 235,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4032522475023121,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 236,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7852182587524172,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 237,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.16718427000252234,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 238,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1671842700025223,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 239,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 240,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 241,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9311162925027325,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 242,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.31308230375283763,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 243,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3130823037528376,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 244,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6950483150029427,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 245,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.07701432625304783,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 246,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0770143262530478,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 247,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4589803375031529,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 248,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 249,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.840946348753258,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 250,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.22291236000336312,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 251,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2229123600033631,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 252,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 253,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 254,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9868443825035733,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 255,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 256,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 257,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7507764050037835,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 258,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 259,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 260,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 261,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 262,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8966744387540988,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 263,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.2786404500042039,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 264,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 265,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.660606461254309,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 266,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.042572472504414094,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 267,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.042572472504414,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 268,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 269,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 270,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8065044950046243,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 271,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 272,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 273,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 274,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 275,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9524025287549396,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 276,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 277,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 278,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7163345512551498,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 279,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.09830056250525487,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 280,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0983005625052549,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 281,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.48026657375535997,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 282,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.48026657375536,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 283,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8622325850054651,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 284,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.24419859625557017,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 285,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2441985962555702,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 286,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6261646075056753,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 287,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.008130618755780361,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 288,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0081306187557804,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 289,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.39009663000588546,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 290,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3900966300058855,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 291,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7720626412559906,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 292,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.15402865250609565,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 293,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1540286525060957,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 294,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 295,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 296,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9179606750063058,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 297,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.29992668625641095,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 298,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 299,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 300,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.381966011250105,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 301,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 302,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 303,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 304,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 305,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 306,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9098300562505255,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 307,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 308,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 309,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6737620787507357,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 310,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.05572809000084078,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 311,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0557280900008408,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 312,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 313,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 314,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 315,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.20162612375115607,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 316,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.201626123751156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 317,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 318,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 319,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9655581462513663,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 320,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.34752415750147136,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 321,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3475241575014714,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 322,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7294901687515765,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 323,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.11145618000168156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 324,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1114561800016816,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 325,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.49342219125178666,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 326,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4934221912517867,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 327,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8753882025018918,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 328,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.25735421375199685,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 329,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2573542137519969,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 330,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 331,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.021286236252207047,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 332,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.021286236252207,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 333,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.40325224750231214,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 334,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4032522475023121,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 335,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7852182587524172,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 336,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.16718427000252234,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 337,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1671842700025223,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 338,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 339,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 340,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9311162925027325,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 341,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.31308230375283763,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 342,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3130823037528376,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 343,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6950483150029427,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 344,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.07701432625304783,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 345,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0770143262530478,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 346,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4589803375031529,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 347,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 348,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.840946348753258,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 349,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.22291236000336312,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 350,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2229123600033631,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 351,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 352,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 353,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9868443825035733,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 354,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 355,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 356,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7507764050037835,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 357,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 358,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 359,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 360,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 361,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8966744387540988,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 362,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.2786404500042039,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 363,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 364,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.660606461254309,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 365,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.042572472504414094,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 366,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.042572472504414,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 367,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 368,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 369,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8065044950046243,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 370,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 371,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 372,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 373,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 374,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9524025287549396,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 375,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 376,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 377,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7163345512551498,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 378,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.09830056250525487,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 379,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0983005625052549,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 380,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.48026657375535997,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 381,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.48026657375536,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 382,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8622325850054651,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 383,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.24419859625557017,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 384,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2441985962555702,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 385,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6261646075056753,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 386,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.008130618755780361,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 387,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0081306187557804,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 388,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.39009663000588546,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 389,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3900966300058855,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 390,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7720626412559906,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 391,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.15402865250609565,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 392,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1540286525060957,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 393,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 394,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 395,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9179606750063058,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 396,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.29992668625641095,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 397,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 398,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 399,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.381966011250105,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 400,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 401,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 402,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 403,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 404,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 405,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9098300562505255,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 406,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 407,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 408,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6737620787507357,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 409,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.05572809000084078,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 410,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0557280900008408,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 411,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 412,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 413,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 414,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.20162612375115607,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 415,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.201626123751156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 416,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 417,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 418,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9655581462513663,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 419,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.34752415750147136,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 420,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3475241575014714,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 421,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7294901687515765,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 422,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.11145618000168156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 423,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1114561800016816,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 424,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.49342219125178666,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 425,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4934221912517867,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 426,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8753882025018918,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 427,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.25735421375199685,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 428,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2573542137519969,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 429,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 430,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.021286236252207047,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 431,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.021286236252207,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 432,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.40325224750231214,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 433,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4032522475023121,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 434,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7852182587524172,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 435,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.16718427000252234,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 436,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1671842700025223,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 437,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 438,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 439,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9311162925027325,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 440,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.31308230375283763,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 441,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3130823037528376,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 442,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6950483150029427,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 443,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.07701432625304783,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 444,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0770143262530478,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 445,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4589803375031529,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 446,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 447,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.840946348753258,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 448,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.22291236000336312,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 449,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2229123600033631,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 450,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 451,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 452,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9868443825035733,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 453,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 454,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 455,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7507764050037835,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 456,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 457,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 458,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 459,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 460,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8966744387540988,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 461,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.2786404500042039,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 462,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 463,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.660606461254309,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 464,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.042572472504414094,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 465,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.042572472504414,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 466,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 467,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 468,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8065044950046243,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 469,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 470,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 471,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 472,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 473,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9524025287549396,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 474,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 475,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 476,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7163345512551498,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 477,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.09830056250525487,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 478,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0983005625052549,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 479,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.48026657375535997,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 480,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.48026657375536,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 481,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8622325850054651,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 482,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.24419859625557017,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 483,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2441985962555702,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 484,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.6261646075056753,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 485,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.008130618755780361,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 486,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0081306187557804,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 487,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.39009663000588546,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 488,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3900966300058855,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 489,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7720626412559906,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 490,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.15402865250609565,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 491,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1540286525060957,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 492,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 493,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 494,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9179606750063058,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 495,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.29992668625641095,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 496,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.0,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 497,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 498,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.381966011250105,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 499,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 500,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 501,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 502,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 503,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 504,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9098300562505255,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 505,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 506,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2917960675006306,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 507,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6737620787507357,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 508,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.05572809000084078,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 509,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0557280900008408,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 510,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 511,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.4376941012509459,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 512,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.819660112501051,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 513,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.20162612375115607,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 514,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.201626123751156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 515,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 516,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5835921350012612,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 517,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9655581462513663,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 518,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.34752415750147136,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 519,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3475241575014714,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 520,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7294901687515765,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 521,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.11145618000168156,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 522,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1114561800016816,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 523,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.49342219125178666,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 524,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4934221912517867,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 525,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8753882025018918,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 526,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.25735421375199685,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 527,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.2573542137519969,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 528,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.639320225002102,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 529,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.021286236252207047,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 530,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.021286236252207,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 531,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.40325224750231214,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 532,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4032522475023121,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 533,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7852182587524172,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 534,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.16718427000252234,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 535,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1671842700025223,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 536,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 537,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5491502812526274,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 538,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9311162925027325,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 539,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.31308230375283763,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 540,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3130823037528376,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 541,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6950483150029427,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 542,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.07701432625304783,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 543,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0770143262530478,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 544,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.4589803375031529,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 545,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.458980337503153,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 546,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.840946348753258,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 547,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.22291236000336312,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 548,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2229123600033631,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 549,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 550,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.6048783712534682,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 551,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9868443825035733,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 552,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 553,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3688103937536784,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 554,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7507764050037835,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 555,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 556,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1327424162538886,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 557,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 558,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5147084275039937,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 559,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8966744387540988,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 560,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.2786404500042039,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 561,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.278640450004204,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 562,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.660606461254309,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 563,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.042572472504414094,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 564,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.042572472504414,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 565,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 566,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.4245384837545192,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 567,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.8065044950046243,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 568,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 569,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.1884705062547294,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 570,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 571,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.5704365175048345,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 572,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.9524025287549396,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 573,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 574,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.3343685400050447,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 575,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.7163345512551498,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 576,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.09830056250525487,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 577,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0983005625052549,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 578,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.48026657375535997,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 579,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.48026657375536,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 580,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.8622325850054651,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 581,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.24419859625557017,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 582,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.2441985962555702,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 583,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.6261646075056753,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 584,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.008130618755780361,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 585,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.0081306187557804,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 586,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.39009663000588546,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 587,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 1.3900966300058855,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 588,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.7720626412559906,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 589,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.15402865250609565,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 590,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.1540286525060957,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 591,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 592,
+      "resonance": 0.19098300562505255,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 1.5359946637562008,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 593,
+      "resonance": 0.6909830056250525,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498948,
+      "phi_time": 0.9179606750063058,
+      "error_introduced": true,
+      "error_corrected": true
+    },
+    {
+      "epoch": 594,
+      "resonance": 0.5,
+      "complexity": 1.0,
+      "mutation_rate": 0.06180339887498949,
+      "phi_time": 0.29992668625641095,
+      "error_introduced": true,
+      "error_corrected": true
+    }
+  ]
+}

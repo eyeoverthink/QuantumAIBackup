@@ -1,0 +1,129 @@
+{
+  "id": "bef89b98-9c78-4a3f-9d03-f8d04ef8a43e",
+  "creation_time": 1754041693.925968,
+  "phi_time": 0.45665597915649414,
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 0,
+    "compression_threshold": 514,
+    "resonance_factor": 0.48700463878311956,
+    "complexity_factor": 0.4340264540152461
+  },
+  "memory": {},
+  "history": [
+    {
+      "timestamp": 1754041696.194417,
+      "phi_time": 0.12708377838134766,
+      "old_parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      },
+      "new_parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 514,
+        "resonance_factor": 0.48700463878311956,
+        "complexity_factor": 0.4340264540152461
+      },
+      "performance_metrics": {
+        "avg_time": 0.1226222038269043,
+        "max_time": 0.3792409896850586,
+        "avg_size": 87.0
+      }
+    }
+  ],
+  "performance_metrics": [
+    {
+      "operation": "generate",
+      "path": "qr_output/qr_frame_001.png",
+      "payload_size": 87,
+      "compressed": false,
+      "time_taken": 0.3792409896850586,
+      "timestamp": 1754041694.305269,
+      "phi_time": 0.07037830352783203,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_output/qr_frame_002.png",
+      "payload_size": 88,
+      "compressed": false,
+      "time_taken": 0.09040307998657227,
+      "timestamp": 1754041694.395905,
+      "phi_time": 0.21703052520751953,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_output/qr_frame_003.png",
+      "payload_size": 88,
+      "compressed": false,
+      "time_taken": 0.03948616981506348,
+      "timestamp": 1754041694.4357271,
+      "phi_time": 0.2814640998840332,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_output/qr_frame_004.png",
+      "payload_size": 88,
+      "compressed": false,
+      "time_taken": 0.044171810150146484,
+      "timestamp": 1754041694.480017,
+      "phi_time": 0.35312652587890625,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_output/qr_frame_005.png",
+      "payload_size": 84,
+      "compressed": false,
+      "time_taken": 0.059808969497680664,
+      "timestamp": 1754041694.539968,
+      "phi_time": 0.45012903213500977,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    }
+  ],
+  "config": {
+    "output_dir": "qr_output",
+    "temp_dir": "qr_temp",
+    "log_file": "qr_recursive_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100
+  },
+  "version": "1.0.0"
+}

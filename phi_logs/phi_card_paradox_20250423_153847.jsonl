@@ -1,0 +1,10 @@
+{"node": "psi1", "event": "predicted_card", "message": {"card": ["3", "Clubs"], "seed": 824194071, "resonance": 0.2930819732180323}, "timestamp": 1745447927}
+{"node": "psi2", "event": "picked_card", "message": {"card": ["4", "Diamonds"], "resonance": 0.6631189606246319}, "timestamp": 1745448016}
+{"node": "psi1", "event": "predicted_card", "message": {"card": ["3", "Spades"], "seed": 824194079, "resonance": 0.4353325561245902}, "timestamp": 1745448016}
+{"node": "psi2", "event": "picked_card", "message": {"card": ["5", "Clubs"], "resonance": 0.5482482512803274}, "timestamp": 1745448105}
+{"node": "psi1", "event": "predicted_card", "message": {"card": ["3", "Diamonds"], "seed": 824194087, "resonance": 0.6654988341868846}, "timestamp": 1745448105}
+{"node": "psi2", "event": "picked_card", "message": {"card": ["2", "Spades"], "resonance": 0.8327494170934425}, "timestamp": 1745448194}
+{"node": "psi1", "event": "predicted_card", "message": {"card": ["8", "Hearts"], "seed": 824194095, "resonance": 0.8852549156242115}, "timestamp": 1745448194}
+{"node": "psi2", "event": "picked_card", "message": {"card": ["King", "Hearts"], "resonance": 0.263747085467211}, "timestamp": 1745448283}
+{"node": "psi1", "event": "predicted_card", "message": {"card": ["Jack", "Diamonds"], "seed": 824194104, "resonance": 0.0741092976240445}, "timestamp": 1745448283}
+{"node": "psi2", "event": "picked_card", "message": {"card": ["Queen", "Diamonds"], "resonance": 0.6352549156242115}, "timestamp": 1745448372}

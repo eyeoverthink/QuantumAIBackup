@@ -1,0 +1,6 @@
+{
+  "task_id": "simple_test_001",
+  "task_type": "execute_python",
+  "timestamp": 1751531938.504323,
+  "script_content": "print('Simple test script executed successfully!')\nprint('This should be decoded by the QR task worker.')\nprint('Current time:', time.time())"
+}

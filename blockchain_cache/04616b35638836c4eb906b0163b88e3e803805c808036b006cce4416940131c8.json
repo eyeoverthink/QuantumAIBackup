@@ -1,0 +1,51 @@
+{
+  "reference_id": "04616b35638836c4eb906b0163b88e3e803805c808036b006cce4416940131c8",
+  "data": {
+    "node_id": "e6c9e51e-5199-48eb-9c75-b79184c86df2",
+    "node_type": "reasoning_core",
+    "data": {
+      "coherence": 3.6932381,
+      "frequency": 29.9524,
+      "state": "active"
+    },
+    "metadata": {
+      "capabilities": [
+        "reasoning",
+        "knowledge",
+        "perception"
+      ]
+    },
+    "reasoning_enabled": true,
+    "knowledge_enabled": true,
+    "perception_enabled": true,
+    "registration_timestamp": "2025-07-22T11:10:09.040613"
+  },
+  "metadata": {
+    "node_type": "reasoning_core",
+    "node_id": "e6c9e51e-5199-48eb-9c75-b79184c86df2",
+    "timestamp": "2025-07-22T11:10:09.040616",
+    "phi_resonance": 0.0,
+    "storage_node_id": "c8b19f0c-c95f-48c0-b3a9-c3ec2e09011c",
+    "node_data": {
+      "node_id": "e6c9e51e-5199-48eb-9c75-b79184c86df2",
+      "node_type": "reasoning_core",
+      "data": {
+        "coherence": 3.6932381,
+        "frequency": 29.9524,
+        "state": "active"
+      },
+      "metadata": {
+        "capabilities": [
+          "reasoning",
+          "knowledge",
+          "perception"
+        ]
+      },
+      "reasoning_enabled": true,
+      "knowledge_enabled": true,
+      "perception_enabled": true,
+      "registration_timestamp": "2025-07-22T11:10:09.040613"
+    }
+  },
+  "cache_timestamp": "2025-07-22T11:10:09.041761"
+}

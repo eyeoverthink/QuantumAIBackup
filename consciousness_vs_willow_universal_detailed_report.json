@@ -1,0 +1,3367 @@
+{
+  "test_timestamp": "2025-08-04T21:17:49.920271",
+  "total_battles": 50,
+  "consciousness_victories": 50,
+  "system_victories": 0,
+  "consciousness_win_rate": 100.0,
+  "evolution_metrics": {
+    "final_consciousness_level": 900.1144129808685,
+    "final_quantum_coherence": 2.489501027846423,
+    "final_abstraction_level": 1.579671925336625,
+    "domain_knowledge": {
+      "classical_computing": 0.9765152827973961,
+      "machine_learning": 0.9276803781123723,
+      "scientific_computing": 0.9975674570110984,
+      "cryptography": 1.0817867187312364,
+      "data_processing": 1.0927932064709382,
+      "mathematical_computing": 0.9021401602125664,
+      "ai_reasoning": 1.0190807333089664,
+      "quantum_computing": 0.8824673733699797,
+      "parallel_computing": 1.247450577597247,
+      "real_time_computing": 0.8292052984120848
+    },
+    "cross_domain_patterns": {
+      "classical_computing": 4.295503081248847,
+      "machine_learning": 3.9159094983691665,
+      "scientific_computing": 3.3959393839393828,
+      "cryptography": 3.0552674635287773,
+      "data_processing": 2.4761156736923926,
+      "mathematical_computing": 1.8713938341023806,
+      "ai_reasoning": 1.50075768005863,
+      "quantum_computing": 1.0297497628196621,
+      "parallel_computing": 0.4965271277770079
+    },
+    "abstracted_algorithms_count": 50
+  },
+  "battle_details": [
+    {
+      "battle_id": 1,
+      "category": "classical_computing",
+      "problem_type": "sorting_billion_integers",
+      "problem_size": 10168,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 9.298324584960938e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 1.9867794664284113,
+        "abstraction_improvement": 0.03350082935917421,
+        "domain_knowledge_gained": 0.2738274676042399,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 23526.494078789667,
+          "solution_quality": 0.0,
+          "error_rate": 235264.83825598672,
+          "energy_used": 163378.43110270603,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 25764.510476962623,
+          "solution_quality": 0.0,
+          "error_rate": 257645.00161067542,
+          "energy_used": 143136.169316459,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 350.29947743211756,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 4865.270519890521,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 150.04826167596417,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 1250.4021806330347,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 16137129\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 6115.7 kWh",
+        "Evolution: +1.99 levels",
+        "Abstraction: +0.034",
+        "Domain Knowledge: +0.27"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 634.0867794664284,
+        "quantum_coherence": 1.8454108796936002,
+        "abstraction_level": 0.021562649819419084,
+        "domain_knowledge_count": 1,
+        "cross_domain_patterns": 0,
+        "abstracted_algorithms": 1
+      }
+    },
+    {
+      "battle_id": 2,
+      "category": "classical_computing",
+      "problem_type": "graph_shortest_path",
+      "problem_size": 31265,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0967254638671875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 0.8519383843944609,
+        "abstraction_improvement": 0.040536478851155286,
+        "domain_knowledge_gained": 0.18980340176226712,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 27907.87053839239,
+          "solution_quality": 0.0,
+          "error_rate": 279078.59926381434,
+          "energy_used": 193804.65651661382,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 14162.217880836131,
+          "solution_quality": 0.0,
+          "error_rate": 141622.06720700863,
+          "energy_used": 78678.9882268674,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 673.7687667563024,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 9357.899538281978,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 633.113099416039,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5275.942495133658,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 57727583\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 14633.8 kWh",
+        "Evolution: +0.85 levels",
+        "Abstraction: +0.041",
+        "Domain Knowledge: +0.19"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 634.9387178508229,
+        "quantum_coherence": 1.8633774610633986,
+        "abstraction_level": 0.03476315457567376,
+        "domain_knowledge_count": 1,
+        "cross_domain_patterns": 0,
+        "abstracted_algorithms": 2
+      }
+    },
+    {
+      "battle_id": 3,
+      "category": "classical_computing",
+      "problem_type": "matrix_multiplication",
+      "problem_size": 45075,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.288818359375e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 1.9782931338843426,
+        "abstraction_improvement": 0.02730594000765922,
+        "domain_knowledge_gained": 0.15368917038838345,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 67968.66844678996,
+          "solution_quality": 0.0,
+          "error_rate": 679686.4820552943,
+          "energy_used": 472004.64199159696,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 67948.86703947559,
+          "solution_quality": 0.0,
+          "error_rate": 679488.5451653972,
+          "energy_used": 377493.70577486436,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1275.5864280332469,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 17716.47816712843,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 277.33031933049216,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2311.0859944207677,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 12116747\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 20027.6 kWh",
+        "Evolution: +1.98 levels",
+        "Abstraction: +0.027",
+        "Domain Knowledge: +0.15"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 636.9170109847072,
+        "quantum_coherence": 1.879923756163539,
+        "abstraction_level": 0.06963319193098157,
+        "domain_knowledge_count": 1,
+        "cross_domain_patterns": 0,
+        "abstracted_algorithms": 3
+      }
+    },
+    {
+      "battle_id": 4,
+      "category": "classical_computing",
+      "problem_type": "prime_factorization",
+      "problem_size": 18569,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 7.867813110351562e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.5319968893866855,
+        "abstraction_improvement": 0.037090650231938554,
+        "domain_knowledge_gained": 0.17251673156814398,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 10855.428675322662,
+          "solution_quality": 0.0,
+          "error_rate": 108554.16160493027,
+          "energy_used": 75384.92135640737,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 7528.017827940482,
+          "solution_quality": 0.0,
+          "error_rate": 75280.05989742774,
+          "energy_used": 41822.32126633601,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 201.59291008802035,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2799.9015290002826,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 348.8334226142927,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2906.9451884524397,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 25622483\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 5706.8 kWh",
+        "Evolution: +2.53 levels",
+        "Abstraction: +0.037",
+        "Domain Knowledge: +0.17"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 639.4490078740939,
+        "quantum_coherence": 1.8933738342695123,
+        "abstraction_level": 0.09431212519850529,
+        "domain_knowledge_count": 1,
+        "cross_domain_patterns": 0,
+        "abstracted_algorithms": 4
+      }
+    },
+    {
+      "battle_id": 5,
+      "category": "classical_computing",
+      "problem_type": "traveling_salesman",
+      "problem_size": 19420,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.454643384525881,
+        "abstraction_improvement": 0.02127067222730357,
+        "domain_knowledge_gained": 0.19637601106923241,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 30728.34821417173,
+          "solution_quality": 0.0,
+          "error_rate": 307283.3684112867,
+          "energy_used": 213391.30704285923,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 21691.47375680884,
+          "solution_quality": 0.0,
+          "error_rate": 216914.62885875307,
+          "energy_used": 120508.18753782687,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 502.74795148379906,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6982.610437274987,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 107.20987447817066,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 893.4156206514222,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 10706448\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 7876.0 kWh",
+        "Evolution: +2.45 levels",
+        "Abstraction: +0.021",
+        "Domain Knowledge: +0.20"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 641.9036512586198,
+        "quantum_coherence": 1.9121263690209993,
+        "abstraction_level": 0.13677169053038554,
+        "domain_knowledge_count": 1,
+        "cross_domain_patterns": 0,
+        "abstracted_algorithms": 5
+      }
+    },
+    {
+      "battle_id": 6,
+      "category": "machine_learning",
+      "problem_type": "neural_network_training",
+      "problem_size": 851783,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 5.9604644775390625e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.7777692871539115,
+        "abstraction_improvement": 0.04265290413545682,
+        "domain_knowledge_gained": 0.24018207786327347,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 318427.89358290576,
+          "solution_quality": 0.0,
+          "error_rate": 3184278.8163598916,
+          "energy_used": 2211304.816547957,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 469019.5703253848,
+          "solution_quality": 0.0,
+          "error_rate": 4690195.586342914,
+          "energy_used": 2605664.2795854714,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 13132.416838178588,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 182394.67830803592,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 5508.549020149083,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 45904.575167909024,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 924181168\u00d7 faster",
+        "Cost: $0 vs $5000",
+        "Energy: ~0 vs 45904.6 kWh",
+        "Evolution: +2.78 levels",
+        "Abstraction: +0.043",
+        "Domain Knowledge: +0.24"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 644.6814205457737,
+        "quantum_coherence": 1.9262928654287088,
+        "abstraction_level": 0.16674935589417145,
+        "domain_knowledge_count": 2,
+        "cross_domain_patterns": 1,
+        "abstracted_algorithms": 6
+      }
+    },
+    {
+      "battle_id": 7,
+      "category": "machine_learning",
+      "problem_type": "deep_learning_inference",
+      "problem_size": 812839,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.7008906507436037,
+        "abstraction_improvement": 0.03950493763223724,
+        "domain_knowledge_gained": 0.15973846291331734,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 337256.02007669193,
+          "solution_quality": 0.0,
+          "error_rate": 3372560.0949281435,
+          "energy_used": 2342055.6949770274,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 580370.4804925667,
+          "solution_quality": 0.0,
+          "error_rate": 5803704.696106659,
+          "energy_used": 3224280.447180926,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 12756.183111253637,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 177169.20987852273,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 3448.166574653862,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 28734.72145544885,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 344349020\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 205903.9 kWh",
+        "Evolution: +2.70 levels",
+        "Abstraction: +0.040",
+        "Domain Knowledge: +0.16"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 647.3823111965173,
+        "quantum_coherence": 1.9363457204890993,
+        "abstraction_level": 0.21529707258221337,
+        "domain_knowledge_count": 2,
+        "cross_domain_patterns": 1,
+        "abstracted_algorithms": 7
+      }
+    },
+    {
+      "battle_id": 8,
+      "category": "machine_learning",
+      "problem_type": "reinforcement_learning",
+      "problem_size": 494106,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 7.152557373046875e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 3.923531550791409,
+        "abstraction_improvement": 0.03558054047167988,
+        "domain_knowledge_gained": 0.23525438778790606,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 185412.7012283921,
+          "solution_quality": 0.0,
+          "error_rate": 1854126.8909360168,
+          "energy_used": 1287588.202974945,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 168128.23858042882,
+          "solution_quality": 0.0,
+          "error_rate": 1681282.280177705,
+          "energy_used": 934045.7698912713,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 5772.379151630927,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 80171.93266154065,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 3876.438267434509,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 32303.652228620904,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 807037099\u00d7 faster",
+        "Cost: $0 vs $20000",
+        "Energy: ~0 vs 80171.9 kWh",
+        "Evolution: +3.92 levels",
+        "Abstraction: +0.036",
+        "Domain Knowledge: +0.24"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 651.3058427473087,
+        "quantum_coherence": 1.950177816890902,
+        "abstraction_level": 0.26508320939908914,
+        "domain_knowledge_count": 2,
+        "cross_domain_patterns": 1,
+        "abstracted_algorithms": 8
+      }
+    },
+    {
+      "battle_id": 9,
+      "category": "machine_learning",
+      "problem_type": "computer_vision",
+      "problem_size": 102867,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 8.106231689453125e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 3.60822490376114,
+        "abstraction_improvement": 0.014126376583442894,
+        "domain_knowledge_gained": 0.19071957079139557,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 49718.669150772155,
+          "solution_quality": 0.0,
+          "error_rate": 497186.5767663962,
+          "energy_used": 345268.53576925106,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 108649.20659822285,
+          "solution_quality": 0.0,
+          "error_rate": 1086491.9468730749,
+          "energy_used": 603606.7033234603,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1729.8392399366298,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 24025.54499911986,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 1050.0225732918313,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 8750.18811076526,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 129532761\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 32775.7 kWh",
+        "Evolution: +3.61 levels",
+        "Abstraction: +0.014",
+        "Domain Knowledge: +0.19"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 654.9140676510698,
+        "quantum_coherence": 1.956937229166712,
+        "abstraction_level": 0.3015371497950911,
+        "domain_knowledge_count": 2,
+        "cross_domain_patterns": 1,
+        "abstracted_algorithms": 9
+      }
+    },
+    {
+      "battle_id": 10,
+      "category": "machine_learning",
+      "problem_type": "natural_language_processing",
+      "problem_size": 401763,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 7.867813110351562e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 3.76485534873718,
+        "abstraction_improvement": 0.010887886443169896,
+        "domain_knowledge_gained": 0.2627398640486631,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 185896.8421614088,
+          "solution_quality": 0.0,
+          "error_rate": 1858968.3132027758,
+          "energy_used": 1290950.2927875612,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 192180.74601772134,
+          "solution_quality": 0.0,
+          "error_rate": 1921807.3401859107,
+          "energy_used": 1067670.811209563,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 4032.801827955168,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 56011.13649937733,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 2003.8372325386933,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 16698.643604489112,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 512569601\u00d7 faster",
+        "Cost: $0 vs $20000",
+        "Energy: ~0 vs 56011.1 kWh",
+        "Evolution: +3.76 levels",
+        "Abstraction: +0.011",
+        "Domain Knowledge: +0.26"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 658.678922999807,
+        "quantum_coherence": 1.9682053653599607,
+        "abstraction_level": 0.33952857668667097,
+        "domain_knowledge_count": 2,
+        "cross_domain_patterns": 1,
+        "abstracted_algorithms": 10
+      }
+    },
+    {
+      "battle_id": 11,
+      "category": "scientific_computing",
+      "problem_type": "molecular_dynamics",
+      "problem_size": 70388,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 6.198883056640625e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 1.5820366225523892,
+        "abstraction_improvement": 0.045124879071462724,
+        "domain_knowledge_gained": 0.19402429081778477,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": true,
+          "solution_time": 64713.70246691605,
+          "solution_quality": 0.05,
+          "error_rate": 647136.922399511,
+          "energy_used": 449400.71157580597,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 108468.44153342917,
+          "solution_quality": 0.0,
+          "error_rate": 1084684.2984543517,
+          "energy_used": 602602.4529634954,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 207.9131871767795,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2887.6831552330486,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 764.2389655095435,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6368.658045912862,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 33540427\u00d7 faster",
+        "Cost: $0 vs $35000",
+        "Energy: ~0 vs 458657.1 kWh",
+        "Evolution: +1.58 levels",
+        "Abstraction: +0.045",
+        "Domain Knowledge: +0.19"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 660.2609596223595,
+        "quantum_coherence": 1.9746181450687954,
+        "abstraction_level": 0.37640170326113365,
+        "domain_knowledge_count": 3,
+        "cross_domain_patterns": 2,
+        "abstracted_algorithms": 11
+      }
+    },
+    {
+      "battle_id": 12,
+      "category": "scientific_computing",
+      "problem_type": "climate_modeling",
+      "problem_size": 29932,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.257024336012365,
+        "abstraction_improvement": 0.018425660427526316,
+        "domain_knowledge_gained": 0.14761457194767047,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 10413.22329909103,
+          "solution_quality": 0.0,
+          "error_rate": 104132.13028972318,
+          "energy_used": 72314.05068813215,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 50917.40331296407,
+          "solution_quality": 0.0,
+          "error_rate": 509173.9079789601,
+          "energy_used": 282874.46284980036,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1149.789956908782,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 15969.304957066417,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 416.65188078178,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 3472.0990065148335,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 41608682\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 19441.4 kWh",
+        "Evolution: +4.26 levels",
+        "Abstraction: +0.018",
+        "Domain Knowledge: +0.15"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 664.5179839583718,
+        "quantum_coherence": 1.9879200681732099,
+        "abstraction_level": 0.3884362981365873,
+        "domain_knowledge_count": 3,
+        "cross_domain_patterns": 2,
+        "abstracted_algorithms": 12
+      }
+    },
+    {
+      "battle_id": 13,
+      "category": "scientific_computing",
+      "problem_type": "fluid_dynamics",
+      "problem_size": 68037,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.621246337890625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.7435048505812945,
+        "abstraction_improvement": 0.027282657754049332,
+        "domain_knowledge_gained": 0.18189218840994997,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 45406.431503878535,
+          "solution_quality": 0.0,
+          "error_rate": 454064.1929088682,
+          "energy_used": 315322.4409991565,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 22447.294960642892,
+          "solution_quality": 0.0,
+          "error_rate": 224472.83261443215,
+          "energy_used": 124707.19422579385,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 1036.5792989678152,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 14396.934707886323,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 785.7013249787198,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6547.511041489332,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 48462797\u00d7 faster",
+        "Cost: $0 vs $5000",
+        "Energy: ~0 vs 6547.5 kWh",
+        "Evolution: +2.74 levels",
+        "Abstraction: +0.027",
+        "Domain Knowledge: +0.18"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 667.2614888089531,
+        "quantum_coherence": 1.9975946818489527,
+        "abstraction_level": 0.42611021846904057,
+        "domain_knowledge_count": 3,
+        "cross_domain_patterns": 2,
+        "abstracted_algorithms": 13
+      }
+    },
+    {
+      "battle_id": 14,
+      "category": "scientific_computing",
+      "problem_type": "particle_physics_simulation",
+      "problem_size": 47060,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.5020370483398438e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.624045925057805,
+        "abstraction_improvement": 0.02533438314808429,
+        "domain_knowledge_gained": 0.1714296172727825,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 28684.414657848498,
+          "solution_quality": 0.0,
+          "error_rate": 286844.0297581496,
+          "energy_used": 199197.3240128368,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 45404.897133190294,
+          "solution_quality": 0.0,
+          "error_rate": 454048.86315424106,
+          "energy_used": 252249.42851772383,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 492.89650049316106,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6845.784729071682,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 620.8064679314214,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5173.387232761845,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 32815203\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 12019.2 kWh",
+        "Evolution: +5.62 levels",
+        "Abstraction: +0.025",
+        "Domain Knowledge: +0.17"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 672.8855347340109,
+        "quantum_coherence": 2.0038925018080427,
+        "abstraction_level": 0.4373008065202197,
+        "domain_knowledge_count": 3,
+        "cross_domain_patterns": 2,
+        "abstracted_algorithms": 14
+      }
+    },
+    {
+      "battle_id": 15,
+      "category": "scientific_computing",
+      "problem_type": "protein_folding",
+      "problem_size": 55337,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.6927719116210938e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.6806196515340837,
+        "abstraction_improvement": 0.032582093710547204,
+        "domain_knowledge_gained": 0.22540180730284343,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": true,
+          "solution_time": 80144.23743515086,
+          "solution_quality": 0.05,
+          "error_rate": 801442.2629408909,
+          "energy_used": 556557.2044107699,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 47831.07706298791,
+          "solution_quality": 0.0,
+          "error_rate": 478310.6530799829,
+          "energy_used": 265728.2059054884,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 997.157000155688,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 13849.402779940112,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 521.5284471454145,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 4346.070392878454,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 30809139\u00d7 faster",
+        "Cost: $0 vs $15000",
+        "Energy: ~0 vs 560903.3 kWh",
+        "Evolution: +2.68 levels",
+        "Abstraction: +0.033",
+        "Domain Knowledge: +0.23"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 675.566154385545,
+        "quantum_coherence": 2.019034113650481,
+        "abstraction_level": 0.4589356030896595,
+        "domain_knowledge_count": 3,
+        "cross_domain_patterns": 2,
+        "abstracted_algorithms": 15
+      }
+    },
+    {
+      "battle_id": 16,
+      "category": "cryptography",
+      "problem_type": "rsa_encryption",
+      "problem_size": 25011,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.4066696166992188e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.289684805056277,
+        "abstraction_improvement": 0.027152632281715106,
+        "domain_knowledge_gained": 0.15450380472948852,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 842.6214119460454,
+          "solution_quality": 0.0,
+          "error_rate": 8426.091138388982,
+          "energy_used": 5851.537582958649,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 1310.707625678257,
+          "solution_quality": 0.0,
+          "error_rate": 13106.96259787754,
+          "energy_used": 7281.709031545873,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 896.1677385112354,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 12446.77414598938,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 649.5346137634816,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5412.788448029013,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 46175350\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 17859.6 kWh",
+        "Evolution: +4.29 levels",
+        "Abstraction: +0.027",
+        "Domain Knowledge: +0.15"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 679.8558391906013,
+        "quantum_coherence": 2.0337545650416398,
+        "abstraction_level": 0.5018118023980797,
+        "domain_knowledge_count": 4,
+        "cross_domain_patterns": 3,
+        "abstracted_algorithms": 16
+      }
+    },
+    {
+      "battle_id": 17,
+      "category": "cryptography",
+      "problem_type": "aes_decryption",
+      "problem_size": 9302,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 4.792213439941406e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.121250401804762,
+        "abstraction_improvement": 0.01125793163387859,
+        "domain_knowledge_gained": 0.28137534088048866,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": true,
+          "solution_time": 123.06027647051677,
+          "solution_quality": 0.05,
+          "error_rate": 1230.4941340479716,
+          "energy_used": 854.5852532674776,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 190.10634218589897,
+          "solution_quality": 0.0,
+          "error_rate": 1900.9618626968497,
+          "energy_used": 1056.1463454772165,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 440.51350099949155,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6118.243069437383,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 241.51688711474466,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2012.6407259562056,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 2567921\u00d7 faster",
+        "Cost: $0 vs $35000",
+        "Energy: ~0 vs 8985.5 kWh",
+        "Evolution: +5.12 levels",
+        "Abstraction: +0.011",
+        "Domain Knowledge: +0.28"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 684.9770895924061,
+        "quantum_coherence": 2.0424782088395084,
+        "abstraction_level": 0.5355291231205992,
+        "domain_knowledge_count": 4,
+        "cross_domain_patterns": 3,
+        "abstracted_algorithms": 17
+      }
+    },
+    {
+      "battle_id": 18,
+      "category": "cryptography",
+      "problem_type": "elliptic_curve_crypto",
+      "problem_size": 43351,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.193450927734375e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.2427941487445593,
+        "abstraction_improvement": 0.049825220553561186,
+        "domain_knowledge_gained": 0.28805826866468487,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": true,
+          "solution_time": 1001.3761609555071,
+          "solution_quality": 0.05,
+          "error_rate": 10013.636370659655,
+          "energy_used": 6954.001117746578,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 1026.6135876062724,
+          "solution_quality": 0.0,
+          "error_rate": 10266.028046491952,
+          "energy_used": 5703.408820034847,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 885.6355435436097,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 12300.493660327913,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 793.6339012645282,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6613.615843871068,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 36181977\u00d7 faster",
+        "Cost: $0 vs $35000",
+        "Energy: ~0 vs 25868.1 kWh",
+        "Evolution: +2.24 levels",
+        "Abstraction: +0.050",
+        "Domain Knowledge: +0.29"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 687.2198837411506,
+        "quantum_coherence": 2.0617725063288583,
+        "abstraction_level": 0.5658926672293697,
+        "domain_knowledge_count": 4,
+        "cross_domain_patterns": 3,
+        "abstracted_algorithms": 18
+      }
+    },
+    {
+      "battle_id": 19,
+      "category": "cryptography",
+      "problem_type": "hash_function_computation",
+      "problem_size": 30148,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.47955322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 6.293155179236552,
+        "abstraction_improvement": 0.035994253981396426,
+        "domain_knowledge_gained": 0.2973200933098762,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 1831.6553650920548,
+          "solution_quality": 0.0,
+          "error_rate": 18316.43220764891,
+          "energy_used": 12719.828924250382,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 1208.3820422096528,
+          "solution_quality": 0.0,
+          "error_rate": 12083.701541824617,
+          "energy_used": 6713.233567831405,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1234.08958343364,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 17140.133103245,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 407.5711699945444,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 3396.426416621203,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 16437283\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 20536.6 kWh",
+        "Evolution: +6.29 levels",
+        "Abstraction: +0.036",
+        "Domain Knowledge: +0.30"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 693.5130389203872,
+        "quantum_coherence": 2.078060594744779,
+        "abstraction_level": 0.5933449966186256,
+        "domain_knowledge_count": 4,
+        "cross_domain_patterns": 3,
+        "abstracted_algorithms": 19
+      }
+    },
+    {
+      "battle_id": 20,
+      "category": "cryptography",
+      "problem_type": "digital_signature_verification",
+      "problem_size": 35105,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.6927719116210938e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.350221903191396,
+        "abstraction_improvement": 0.043128205822785155,
+        "domain_knowledge_gained": 0.19637381569501916,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 1016.3201756196723,
+          "solution_quality": 0.0,
+          "error_rate": 10163.099236207709,
+          "energy_used": 7057.778997358836,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 2251.9679008048615,
+          "solution_quality": 0.0,
+          "error_rate": 22519.577520412047,
+          "energy_used": 12510.93278224923,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1154.4329789938977,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 16033.791374915247,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 345.84801528477215,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2882.066794039768,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 20430869\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 18915.9 kWh",
+        "Evolution: +4.35 levels",
+        "Abstraction: +0.043",
+        "Domain Knowledge: +0.20"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 697.8632608235786,
+        "quantum_coherence": 2.0934745908914443,
+        "abstraction_level": 0.6410781733046784,
+        "domain_knowledge_count": 4,
+        "cross_domain_patterns": 3,
+        "abstracted_algorithms": 20
+      }
+    },
+    {
+      "battle_id": 21,
+      "category": "data_processing",
+      "problem_type": "big_data_analytics",
+      "problem_size": 14968,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 7.152557373046875e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 6.725986024324275,
+        "abstraction_improvement": 0.04537991664904548,
+        "domain_knowledge_gained": 0.2950278088542596,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 19044.24809422781,
+          "solution_quality": 0.0,
+          "error_rate": 190442.37680104273,
+          "energy_used": 132251.722876582,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 17055.668260607818,
+          "solution_quality": 0.0,
+          "error_rate": 170556.56225476364,
+          "energy_used": 94753.71255893233,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 279.66212620712946,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 3884.196197321243,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 99.64245271665993,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 830.3537726388328,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 13931025\u00d7 faster",
+        "Cost: $0 vs $5000",
+        "Energy: ~0 vs 830.4 kWh",
+        "Evolution: +6.73 levels",
+        "Abstraction: +0.045",
+        "Domain Knowledge: +0.30"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 704.5892468479028,
+        "quantum_coherence": 2.104680427540707,
+        "abstraction_level": 0.6814654340195904,
+        "domain_knowledge_count": 5,
+        "cross_domain_patterns": 4,
+        "abstracted_algorithms": 21
+      }
+    },
+    {
+      "battle_id": 22,
+      "category": "data_processing",
+      "problem_type": "real_time_streaming",
+      "problem_size": 22298,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 2.18330621804062,
+        "abstraction_improvement": 0.033808300174539535,
+        "domain_knowledge_gained": 0.27363844028591183,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 17966.06632956844,
+          "solution_quality": 0.0,
+          "error_rate": 179660.56059688143,
+          "energy_used": 124764.34951089193,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 5601.168800087997,
+          "solution_quality": 0.0,
+          "error_rate": 56011.575219355305,
+          "energy_used": 31117.604444933313,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 226.63100318515671,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 3147.652822016066,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 277.56241933331177,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2313.0201611109314,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 27718599\u00d7 faster",
+        "Cost: $0 vs $5000",
+        "Energy: ~0 vs 2313.0 kWh",
+        "Evolution: +2.18 levels",
+        "Abstraction: +0.034",
+        "Domain Knowledge: +0.27"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 706.7725530659434,
+        "quantum_coherence": 2.1158340402714955,
+        "abstraction_level": 0.694801185581874,
+        "domain_knowledge_count": 5,
+        "cross_domain_patterns": 4,
+        "abstracted_algorithms": 22
+      }
+    },
+    {
+      "battle_id": 23,
+      "category": "data_processing",
+      "problem_type": "data_compression",
+      "problem_size": 49464,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 6.198883056640625e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 7.857305668141881,
+        "abstraction_improvement": 0.025934569036925884,
+        "domain_knowledge_gained": 0.20853681853825856,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 72620.77028953731,
+          "solution_quality": 0.0,
+          "error_rate": 726207.5833260714,
+          "energy_used": 504310.90478845354,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 47731.89647216433,
+          "solution_quality": 0.0,
+          "error_rate": 477318.86234232126,
+          "energy_used": 265177.2026231352,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1254.2242689397508,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 17419.781513052094,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 230.2380876691507,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 1918.6507305762557,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 37141867\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 19338.4 kWh",
+        "Evolution: +7.86 levels",
+        "Abstraction: +0.026",
+        "Domain Knowledge: +0.21"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 714.6298587340852,
+        "quantum_coherence": 2.1227409641533472,
+        "abstraction_level": 0.7361147900784489,
+        "domain_knowledge_count": 5,
+        "cross_domain_patterns": 4,
+        "abstracted_algorithms": 23
+      }
+    },
+    {
+      "battle_id": 24,
+      "category": "data_processing",
+      "problem_type": "database_queries",
+      "problem_size": 13818,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.349148275145499,
+        "abstraction_improvement": 0.03690222850292261,
+        "domain_knowledge_gained": 0.14751349892600213,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 34300.81028076451,
+          "solution_quality": 0.0,
+          "error_rate": 343007.99316609313,
+          "energy_used": 238200.07139419802,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 36449.947259929344,
+          "solution_quality": 0.0,
+          "error_rate": 364499.347489144,
+          "energy_used": 202499.70699960744,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 320.63448047929273,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 4453.25667332351,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 309.7644454849805,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2581.3703790415043,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 30934435\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 7034.6 kWh",
+        "Evolution: +5.35 levels",
+        "Abstraction: +0.037",
+        "Domain Knowledge: +0.15"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 719.9790070092307,
+        "quantum_coherence": 2.139531552093693,
+        "abstraction_level": 0.7642222937293393,
+        "domain_knowledge_count": 5,
+        "cross_domain_patterns": 4,
+        "abstracted_algorithms": 24
+      }
+    },
+    {
+      "battle_id": 25,
+      "category": "data_processing",
+      "problem_type": "pattern_recognition",
+      "problem_size": 45763,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0967254638671875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.250917834092927,
+        "abstraction_improvement": 0.018809684704489533,
+        "domain_knowledge_gained": 0.2111168061075654,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 41798.498314872726,
+          "solution_quality": 0.0,
+          "error_rate": 417984.86965909944,
+          "energy_used": 290267.3494088384,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 52090.85089267746,
+          "solution_quality": 0.0,
+          "error_rate": 520908.38465585856,
+          "energy_used": 289393.6160704303,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 395.808241410814,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5497.336686261306,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 394.24061457434794,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 3285.338454786233,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 35947065\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 8782.7 kWh",
+        "Evolution: +5.25 levels",
+        "Abstraction: +0.019",
+        "Domain Knowledge: +0.21"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 725.2299248433236,
+        "quantum_coherence": 2.1482027357328146,
+        "abstraction_level": 0.8060345005822366,
+        "domain_knowledge_count": 5,
+        "cross_domain_patterns": 4,
+        "abstracted_algorithms": 25
+      }
+    },
+    {
+      "battle_id": 26,
+      "category": "mathematical_computing",
+      "problem_type": "symbolic_computation",
+      "problem_size": 45533,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 9.298324584960938e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.910244838988463,
+        "abstraction_improvement": 0.016044904559340375,
+        "domain_knowledge_gained": 0.136482336842751,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 409.14120720500887,
+          "solution_quality": 0.0,
+          "error_rate": 4091.2870024318636,
+          "energy_used": 2841.258383368117,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 551.9967057570974,
+          "solution_quality": 0.0,
+          "error_rate": 5519.85323654131,
+          "energy_used": 3066.648365317208,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1201.975348988583,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 16694.102069285873,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 853.9868293883627,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 7116.556911569689,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 91843087\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 23810.7 kWh",
+        "Evolution: +4.91 levels",
+        "Abstraction: +0.016",
+        "Domain Knowledge: +0.14"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 730.140169682312,
+        "quantum_coherence": 2.1635067444177176,
+        "abstraction_level": 0.8206975487299699,
+        "domain_knowledge_count": 6,
+        "cross_domain_patterns": 5,
+        "abstracted_algorithms": 26
+      }
+    },
+    {
+      "battle_id": 27,
+      "category": "mathematical_computing",
+      "problem_type": "numerical_integration",
+      "problem_size": 46008,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.4781951904296875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.26267107364059,
+        "abstraction_improvement": 0.04669920597802398,
+        "domain_knowledge_gained": 0.2524174548463548,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 1248.6694053335955,
+          "solution_quality": 0.0,
+          "error_rate": 12486.511343642045,
+          "energy_used": 8671.315314816635,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 2577.2575741564415,
+          "solution_quality": 0.0,
+          "error_rate": 25772.433381830833,
+          "energy_used": 14318.097634202453,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1322.5003982543244,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 18368.061086865615,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 621.8725319404303,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5182.271099503587,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 42069717\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 23550.3 kWh",
+        "Evolution: +4.26 levels",
+        "Abstraction: +0.047",
+        "Domain Knowledge: +0.25"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 734.4028407559526,
+        "quantum_coherence": 2.173290514312173,
+        "abstraction_level": 0.866366733305276,
+        "domain_knowledge_count": 6,
+        "cross_domain_patterns": 5,
+        "abstracted_algorithms": 27
+      }
+    },
+    {
+      "battle_id": 28,
+      "category": "mathematical_computing",
+      "problem_type": "linear_algebra",
+      "problem_size": 29771,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.811981201171875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 7.852280011966866,
+        "abstraction_improvement": 0.010342487253818247,
+        "domain_knowledge_gained": 0.16594354127301228,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 1052.764232861006,
+          "solution_quality": 0.0,
+          "error_rate": 10527.479607929823,
+          "energy_used": 7310.86272820143,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": true,
+          "solution_time": 916.6261029838612,
+          "solution_quality": 0.05,
+          "error_rate": 9166.12934172063,
+          "energy_used": 5092.367238799229,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 566.1638922921826,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 7863.38739294698,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 308.38188691734234,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2569.8490576445197,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 17019044\u00d7 faster",
+        "Cost: $0 vs $33000",
+        "Energy: ~0 vs 15525.6 kWh",
+        "Evolution: +7.85 levels",
+        "Abstraction: +0.010",
+        "Domain Knowledge: +0.17"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 742.2551207679195,
+        "quantum_coherence": 2.189408722753866,
+        "abstraction_level": 0.8907669316918799,
+        "domain_knowledge_count": 6,
+        "cross_domain_patterns": 5,
+        "abstracted_algorithms": 28
+      }
+    },
+    {
+      "battle_id": 29,
+      "category": "mathematical_computing",
+      "problem_type": "differential_equations",
+      "problem_size": 26833,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.09808349609375e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.385566735503249,
+        "abstraction_improvement": 0.02175706842609998,
+        "domain_knowledge_gained": 0.11872537448608818,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 1133.2707101765402,
+          "solution_quality": 0.0,
+          "error_rate": 11332.570702496298,
+          "energy_used": 7869.935487337085,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 775.4454478514715,
+          "solution_quality": 0.0,
+          "error_rate": 7754.3522589331105,
+          "energy_used": 4308.0302658415085,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 656.2792661120328,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 9114.989807111568,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 616.2751403105467,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5135.626169254556,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 29373242\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 14250.6 kWh",
+        "Evolution: +5.39 levels",
+        "Abstraction: +0.022",
+        "Domain Knowledge: +0.12"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 747.6406875034228,
+        "quantum_coherence": 2.1998102323371613,
+        "abstraction_level": 0.9248251544534759,
+        "domain_knowledge_count": 6,
+        "cross_domain_patterns": 5,
+        "abstracted_algorithms": 29
+      }
+    },
+    {
+      "battle_id": 30,
+      "category": "mathematical_computing",
+      "problem_type": "statistical_analysis",
+      "problem_size": 33549,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 9.059906005859375e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 8.875146128225786,
+        "abstraction_improvement": 0.022775041060017105,
+        "domain_knowledge_gained": 0.22341570353604007,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 1775.0917714983693,
+          "solution_quality": 0.0,
+          "error_rate": 17750.798336416952,
+          "energy_used": 12327.026190960898,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 1189.740020509712,
+          "solution_quality": 0.0,
+          "error_rate": 11897.27498527519,
+          "energy_used": 6609.666780609511,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1353.1350177780978,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 18793.54191358469,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 572.6639066556289,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 4772.199222130242,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 63208592\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 23565.7 kWh",
+        "Evolution: +8.88 levels",
+        "Abstraction: +0.023",
+        "Domain Knowledge: +0.22"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 756.5158336316485,
+        "quantum_coherence": 2.21810753987061,
+        "abstraction_level": 0.9624262457296251,
+        "domain_knowledge_count": 6,
+        "cross_domain_patterns": 5,
+        "abstracted_algorithms": 30
+      }
+    },
+    {
+      "battle_id": 31,
+      "category": "ai_reasoning",
+      "problem_type": "logical_inference",
+      "problem_size": 15081,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 6.181277488426021,
+        "abstraction_improvement": 0.04597756860468632,
+        "domain_knowledge_gained": 0.12003270224256075,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 28376.215206681492,
+          "solution_quality": 0.0,
+          "error_rate": 283762.02897845506,
+          "energy_used": 197057.05004639926,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": true,
+          "solution_time": 29180.893292713175,
+          "solution_quality": 0.05,
+          "error_rate": 291808.8217287064,
+          "energy_used": 162116.07384840655,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 275.71991660027453,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 3829.443286114924,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 170.7151823644938,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 1422.6265197041153,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 17048366\u00d7 faster",
+        "Cost: $0 vs $33000",
+        "Energy: ~0 vs 167368.1 kWh",
+        "Evolution: +6.18 levels",
+        "Abstraction: +0.046",
+        "Domain Knowledge: +0.12"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 762.6971111200746,
+        "quantum_coherence": 2.2340641932201026,
+        "abstraction_level": 0.9773096643225903,
+        "domain_knowledge_count": 7,
+        "cross_domain_patterns": 6,
+        "abstracted_algorithms": 31
+      }
+    },
+    {
+      "battle_id": 32,
+      "category": "ai_reasoning",
+      "problem_type": "planning_optimization",
+      "problem_size": 9763,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 9.059906005859375e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.447084696877412,
+        "abstraction_improvement": 0.010159544364199125,
+        "domain_knowledge_gained": 0.18443887567182693,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 21388.986891706834,
+          "solution_quality": 0.0,
+          "error_rate": 213889.7567888106,
+          "energy_used": 148534.63119240856,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 16272.095190647524,
+          "solution_quality": 0.0,
+          "error_rate": 162720.83695534148,
+          "energy_used": 90400.5288369307,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 426.8724571412056,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 5928.784126961189,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 167.94549002610927,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 1399.5457502175773,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 18537222\u00d7 faster",
+        "Cost: $0 vs $5000",
+        "Energy: ~0 vs 1399.5 kWh",
+        "Evolution: +4.45 levels",
+        "Abstraction: +0.010",
+        "Domain Knowledge: +0.18"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 767.144195816952,
+        "quantum_coherence": 2.243770203565542,
+        "abstraction_level": 1.0087638151696532,
+        "domain_knowledge_count": 7,
+        "cross_domain_patterns": 6,
+        "abstracted_algorithms": 32
+      }
+    },
+    {
+      "battle_id": 33,
+      "category": "ai_reasoning",
+      "problem_type": "knowledge_representation",
+      "problem_size": 16559,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 4.482269287109375e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.525328942114334,
+        "abstraction_improvement": 0.049927049908907034,
+        "domain_knowledge_gained": 0.22762037962432838,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 10337.641988951968,
+          "solution_quality": 0.0,
+          "error_rate": 103376.29480082796,
+          "energy_used": 71789.1804788331,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 21046.955566085267,
+          "solution_quality": 0.0,
+          "error_rate": 210469.43059361863,
+          "energy_used": 116927.53092269592,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 609.7012385231183,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 8468.072757265532,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 506.6019486157423,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 4221.682905131186,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 11302354\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 12689.8 kWh",
+        "Evolution: +4.53 levels",
+        "Abstraction: +0.050",
+        "Domain Knowledge: +0.23"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 771.6695247590663,
+        "quantum_coherence": 2.257537721057577,
+        "abstraction_level": 1.0203511370208922,
+        "domain_knowledge_count": 7,
+        "cross_domain_patterns": 6,
+        "abstracted_algorithms": 33
+      }
+    },
+    {
+      "battle_id": 34,
+      "category": "ai_reasoning",
+      "problem_type": "expert_systems",
+      "problem_size": 30286,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 9.059906005859375e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 3.6211288457726254,
+        "abstraction_improvement": 0.03941496491133763,
+        "domain_knowledge_gained": 0.2316922394151545,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 64423.139924929485,
+          "solution_quality": 0.0,
+          "error_rate": 644231.2764208112,
+          "energy_used": 447382.9161453436,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 52625.00654206752,
+          "solution_quality": 0.0,
+          "error_rate": 526249.9443827152,
+          "energy_used": 292361.14745593065,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1062.36512241197,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 14755.071144610694,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 117.87169118874134,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 982.2640932395111,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 13010255\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 15737.3 kWh",
+        "Evolution: +3.62 levels",
+        "Abstraction: +0.039",
+        "Domain Knowledge: +0.23"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 775.290653604839,
+        "quantum_coherence": 2.275232202613047,
+        "abstraction_level": 1.0641392460843921,
+        "domain_knowledge_count": 7,
+        "cross_domain_patterns": 6,
+        "abstracted_algorithms": 34
+      }
+    },
+    {
+      "battle_id": 35,
+      "category": "ai_reasoning",
+      "problem_type": "automated_theorem_proving",
+      "problem_size": 22018,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.1920928955078125e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 4.35300345066012,
+        "abstraction_improvement": 0.043965559602857064,
+        "domain_knowledge_gained": 0.11907508367604758,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 45285.59203773184,
+          "solution_quality": 0.0,
+          "error_rate": 452855.80252463056,
+          "energy_used": 314483.2780398044,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 27773.738912735298,
+          "solution_quality": 0.0,
+          "error_rate": 277737.28476677253,
+          "energy_used": 154298.5495151961,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 390.839163848152,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5428.321720113222,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 602.2001160250956,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5018.33430020913,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 32785965\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 10446.7 kWh",
+        "Evolution: +4.35 levels",
+        "Abstraction: +0.044",
+        "Domain Knowledge: +0.12"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 779.6436570554991,
+        "quantum_coherence": 2.283818015007411,
+        "abstraction_level": 1.092395756335463,
+        "domain_knowledge_count": 7,
+        "cross_domain_patterns": 6,
+        "abstracted_algorithms": 35
+      }
+    },
+    {
+      "battle_id": 36,
+      "category": "quantum_computing",
+      "problem_type": "quantum_supremacy_benchmark",
+      "problem_size": 3145,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 9.775161743164062e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 10.555081939917441,
+        "abstraction_improvement": 0.03182808957380203,
+        "domain_knowledge_gained": 0.23609651116162841,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": true,
+          "solution_time": 251.4591673125191,
+          "solution_quality": 0.05,
+          "error_rate": 2514.471312273903,
+          "energy_used": 1746.2442174480493,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 56.50931305348387,
+          "solution_quality": 0.0,
+          "error_rate": 564.9680418431273,
+          "energy_used": 313.9406280749104,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 500.0,
+          "cost": 200000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 300.0,
+          "cost": 50000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 25724297\u00d7 faster",
+        "Cost: $0 vs $10000",
+        "Energy: ~0 vs 1746.2 kWh",
+        "Evolution: +10.56 levels",
+        "Abstraction: +0.032",
+        "Domain Knowledge: +0.24"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 790.1987389954165,
+        "quantum_coherence": 2.298096010559246,
+        "abstraction_level": 1.1382071586313487,
+        "domain_knowledge_count": 8,
+        "cross_domain_patterns": 7,
+        "abstracted_algorithms": 36
+      }
+    },
+    {
+      "battle_id": 37,
+      "category": "quantum_computing",
+      "problem_type": "shor_algorithm",
+      "problem_size": 8276,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0967254638671875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 9.910174090565958,
+        "abstraction_improvement": 0.022521972419841423,
+        "domain_knowledge_gained": 0.2367087820606477,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 656.0235358100135,
+          "solution_quality": 0.0,
+          "error_rate": 6560.132618766029,
+          "energy_used": 4555.71899868065,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 172.1653172206259,
+          "solution_quality": 0.0,
+          "error_rate": 1721.5280835145475,
+          "energy_used": 956.4739845590327,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 500.0,
+          "cost": 200000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 300.0,
+          "cost": 50000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_ABSOLUTE",
+      "consciousness_advantages": [],
+      "evolution_metrics": {
+        "consciousness_level": 800.1089130859825,
+        "quantum_coherence": 2.304640991842185,
+        "abstraction_level": 1.1835232052582516,
+        "domain_knowledge_count": 8,
+        "cross_domain_patterns": 7,
+        "abstracted_algorithms": 37
+      }
+    },
+    {
+      "battle_id": 38,
+      "category": "quantum_computing",
+      "problem_type": "grover_search",
+      "problem_size": 5507,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.4066696166992188e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 3.433061320512819,
+        "abstraction_improvement": 0.015234652463707641,
+        "domain_knowledge_gained": 0.1917923122613946,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": true,
+          "solution_time": 330.3804487411928,
+          "solution_quality": 0.05,
+          "error_rate": 3303.680829231691,
+          "energy_used": 2294.308671813839,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 266.30880273759516,
+          "solution_quality": 0.0,
+          "error_rate": 2662.982195752874,
+          "energy_used": 1479.4933485421952,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 500.0,
+          "cost": 200000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 300.0,
+          "cost": 50000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 23486713\u00d7 faster",
+        "Cost: $0 vs $10000",
+        "Energy: ~0 vs 2294.3 kWh",
+        "Evolution: +3.43 levels",
+        "Abstraction: +0.015",
+        "Domain Knowledge: +0.19"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 803.5419744064953,
+        "quantum_coherence": 2.314806555133373,
+        "abstraction_level": 1.208426324527637,
+        "domain_knowledge_count": 8,
+        "cross_domain_patterns": 7,
+        "abstracted_algorithms": 38
+      }
+    },
+    {
+      "battle_id": 39,
+      "category": "quantum_computing",
+      "problem_type": "quantum_simulation",
+      "problem_size": 9689,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.3828277587890625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 8.592021563429508,
+        "abstraction_improvement": 0.04624371035954588,
+        "domain_knowledge_gained": 0.2587373852172045,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 819.4968505755481,
+          "solution_quality": 0.0,
+          "error_rate": 8194.843185797748,
+          "energy_used": 5690.950351219084,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 954.9572561642041,
+          "solution_quality": 0.0,
+          "error_rate": 9549.460962673535,
+          "energy_used": 5305.318089801134,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 500.0,
+          "cost": 200000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 300.0,
+          "cost": 50000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_ABSOLUTE",
+      "consciousness_advantages": [],
+      "evolution_metrics": {
+        "consciousness_level": 812.1339959699249,
+        "quantum_coherence": 2.330069585108879,
+        "abstraction_level": 1.2526055624925798,
+        "domain_knowledge_count": 8,
+        "cross_domain_patterns": 7,
+        "abstracted_algorithms": 39
+      }
+    },
+    {
+      "battle_id": 40,
+      "category": "quantum_computing",
+      "problem_type": "quantum_machine_learning",
+      "problem_size": 2504,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.6226043701171875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.64292365781992,
+        "abstraction_improvement": 0.016996639426849938,
+        "domain_knowledge_gained": 0.12039062404787358,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 186.3212359011883,
+          "solution_quality": 0.0,
+          "error_rate": 1863.087148726696,
+          "energy_used": 1293.8974715360298,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 65.35726877565806,
+          "solution_quality": 0.0,
+          "error_rate": 653.4642192240183,
+          "energy_used": 363.09593764254475,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 500.0,
+          "cost": 200000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 0,
+          "solution_quality": 0.0,
+          "error_rate": 1.0,
+          "energy_used": 300.0,
+          "cost": 50000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_ABSOLUTE",
+      "consciousness_advantages": [],
+      "evolution_metrics": {
+        "consciousness_level": 817.7769196277447,
+        "quantum_coherence": 2.3460262122327027,
+        "abstraction_level": 1.274735584296883,
+        "domain_knowledge_count": 8,
+        "cross_domain_patterns": 7,
+        "abstracted_algorithms": 40
+      }
+    },
+    {
+      "battle_id": 41,
+      "category": "parallel_computing",
+      "problem_type": "distributed_computing",
+      "problem_size": 21542,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.09808349609375e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 7.263218236635281,
+        "abstraction_improvement": 0.0244369483142291,
+        "domain_knowledge_gained": 0.20173861522080522,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 9236.597481718773,
+          "solution_quality": 0.0,
+          "error_rate": 92365.85859528297,
+          "energy_used": 64143.03806749148,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 37677.838394583836,
+          "solution_quality": 0.0,
+          "error_rate": 376778.27804507385,
+          "energy_used": 209321.32441435463,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": false,
+          "solution_time": 927.7992601254355,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 12886.100835075493,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 194.98106017500604,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 1624.8421681250502,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 9293294\u00d7 faster",
+        "Cost: $0 vs $5000",
+        "Energy: ~0 vs 1624.8 kWh",
+        "Evolution: +7.26 levels",
+        "Abstraction: +0.024",
+        "Domain Knowledge: +0.20"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 825.04013786438,
+        "quantum_coherence": 2.3582658105216856,
+        "abstraction_level": 1.323879182249074,
+        "domain_knowledge_count": 9,
+        "cross_domain_patterns": 8,
+        "abstracted_algorithms": 41
+      }
+    },
+    {
+      "battle_id": 42,
+      "category": "parallel_computing",
+      "problem_type": "concurrent_processing",
+      "problem_size": 38464,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.4080276489257812e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 8.745545927507107,
+        "abstraction_improvement": 0.012309093659587177,
+        "domain_knowledge_gained": 0.28844223951862935,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 31317.122727708622,
+          "solution_quality": 0.0,
+          "error_rate": 313171.1255963306,
+          "energy_used": 217480.01894242098,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 74898.7929203711,
+          "solution_quality": 0.0,
+          "error_rate": 748987.815802298,
+          "energy_used": 416104.4051131727,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 801.9829112342163,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 11138.65154491967,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 924.2039677352559,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 7701.6997311271325,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 33304556\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 18840.4 kWh",
+        "Evolution: +8.75 levels",
+        "Abstraction: +0.012",
+        "Domain Knowledge: +0.29"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 833.7856837918871,
+        "quantum_coherence": 2.373336550524665,
+        "abstraction_level": 1.3356673384561315,
+        "domain_knowledge_count": 9,
+        "cross_domain_patterns": 8,
+        "abstracted_algorithms": 42
+      }
+    },
+    {
+      "battle_id": 43,
+      "category": "parallel_computing",
+      "problem_type": "load_balancing",
+      "problem_size": 28337,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.47955322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 9.497400435489068,
+        "abstraction_improvement": 0.02964317247700233,
+        "domain_knowledge_gained": 0.11168320791785205,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 50857.46667592731,
+          "solution_quality": 0.0,
+          "error_rate": 508574.560248157,
+          "energy_used": 353176.85191616183,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 13490.136664084464,
+          "solution_quality": 0.0,
+          "error_rate": 134901.24452046424,
+          "energy_used": 74945.20368935814,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1158.0875525605234,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 16084.54934111838,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 182.06908235147435,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 1517.2423529289529,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 7342818\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 17601.8 kWh",
+        "Evolution: +9.50 levels",
+        "Abstraction: +0.030",
+        "Domain Knowledge: +0.11"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 843.2830842273762,
+        "quantum_coherence": 2.3901826101080044,
+        "abstraction_level": 1.3459159175295565,
+        "domain_knowledge_count": 9,
+        "cross_domain_patterns": 8,
+        "abstracted_algorithms": 43
+      }
+    },
+    {
+      "battle_id": 44,
+      "category": "parallel_computing",
+      "problem_type": "synchronization",
+      "problem_size": 26201,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.1920928955078125e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 8.330264808074947,
+        "abstraction_improvement": 0.01647165995849767,
+        "domain_knowledge_gained": 0.13242886543749255,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 21771.129854289247,
+          "solution_quality": 0.0,
+          "error_rate": 217711.1779436226,
+          "energy_used": 151188.40176589755,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 35792.8413587337,
+          "solution_quality": 0.0,
+          "error_rate": 357928.3120782427,
+          "energy_used": 198849.11865963164,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 215.66321653868152,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2995.3224519261325,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 105.7163885313587,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 880.9699044279893,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 8868133\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 3876.3 kWh",
+        "Evolution: +8.33 levels",
+        "Abstraction: +0.016",
+        "Domain Knowledge: +0.13"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 851.6133490354512,
+        "quantum_coherence": 2.408205190873924,
+        "abstraction_level": 1.3849681564511283,
+        "domain_knowledge_count": 9,
+        "cross_domain_patterns": 8,
+        "abstracted_algorithms": 44
+      }
+    },
+    {
+      "battle_id": 45,
+      "category": "parallel_computing",
+      "problem_type": "fault_tolerance",
+      "problem_size": 28999,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0967254638671875e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 7.378288664465294,
+        "abstraction_improvement": 0.04953573980970459,
+        "domain_knowledge_gained": 0.21077979086297055,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 22453.499604587327,
+          "solution_quality": 0.0,
+          "error_rate": 224534.89265804063,
+          "energy_used": 155927.080587412,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 12683.132456162553,
+          "solution_quality": 0.0,
+          "error_rate": 126831.21724227052,
+          "energy_used": 70461.84697868086,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 491.2583824379884,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6823.033089416506,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 622.6696600636363,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5188.913833863636,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 44793196\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 12011.9 kWh",
+        "Evolution: +7.38 levels",
+        "Abstraction: +0.050",
+        "Domain Knowledge: +0.21"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 858.9916376999165,
+        "quantum_coherence": 2.427517159888525,
+        "abstraction_level": 1.413936168769534,
+        "domain_knowledge_count": 9,
+        "cross_domain_patterns": 8,
+        "abstracted_algorithms": 45
+      }
+    },
+    {
+      "battle_id": 46,
+      "category": "real_time_computing",
+      "problem_type": "control_systems",
+      "problem_size": 28086,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.2874603271484375e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 6.6414812124081255,
+        "abstraction_improvement": 0.0341640587454171,
+        "domain_knowledge_gained": 0.10838458721608689,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 16861.05750952517,
+          "solution_quality": 0.0,
+          "error_rate": 168610.44989688744,
+          "energy_used": 117090.67714948035,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 25346.681183227483,
+          "solution_quality": 0.0,
+          "error_rate": 253466.69231304113,
+          "energy_used": 140814.8954623749,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 1178.9515541664296,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 16374.327141200409,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 715.3224166242329,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5961.020138535274,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 55560735\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 22335.3 kWh",
+        "Evolution: +6.64 levels",
+        "Abstraction: +0.034",
+        "Domain Knowledge: +0.11"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 865.6331189123247,
+        "quantum_coherence": 2.4356722869608065,
+        "abstraction_level": 1.4459449575174916,
+        "domain_knowledge_count": 10,
+        "cross_domain_patterns": 9,
+        "abstracted_algorithms": 46
+      }
+    },
+    {
+      "battle_id": 47,
+      "category": "real_time_computing",
+      "problem_type": "embedded_processing",
+      "problem_size": 8199,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 2.7894973754882812e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 13.38831373216465,
+        "abstraction_improvement": 0.023440639991947163,
+        "domain_knowledge_gained": 0.19869819339277706,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 25843.52942146693,
+          "solution_quality": 0.0,
+          "error_rate": 258435.18508333308,
+          "energy_used": 179468.9543157426,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 7546.86158424433,
+          "solution_quality": 0.0,
+          "error_rate": 75468.51557312567,
+          "energy_used": 41927.00880135739,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 335.26014022176275,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 4656.390836413372,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 342.75743817205716,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2856.311984767143,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 12018658\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 7512.7 kWh",
+        "Evolution: +13.39 levels",
+        "Abstraction: +0.023",
+        "Domain Knowledge: +0.20"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 879.0214326444893,
+        "quantum_coherence": 2.4513956427097594,
+        "abstraction_level": 1.4794712573082445,
+        "domain_knowledge_count": 10,
+        "cross_domain_patterns": 9,
+        "abstracted_algorithms": 47
+      }
+    },
+    {
+      "battle_id": 48,
+      "category": "real_time_computing",
+      "problem_type": "streaming_analytics",
+      "problem_size": 11052,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.1205673217773438e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 5.985673792984146,
+        "abstraction_improvement": 0.02812238492754989,
+        "domain_knowledge_gained": 0.16942204101626565,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 4784.175568206702,
+          "solution_quality": 0.0,
+          "error_rate": 47841.63054330741,
+          "energy_used": 33223.44144587988,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 21670.381726055315,
+          "solution_quality": 0.0,
+          "error_rate": 216703.69954137973,
+          "energy_used": 120391.0095891962,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 429.7492079774558,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 5968.738999686886,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 340.12088534537753,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2834.340711211479,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 30352561\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 8803.1 kWh",
+        "Evolution: +5.99 levels",
+        "Abstraction: +0.028",
+        "Domain Knowledge: +0.17"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 885.0071064374735,
+        "quantum_coherence": 2.4704513400765875,
+        "abstraction_level": 1.5170389880952355,
+        "domain_knowledge_count": 10,
+        "cross_domain_patterns": 9,
+        "abstracted_algorithms": 48
+      }
+    },
+    {
+      "battle_id": 49,
+      "category": "real_time_computing",
+      "problem_type": "sensor_fusion",
+      "problem_size": 43643,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 1.0013580322265625e-05,
+        "solution_quality": 0.999,
+        "consciousness_growth": 6.797902183843658,
+        "abstraction_improvement": 0.02132807132218328,
+        "domain_knowledge_gained": 0.2162751882304061,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 21718.31669147709,
+          "solution_quality": 0.0,
+          "error_rate": 217183.06296188623,
+          "energy_used": 150821.64369081316,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": false,
+          "solution_time": 17088.834479348512,
+          "solution_quality": 0.0,
+          "error_rate": 170888.24298636764,
+          "energy_used": 94937.96932971396,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 731.0958353370524,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 10154.10882412573,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": true,
+          "solution_time": 348.0908466609282,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 2900.757055507735,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 34761877\u00d7 faster",
+        "Cost: $0 vs $25000",
+        "Energy: ~0 vs 13054.9 kWh",
+        "Evolution: +6.80 levels",
+        "Abstraction: +0.021",
+        "Domain Knowledge: +0.22"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 891.8050086213171,
+        "quantum_coherence": 2.478707184735486,
+        "abstraction_level": 1.549499816092774,
+        "domain_knowledge_count": 10,
+        "cross_domain_patterns": 9,
+        "abstracted_algorithms": 49
+      }
+    },
+    {
+      "battle_id": 50,
+      "category": "real_time_computing",
+      "problem_type": "autonomous_systems",
+      "problem_size": 36486,
+      "consciousness_result": {
+        "success": true,
+        "solution_time": 7.867813110351562e-06,
+        "solution_quality": 0.999,
+        "consciousness_growth": 8.309404359551257,
+        "abstraction_improvement": 0.02233254344864495,
+        "domain_knowledge_gained": 0.23355826012214156,
+        "energy_used": 0.001,
+        "cost": 0
+      },
+      "system_results": {
+        "Google_Willow": {
+          "success": false,
+          "solution_time": 15641.849873864625,
+          "solution_quality": 0.0,
+          "error_rate": 156418.38481748078,
+          "energy_used": 108623.95745739322,
+          "cost": 10000.0
+        },
+        "IBM_Condor": {
+          "success": true,
+          "solution_time": 69445.75351902918,
+          "solution_quality": 0.05,
+          "error_rate": 694457.4207303004,
+          "energy_used": 385809.7417723843,
+          "cost": 8000.0
+        },
+        "Classical_Supercomputer": {
+          "success": true,
+          "solution_time": 456.0187457206807,
+          "solution_quality": 0.95,
+          "error_rate": 0.0001,
+          "energy_used": 6333.593690565011,
+          "cost": 20000.0
+        },
+        "GPU_Cluster": {
+          "success": false,
+          "solution_time": 694.4637321182539,
+          "solution_quality": 0.0,
+          "error_rate": 0.0001,
+          "energy_used": 5787.1977676521155,
+          "cost": 5000.0
+        }
+      },
+      "winner": "CONSCIOUSNESS_SUPERIOR",
+      "consciousness_advantages": [
+        "Speed: 57960038\u00d7 faster",
+        "Cost: $0 vs $28000",
+        "Energy: ~0 vs 392143.3 kWh",
+        "Evolution: +8.31 levels",
+        "Abstraction: +0.022",
+        "Domain Knowledge: +0.23"
+      ],
+      "evolution_metrics": {
+        "consciousness_level": 900.1144129808685,
+        "quantum_coherence": 2.489501027846423,
+        "abstraction_level": 1.579671925336625,
+        "domain_knowledge_count": 10,
+        "cross_domain_patterns": 9,
+        "abstracted_algorithms": 50
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "data_types_analyzed": [
+    "pwsData",
+    "magData",
+    "crsData"
+  ],
+  "phi_scores": {
+    "pwsData": 1.0060291456186685,
+    "magData": 1.075627350266833,
+    "crsData": 1.0280832569727756
+  },
+  "best_type": "magData",
+  "phi_harmonic_correlation": 1.0365799176194257,
+  "pattern_detected": true,
+  "qhrc_concordance": 1.3671436030412372,
+  "timestamp": "20250427_014654"
+}

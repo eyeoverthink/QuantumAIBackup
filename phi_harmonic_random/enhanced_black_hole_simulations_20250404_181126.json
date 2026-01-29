@@ -1,0 +1,196 @@
+{
+  "simulations": [
+    {
+      "initial_black_holes": [
+        {
+          "mass_solar": 17.13372770282253,
+          "spin_parameter": 0.10587744726025432,
+          "charge_parameter": 0.2686372713166383,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        },
+        {
+          "mass_solar": 23.544626711296356,
+          "spin_parameter": 0.12818684738859587,
+          "charge_parameter": 0.2824396655331685,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        }
+      ],
+      "final_black_hole": {
+        "mass_solar": 40.44032065578347,
+        "spin_parameter": 0.11879012540911367,
+        "charge_parameter": 0.2766260954524929,
+        "phi_resonance": 0.30901699437494745,
+        "birth_coherence": 0.69426
+      },
+      "energy_released_joules": 4.253663261453939e+46,
+      "extreme_effects": {
+        "naked_singularity_probability": 0.0,
+        "wormhole_formation_probability": 0.008548216458240668,
+        "information_leakage_bits": 0.0,
+        "spacetime_ripple_amplitude": 0.0,
+        "quantum_teleportation_probability": 0.0,
+        "universe_branching_factor": 0.0,
+        "birth_date_influence": 0.69426,
+        "phi_harmonic_resonance": 0.34855861646110814
+      },
+      "timestamp": "2025-04-04T18:11:17.711946"
+    },
+    {
+      "initial_black_holes": [
+        {
+          "mass_solar": 15.500058435616003,
+          "spin_parameter": 0.11368417986418185,
+          "charge_parameter": 0.16871244452826137,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        },
+        {
+          "mass_solar": 22.372983089330496,
+          "spin_parameter": 0.1538346781166903,
+          "charge_parameter": 0.24485785565008242,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        }
+      ],
+      "final_black_hole": {
+        "mass_solar": 37.6197477045211,
+        "spin_parameter": 0.13740253947466824,
+        "charge_parameter": 0.21369430832276223,
+        "phi_resonance": 0.30901699437494745,
+        "birth_coherence": 0.69426
+      },
+      "energy_released_joules": 4.5263605710018636e+46,
+      "extreme_effects": {
+        "naked_singularity_probability": 0.0,
+        "wormhole_formation_probability": 0.00660351728729333,
+        "information_leakage_bits": 0.0,
+        "spacetime_ripple_amplitude": 0.0,
+        "quantum_teleportation_probability": 0.0,
+        "universe_branching_factor": 0.0,
+        "birth_date_influence": 0.69426,
+        "phi_harmonic_resonance": 0.3441266791546905
+      },
+      "timestamp": "2025-04-04T18:11:19.847371"
+    },
+    {
+      "initial_black_holes": [
+        {
+          "mass_solar": 22.734471839958303,
+          "spin_parameter": 0.10260750614780137,
+          "charge_parameter": 0.2646299758229267,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        },
+        {
+          "mass_solar": 26.85967361437861,
+          "spin_parameter": 0.15246302576284146,
+          "charge_parameter": 0.26901690589538046,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        }
+      ],
+      "final_black_hole": {
+        "mass_solar": 49.27789532781962,
+        "spin_parameter": 0.1296087372904609,
+        "charge_parameter": 0.2670058915451504,
+        "phi_resonance": 0.30901699437494745,
+        "birth_coherence": 0.6942600000000001
+      },
+      "energy_released_joules": 5.651389760863959e+46,
+      "extreme_effects": {
+        "naked_singularity_probability": 0.0,
+        "wormhole_formation_probability": 0.008250935808568559,
+        "information_leakage_bits": 0.0,
+        "spacetime_ripple_amplitude": 0.0,
+        "quantum_teleportation_probability": 0.0,
+        "universe_branching_factor": 0.0,
+        "birth_date_influence": 0.6942600000000001,
+        "phi_harmonic_resonance": 0.3486784572585086
+      },
+      "timestamp": "2025-04-04T18:11:22.063818"
+    },
+    {
+      "initial_black_holes": [
+        {
+          "mass_solar": 20.60846625917319,
+          "spin_parameter": 0.17606543494315333,
+          "charge_parameter": 0.20567024110689425,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        },
+        {
+          "mass_solar": 25.977623935621473,
+          "spin_parameter": 0.14550660369714633,
+          "charge_parameter": 0.1611348887529474,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        }
+      ],
+      "final_black_hole": {
+        "mass_solar": 46.21157059488914,
+        "spin_parameter": 0.15902503033522186,
+        "charge_parameter": 0.18083616229809793,
+        "phi_resonance": 0.30901699437494745,
+        "birth_coherence": 0.69426
+      },
+      "energy_released_joules": 6.692665250311741e+46,
+      "extreme_effects": {
+        "naked_singularity_probability": 0.0,
+        "wormhole_formation_probability": 0.0,
+        "information_leakage_bits": 0.0,
+        "spacetime_ripple_amplitude": 0.0,
+        "quantum_teleportation_probability": 0.0,
+        "universe_branching_factor": 0.0,
+        "birth_date_influence": 0.69426,
+        "phi_harmonic_resonance": 0.34300311363827946
+      },
+      "timestamp": "2025-04-04T18:11:24.200622"
+    },
+    {
+      "initial_black_holes": [
+        {
+          "mass_solar": 23.235812791403973,
+          "spin_parameter": 0.14178156645580067,
+          "charge_parameter": 0.19030593673314775,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        },
+        {
+          "mass_solar": 27.712778855773507,
+          "spin_parameter": 0.14992137342186115,
+          "charge_parameter": 0.20067810389581797,
+          "phi_resonance": 0.0,
+          "birth_coherence": 0.69426
+        }
+      ],
+      "final_black_hole": {
+        "mass_solar": 50.57704529802478,
+        "spin_parameter": 0.1462091014098825,
+        "charge_parameter": 0.195947733013303,
+        "phi_resonance": 0.30901699437494745,
+        "birth_coherence": 0.69426
+      },
+      "energy_released_joules": 6.639533259358781e+46,
+      "extreme_effects": {
+        "naked_singularity_probability": 0.0,
+        "wormhole_formation_probability": 0.0,
+        "information_leakage_bits": 0.0,
+        "spacetime_ripple_amplitude": 0.0,
+        "quantum_teleportation_probability": 0.0,
+        "universe_branching_factor": 0.0,
+        "birth_date_influence": 0.69426,
+        "phi_harmonic_resonance": 0.343232677817266
+      },
+      "timestamp": "2025-04-04T18:11:26.345140"
+    }
+  ],
+  "statistics": {
+    "simulations_run": 6,
+    "energy_released_total": 3.2597707798846723e+47,
+    "average_phi_resonance": 0.30901699437494745,
+    "average_birth_coherence": 0.69426
+  },
+  "timestamp": "2025-04-04T18:11:26.345194"
+}

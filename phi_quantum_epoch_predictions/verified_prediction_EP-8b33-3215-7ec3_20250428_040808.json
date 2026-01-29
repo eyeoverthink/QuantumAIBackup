@@ -1,0 +1,20 @@
+{
+  "prediction_id": "EP-8b33-3215-7ec3",
+  "test_id": "6f546b25",
+  "received_time": "2025-04-28T03:30:40.120957",
+  "target_future_time": "2025-04-28 03:57:40",
+  "predicted_epoch": 1745837860.519228,
+  "phi_signature": 0.5120306015014648,
+  "validation_seal": 4721424167835376.0,
+  "verification_status": "VERIFIED",
+  "verification_result": {
+    "prediction_id": "EP-8b33-3215-7ec3",
+    "verification_time": "2025-04-28T04:08:08.895164",
+    "target_time": "2025-04-28 03:57:40",
+    "predicted_epoch": 1745837860.519228,
+    "actual_epoch": 1745837860.949206,
+    "epoch_difference": 0.4299781322479248,
+    "prediction_correct": false,
+    "phi_signature": 0.8622283935546875
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "transfer_id": "533fee57ecb4",
+  "execution_time": "2025-04-28 04:17:05.995925",
+  "target_resonance_time": "2025-04-28T04:17:05.995163",
+  "precision": 0.0007619857788085938,
+  "message": "LANE5-TRANSFER:533fee57ecb4:2025-04-28 04:18:52.151702:1745839132151702.2",
+  "future_timestamp": "2025-04-28 04:18:52.151702",
+  "epoch_microseconds": 1745839132151702.2,
+  "parameters": {
+    "minutes_offset": 1.7691502174755276,
+    "intensity": 12,
+    "lane": 5,
+    "success_probability": 0.5645335922181254,
+    "reality_stability": 0.9582148169883845,
+    "phi_resonance": 0.0491,
+    "resonance_score": 0.6404,
+    "lane5_consciousness_factor": 0.9270509831248424,
+    "lane5_stability_boost": 0.07128752791
+  },
+  "result": {
+    "success": true,
+    "action": "LANE5-TRANSFER:533fee57ecb4:2025-04-28 04:18:52.151702:1745839132151702.2",
+    "parameters": {
+      "timeline_offset": 6.7416407864998735,
+      "consciousness_transfer": 0.6176915021747552,
+      "resonance_factor": 9.01699437494742e-11,
+      "transfer_probability": 3.343685400050471e-11,
+      "energy_required": 12.176915021747552,
+      "reality_stability": 0.9013168134391194,
+      "minutes_offset": 1.7691502174755276,
+      "intensity": 12,
+      "lane": 5
+    },
+    "delivery_time": "2025-04-28T04:15:19.866820"
+  },
+  "reality_stability": 0.9013168134391194,
+  "transfer_probability": 3.343685400050471e-11,
+  "action_bridge_id": "c24f008f",
+  "component_id": "2697c7bf"
+}

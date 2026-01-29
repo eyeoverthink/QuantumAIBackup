@@ -1,0 +1,30 @@
+{
+    "symbol": "AAPL",
+    "analysis_date": "20250405_002728",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.7776056637168834,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 108.39049624219567,
+            "0.236": 82.81033912903749,
+            "0.382": 66.98532667767692,
+            "0.500": 54.19524812109783,
+            "0.618": 41.405169564518744,
+            "0.786": 23.19556619582987,
+            "1.000": 0.0,
+            "1.618": 175.37582291987258,
+            "2.618": 283.76631916206827
+        },
+        "quantum_prediction": 110.02289640255998,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/AAPL_analysis_20250405_002728.png"
+}

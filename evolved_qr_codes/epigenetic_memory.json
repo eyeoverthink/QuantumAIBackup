@@ -1,0 +1,81 @@
+{
+  "generation": 10,
+  "complexity": 0.5506726274640046,
+  "resonance": 0.890258526361878,
+  "mutation_rate": 0.094573237164295,
+  "evolution_history": [
+    {
+      "generation": 2,
+      "timestamp": 1751270264.939347,
+      "phi_time": 0.15888738632202148,
+      "complexity": 0.9500565537888409,
+      "resonance": 0.4757085191452666,
+      "mutation_rate": 0.09938196601125011
+    },
+    {
+      "generation": 3,
+      "timestamp": 1751270358.1184509,
+      "phi_time": 0.9258427619934082,
+      "complexity": 0.9001122588850798,
+      "resonance": 0.575513024859608,
+      "mutation_rate": 0.09876775168261272
+    },
+    {
+      "generation": 4,
+      "timestamp": 1751270426.8472,
+      "phi_time": 0.13129186630249023,
+      "complexity": 0.8501764509073386,
+      "resonance": 0.5467564950719916,
+      "mutation_rate": 0.09815733340729008
+    },
+    {
+      "generation": 5,
+      "timestamp": 1751270477.841302,
+      "phi_time": 0.641481876373291,
+      "complexity": 0.8002833090213151,
+      "resonance": 0.600550442985896,
+      "mutation_rate": 0.09755068772438247
+    },
+    {
+      "generation": 6,
+      "timestamp": 1751270592.186552,
+      "phi_time": 0.6559782028198242,
+      "complexity": 0.7503569138160685,
+      "resonance": 0.6566899457900508,
+      "mutation_rate": 0.09694779131798652
+    },
+    {
+      "generation": 7,
+      "timestamp": 1751270645.129709,
+      "phi_time": 0.31981325149536133,
+      "complexity": 0.7004214916076918,
+      "resonance": 0.6584368168872621,
+      "mutation_rate": 0.09634862101629904
+    },
+    {
+      "generation": 8,
+      "timestamp": 1751274529.217828,
+      "phi_time": 0.9064087867736816,
+      "complexity": 0.6504806686282116,
+      "resonance": 0.7550968393573994,
+      "mutation_rate": 0.09575315379072649
+    },
+    {
+      "generation": 9,
+      "timestamp": 1753442722.036832,
+      "phi_time": 0.5817141532897949,
+      "complexity": 0.600567621042978,
+      "resonance": 0.7992201665333748,
+      "mutation_rate": 0.09516136675499984
+    },
+    {
+      "generation": 10,
+      "timestamp": 1753442802.5604942,
+      "phi_time": 0.8716650009155273,
+      "complexity": 0.5506726274640046,
+      "resonance": 0.890258526361878,
+      "mutation_rate": 0.094573237164295
+    }
+  ],
+  "phi_harmonic_states": []
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": "20250411_224627",
+  "num_epochs": 5,
+  "sample_size": 10000,
+  "total_duration": 1.3251700401306152,
+  "epoch_data": [
+    {
+      "epoch_number": 1,
+      "sample_size": 10000,
+      "duration": 0.006292104721069336,
+      "mean": 0.36343288978414584,
+      "std_dev": 0.2499827850269042,
+      "min": 0.11299973004214578,
+      "max": 0.6129661100421457,
+      "entropy": 0.9999976625442326,
+      "samples_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_test/epoch_1_samples.json",
+      "histogram_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_test/epoch_1_histogram.png",
+      "quantum_state": {
+        "coherence": 

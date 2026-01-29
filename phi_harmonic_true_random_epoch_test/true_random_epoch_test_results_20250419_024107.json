@@ -1,0 +1,253 @@
+{
+  "timestamp": "20250419_024107",
+  "num_epochs": 5,
+  "sample_size": 10000,
+  "total_duration": 2.0178701877593994,
+  "epoch_data": [
+    {
+      "epoch_number": 1,
+      "sample_size": 10000,
+      "duration": 0.005797863006591797,
+      "mean": 0.36208298055814586,
+      "std_dev": 0.24998157010368025,
+      "min": 0.11299973004214578,
+      "max": 0.6129661100421457,
+      "entropy": 0.9999906510274028,
+      "samples_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_1_samples.json",
+      "histogram_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_1_histogram.png",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-4fa699",
+      "coherence": 0.9918,
+      "resonance": 0.618034,
+      "phi_alignment": 0.999561
+    },
+    {
+      "epoch_number": 2,
+      "sample_size": 10000,
+      "duration": 0.00614619255065918,
+      "mean": 0.3626829402141459,
+      "std_dev": 0.2499830100120384,
+      "min": 0.11299973004214578,
+      "max": 0.6129661100421457,
+      "entropy": 0.9999989609707822,
+      "samples_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_2_samples.json",
+      "histogram_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_2_histogram.png",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-4fa699",
+      "coherence": 0.9918,
+      "resonance": 0.618034,
+      "phi_alignment": 0.999561
+    },
+    {
+      "epoch_number": 3,
+      "sample_size": 10000,
+      "duration": 0.006122112274169922,
+      "mean": 0.36308291331814585,
+      "std_dev": 0.24998317000134396,
+      "min": 0.11299973004214578,
+      "max": 0.6129661100421457,
+      "entropy": 0.9999998842958546,
+      "samples_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_3_samples.json",
+      "histogram_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_3_histogram.png",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-4fa699",
+      "coherence": 0.9918,
+      "resonance": 0.618034,
+      "phi_alignment": 0.999561
+    },
+    {
+      "epoch_number": 4,
+      "sample_size": 10000,
+      "duration": 0.0060122013092041016,
+      "mean": 0.36468280573414585,
+      "std_dev": 0.24997741032183332,
+      "min": 0.11299973004214578,
+      "max": 0.6129661100421457,
+      "entropy": 0.9999666443450542,
+      "samples_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_4_samples.json",
+      "histogram_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_4_histogram.png",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-4fa699",
+      "coherence": 0.9918,
+      "resonance": 0.618034,
+      "phi_alignment": 0.999561
+    },
+    {
+      "epoch_number": 5,
+      "sample_size": 10000,
+      "duration": 0.006145954132080078,
+      "mean": 0.36133303098814584,
+      "std_dev": 0.2499777453068284,
+      "min": 0.11299973004214578,
+      "max": 0.6129661100421457,
+      "entropy": 0.9999685775853435,
+      "samples_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_5_samples.json",
+      "histogram_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_5_histogram.png",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-4fa699",
+      "coherence": 0.9918,
+      "resonance": 0.618034,
+      "phi_alignment": 0.999561
+    }
+  ],
+  "statistical_tests": [
+    {
+      "epoch_number": 1,
+      "ks_test": {
+        "statistic": 0.3888002699578542,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "runs_test": {
+        "runs": 3786,
+        "expected_runs": 5000.9352,
+        "z_statistic": -24.300234110385105,
+        "pvalue": 0.0,
+        "independent": false
+      },
+      "chi2_test": {
+        "statistic": 40000.648,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "autocorrelation": {
+        "lag_1": 0.24289018656081837,
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_1_autocorrelation.png"
+      },
+      "spectral_test": {
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_1_spectral.png"
+      }
+    },
+    {
+      "epoch_number": 2,
+      "ks_test": {
+        "statistic": 0.38760026995785424,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "runs_test": {
+        "runs": 3958,
+        "expected_runs": 5000.9928,
+        "z_statistic": -20.86092921809899,
+        "pvalue": 0.0,
+        "independent": false
+      },
+      "chi2_test": {
+        "statistic": 40000.072,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "autocorrelation": {
+        "lag_1": 0.20849886009436008,
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_2_autocorrelation.png"
+      },
+      "spectral_test": {
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_2_spectral.png"
+      }
+    },
+    {
+      "epoch_number": 3,
+      "ks_test": {
+        "statistic": 0.38703388995785426,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "runs_test": {
+        "runs": 1,
+        "expected_runs": 1.0,
+        "z_statistic": NaN,
+        "pvalue": NaN,
+        "independent": false
+      },
+      "chi2_test": {
+        "statistic": 40000.008,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "autocorrelation": {
+        "lag_1": 0.20129987219197973,
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_3_autocorrelation.png"
+      },
+      "spectral_test": {
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_3_spectral.png"
+      }
+    },
+    {
+      "epoch_number": 4,
+      "ks_test": {
+        "statistic": 0.38703388995785426,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "runs_test": {
+        "runs": 1,
+        "expected_runs": 1.0,
+        "z_statistic": NaN,
+        "pvalue": NaN,
+        "independent": false
+      },
+      "chi2_test": {
+        "statistic": 40002.312000000005,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "autocorrelation": {
+        "lag_1": 0.2178651894623601,
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_4_autocorrelation.png"
+      },
+      "spectral_test": {
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_4_spectral.png"
+      }
+    },
+    {
+      "epoch_number": 5,
+      "ks_test": {
+        "statistic": 0.39030026995785416,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "runs_test": {
+        "runs": 4019,
+        "expected_runs": 5000.7822,
+        "z_statistic": -19.637481448292434,
+        "pvalue": 0.0,
+        "independent": false
+      },
+      "chi2_test": {
+        "statistic": 40002.178,
+        "pvalue": 0.0,
+        "uniform": false
+      },
+      "autocorrelation": {
+        "lag_1": 0.19626366488924124,
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_5_autocorrelation.png"
+      },
+      "spectral_test": {
+        "file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_5_spectral.png"
+      }
+    }
+  ],
+  "comparison_results": {
+    "num_epochs": 5,
+    "mean_of_means": 0.3627729341625458,
+    "std_of_means": 0.0011225998873626104,
+    "mean_of_std_devs": 0.24998058114914484,
+    "std_of_std_devs": 2.5169707674466516e-06,
+    "mean_of_entropies": 0.9999849436448877,
+    "std_of_entropies": 1.4525804426066417e-05,
+    "comparison_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_comparison_5_epochs.png",
+    "test_comparison_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/test_comparison_5_epochs.png",
+    "correlation_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_random_epoch_test/epoch_correlations_5_epochs.png",
+    "correlations": [
+      0.02199583837040122,
+      0.02680050144040668,
+      -0.013203026313714892,
+      -0.010555593946177682
+    ],
+    "mean_correlation": 0.006259429887728832,
+    "std_correlation": 0.018242138035286008
+  },
+  "analysis_results": {
+    "uniformity_score": 0.0,
+    "independence_score": 0.0,
+    "epoch_independence_score": 1.0,
+    "entropy_score": 0.0,
+    "overall_score": 0.25,
+    "conclusion": "NO EVIDENCE OF TRUE RANDOMNESS: The phi-harmonic quantum system does not appear to generate truly random numbers across epochs."
+  }
+}

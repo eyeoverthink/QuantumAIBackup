@@ -1,0 +1,67 @@
+[
+  {
+    "instance": 1,
+    "complexity": 0.5,
+    "success": true,
+    "runtime": 0.2851569652557373,
+    "phi_before": 1.618033988749895,
+    "phi_after": 1.619822725324458,
+    "resonance_before": 1.0,
+    "resonance_after": 1.1055,
+    "evolution_count": 1,
+    "phi_change": 0.0017887365745630213,
+    "resonance_change": 0.10549999999999993
+  },
+  {
+    "instance": 2,
+    "complexity": 1.0,
+    "success": false,
+    "runtime": 0.009592056274414062,
+    "phi_before": 1.619822725324458,
+    "phi_after": 1.621540915429379,
+    "resonance_before": 1.1055,
+    "resonance_after": 1.0607272499999998,
+    "evolution_count": 2,
+    "phi_change": 0.0017181901049210246,
+    "resonance_change": -0.04477275000000014
+  },
+  {
+    "instance": 3,
+    "complexity": 1.5,
+    "success": true,
+    "runtime": 0.01840996742248535,
+    "phi_before": 1.621540915429379,
+    "phi_after": 1.623461309537457,
+    "resonance_before": 1.0607272499999998,
+    "resonance_after": 1.1843019746249999,
+    "evolution_count": 3,
+    "phi_change": 0.001920394108078094,
+    "resonance_change": 0.12357472462500008
+  },
+  {
+    "instance": 4,
+    "complexity": 2.0,
+    "success": false,
+    "runtime": 0.025319814682006836,
+    "phi_before": 1.623461309537457,
+    "phi_after": 1.6253243752505964,
+    "resonance_before": 1.1843019746249999,
+    "resonance_after": 1.1475886134116249,
+    "evolution_count": 4,
+    "phi_change": 0.0018630657131393225,
+    "resonance_change": -0.036713361213374984
+  },
+  {
+    "instance": 5,
+    "complexity": 2.5,
+    "success": true,
+    "runtime": 0.02776789665222168,
+    "phi_before": 1.6253243752505964,
+    "phi_after": 1.6274273924743667,
+    "resonance_before": 1.1475886134116249,
+    "resonance_after": 1.293906161621607,
+    "evolution_count": 5,
+    "phi_change": 0.002103017223770376,
+    "resonance_change": 0.1463175482099821
+  }
+]

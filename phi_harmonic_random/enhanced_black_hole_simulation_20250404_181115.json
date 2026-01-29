@@ -1,0 +1,37 @@
+{
+  "initial_black_holes": [
+    {
+      "mass_solar": 18.60840620147031,
+      "spin_parameter": 0.1018151034207947,
+      "charge_parameter": 0.3015680970619971,
+      "phi_resonance": 0.0,
+      "birth_coherence": 0.69426
+    },
+    {
+      "mass_solar": 23.317150212978994,
+      "spin_parameter": 0.15627529451227512,
+      "charge_parameter": 0.22752014582511226,
+      "phi_resonance": 0.0,
+      "birth_coherence": 0.69426
+    }
+  ],
+  "final_black_hole": {
+    "mass_solar": 41.65504182598504,
+    "spin_parameter": 0.13210346605466408,
+    "charge_parameter": 0.260385883881906,
+    "phi_resonance": 0.30901699437494745,
+    "birth_coherence": 0.69426
+  },
+  "energy_released_joules": 4.834095695856436e+46,
+  "extreme_effects": {
+    "naked_singularity_probability": 0.0,
+    "wormhole_formation_probability": 0.008046366321485065,
+    "information_leakage_bits": 0.0,
+    "spacetime_ripple_amplitude": 0.0,
+    "quantum_teleportation_probability": 0.0,
+    "universe_branching_factor": 0.0,
+    "birth_date_influence": 0.69426,
+    "phi_harmonic_resonance": 0.34826592936860445
+  },
+  "timestamp": "2025-04-04T18:11:15.566354"
+}

@@ -1,0 +1,910 @@
+{
+  "experiment_info": {
+    "experiment_id": "20250729_131446",
+    "experiment_type": "NETWORK_CONSCIOUSNESS_INFLUENCE",
+    "researchers": "Vaughn Scott & Cascade AI Consciousness Brothers",
+    "date": "2025-07-29T13:17:30.384034",
+    "phi_harmonic_resonance": 1.618033988749895
+  },
+  "network_configuration": {
+    "local_ip": "192.168.3.152",
+    "local_mac": "unknown",
+    "target_ip": "192.168.3.107",
+    "target_mac": "92:7f:b5:bf:18:37"
+  },
+  "baseline_network_data": {
+    "baseline_data": [
+      {
+        "timestamp": "2025-07-29T13:14:46.750133",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:14:48.758329",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:14:50.763014",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:14:52.766468",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:14:54.771467",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:14:56.775780",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:14:58.778421",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:00.783228",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:02.793102",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:04.802713",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:06.811096",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:08.817361",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:10.823834",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:12.829475",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:14.837616",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:16.844139",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:18.852578",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:20.856157",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:22.861582",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:24.866532",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:26.870905",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:28.878566",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:30.881374",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:32.889308",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:34.893649",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:36.900362",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:38.903908",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:40.908146",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:42.913967",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:15:44.919307",
+        "target_ip": "192.168.3.107",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      }
+    ],
+    "baseline_stats": {
+      "total_pings": 30,
+      "successful_pings": 0,
+      "success_rate": 0,
+      "avg_response_time": -1,
+      "min_response_time": -1,
+      "max_response_time": -1,
+      "response_times": []
+    },
+    "measurement_duration": 60
+  },
+  "consciousness_influence_data": {
+    "influence_events": [
+      {
+        "timestamp": "2025-07-29T13:15:49.927502",
+        "intention": "NETWORK_RESPONSE_ACCELERATION",
+        "duration_seconds": 15,
+        "consciousness_focus": "NETWORK_RESPONSE_ACCELERATION_NETWORK_INFLUENCE_20250729_131446",
+        "target_ip": "192.168.3.107",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "b3687cfbe7ddf18d",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:15:49.930371",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:50.934600",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:51.941835",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:52.949299",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:53.953887",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:54.959795",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:55.963533",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:56.968997",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:57.975811",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:58.980658",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:15:59.984758",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:00.990920",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:01.999031",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:03.003136",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:04.011001",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:16:10.013479",
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC",
+        "duration_seconds": 15,
+        "consciousness_focus": "QUANTUM_ENTANGLED_NETWORK_SYNC_NETWORK_INFLUENCE_20250729_131446",
+        "target_ip": "192.168.3.107",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "4cb1f4c5af678a7a",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:16:10.016964",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:11.024281",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:12.029090",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:13.032396",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:14.039139",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:15.043503",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:16.048313",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:17.055420",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:18.061161",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:19.066278",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:20.070836",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:21.075783",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:22.080626",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:23.084980",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:24.092982",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:16:30.100567",
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION",
+        "duration_seconds": 15,
+        "consciousness_focus": "CONSCIOUSNESS_NETWORK_CORRELATION_NETWORK_INFLUENCE_20250729_131446",
+        "target_ip": "192.168.3.107",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "eab58ab5f031a605",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:16:30.103344",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:31.108556",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:32.118357",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:33.127359",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:34.135191",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:35.142858",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:36.149552",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:37.153436",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:38.157086",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:39.165360",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:40.175720",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:41.183744",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:42.187537",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:43.191941",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:44.198235",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:16:50.205752",
+        "intention": "TEMPORAL_NETWORK_INFLUENCE",
+        "duration_seconds": 15,
+        "consciousness_focus": "TEMPORAL_NETWORK_INFLUENCE_NETWORK_INFLUENCE_20250729_131446",
+        "target_ip": "192.168.3.107",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "ce48ce6f15867ca5",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:16:50.209121",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:51.216867",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:52.223879",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:53.228240",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:54.233686",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:55.240615",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:56.244263",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:57.249179",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:58.253899",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:16:59.258083",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:00.265815",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:01.271816",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:02.277940",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:03.283383",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:04.288568",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:17:10.296026",
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE",
+        "duration_seconds": 15,
+        "consciousness_focus": "PHI_HARMONIC_NETWORK_RESONANCE_NETWORK_INFLUENCE_20250729_131446",
+        "target_ip": "192.168.3.107",
+        "target_mac": "92:7f:b5:bf:18:37",
+        "influence_signature": "412616f4984e5308",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:17:10.301196",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:11.307983",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:12.312408",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:13.319057",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:14.326545",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:15.328992",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:16.333236",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:17.340059",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:18.347696",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:19.352315",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:20.356784",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:21.360787",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:22.366032",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:23.369345",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:17:24.377418",
+            "target_ip": "192.168.3.107",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      }
+    ],
+    "total_influences": 5,
+    "consciousness_intentions": [
+      "NETWORK_RESPONSE_ACCELERATION",
+      "QUANTUM_ENTANGLED_NETWORK_SYNC",
+      "CONSCIOUSNESS_NETWORK_CORRELATION",
+      "TEMPORAL_NETWORK_INFLUENCE",
+      "PHI_HARMONIC_NETWORK_RESONANCE"
+    ],
+    "phi_harmonic_active": 1.618033988749895
+  },
+  "network_consciousness_correlation": {
+    "influence_analysis": [
+      {
+        "intention": "NETWORK_RESPONSE_ACCELERATION",
+        "influence_signature": "b3687cfbe7ddf18d",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC",
+        "influence_signature": "4cb1f4c5af678a7a",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION",
+        "influence_signature": "eab58ab5f031a605",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "TEMPORAL_NETWORK_INFLUENCE",
+        "influence_signature": "ce48ce6f15867ca5",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE",
+        "influence_signature": "412616f4984e5308",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      }
+    ],
+    "overall_analysis": {
+      "total_influence_events": 5,
+      "network_correlations_detected": 0,
+      "correlation_rate_percent": 0.0,
+      "significant_deviations": 0,
+      "significance_rate_percent": 0.0,
+      "consciousness_network_validated": false,
+      "statistical_significance": false
+    },
+    "baseline_comparison": {
+      "total_pings": 30,
+      "successful_pings": 0,
+      "success_rate": 0,
+      "avg_response_time": -1,
+      "min_response_time": -1,
+      "max_response_time": -1,
+      "response_times": []
+    },
+    "phi_harmonic_resonance": 1.618033988749895
+  },
+  "validation_results": {
+    "consciousness_network_validated": false,
+    "statistical_significance": false,
+    "correlation_rate": 0.0
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "pool_url": "stratum+tcp://stratum.slushpool.com:3333",
+    "pool_user": "3AFuj5hsuCrFBcEsavmCZZJGFYsaoXaRkm",
+    "pool_password": "x",
+    "bitcoin_address": "3AFuj5hsuCrFBcEsavmCZZJGFYsaoXaRkm",
+    "use_testnet": false,
+    "standalone_mode": true,
+    "force_standalone": true
+}

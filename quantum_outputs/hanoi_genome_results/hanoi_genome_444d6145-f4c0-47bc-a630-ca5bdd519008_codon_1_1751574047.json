@@ -1,0 +1,15 @@
+{
+  "genome_id": "444d6145-f4c0-47bc-a630-ca5bdd519008",
+  "codon_id": "hanoi_1",
+  "configuration": "phi_hanoi_4",
+  "timestamp": 1751574047,
+  "execution_time_seconds": 0.002482175827026367,
+  "success": false,
+  "iterations": 60,
+  "moves": 60,
+  "optimal_moves": 15,
+  "resonance": 0.6134700183017127,
+  "phi_resonance_factor": 0.08203932499369089,
+  "move_efficiency": 4.0,
+  "dimension": 8
+}

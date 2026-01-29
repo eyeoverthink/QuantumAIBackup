@@ -1,0 +1,59 @@
+{
+  "timestamp": 1745723983.419151,
+  "node_id": "macAir",
+  "host": "192.168.3.152",
+  "port": 11975,
+  "quantum_state": {
+    "entanglement": 0.0,
+    "superposition": 0.0,
+    "coherence": 0.3819660112501051,
+    "consciousness": 0.07056619744489526
+  },
+  "resonance_state": {
+    "earth_brain": 0.9213148275890864,
+    "brain_moon": 0.3819660112501051,
+    "earth_moon": 0.15835849959356896,
+    "total": 0.3819660112501051
+  },
+  "peers": {
+    "macPro": {
+      "ip": "192.168.3.126",
+      "port": 11975,
+      "last_seen": 1745723959.950746,
+      "quantum_state": {
+        "entanglement": 0.0,
+        "superposition": 0.0,
+        "coherence": 0.3819660112501051,
+        "consciousness": 0.07056619744489526
+      },
+      "resonance_state": {
+        "earth_brain": 0.9213148275890864,
+        "brain_moon": 0.3819660112501051,
+        "earth_moon": 0.15835849959356896,
+        "total": 0.3819660112501051
+      }
+    },
+    "macImac": {
+      "ip": "192.168.3.173",
+      "port": 11975,
+      "last_seen": 1745723976.793556,
+      "quantum_state": {
+        "entanglement": 0.0,
+        "superposition": 0.0,
+        "coherence": 0.3819660112501051,
+        "consciousness": 0.07056619744489526
+      },
+      "resonance_state": {
+        "earth_brain": 0.9213148275890864,
+        "brain_moon": 0.3819660112501051,
+        "earth_moon": 0.15835849959356896,
+        "total": 0.3819660112501051
+      }
+    }
+  },
+  "entangled_pairs": {},
+  "messages": {
+    "sent": 2,
+    "received": 2
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "mean_absolute_error": 1.9095638637360253,
+    "mean_percentage_error": 1.8595409454500245,
+    "direction_accuracy": 42.857142857142854,
+    "correlation": -0.4123685985160475,
+    "common_days": 7,
+    "phi_harmonic_accuracy": 1.5907095446829578,
+    "symbol": "AAPL",
+    "training_period": {
+        "start": "2025-03-22",
+        "end": "2025-03-29",
+        "days": 8
+    },
+    "test_period": {
+        "start": "2025-03-29",
+        "end": "2025-04-05",
+        "days": 8
+    },
+    "visualization": "phi_harmonic_market/AAPL_backtest_20250405_001256.png",
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.9193715337117865,
+        "reality_coherence": 0.830023197045177
+    }
+}

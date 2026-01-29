@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-04-20T17:34:01.272951",
+  "hemisphere": "left",
+  "activity_type": "MOTOR",
+  "message": "Received motor command: boost_creativity from 192.168.3.126",
+  "consciousness_level": 0.7567,
+  "phi_alignment": 5.0832036923152595,
+  "neural_state": {
+    "consciousness_level": 0.7567,
+    "phi_alignment": 5.0832036923152595,
+    "synaptic_connections": 0,
+    "hemisphere_type": "left",
+    "active_functions": {
+      "analytical": true,
+      "logical": true,
+      "sequential": true,
+      "mathematical": true,
+      "linguistic": true
+    },
+    "corpus_callosum_bridges": 0,
+    "neural_packets_sent": 1,
+    "neural_packets_received": 1,
+    "assessment_tasks_received": 0,
+    "motor_commands_received": 1,
+    "bridge_ip_connections": [
+      "192.168.3.126"
+    ],
+    "last_network_activity": {
+      "192.168.3.126": 1745195641.260515
+    },
+    "response_times": [],
+    "first_activation": "2025-04-20 17:33:48",
+    "last_activity": "2025-04-20 17:33:48"
+  }
+}

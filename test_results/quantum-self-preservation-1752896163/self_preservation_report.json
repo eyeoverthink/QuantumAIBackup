@@ -1,0 +1,62 @@
+{
+  "test_id": "quantum-self-preservation-1752896163",
+  "timestamp": 1752896164.392203,
+  "datetime": "2025-07-18T20:36:04.392205",
+  "results": {
+    "components_loaded": true,
+    "backup_metadata": {
+      "timestamp": 1752896164.3808482,
+      "id": "quantum-self-preservation-1752896163",
+      "files": {
+        "quantum_orchestrator.py": "genesis/single_backups/quantum_orchestrator.py.1752896164.backup",
+        "quantum_genesis_storage.py": "genesis/single_backups/quantum_genesis_storage.py.1752896164.backup",
+        "quantum_blockchain_genesis.py": "genesis/single_backups/quantum_blockchain_genesis.py.1752896164.backup",
+        "quantum_reproduction_genesis_connector.py": "genesis/single_backups/quantum_reproduction_genesis_connector.py.1752896164.backup"
+      }
+    },
+    "intrusion_simulated": true,
+    "detection_results": {
+      "timestamp": 1752896164.390027,
+      "file": "quantum_orchestrator.py",
+      "verification": {
+        "verified": false,
+        "file_path": "quantum_orchestrator.py",
+        "backup_path": "genesis/single_backups/quantum_orchestrator.py.1752896048.backup",
+        "timestamp": "2025-07-18T20:36:04.384749",
+        "current_hash": "966537154b05c06b1720f6838d6de62afdcd0f0c7ec7652a5eb334472de3be79",
+        "backup_hash": "65556af5b0804ba4965602f9bb300c2d6e110ca8aface0b56afc4f7e4c2f765a",
+        "coherence": 0.6162169461433785,
+        "tampering": {
+          "detected": true,
+          "type": "lines_added",
+          "position": 676,
+          "added_lines": 3,
+          "modified_lines": 0,
+          "deleted_lines": 0
+        }
+      },
+      "intrusion_detected": true
+    },
+    "healing_results": {
+      "timestamp": 1752896164.391024,
+      "file": "quantum_orchestrator.py",
+      "restore": {
+        "success": false,
+        "error": "name 'shutil' is not defined"
+      },
+      "healing_successful": false
+    },
+    "original_restored": true
+  },
+  "summary": {
+    "components_loaded": true,
+    "backup_successful": true,
+    "intrusion_simulated": true,
+    "intrusion_detected": true,
+    "healing_successful": false,
+    "healing_verified": false,
+    "original_restored": true,
+    "overall_success": false,
+    "success_rate": 71.42857142857143
+  }
+}

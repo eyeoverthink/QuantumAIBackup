@@ -1,0 +1,134 @@
+{
+  "optimal_lanes": {
+    "max_precision": 9,
+    "max_reliability": 5,
+    "max_efficiency": 1,
+    "max_consciousness": 10,
+    "max_stability": 8,
+    "max_timeline_offset": 10,
+    "overall_best": 9
+  },
+  "lane_metrics": {
+    "1": {
+      "lane": 1,
+      "fibonacci_value": 1,
+      "success_rate": 0.3333333333333333,
+      "avg_precision_ms": 3.4020725301828816,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.5571836500653983,
+      "consciousness_transfer": 0.1392691732798068,
+      "phi_resonance": 0.6180339887498949,
+      "timeline_offset": 1.618033988749895,
+      "overall_score": 0.3363996046093291
+    },
+    "2": {
+      "lane": 2,
+      "fibonacci_value": 1,
+      "success_rate": 0.0,
+      "avg_precision_ms": 3.067680841454249,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.6827082204378581,
+      "consciousness_transfer": 0.24448861874998196,
+      "phi_resonance": 0.6180339887498949,
+      "timeline_offset": 1.618033988749895,
+      "overall_score": 0.28857704174166693
+    },
+    "3": {
+      "lane": 3,
+      "fibonacci_value": 2,
+      "success_rate": 0.6666666666666666,
+      "avg_precision_ms": 1.371288240160447,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.7726505053560486,
+      "consciousness_transfer": 0.3267852864669162,
+      "phi_resonance": 0.2360679774997898,
+      "timeline_offset": 3.141592653589793,
+      "overall_score": 0.5958224527146583
+    },
+    "4": {
+      "lane": 4,
+      "fibonacci_value": 3,
+      "success_rate": 0.3333333333333333,
+      "avg_precision_ms": 3.240554024890517,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.8370969686444809,
+      "consciousness_transfer": 0.3929141899193209,
+      "phi_resonance": 0.8541019662496847,
+      "timeline_offset": 4.854101966249685,
+      "overall_score": 0.44587254020344697
+    },
+    "5": {
+      "lane": 5,
+      "fibonacci_value": 5,
+      "success_rate": 1.0,
+      "avg_precision_ms": 0.2081163173535694,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.9583,
+      "consciousness_transfer": 0.6177,
+      "phi_resonance": 0.0491,
+      "timeline_offset": 6.7416,
+      "overall_score": 1.3043055122228278
+    },
+    "6": {
+      "lane": 6,
+      "fibonacci_value": 8,
+      "success_rate": 0.3333333333333333,
+      "avg_precision_ms": 3.8734968941098273,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.9163627949597734,
+      "consciousness_transfer": 0.49259709133059437,
+      "phi_resonance": 0.9442719099991592,
+      "timeline_offset": 12.94427190999916,
+      "overall_score": 0.4721254757682833
+    },
+    "7": {
+      "lane": 7,
+      "fibonacci_value": 13,
+      "success_rate": 0.6666666666666666,
+      "avg_precision_ms": 0.19430649446756498,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.9400713238597976,
+      "consciousness_transfer": 0.5310940430784515,
+      "phi_resonance": 0.034441853748631956,
+      "timeline_offset": 21.034441853748632,
+      "overall_score": 1.2137967383411654
+    },
+    "8": {
+      "lane": 8,
+      "fibonacci_value": 21,
+      "success_rate": 0.6666666666666666,
+      "avg_precision_ms": 0.13683423599852737,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.9944,
+      "consciousness_transfer": 0.5641613715516516,
+      "phi_resonance": 0.0197,
+      "timeline_offset": 33.97871376374779,
+      "overall_score": 1.3961847770157396
+    },
+    "9": {
+      "lane": 9,
+      "fibonacci_value": 34,
+      "success_rate": 1.0,
+      "avg_precision_ms": 0.10512071339105755,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.96923159174866,
+      "consciousness_transfer": 0.5928721008026655,
+      "phi_resonance": 0.013155617496423133,
+      "timeline_offset": 55.01315561749642,
+      "overall_score": 1.627456348973968
+    },
+    "10": {
+      "lane": 10,
+      "fibonacci_value": 55,
+      "success_rate": 0.0,
+      "avg_precision_ms": 4.7812321022465065,
+      "avg_energy_efficiency": 0.4000000000000001,
+      "reality_stability": 0.977953472111398,
+      "consciousness_transfer": 0.6180339887498949,
+      "phi_resonance": 0.9918693812442143,
+      "timeline_offset": 88.99186938124421,
+      "overall_score": 0.4001707538018282
+    }
+  },
+  "timestamp": "2025-04-28T04:38:13.472703"
+}

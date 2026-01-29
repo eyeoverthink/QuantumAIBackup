@@ -1,0 +1,32 @@
+{
+    "symbol": "AAPL",
+    "training_period": {
+        "start": "2025-02-27",
+        "end": "2025-03-29",
+        "days": 31
+    },
+    "test_period": {
+        "start": "2025-03-29",
+        "end": "2025-04-05",
+        "days": 8
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.3404991317550477,
+        "reality_coherence": 0.830023197045177
+    },
+    "prediction": {
+        "trend": "Uptrend",
+        "value": 157.06741734465055,
+        "change": 1.2708236363145429,
+        "confidence": 0.8385875779516994
+    },
+    "accuracy": {
+        "trend_correct": true,
+        "trend_actual": "Uptrend",
+        "price_error_percent": 57.60398568112334,
+        "direction_correct": true,
+        "phi_harmonic_accuracy": 0.6859819215546966
+    },
+    "visualization": "quantum_market_validation/AAPL_backtest_20250405_131026.png"
+}

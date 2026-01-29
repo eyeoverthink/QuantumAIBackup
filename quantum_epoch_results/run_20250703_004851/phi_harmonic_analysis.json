@@ -1,0 +1,39 @@
+{
+  "dimensions": 37,
+  "escaped": true,
+  "escape_epoch": 1,
+  "best_overall_resonance": 1.0,
+  "epochs": [
+    {
+      "epoch": 1,
+      "resonances": [
+        0.8770770655791502,
+        0.7598650996450913,
+        1.0
+      ],
+      "mean_resonance": 0.878980721741414,
+      "max_resonance": 1.0,
+      "attempts": 3,
+      "phi_harmonic_points": []
+    }
+  ],
+  "phi_harmonic_points": [],
+  "resonance_jumps": [
+    [
+      1,
+      2,
+      -0.11721196593405891
+    ],
+    [
+      1,
+      3,
+      0.2401349003549087
+    ]
+  ],
+  "patterns": {
+    "phi_ratio_occurrences": 0,
+    "golden_angle_occurrences": 0,
+    "fibonacci_resonances": [],
+    "phi_sequence_detected": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 3,
+    "compression_threshold": 500,
+    "resonance_factor": 0.8,
+    "complexity_factor": 0.618
+  },
+  "best_parameters": {
+    "qr_version": 10,
+    "error_correction": 0,
+    "compression_threshold": 573,
+    "resonance_factor": 0.8029231776568588,
+    "complexity_factor": 0.6113775338900466
+  },
+  "best_score": 0.7131449594559287,
+  "history": [
+    {
+      "iteration": 0,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      },
+      "score": 0.6126897958238163,
+      "timestamp": 1751273038.493152
+    },
+    {
+      "iteration": 2,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 573,
+        "resonance_factor": 0.8029231776568588,
+        "complexity_factor": 0.6113775338900466
+      },
+      "score": 0.7131449594559287,
+      "timestamp": 1751273038.493289
+    }
+  ],
+  "phi_time": 0.5302119255065918,
+  "creation_time": 1751273035.19717
+}

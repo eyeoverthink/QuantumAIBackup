@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "message": "Successfully decoded 26 QR code frames",
+  "frames_decoded": 26,
+  "frames": [
+    {
+      "frame_number": 1,
+      "frame_id": "1",
+      "task_type": "execute_python",
+      "code_length": 852,
+      "code_preview": "def initialize_codon():\n    \"\"\"\n    Initialize the...",
+      "phi_state": {
+        "complexity": 0.75,
+        "resonance": 0.8944271909999159,
+        "generation": 40
+      }
+    },
+    {
+      "frame_number": 2,
+      "frame_id": "2",
+      "task_type": "execute_python",
+      "code_length": 1658,
+      "code_preview": "def import_libraries_codon():\n    \"\"\"\n    Import n...",
+      "phi_state": {
+        "complexity": 0.7444707660489689,
+        "resonance": 0.8944271909999159,
+        "generation": 40
+      }
+    },
+    {
+      "frame_number": 3,
+      "frame_id": "3",
+      "task_type": "execute_python",
+      "code_length": 1564,
+      "code_preview": "def data_processing_codon():\n    \"\"\"\n    Process d...",
+      "phi_state": {
+        "complexity": 0.7443754562502618,
+        "resonance": 0.8944271909999159,
+        "generation": 40
+      }
+    },
+    {
+      "frame_number": 4,
+      "frame_id": "4",
+      "task_type": "execute_python",
+      "code_length": 1627,
+      "code_preview": "def calculation_codon():\n    \"\"\"\n    Perform phi-h...",
+      "phi_state": {
+        "complexity": 0.7476392242766988,
+        "resonance": 0.8944271909999159,
+        "generation": 40
+      }
+    },
+    {
+      "frame_number": 5,
+      "frame_id": "5",
+      "task_type": "execute_python",
+      "code_length": 1643,
+      "code_preview": "def mutate_codon():\n    \"\"\"\n    Apply phi-harmonic...",
+      "phi_state": {
+        "complexity": 0.7442038151531977,
+        "resonance": 0.8944271909999159,
+        "generation": 40
+      }
+    },
+    {
+      "frame_number": 6,
+      "frame_id": "6",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 7,
+      "frame_id": "7",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 8,
+      "frame_id": "8",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 9,
+      "frame_id": "9",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 10,
+      "frame_id": "10",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 11,
+      "frame_id": "11",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 12,
+      "frame_id": "12",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 13,
+      "frame_id": "13",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 14,
+      "frame_id": "14",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 15,
+      "frame_id": "15",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 16,
+      "frame_id": "16",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 17,
+      "frame_id": "17",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 18,
+      "frame_id": "18",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 19,
+      "frame_id": "19",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 20,
+      "frame_id": "20",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 21,
+      "frame_id": "21",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 22,
+      "frame_id": "22",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 23,
+      "frame_id": "23",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 24,
+      "frame_id": "24",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 25,
+      "frame_id": "25",
+      "task_type": "unknown"
+    },
+    {
+      "frame_number": 26,
+      "frame_id": "26",
+      "task_type": "unknown"
+    }
+  ]
+}

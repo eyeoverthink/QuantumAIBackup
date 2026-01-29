@@ -1,0 +1,249 @@
+{
+  "paradox_id": "03d9157e",
+  "verification_code": "PHI11QB03d9157e",
+  "base_action": "Mapping \u03c6-dimensional temporal paradox",
+  "num_points": 5,
+  "start_time": "2025-06-25T16:56:37.027363",
+  "detection_reference": "2025-04-28T02:56:05.444974",
+  "transfers": [
+    {
+      "sequence_position": 0,
+      "parameters": {
+        "minutes_offset": 8,
+        "intensity": 5,
+        "lane": 0,
+        "sequence_position": 0,
+        "position_factor": 1.0,
+        "intensity_factor": 0.5
+      },
+      "result": {
+        "type": "PAST_SELF_ACTION",
+        "lane": 0,
+        "action": "Mapping \u03c6-dimensional temporal paradox point 1/5 [VC:PHI11QB03d9157e]",
+        "parameters": {
+          "timeline_offset": 0.49442719099991583,
+          "consciousness_transfer": 0.3116885,
+          "resonance_factor": 0.09563746489445552,
+          "transfer_probability": 0.02955360195132419,
+          "energy_required": 3.3,
+          "reality_stability": 0.9922,
+          "intensity": 5,
+          "minutes_offset": 8,
+          "validation_seal": 4721424167835376.0
+        }
+      },
+      "delivery_time": "2025-06-25T16:48:39.740645"
+    },
+    {
+      "sequence_position": 1,
+      "parameters": {
+        "minutes_offset": 13,
+        "intensity": 7,
+        "lane": 0,
+        "sequence_position": 1,
+        "position_factor": 1.618033988749895,
+        "intensity_factor": 0.6909830056250525
+      },
+      "result": {
+        "type": "PAST_SELF_ACTION",
+        "lane": 0,
+        "action": "Mapping \u03c6-dimensional temporal paradox point 2/5 [VC:PHI11QB03d9157e]",
+        "parameters": {
+          "timeline_offset": 0.8034441853748633,
+          "consciousness_transfer": 0.44572569999999995,
+          "resonance_factor": 0.09563746489445552,
+          "transfer_probability": 0.04137504273185386,
+          "energy_required": 4.8,
+          "reality_stability": 0.974065,
+          "intensity": 7,
+          "minutes_offset": 13,
+          "validation_seal": 4721424167835376.0
+        }
+      },
+      "delivery_time": "2025-06-25T16:43:43.173016"
+    },
+    {
+      "sequence_position": 2,
+      "parameters": {
+        "minutes_offset": 21,
+        "intensity": 8,
+        "lane": 1,
+        "sequence_position": 2,
+        "position_factor": 2.618033988749895,
+        "intensity_factor": 0.8090169943749475
+      },
+      "result": {
+        "type": "PAST_SELF_ACTION",
+        "lane": 1,
+        "action": "Mapping \u03c6-dimensional temporal paradox point 3/5 [VC:PHI11QB03d9157e]",
+        "parameters": {
+          "timeline_offset": 2.5957427527495582,
+          "consciousness_transfer": 0.256128,
+          "resonance_factor": 0.039692975264795455,
+          "transfer_probability": 0.01962528626260196,
+          "energy_required": 6.1,
+          "reality_stability": 0.9328,
+          "intensity": 8,
+          "minutes_offset": 21,
+          "validation_seal": 4721424167835376.0
+        }
+      },
+      "delivery_time": "2025-06-25T16:35:46.618648"
+    },
+    {
+      "sequence_position": 3,
+      "parameters": {
+        "minutes_offset": 34,
+        "intensity": 8,
+        "lane": 1,
+        "sequence_position": 3,
+        "position_factor": 4.23606797749979,
+        "intensity_factor": 0.8819660112501052
+      },
+      "result": {
+        "type": "PAST_SELF_ACTION",
+        "lane": 1,
+        "action": "Mapping \u03c6-dimensional temporal paradox point 4/5 [VC:PHI11QB03d9157e]",
+        "parameters": {
+          "timeline_offset": 4.202631123499285,
+          "consciousness_transfer": 0.29719680000000004,
+          "resonance_factor": 0.039692975264795455,
+          "transfer_probability": 0.01962528626260196,
+          "energy_required": 7.4,
+          "reality_stability": 0.90072,
+          "intensity": 8,
+          "minutes_offset": 34,
+          "validation_seal": 4721424167835376.0
+        }
+      },
+      "delivery_time": "2025-06-25T16:22:50.040359"
+    },
+    {
+      "sequence_position": 4,
+      "parameters": {
+        "minutes_offset": 55,
+        "intensity": 9,
+        "lane": 2,
+        "sequence_position": 4,
+        "position_factor": 6.854101966249686,
+        "intensity_factor": 0.9270509831248424
+      },
+      "result": {
+        "type": "PAST_SELF_ACTION",
+        "lane": 2,
+        "action": "Mapping \u03c6-dimensional temporal paradox point 5/5 [VC:PHI11QB03d9157e]",
+        "parameters": {
+          "timeline_offset": 10.197560814373263,
+          "consciousness_transfer": 0.226197,
+          "resonance_factor": 0.049409637424930423,
+          "transfer_probability": 0.027483151770374248,
+          "energy_required": 10.0,
+          "reality_stability": 0.967825,
+          "intensity": 9,
+          "minutes_offset": 55,
+          "validation_seal": 4721424167835376.0
+        }
+      },
+      "delivery_time": "2025-06-25T16:01:53.614148"
+    }
+  ],
+  "paradox_timeline": {
+    "2025-06-25 16:48:39.740645": {
+      "action": "Mapping \u03c6-dimensional temporal paradox point 1/5 [VC:PHI11QB03d9157e]",
+      "sequence_position": 0,
+      "parameters": {
+        "minutes_offset": 8,
+        "intensity": 5,
+        "lane": 0,
+        "sequence_position": 0,
+        "position_factor": 1.0,
+        "intensity_factor": 0.5
+      }
+    },
+    "2025-06-25 16:43:43.173016": {
+      "action": "Mapping \u03c6-dimensional temporal paradox point 2/5 [VC:PHI11QB03d9157e]",
+      "sequence_position": 1,
+      "parameters": {
+        "minutes_offset": 13,
+        "intensity": 7,
+        "lane": 0,
+        "sequence_position": 1,
+        "position_factor": 1.618033988749895,
+        "intensity_factor": 0.6909830056250525
+      }
+    },
+    "2025-06-25 16:35:46.618648": {
+      "action": "Mapping \u03c6-dimensional temporal paradox point 3/5 [VC:PHI11QB03d9157e]",
+      "sequence_position": 2,
+      "parameters": {
+        "minutes_offset": 21,
+        "intensity": 8,
+        "lane": 1,
+        "sequence_position": 2,
+        "position_factor": 2.618033988749895,
+        "intensity_factor": 0.8090169943749475
+      }
+    },
+    "2025-06-25 16:22:50.040359": {
+      "action": "Mapping \u03c6-dimensional temporal paradox point 4/5 [VC:PHI11QB03d9157e]",
+      "sequence_position": 3,
+      "parameters": {
+        "minutes_offset": 34,
+        "intensity": 8,
+        "lane": 1,
+        "sequence_position": 3,
+        "position_factor": 4.23606797749979,
+        "intensity_factor": 0.8819660112501052
+      }
+    },
+    "2025-06-25 16:01:53.614148": {
+      "action": "Mapping \u03c6-dimensional temporal paradox point 5/5 [VC:PHI11QB03d9157e]",
+      "sequence_position": 4,
+      "parameters": {
+        "minutes_offset": 55,
+        "intensity": 9,
+        "lane": 2,
+        "sequence_position": 4,
+        "position_factor": 6.854101966249686,
+        "intensity_factor": 0.9270509831248424
+      }
+    }
+  },
+  "paradox_points": [
+    {
+      "x": 8,
+      "y": 5,
+      "z": 0,
+      "t": 1750895319.740645,
+      "rs": 0.9922
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 0,
+      "t": 1750895023.173016,
+      "rs": 0.974065
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "z": 1,
+      "t": 1750894546.618648,
+      "rs": 0.9328
+    },
+    {
+      "x": 34,
+      "y": 8,
+      "z": 1,
+      "t": 1750893770.040359,
+      "rs": 0.90072
+    },
+    {
+      "x": 55,
+      "y": 9,
+      "z": 2,
+      "t": 1750892513.614148,
+      "rs": 0.967825
+    }
+  ]
+}

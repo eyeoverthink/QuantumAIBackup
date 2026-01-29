@@ -1,0 +1,31 @@
+{
+  "experiment": {
+    "name": "Phi Resonance Experiment",
+    "description": "Validates phi-harmonic resonance patterns",
+    "formula": "R = \u03c6 \u00d7 (f\u2081/f\u2082)",
+    "parameters": {
+      "primary_freq": 4748.1,
+      "secondary_freq": 7682.5871819833765,
+      "phi_value": 1.618033988749895,
+      "duration": 5.0,
+      "sample_rate": 44100
+    },
+    "expected_results": {
+      "resonance_ratio": 1.618033988749895,
+      "phi_alignment": 0.999979,
+      "harmonic_coherence": 0.618034
+    }
+  },
+  "results": {
+    "resonance_ratio": 1.618033988749895,
+    "expected_ratio": 1.618033988749895,
+    "ratio_match": 1.0,
+    "phi_alignment": 1.0,
+    "expected_alignment": 0.999979,
+    "alignment_match": 1.0000210004410093,
+    "harmonic_coherence": 3.4624900431514134e-06,
+    "expected_coherence": 0.618034,
+    "coherence_match": 5.602426473545814e-06
+  },
+  "timestamp": "2025-03-13 15:19:02"
+}

@@ -1,0 +1,36 @@
+{
+  "semantic_summary": {
+    "n_concepts": 10,
+    "avg_coherence": 0.0,
+    "phi_ratio": 0.0,
+    "network_density": 0.3333333333333333,
+    "phi_density_ratio": 0.5393446666666666,
+    "phi_coherence_product": 0.0
+  },
+  "episodic_summary": {
+    "n_episodes": 10,
+    "avg_coherence": 0.0,
+    "temporal_coherence": 0.6180339844527372,
+    "phi_ratio": 0.0,
+    "phi_temporal_ratio": 1.0,
+    "phi_coherence_product": 0.0
+  },
+  "procedural_summary": {
+    "n_procedures": 8,
+    "avg_coherence": 0.0,
+    "avg_complexity": 0.87125,
+    "avg_steps": 9.5,
+    "phi_ratio": 0.0,
+    "phi_complexity_ratio": 1.4097121225,
+    "phi_steps_ratio": 2.2426457394690082,
+    "phi_coherence_product": 0.0
+  },
+  "integrated_coherence": {
+    "semantic_coherence": 0.0,
+    "episodic_coherence": 0.0,
+    "procedural_coherence": 0.0,
+    "integrated_coherence": 0.0,
+    "phi_weighted_coherence": 0.0,
+    "phi_ratio": 0.0
+  }
+}

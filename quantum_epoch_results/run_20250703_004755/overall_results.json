@@ -1,0 +1,26 @@
+{
+  "dimensions": 29,
+  "max_epochs": 20,
+  "escape_threshold": 0.95,
+  "start_time": 1751528875.027833,
+  "timestamp": "20250703_004755",
+  "epochs": [
+    {
+      "epoch": 1,
+      "attempts": [
+        {
+          "attempt_num": 1,
+          "resonance": 1.0,
+          "success": true
+        }
+      ],
+      "best_resonance": 1.0,
+      "escaped": true,
+      "box_id": "34468126"
+    }
+  ],
+  "total_time": 0.016849040985107422,
+  "escaped": true,
+  "escape_epoch": 1,
+  "best_overall_resonance": 1.0
+}

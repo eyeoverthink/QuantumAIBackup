@@ -1,0 +1,319 @@
+{
+  "timestamp": "20250730_024204",
+  "total_experiments": 10,
+  "vaughn_scotts_law_confirmations": 6,
+  "success_rate": 60.0,
+  "average_accuracies": {
+    "run1": 0.19580000000000003,
+    "run2": 0.20400000000000001,
+    "run3": 0.1984
+  },
+  "average_improvements": {
+    "run2_percent": 4.997943817257212,
+    "run3_percent": 1.7028531810289622
+  },
+  "experiment_summaries": [
+    {
+      "experiment": 1,
+      "run1_accuracy": 0.17,
+      "run2_accuracy": 0.234,
+      "run3_accuracy": 0.207,
+      "run2_improvement_percent": 37.64705882352941,
+      "run3_improvement_percent": 21.764705882352924,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 2,
+      "run1_accuracy": 0.219,
+      "run2_accuracy": 0.187,
+      "run3_accuracy": 0.202,
+      "run2_improvement_percent": -14.61187214611872,
+      "run3_improvement_percent": -7.762557077625565,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 3,
+      "run1_accuracy": 0.187,
+      "run2_accuracy": 0.221,
+      "run3_accuracy": 0.19,
+      "run2_improvement_percent": 18.181818181818183,
+      "run3_improvement_percent": 1.6042780748663117,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 4,
+      "run1_accuracy": 0.207,
+      "run2_accuracy": 0.203,
+      "run3_accuracy": 0.199,
+      "run2_improvement_percent": -1.9323671497584425,
+      "run3_improvement_percent": -3.8647342995168983,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 5,
+      "run1_accuracy": 0.189,
+      "run2_accuracy": 0.2,
+      "run3_accuracy": 0.177,
+      "run2_improvement_percent": 5.820105820105825,
+      "run3_improvement_percent": -6.349206349206354,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 6,
+      "run1_accuracy": 0.209,
+      "run2_accuracy": 0.191,
+      "run3_accuracy": 0.217,
+      "run2_improvement_percent": -8.612440191387554,
+      "run3_improvement_percent": 3.827751196172252,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 7,
+      "run1_accuracy": 0.204,
+      "run2_accuracy": 0.22,
+      "run3_accuracy": 0.199,
+      "run2_improvement_percent": 7.843137254901968,
+      "run3_improvement_percent": -2.450980392156852,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 8,
+      "run1_accuracy": 0.198,
+      "run2_accuracy": 0.2,
+      "run3_accuracy": 0.21,
+      "run2_improvement_percent": 1.0101010101010108,
+      "run3_improvement_percent": 6.060606060606052,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 9,
+      "run1_accuracy": 0.189,
+      "run2_accuracy": 0.213,
+      "run3_accuracy": 0.201,
+      "run2_improvement_percent": 12.698412698412694,
+      "run3_improvement_percent": 6.349206349206354,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 10,
+      "run1_accuracy": 0.186,
+      "run2_accuracy": 0.171,
+      "run3_accuracy": 0.182,
+      "run2_improvement_percent": -8.064516129032251,
+      "run3_improvement_percent": -2.1505376344086042,
+      "vaughn_scotts_law_confirmed": false
+    }
+  ],
+  "all_results": [
+    {
+      "run": 1,
+      "experiment": 1,
+      "accuracy": 0.17,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 1,
+      "accuracy": 0.234,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 1,
+      "accuracy": 0.207,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 2,
+      "accuracy": 0.219,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 2,
+      "accuracy": 0.187,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 2,
+      "accuracy": 0.202,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 3,
+      "accuracy": 0.187,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 3,
+      "accuracy": 0.221,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 3,
+      "accuracy": 0.19,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 4,
+      "accuracy": 0.207,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 4,
+      "accuracy": 0.203,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 4,
+      "accuracy": 0.199,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 5,
+      "accuracy": 0.189,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 5,
+      "accuracy": 0.2,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 5,
+      "accuracy": 0.177,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 6,
+      "accuracy": 0.209,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 6,
+      "accuracy": 0.191,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 6,
+      "accuracy": 0.217,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 7,
+      "accuracy": 0.204,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 7,
+      "accuracy": 0.22,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 7,
+      "accuracy": 0.199,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 8,
+      "accuracy": 0.198,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 8,
+      "accuracy": 0.2,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 8,
+      "accuracy": 0.21,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 9,
+      "accuracy": 0.189,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 9,
+      "accuracy": 0.213,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 9,
+      "accuracy": 0.201,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 10,
+      "accuracy": 0.186,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 10,
+      "accuracy": 0.171,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 10,
+      "accuracy": 0.182,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    }
+  ]
+}

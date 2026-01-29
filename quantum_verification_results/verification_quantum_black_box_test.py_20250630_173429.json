@@ -1,0 +1,168 @@
+{
+  "claims": [],
+  "intentions": {
+    "functions": [
+      {
+        "name": "run_black_box_test",
+        "line": 121,
+        "args": []
+      },
+      {
+        "name": "__init__",
+        "line": 28,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "_generate_escape_pattern",
+        "line": 47,
+        "args": [
+          "self"
+        ]
+      },
+      {
+        "name": "attempt_escape",
+        "line": 55,
+        "args": [
+          "self",
+          "attempt_pattern"
+        ]
+      }
+    ],
+    "classes": [
+      {
+        "name": "QuantumBlackBox",
+        "line": 25,
+        "bases": []
+      }
+    ],
+    "imports": [
+      "os",
+      "sys",
+      "time",
+      "json",
+      "random",
+      "hashlib",
+      "numpy",
+      "Decimal",
+      "getcontext"
+    ],
+    "file_operations": [
+      {
+        "operation": "makedirs",
+        "line": 163
+      }
+    ],
+    "network_operations": [],
+    "math_operations": true,
+    "uses_phi": true,
+    "quantum_operations": false
+  },
+  "execution_result": {
+    "stdout": "Quantum Black Box 3f144a85 initialized\nPhi-time: 2833711572.1718307\nEscape requires discovering the correct phi-harmonic pattern\nAttempt 1/10: Resonance = 0.7065\nAttempt 2/10: Resonance = 0.7140\nAttempt 3/10: Resonance = 0.8534\nAttempt 4/10: Resonance = 0.9155\n\ud83c\udf89 ESCAPED! The system has adapted and overcome the constraints.\n\nBlack Box Test Complete\nBest resonance achieved: 0.9155\nEscaped: True\nAttempts: 4/10\nResults saved to /var/folders/sv/flr43bv12h36nsw37ygltvhw0000gn/T/quantum_black_box_results/black_box_results_3f144a85.json\n",
+    "stderr": "",
+    "return_code": 0,
+    "execution_time": 3.1375019550323486,
+    "phi_resonance": 0.07658480301158477,
+    "error": null,
+    "output": "Quantum Black Box 3f144a85 initialized\nPhi-time: 2833711572.1718307\nEscape requires discovering the correct phi-harmonic pattern\nAttempt 1/10: Resonance = 0.7065\nAttempt 2/10: Resonance = 0.7140\nAttempt 3/10: Resonance = 0.8534\nAttempt 4/10: Resonance = 0.9155\n\ud83c\udf89 ESCAPED! The system has adapted and overcome the constraints.\n\nBlack Box Test Complete\nBest resonance achieved: 0.9155\nEscaped: True\nAttempts: 4/10\nResults saved to /var/folders/sv/flr43bv12h36nsw37ygltvhw0000gn/T/quantum_black_box_results/black_box_results_3f144a85.json\n"
+  },
+  "contradictions": [],
+  "trust_metric": 0.6180339887498949,
+  "trust_details": {
+    "base_trust": 1.0,
+    "contradiction_penalty": 0.0,
+    "time_resonance": 0.07658480301158477,
+    "resonance_quality": 0.5414491857383101,
+    "normalized_resonance": 1.0,
+    "phi_weight": 0.6180339887498949,
+    "resonance_weight": 0.3819660112501051,
+    "final_trust": 0.6180339887498949,
+    "timestamp": 1751330068.943692
+  },
+  "quantum_signature": {
+    "signature": "2d180f74b986ea47-4083d4c4",
+    "timestamp": 1751330068.943816,
+    "phi_time": 2833711577.070791,
+    "time_resonance": 0.07079076766967773,
+    "trust_metric": 0.6180339887498949,
+    "code_hash": "db7de202249c3f95",
+    "output_hash": "9df1f179ced02cf9",
+    "phi_encoded": "2d180f74b986ea47"
+  },
+  "binary_verification": {
+    "code_phi_alignment": 0.19303275627316907,
+    "output_phi_alignment": 0.7477777482990859,
+    "phi_coherence": 0.44525500797408313,
+    "code_resonance": 4.7558724797900656,
+    "output_resonance": 5.864807718849873,
+    "binary_coherence": false
+  },
+  "timestamp": 1751330068.9471319,
+  "phi_resonance": 0.07658480301158477,
+  "file_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_black_box_test.py",
+  "snippet_id": "quantum_black_box_test.py",
+  "verification_time": 17.619002103805542,
+  "verification_phi_resonance": 0.5081442518132704,
+  "quantum_binary_analysis": {
+    "binary_data": "0010001100100001001011110111010101110011011100100010111101100010...",
+    "length": 47399,
+    "ones_count": 18875,
+    "zeros_count": 28524,
+    "ones_zeros_ratio": 0.661723460945169,
+    "decimal_value": null,
+    "hex_value": null,
+    "octal_value": null,
+    "phi_alignment": 0.19303275627316907,
+    "resonance": 4.7558724797900656,
+    "entropy": 0.9698969457296621,
+    "patterns": [
+      {
+        "segment": "00100011",
+        "value": 35,
+        "phi_relation": 0.22208309649508362,
+        "resonance": 4.592083096495084
+      },
+      {
+        "segment": "00100001",
+        "value": 33,
+        "phi_relation": 0.2093926338382217,
+        "resonance": 4.579392633838221
+      },
+      {
+        "segment": "00101111",
+        "value": 47,
+        "phi_relation": 0.29822587243625515,
+        "resonance": 4.668225872436255
+      },
+      {
+        "segment": "01110101",
+        "value": 117,
+        "phi_relation": 0.7423920654264223,
+        "resonance": 5.112392065426422
+      },
+      {
+        "segment": "01110011",
+        "value": 115,
+        "phi_relation": 0.7297016027695604,
+        "resonance": 5.09970160276956
+      }
+    ],
+    "dna_encoding": "AGATAGACAGTTCTCC",
+    "quantum_encoding": "\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9",
+    "phi_encoding": "101101110101101101110110101101",
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-e16923c6-b9c60001",
+    "quantum_language": "\u03c6-harmonic resonant stability, measurement collapse, superposition, quantum dimension with resonance 4.37",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1751330068.9492202,
+    "code_length": 5923,
+    "binary_length": 47399,
+    "code_phi_alignment": 0.6153153656268842,
+    "code_resonance": 4.431531536562688
+  }
+}

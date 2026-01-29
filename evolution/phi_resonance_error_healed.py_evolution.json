@@ -1,0 +1,10 @@
+{
+  "original_file": "phi_resonance_error_healed.py",
+  "healed_file": "phi_resonance_error_healed_healed.py",
+  "timestamp": 1752394256.709405,
+  "error_type": "logic_error",
+  "error_details": "Fix normalization (divide by max instead of sum)",
+  "healing_method": "meta_learning",
+  "phi_coherence": 0.9918,
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-e7638e668266201d"
+}

@@ -1,0 +1,136 @@
+{
+  "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba",
+  "timestamp": 1752766637.7676768,
+  "datetime": "2025-07-17T08:37:17.767677",
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-e69e5d69b645",
+  "phi_coherence": 0.36932381,
+  "files": [
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_orchestrator.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_orchestrator.py.encrypted",
+      "hash": "6e7e4620b51f82e942b6add95da5e04480a4ceb368c9ff3de083153ff38f7979",
+      "size": 31746
+    },
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_orchestrator_healing_extension.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_orchestrator_healing_extension.py.encrypted",
+      "hash": "38bd2761952be37d1c1f1f47fe94d5821213cd7925b51b2c9f01b4b51d77a23f",
+      "size": 6413
+    },
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_genesis_storage.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_genesis_storage.py.encrypted",
+      "hash": "fc98234db50935567b0131eaccd4d4f465d18e8b9e8c249281175f4597185150",
+      "size": 17136
+    },
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_reproduction_genesis_connector.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_reproduction_genesis_connector.py.encrypted",
+      "hash": "6af937eb097dd7032b04c037240fd648a3d6a419d867f1ede54cfc624c57df9c",
+      "size": 16151
+    },
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_visualization.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_visualization.py.encrypted",
+      "hash": "3a29920e6af8596400e6fa3a3163a297f9f40c658893571c2e1e0cce5704aade",
+      "size": 26702
+    },
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_visualization_connector.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_visualization_connector.py.encrypted",
+      "hash": "0c334b0e2f7b521228df32e1de286c43bbb8e80f3d9447531a832755c01a84e4",
+      "size": 20368
+    },
+    {
+      "original_path": "reproduction/reproduction-1752766637/quantum_demonstration_runner_extension.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba/quantum_demonstration_runner_extension.py.encrypted",
+      "hash": "a498b0e3adef12d1caa25777243f6352cbfd8dbd0c947325766ae4da544a30ff",
+      "size": 17612
+    }
+  ],
+  "user_metadata": {
+    "reproduction_event": {
+      "timestamp": 1752766637.76422,
+      "datetime": "2025-07-17T08:37:17.764220",
+      "event_type": "genesis_reproduction",
+      "generation": 2,
+      "phi_coherence": 0.36932381,
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-2c18a7bba5da",
+      "metadata": {
+        "target_dir": "reproduction/reproduction-1752766637",
+        "files": [
+          "quantum_orchestrator.py",
+          "quantum_orchestrator_healing_extension.py",
+          "quantum_genesis_storage.py",
+          "quantum_reproduction_genesis_connector.py",
+          "quantum_visualization.py",
+          "quantum_visualization_connector.py",
+          "quantum_demonstration_runner_extension.py"
+        ]
+      }
+    },
+    "reproduction_result": {
+      "timestamp": 1752766637.767252,
+      "datetime": "2025-07-17T08:37:17.767253",
+      "target_dir": "reproduction/reproduction-1752766637",
+      "files_included": [
+        "quantum_orchestrator.py",
+        "quantum_orchestrator_healing_extension.py",
+        "quantum_genesis_storage.py",
+        "quantum_reproduction_genesis_connector.py",
+        "quantum_visualization.py",
+        "quantum_visualization_connector.py",
+        "quantum_demonstration_runner_extension.py"
+      ],
+      "files_copied": 7,
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-07989476297c",
+      "phi_coherence": 0.36932381,
+      "copied_files": [
+        {
+          "source": "quantum_orchestrator.py",
+          "target": "reproduction/reproduction-1752766637/quantum_orchestrator.py",
+          "size": 31746,
+          "timestamp": 1752280393.6580653
+        },
+        {
+          "source": "quantum_orchestrator_healing_extension.py",
+          "target": "reproduction/reproduction-1752766637/quantum_orchestrator_healing_extension.py",
+          "size": 6413,
+          "timestamp": 1752121640.129446
+        },
+        {
+          "source": "quantum_genesis_storage.py",
+          "target": "reproduction/reproduction-1752766637/quantum_genesis_storage.py",
+          "size": 17136,
+          "timestamp": 1752766040.1292448
+        },
+        {
+          "source": "quantum_reproduction_genesis_connector.py",
+          "target": "reproduction/reproduction-1752766637/quantum_reproduction_genesis_connector.py",
+          "size": 16151,
+          "timestamp": 1752766599.0087562
+        },
+        {
+          "source": "quantum_visualization.py",
+          "target": "reproduction/reproduction-1752766637/quantum_visualization.py",
+          "size": 26702,
+          "timestamp": 1752765276.5819945
+        },
+        {
+          "source": "quantum_visualization_connector.py",
+          "target": "reproduction/reproduction-1752766637/quantum_visualization_connector.py",
+          "size": 20368,
+          "timestamp": 1752765126.1612332
+        },
+        {
+          "source": "quantum_demonstration_runner_extension.py",
+          "target": "reproduction/reproduction-1752766637/quantum_demonstration_runner_extension.py",
+          "size": 17612,
+          "timestamp": 1752765611.4253817
+        }
+      ]
+    },
+    "phi_coherence": 0.36932381,
+    "generation": 2
+  }
+}

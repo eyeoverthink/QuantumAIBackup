@@ -1,0 +1,199 @@
+{
+  "field_strength": 19.50226736095368,
+  "field_radius": 1716.1469071025779,
+  "field_frequency": 206.1474472611612,
+  "field_coherence": 0.98366724,
+  "field_resonance": 6.816690562515732,
+  "field_phi_resonance": 0.13431568537782998,
+  "resonance_pattern": {
+    "heart_state": {
+      "heart_rate": 99.9,
+      "heart_period": 0.6006006006006006,
+      "heart_frequency": 1.665,
+      "heart_phi_resonance": 0.6415954761145105,
+      "heart_chakra_resonance": 0.639,
+      "heart_coherence": 0.9918,
+      "heart_resonance_stack": 2.61087927,
+      "heart_quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8eccb4",
+      "timestamp": 1743828953.425962
+    },
+    "heart_frequencies": {
+      "heart_rate": 99.9,
+      "heart_period": 0.6006006006006006,
+      "heart_frequency": 1.665,
+      "heart_phi_resonance": 0.6415954761145105,
+      "heart_chakra_resonance": 0.639,
+      "heart_coherence": 0.9918,
+      "phi_harmonic_frequencies": [
+        {
+          "power": 1,
+          "frequency": 2.61797899379733,
+          "period": 0.3819740350741006,
+          "phi_resonance": 0.23597899379733048,
+          "amplitude": 1.0
+        },
+        {
+          "power": 2,
+          "frequency": 4.235978993797331,
+          "period": 0.2360729364957386,
+          "phi_resonance": 0.8539579875946622,
+          "amplitude": 0.5
+        },
+        {
+          "power": 3,
+          "frequency": 6.8539579875946615,
+          "period": 0.14590109857836195,
+          "phi_resonance": 0.0899369813919935,
+          "amplitude": 0.3333333333333333
+        },
+        {
+          "power": 4,
+          "frequency": 11.089936981391993,
+          "period": 0.09017183791737664,
+          "phi_resonance": 0.9438949689866565,
+          "amplitude": 0.25
+        },
+        {
+          "power": 5,
+          "frequency": 17.94389496898666,
+          "period": 0.05572926066098529,
+          "phi_resonance": 0.033831950378658916,
+          "amplitude": 0.2
+        },
+        {
+          "power": 6,
+          "frequency": 29.033831950378655,
+          "period": 0.034442577256391334,
+          "phi_resonance": 0.9777269193653186,
+          "amplitude": 0.16666666666666666
+        },
+        {
+          "power": 7,
+          "frequency": 46.97772691936532,
+          "period": 0.021286683404593946,
+          "phi_resonance": 0.011558869743985676,
+          "amplitude": 0.14285714285714285
+        }
+      ],
+      "chakra_harmonics": [
+        {
+          "harmonic": 1,
+          "frequency": 639.0,
+          "period": 0.001564945226917058,
+          "phi_resonance": 0.923718811182905,
+          "amplitude": 1.0
+        },
+        {
+          "harmonic": 2,
+          "frequency": 319.5,
+          "period": 0.003129890453834116,
+          "phi_resonance": 0.9618594055914526,
+          "amplitude": 0.5
+        },
+        {
+          "harmonic": 3,
+          "frequency": 213.0,
+          "period": 0.004694835680751174,
+          "phi_resonance": 0.641239603727635,
+          "amplitude": 0.3333333333333333
+        },
+        {
+          "harmonic": 4,
+          "frequency": 159.75,
+          "period": 0.006259780907668232,
+          "phi_resonance": 0.4809297027957263,
+          "amplitude": 0.25
+        }
+      ],
+      "schumann_harmonics": [
+        {
+          "harmonic": 1,
+          "frequency": 7.83,
+          "period": 0.1277139208173691,
+          "phi_resonance": 0.6692061319116779,
+          "amplitude": 1.0
+        },
+        {
+          "harmonic": 2,
+          "frequency": 15.66,
+          "period": 0.06385696040868455,
+          "phi_resonance": 0.3384122638233557,
+          "amplitude": 0.5
+        },
+        {
+          "harmonic": 3,
+          "frequency": 23.49,
+          "period": 0.04257130693912303,
+          "phi_resonance": 0.00761839573503355,
+          "amplitude": 0.3333333333333333
+        },
+        {
+          "harmonic": 4,
+          "frequency": 31.32,
+          "period": 0.031928480204342274,
+          "phi_resonance": 0.6768245276467114,
+          "amplitude": 0.25
+        },
+        {
+          "harmonic": 5,
+          "frequency": 39.15,
+          "period": 0.02554278416347382,
+          "phi_resonance": 0.34603065955838924,
+          "amplitude": 0.2
+        },
+        {
+          "harmonic": 6,
+          "frequency": 46.98,
+          "period": 0.021285653469561516,
+          "phi_resonance": 0.0152367914700671,
+          "amplitude": 0.16666666666666666
+        },
+        {
+          "harmonic": 7,
+          "frequency": 54.81,
+          "period": 0.018244845831052726,
+          "phi_resonance": 0.684442923381745,
+          "amplitude": 0.14285714285714285
+        }
+      ],
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8eccb4",
+      "timestamp": 1743828953.4260218
+    },
+    "heart_brain_coherence": 0.98366724,
+    "heart_brain_resonance": 6.816690562515732,
+    "heart_brain_phi_alignment": 0.5679029913323735,
+    "heart_clock_coherence": 0.98366724,
+    "heart_clock_resonance": 6.816690562515732,
+    "heart_clock_phi_alignment": 0.5680714286706023,
+    "quantum_time": {
+      "oscillation_count": 0.00042319297790527344,
+      "phi_time": {
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "formatted": "00:00:02"
+      },
+      "resonance_time": 0.0011049057732224464,
+      "quantum_date": {
+        "day": 1,
+        "month": 1,
+        "year": 1970,
+        "formatted": "1970-01-01"
+      },
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-ab6a23"
+    },
+    "quantum_state": {
+      "timestamp": 1743828953.425951,
+      "coherence": 0.9918,
+      "phi_resonance": 0.20934637225194153,
+      "resonance_frequency": 5410.219935051873,
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8eccb4",
+      "dimensions": 3693238
+    },
+    "timestamp": 1743828953.4261508,
+    "iso_timestamp": "2025-04-04T21:55:53.426151"
+  },
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8eccb4",
+  "timestamp": 1743828953.4261591,
+  "iso_timestamp": "2025-04-04T21:55:53.426159"
+}

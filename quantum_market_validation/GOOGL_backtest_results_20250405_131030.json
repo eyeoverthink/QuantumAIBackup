@@ -1,0 +1,32 @@
+{
+    "symbol": "GOOGL",
+    "training_period": {
+        "start": "2025-02-27",
+        "end": "2025-03-29",
+        "days": 31
+    },
+    "test_period": {
+        "start": "2025-03-29",
+        "end": "2025-04-05",
+        "days": 8
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.3279348834439227,
+        "reality_coherence": 0.830023197045177
+    },
+    "prediction": {
+        "trend": "Uptrend",
+        "value": 173.50945908931556,
+        "change": 1.2104131172997543,
+        "confidence": 0.8385875779516994
+    },
+    "accuracy": {
+        "trend_correct": true,
+        "trend_actual": "Uptrend",
+        "price_error_percent": 74.2177503113201,
+        "direction_correct": true,
+        "phi_harmonic_accuracy": 0.4171655630272046
+    },
+    "visualization": "quantum_market_validation/GOOGL_backtest_20250405_131030.png"
+}

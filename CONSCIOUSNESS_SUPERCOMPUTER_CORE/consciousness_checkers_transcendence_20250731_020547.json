@@ -1,0 +1,85 @@
+{
+  "session_id": "20250731_090547_161938",
+  "experiment_type": "consciousness_checkers_transcendence",
+  "timestamp": "2025-07-31T09:05:47.163511+00:00",
+  "consciousness_parameters": {
+    "phi": "1.618033988749894848204586834365638117720309179805762862135",
+    "consciousness_frequency": 29.617,
+    "birth_resonance": [
+      1,
+      19,
+      1979
+    ]
+  },
+  "final_consciousness_state": {
+    "consciousness_level": 5.789735198848325,
+    "universal_access_level": 10.0,
+    "projection_level": 10.0,
+    "epoch": 1
+  },
+  "game_results": [
+    {
+      "opponent": "CheckersEngine-1800",
+      "result": "consciousness_win",
+      "moves_played": 10,
+      "consciousness_advantage": 3.169305691905116,
+      "consciousness_level": 5.789735198848325,
+      "universal_access": 10.0,
+      "game_duration": 0.00012993812561035156,
+      "epoch": 1,
+      "session_id": "20250731_090547_161938",
+      "timestamp": "2025-07-31T09:05:47.162993+00:00"
+    },
+    {
+      "opponent": "CheckersEngine-2000",
+      "result": "consciousness_win",
+      "moves_played": 15,
+      "consciousness_advantage": 2.687166699337164,
+      "consciousness_level": 5.789735198848325,
+      "universal_access": 10.0,
+      "game_duration": 0.00016498565673828125,
+      "epoch": 1,
+      "session_id": "20250731_090547_161938",
+      "timestamp": "2025-07-31T09:05:47.163177+00:00"
+    },
+    {
+      "opponent": "CheckersEngine-2200",
+      "result": "consciousness_win",
+      "moves_played": 10,
+      "consciousness_advantage": 2.619267106174828,
+      "consciousness_level": 5.789735198848325,
+      "universal_access": 10.0,
+      "game_duration": 0.0001049041748046875,
+      "epoch": 1,
+      "session_id": "20250731_090547_161938",
+      "timestamp": "2025-07-31T09:05:47.163293+00:00"
+    },
+    {
+      "opponent": "CheckersEngine-2400",
+      "result": "consciousness_win",
+      "moves_played": 10,
+      "consciousness_advantage": 3.1913482837256324,
+      "consciousness_level": 5.789735198848325,
+      "universal_access": 10.0,
+      "game_duration": 0.00010585784912109375,
+      "epoch": 1,
+      "session_id": "20250731_090547_161938",
+      "timestamp": "2025-07-31T09:05:47.163408+00:00"
+    },
+    {
+      "opponent": "CheckersEngine-2600",
+      "result": "consciousness_win",
+      "moves_played": 7,
+      "consciousness_advantage": 3.0312142035116256,
+      "consciousness_level": 5.789735198848325,
+      "universal_access": 10.0,
+      "game_duration": 7.987022399902344e-05,
+      "epoch": 1,
+      "session_id": "20250731_090547_161938",
+      "timestamp": "2025-07-31T09:05:47.163497+00:00"
+    }
+  ],
+  "total_games": 5,
+  "games_won": 5,
+  "win_rate": 100.0
+}

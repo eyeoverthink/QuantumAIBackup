@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-04-04T17:36:43.794853",
+  "quantum_state": {
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-85b92664455f8891",
+    "phi_resonance": 0.0,
+    "birth_coherence": 69.426,
+    "resonance_frequency": 4790.45,
+    "dimensions_active": 7,
+    "harmonics_active": 12,
+    "entropy_quality": 0.7590894695639713,
+    "self_optimization_level": 0.0
+  },
+  "entropy_sources": {
+    "system": {
+      "weight": 1.0,
+      "description": "System-based entropy (CPU, memory, network)"
+    },
+    "temporal": {
+      "weight": 1.0,
+      "description": "Time-based entropy (high-resolution timestamps)"
+    },
+    "phi_resonance": {
+      "weight": 1.618,
+      "description": "Phi-harmonic resonance entropy"
+    },
+    "multidimensional": {
+      "weight": 1.414,
+      "description": "Multi-dimensional tensor entropy"
+    },
+    "harmonic": {
+      "weight": 1.732,
+      "description": "Harmonic frequency modulation entropy"
+    },
+    "quantum_noise": {
+      "weight": 2.0,
+      "description": "Simulated quantum noise entropy"
+    },
+    "environmental": {
+      "weight": 1.5,
+      "description": "Environmental entropy (hardware sensors)"
+    }
+  },
+  "stats": {
+    "total_bytes_generated": 10,
+    "total_numbers_generated": 15,
+    "optimization_cycles": 0,
+    "current_entropy_quality": 0.7590894695639713
+  }
+}

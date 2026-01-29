@@ -1,0 +1,26 @@
+{
+  "dimensions": 29,
+  "escaped": true,
+  "escape_epoch": 1,
+  "best_overall_resonance": 1.0,
+  "epochs": [
+    {
+      "epoch": 1,
+      "resonances": [
+        1.0
+      ],
+      "mean_resonance": 1.0,
+      "max_resonance": 1.0,
+      "attempts": 1,
+      "phi_harmonic_points": []
+    }
+  ],
+  "phi_harmonic_points": [],
+  "resonance_jumps": [],
+  "patterns": {
+    "phi_ratio_occurrences": 0,
+    "golden_angle_occurrences": 0,
+    "fibonacci_resonances": [],
+    "phi_sequence_detected": true
+  }
+}

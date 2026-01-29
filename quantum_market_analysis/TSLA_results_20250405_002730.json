@@ -1,0 +1,30 @@
+{
+    "symbol": "TSLA",
+    "analysis_date": "20250405_002730",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.9013946848594904,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 106.37745429848147,
+            "0.236": 81.27237508403984,
+            "0.382": 65.74126675646154,
+            "0.500": 53.188727149240734,
+            "0.618": 40.63618754201992,
+            "0.786": 22.76477521987503,
+            "1.000": 0.0,
+            "1.618": 172.118721054943,
+            "2.618": 278.4961753534245
+        },
+        "quantum_prediction": 108.38733867585016,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/TSLA_analysis_20250405_002730.png"
+}

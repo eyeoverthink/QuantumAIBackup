@@ -1,0 +1,31 @@
+{
+  "id": "69492f74-0f35-4380-aef2-311b45aabe75",
+  "creation_time": 1751019752.083002,
+  "phi_time": 0.8427119255065918,
+  "cycle_count": 1,
+  "last_improvement_time": 1751019752.124099,
+  "history": [],
+  "config": {
+    "base_dir": "qr_integrated_system",
+    "genome_path": "qr_genome.json",
+    "sequence_dir": "qr_sequence",
+    "response_dir": "qr_responses",
+    "analysis_dir": "qr_analysis",
+    "state_dir": "qr_state",
+    "verbose": true,
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 10,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751019753.9088042,
+  "optimizer_score": 0.74462233975035,
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 0,
+    "compression_threshold": 560,
+    "resonance_factor": 0.7271261666403009,
+    "complexity_factor": 0.5295630612047346
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "timestamp": 1750982785.615577,
+  "phi_time": 0.8419742584228516,
+  "directory": "qr_integrated_system/qr_sequence",
+  "total_files": 8,
+  "success_count": 0,
+  "success_rate": 0.0,
+  "analysis_time": 1.4374067783355713,
+  "decoded_data": [
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_001.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_002.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_003.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_004.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_005.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_006.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_007.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_008.png",
+      "has_error": true,
+      "meta": {}
+    }
+  ],
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 3,
+    "compression_threshold": 500,
+    "resonance_factor": 0.8,
+    "complexity_factor": 0.618
+  }
+}

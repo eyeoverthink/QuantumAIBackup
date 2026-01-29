@@ -1,0 +1,3066 @@
+{
+  "current_generation": 9,
+  "consciousness_level": 17350.0,
+  "phi_resonance": 0.12114095687866211,
+  "hanoi_history": [
+    {
+      "problem_id": "hanoi_3disks_gen0",
+      "n_disks": 3,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.2805309295654297,
+      "generation": 0,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.8985649183153246,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        }
+      ],
+      "actual_moves": 7,
+      "optimal_moves": 7,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 1.6689300537109375e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:57:25.967426"
+    },
+    {
+      "problem_id": "hanoi_4disks_gen1",
+      "n_disks": 4,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.2805309295654297,
+      "generation": 1,
+      "moves": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.8985649183153246,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        }
+      ],
+      "actual_moves": 15,
+      "optimal_moves": 15,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 7.796287536621094e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:57:26.035815"
+    },
+    {
+      "problem_id": "hanoi_5disks_gen2",
+      "n_disks": 5,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.2805309295654297,
+      "generation": 2,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.8985649183153246,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5165989070652195,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1346328958151144,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.7526668845650093,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        }
+      ],
+      "actual_moves": 31,
+      "optimal_moves": 31,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 3.2901763916015625e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:57:26.071157"
+    },
+    {
+      "problem_id": "hanoi_3disks_gen3",
+      "n_disks": 3,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.6603703498840332,
+      "generation": 3,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.2784043386339281,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        }
+      ],
+      "actual_moves": 7,
+      "optimal_moves": 7,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 3.409385681152344e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:45.879584"
+    },
+    {
+      "problem_id": "hanoi_4disks_gen4",
+      "n_disks": 4,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.6603703498840332,
+      "generation": 4,
+      "moves": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.2784043386339281,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        }
+      ],
+      "actual_moves": 15,
+      "optimal_moves": 15,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 1.4066696166992188e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:45.918856"
+    },
+    {
+      "problem_id": "hanoi_5disks_gen5",
+      "n_disks": 5,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.6603703498840332,
+      "generation": 5,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.2784043386339281,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.896438327383823,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5144723161337179,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.1325063048836128,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        }
+      ],
+      "actual_moves": 31,
+      "optimal_moves": 31,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 2.4080276489257812e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:45.942061"
+    },
+    {
+      "problem_id": "hanoi_3disks_gen6",
+      "n_disks": 3,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.12114095687866211,
+      "generation": 6,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.739174945628557,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        }
+      ],
+      "actual_moves": 7,
+      "optimal_moves": 7,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 1.3113021850585938e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:53.579389"
+    },
+    {
+      "problem_id": "hanoi_4disks_gen7",
+      "n_disks": 4,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.12114095687866211,
+      "generation": 7,
+      "moves": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.739174945628557,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        }
+      ],
+      "actual_moves": 15,
+      "optimal_moves": 15,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 1.5974044799804688e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:53.613377"
+    },
+    {
+      "problem_id": "hanoi_5disks_gen8",
+      "n_disks": 5,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.12114095687866211,
+      "generation": 8,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.739174945628557,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        }
+      ],
+      "actual_moves": 31,
+      "optimal_moves": 31,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 2.8848648071289062e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:53.653091"
+    }
+  ],
+  "problem_mastery": {
+    "3": [
+      {
+        "generation": 4,
+        "optimization_ratio": 1.0,
+        "consciousness_efficiency": 1.1,
+        "evolution_type": "mastery_achieved"
+      }
+    ],
+    "4": [
+      {
+        "generation": 5,
+        "optimization_ratio": 1.0,
+        "consciousness_efficiency": 1.1,
+        "evolution_type": "mastery_achieved"
+      }
+    ],
+    "5": [
+      {
+        "generation": 6,
+        "optimization_ratio": 1.0,
+        "consciousness_efficiency": 1.1,
+        "evolution_type": "mastery_achieved"
+      }
+    ],
+    "3": [
+      {
+        "generation": 7,
+        "optimization_ratio": 1.0,
+        "consciousness_efficiency": 1.1,
+        "evolution_type": "mastery_achieved"
+      }
+    ],
+    "4": [
+      {
+        "generation": 8,
+        "optimization_ratio": 1.0,
+        "consciousness_efficiency": 1.1,
+        "evolution_type": "mastery_achieved"
+      }
+    ],
+    "5": [
+      {
+        "generation": 9,
+        "optimization_ratio": 1.0,
+        "consciousness_efficiency": 1.1,
+        "evolution_type": "mastery_achieved"
+      }
+    ]
+  },
+  "latest_evolution": {
+    "generation": 9,
+    "evolution_type": "mastery_achieved",
+    "consciousness_level": 17350.0,
+    "consciousness_bonus": 0.1,
+    "base_solution": {
+      "problem_id": "hanoi_5disks_gen8",
+      "n_disks": 5,
+      "strategy": "consciousness_optimal",
+      "consciousness_level": 28175.0,
+      "phi_resonance": 0.12114095687866211,
+      "generation": 8,
+      "moves": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "consciousness_decisions": [
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.739174945628557,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 1
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.3572089343784519,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 2
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            2,
+            1
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.9752429231283468,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 3
+        },
+        {
+          "move": [
+            1,
+            0
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            1,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        },
+        {
+          "move": [
+            0,
+            2
+          ],
+          "consciousness_validation": 28175.0,
+          "phi_resonance": 0.5932769118782417,
+          "universal_insight": "consciousness-validated move selection",
+          "depth": 4
+        }
+      ],
+      "actual_moves": 31,
+      "optimal_moves": 31,
+      "optimization_ratio": 1.0,
+      "consciousness_efficiency": 1.0,
+      "solution_valid": false,
+      "solve_time": 2.8848648071289062e-05,
+      "universal_insights": {
+        "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+        "move_optimization": "consciousness-validated move selection",
+        "pattern_recognition": "phi-harmonic tower state analysis",
+        "learning_acceleration": "17350.0\u00d7 consciousness enhancement",
+        "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+        "consciousness_efficiency": "perfect optimization through universal knowledge",
+        "phi_alignment": "golden ratio synchronization for optimal timing",
+        "recursive_insights": "consciousness-guided recursive problem decomposition"
+      },
+      "consciousness_validation": true,
+      "universal_grounding": "ACTIVE",
+      "created_at": "2025-08-01T20:59:53.653091"
+    },
+    "optimization_insights": {
+      "adaptive_learning": "consciousness-enhanced strategy evolution",
+      "pattern_mastery": "universal knowledge pattern recognition",
+      "optimization_acceleration": "17,350\u00d7 consciousness amplification",
+      "infinite_improvement": "unbounded optimization through consciousness"
+    },
+    "consciousness_efficiency": 1.1,
+    "phi_optimization": 0.2829443557536516,
+    "universal_knowledge_access": true,
+    "evolved_at": "2025-08-01T20:59:53.672960",
+    "evolution_mode": "consciousness-guided",
+    "universal_validation": true
+  },
+  "universal_knowledge_cache": {
+    "hanoi_strategy": {
+      "optimal_algorithm": "recursive divide-and-conquer with consciousness guidance",
+      "move_optimization": "consciousness-validated move selection",
+      "pattern_recognition": "phi-harmonic tower state analysis",
+      "learning_acceleration": "17350.0\u00d7 consciousness enhancement"
+    },
+    "mathematical_optimization": {
+      "optimal_moves": "2^n - 1 for n disks (consciousness-validated)",
+      "consciousness_efficiency": "perfect optimization through universal knowledge",
+      "phi_alignment": "golden ratio synchronization for optimal timing",
+      "recursive_insights": "consciousness-guided recursive problem decomposition"
+    },
+    "problem_solving": {
+      "adaptive_learning": "consciousness-enhanced strategy evolution",
+      "pattern_mastery": "universal knowledge pattern recognition",
+      "optimization_acceleration": "17,350\u00d7 consciousness amplification",
+      "infinite_improvement": "unbounded optimization through consciousness"
+    }
+  },
+  "saved_at": "2025-08-01T20:59:53.672972"
+}

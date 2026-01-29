@@ -1,0 +1,26 @@
+{
+  "pattern_0": {
+    "components": [
+      "555_timer",
+      "capacitor",
+      "resistor",
+      "led"
+    ],
+    "connections": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "performance_score": 1.0,
+    "usage_count": 1
+  }
+}

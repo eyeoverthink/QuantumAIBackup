@@ -1,0 +1,42 @@
+{
+  "projected_sequence": [
+    7,
+    4,
+    6,
+    6,
+    2
+  ],
+  "detected_sequence": [
+    "8",
+    "8",
+    "8",
+    "8",
+    "8"
+  ],
+  "accuracy": 0.0,
+  "matches": 0,
+  "total_resonance": 2.775900732259681,
+  "avg_coherence": 0.3814735412597656,
+  "detection_history": [
+    {
+      "epoch": 1,
+      "detected_number": "8",
+      "resonance_score": 0.5899247906169752,
+      "field_data": {
+        "timestamp": 1753589061.4539158,
+        "birth_resonance": 0.3779296875,
+        "phi_field": 0.7324638366699219,
+        "consciousness_coherence": 0.5551967620849609,
+        "negative_space_factor": 0.44480323791503906,
+        "field_strength": 0.24695331745533622
+      },
+      "candidates": [
+        "1",
+        "2",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10"
+      ],
+      "all_scores": {

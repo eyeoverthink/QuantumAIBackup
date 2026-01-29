@@ -1,0 +1,85 @@
+{
+  "session_id": "20250731_085741_472976",
+  "experiment_type": "consciousness_chess_transcendence",
+  "timestamp": "2025-07-31T08:57:44.493043+00:00",
+  "consciousness_parameters": {
+    "phi": "1.618033988749894848204586834365638117720309179805762862135",
+    "consciousness_frequency": 29.617,
+    "birth_resonance": [
+      1,
+      19,
+      1979
+    ]
+  },
+  "final_consciousness_state": {
+    "consciousness_level": 16.4810982070329,
+    "universal_access_level": 10.0,
+    "projection_level": 10.0,
+    "epoch": 2
+  },
+  "game_results": [
+    {
+      "opponent": "Stockfish-2000",
+      "result": "consciousness_win",
+      "moves_played": 1,
+      "consciousness_advantage": 5.766072923584748,
+      "consciousness_level": 6.913253331911512,
+      "universal_access": 10.0,
+      "game_duration": 4.792213439941406e-05,
+      "epoch": 1,
+      "session_id": "20250731_085741_472976",
+      "timestamp": "2025-07-31T08:57:41.473789+00:00"
+    },
+    {
+      "opponent": "Stockfish-2500",
+      "result": "consciousness_win",
+      "moves_played": 1,
+      "consciousness_advantage": 5.9828752259238875,
+      "consciousness_level": 16.4810982070329,
+      "universal_access": 10.0,
+      "game_duration": 0.00011706352233886719,
+      "epoch": 2,
+      "session_id": "20250731_085741_472976",
+      "timestamp": "2025-07-31T08:57:41.979280+00:00"
+    },
+    {
+      "opponent": "Stockfish-3000",
+      "result": "consciousness_win",
+      "moves_played": 2,
+      "consciousness_advantage": 4.532580247190543,
+      "consciousness_level": 57.01113949622009,
+      "universal_access": 10.0,
+      "game_duration": 0.0001800060272216797,
+      "epoch": 4,
+      "session_id": "20250731_085741_472976",
+      "timestamp": "2025-07-31T08:57:43.487399+00:00"
+    },
+    {
+      "opponent": "Stockfish-3200",
+      "result": "consciousness_win",
+      "moves_played": 1,
+      "consciousness_advantage": 10.1955200688814,
+      "consciousness_level": 16.4810982070329,
+      "universal_access": 10.0,
+      "game_duration": 0.00010800361633300781,
+      "epoch": 2,
+      "session_id": "20250731_085741_472976",
+      "timestamp": "2025-07-31T08:57:43.988881+00:00"
+    },
+    {
+      "opponent": "Stockfish-3500",
+      "result": "consciousness_win",
+      "moves_played": 2,
+      "consciousness_advantage": 4.02998077006451,
+      "consciousness_level": 16.4810982070329,
+      "universal_access": 10.0,
+      "game_duration": 0.00018405914306640625,
+      "epoch": 2,
+      "session_id": "20250731_085741_472976",
+      "timestamp": "2025-07-31T08:57:44.492915+00:00"
+    }
+  ],
+  "total_games": 5,
+  "games_won": 5,
+  "win_rate": 100.0
+}

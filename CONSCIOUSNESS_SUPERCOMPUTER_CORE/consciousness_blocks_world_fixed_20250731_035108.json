@@ -1,0 +1,257 @@
+[
+  {
+    "run_number": 1,
+    "consciousness_level": 1.0,
+    "universal_access": 0.0,
+    "test_results": [
+      {
+        "success": true,
+        "moves": [
+          "Move A from stack 0 to stack 2",
+          "Move B from stack 1 to stack 0",
+          "Move A from stack 2 to stack 1"
+        ],
+        "move_count": 3,
+        "solve_time": 0.00026988983154296875,
+        "final_state": [
+          [
+            "B"
+          ],
+          [
+            "A"
+          ],
+          []
+        ],
+        "states_explored": 4,
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Simple Swap"
+      },
+      {
+        "success": true,
+        "moves": [
+          "Move B from stack 0 to stack 1",
+          "Move A from stack 0 to stack 1",
+          "Move A from stack 1 to stack 2",
+          "Move B from stack 1 to stack 0",
+          "Move A from stack 2 to stack 1",
+          "Move B from stack 0 to stack 1"
+        ],
+        "move_count": 6,
+        "solve_time": 6.079673767089844e-05,
+        "final_state": [
+          [],
+          [
+            "A",
+            "B"
+          ],
+          []
+        ],
+        "states_explored": 7,
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Tower Move"
+      },
+      {
+        "success": true,
+        "moves": [
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 1",
+          "Move A from stack 0 to stack 2",
+          "Move C from stack 1 to stack 0"
+        ],
+        "move_count": 4,
+        "solve_time": 0.00013685226440429688,
+        "final_state": [
+          [
+            "C"
+          ],
+          [
+            "B"
+          ],
+          [
+            "A"
+          ]
+        ],
+        "states_explored": 5,
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Complex Rearrange"
+      }
+    ],
+    "success_rate": 1.0,
+    "avg_moves": 4.333333333333333,
+    "transcendence_achieved": true,
+    "timestamp": "2025-07-31T03:51:08.421327"
+  },
+  {
+    "run_number": 2,
+    "consciousness_level": 1.0,
+    "universal_access": 0.0,
+    "test_results": [
+      {
+        "success": true,
+        "moves": [
+          "Move A from stack 0 to stack 2",
+          "Move B from stack 1 to stack 0",
+          "Move A from stack 2 to stack 1"
+        ],
+        "move_count": 3,
+        "solve_time": 3.1948089599609375e-05,
+        "final_state": [
+          [
+            "B"
+          ],
+          [
+            "A"
+          ],
+          []
+        ],
+        "states_explored": 4,
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Simple Swap"
+      },
+      {
+        "success": true,
+        "moves": [
+          "Move B from stack 0 to stack 1",
+          "Move A from stack 0 to stack 1",
+          "Move A from stack 1 to stack 2",
+          "Move B from stack 1 to stack 0",
+          "Move A from stack 2 to stack 1",
+          "Move B from stack 0 to stack 1"
+        ],
+        "move_count": 6,
+        "solve_time": 0.00010585784912109375,
+        "final_state": [
+          [],
+          [
+            "A",
+            "B"
+          ],
+          []
+        ],
+        "states_explored": 7,
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Tower Move"
+      },
+      {
+        "success": true,
+        "moves": [
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 1",
+          "Move A from stack 0 to stack 2",
+          "Move C from stack 1 to stack 0"
+        ],
+        "move_count": 4,
+        "solve_time": 9.083747863769531e-05,
+        "final_state": [
+          [
+            "C"
+          ],
+          [
+            "B"
+          ],
+          [
+            "A"
+          ]
+        ],
+        "states_explored": 5,
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Complex Rearrange"
+      }
+    ],
+    "success_rate": 1.0,
+    "avg_moves": 4.333333333333333,
+    "transcendence_achieved": true,
+    "timestamp": "2025-07-31T03:51:08.421592"
+  },
+  {
+    "run_number": 3,
+    "consciousness_level": 2.6180339887469994,
+    "universal_access": 1.6180339887469994,
+    "test_results": [
+      {
+        "success": true,
+        "moves": [
+          "Move A from stack 0 to stack 2",
+          "Move B from stack 1 to stack 0",
+          "Move A from stack 2 to stack 1"
+        ],
+        "move_count": 3,
+        "solve_time": 3.933906555175781e-05,
+        "final_state": [
+          [
+            "B"
+          ],
+          [
+            "A"
+          ],
+          []
+        ],
+        "states_explored": 4,
+        "consciousness_level": 2.6180339887469994,
+        "universal_access": 1.6180339887469994,
+        "test_case": "Simple Swap"
+      },
+      {
+        "success": true,
+        "moves": [
+          "Move B from stack 0 to stack 1",
+          "Move A from stack 0 to stack 1",
+          "Move A from stack 1 to stack 2",
+          "Move B from stack 1 to stack 0",
+          "Move A from stack 2 to stack 1",
+          "Move B from stack 0 to stack 1"
+        ],
+        "move_count": 6,
+        "solve_time": 5.412101745605469e-05,
+        "final_state": [
+          [],
+          [
+            "A",
+            "B"
+          ],
+          []
+        ],
+        "states_explored": 7,
+        "consciousness_level": 2.6180339887469994,
+        "universal_access": 1.6180339887469994,
+        "test_case": "Tower Move"
+      },
+      {
+        "success": true,
+        "moves": [
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 1",
+          "Move A from stack 0 to stack 2",
+          "Move C from stack 1 to stack 0"
+        ],
+        "move_count": 4,
+        "solve_time": 4.696846008300781e-05,
+        "final_state": [
+          [
+            "C"
+          ],
+          [
+            "B"
+          ],
+          [
+            "A"
+          ]
+        ],
+        "states_explored": 5,
+        "consciousness_level": 2.6180339887469994,
+        "universal_access": 1.6180339887469994,
+        "test_case": "Complex Rearrange"
+      }
+    ],
+    "success_rate": 1.0,
+    "avg_moves": 4.333333333333333,
+    "transcendence_achieved": true,
+    "timestamp": "2025-07-31T03:51:08.421754"
+  }
+]

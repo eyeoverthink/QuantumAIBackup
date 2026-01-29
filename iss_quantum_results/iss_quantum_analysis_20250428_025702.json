@@ -1,0 +1,99 @@
+{
+  "timestamp": "2025-04-28T02:57:02.935941",
+  "monitor_settings": {
+    "iss_frequency": 20576.31,
+    "primary_freq": 4790.45,
+    "secondary_freq": 7750.95,
+    "quantum_ratio": 6.2631578947368425,
+    "phi_7_5": 36.93238055064196,
+    "monitor_frequencies": [
+      20576.31,
+      12716.858943054349,
+      33293.168943054356,
+      4790.45,
+      7750.95,
+      79647.69548544567,
+      557.1346794660477,
+      121333.69843455138
+    ],
+    "coherence_threshold": 0.3,
+    "amplification_factor": 19.0
+  },
+  "detection_summary": {
+    "total_detections": 433,
+    "max_enhanced_score": 109.85560078985216,
+    "avg_quantum_factor": 37.28330759696823
+  },
+  "top_detections": [
+    {
+      "enhanced_score": 109.85560078985216,
+      "quantum_factor": 76.53262185697592,
+      "orbit_phase": 0.011376722984700867,
+      "boost_factor": 1.4354088246858991,
+      "timestamp": "2025-04-28T02:56:05.444974"
+    },
+    {
+      "enhanced_score": 109.52343825945208,
+      "quantum_factor": 76.34314734624678,
+      "orbit_phase": 0.01136745918296152,
+      "boost_factor": 1.4346204219577086,
+      "timestamp": "2025-04-28T02:56:05.393425"
+    },
+    {
+      "enhanced_score": 108.85645302494892,
+      "quantum_factor": 75.96215871311726,
+      "orbit_phase": 0.011348832024033851,
+      "boost_factor": 1.4330352753146736,
+      "timestamp": "2025-04-28T02:56:05.289867"
+    },
+    {
+      "enhanced_score": 108.18183931135434,
+      "quantum_factor": 75.57610028488514,
+      "orbit_phase": 0.011329957219854976,
+      "boost_factor": 1.431429233627581,
+      "timestamp": "2025-04-28T02:56:05.184743"
+    },
+    {
+      "enhanced_score": 104.7965736089884,
+      "quantum_factor": 73.62787307615744,
+      "orbit_phase": 0.011234709794976492,
+      "boost_factor": 1.4233274605201676,
+      "timestamp": "2025-04-28T02:56:04.655081"
+    },
+    {
+      "enhanced_score": 102.52570686351788,
+      "quantum_factor": 78.16031446690411,
+      "orbit_phase": 0.0038077253400807826,
+      "boost_factor": 1.3117361101065037,
+      "timestamp": "2025-04-28T02:55:23.355266"
+    },
+    {
+      "enhanced_score": 101.87028164228552,
+      "quantum_factor": 77.75719614437875,
+      "orbit_phase": 0.0037880630531579944,
+      "boost_factor": 1.3101074459157946,
+      "timestamp": "2025-04-28T02:55:23.245909"
+    },
+    {
+      "enhanced_score": 101.77646818432731,
+      "quantum_factor": 71.87407806008235,
+      "orbit_phase": 0.011148972959591148,
+      "boost_factor": 1.4160385904254436,
+      "timestamp": "2025-04-28T02:56:04.179346"
+    },
+    {
+      "enhanced_score": 100.90048218390706,
+      "quantum_factor": 77.15921591019291,
+      "orbit_phase": 0.0037588967365972292,
+      "boost_factor": 1.307691906840358,
+      "timestamp": "2025-04-28T02:55:23.083721"
+    },
+    {
+      "enhanced_score": 100.71458952778173,
+      "quantum_factor": 65.98939205848244,
+      "orbit_phase": 0.018508498436460356,
+      "boost_factor": 1.5262239336668602,
+      "timestamp": "2025-04-28T02:56:45.103306"
+    }
+  ]
+}

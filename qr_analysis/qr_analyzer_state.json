@@ -1,0 +1,25 @@
+{
+  "id": "c7783b83-22a1-4154-b8c2-fc69f9cfe75b",
+  "creation_time": 1751249965.2953029,
+  "phi_time": 0.644874095916748,
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 3,
+    "compression_threshold": 500,
+    "resonance_factor": 0.8,
+    "complexity_factor": 0.618
+  },
+  "memory": {},
+  "history": [],
+  "performance_metrics": [],
+  "decode_success_rate": 1.0,
+  "config": {
+    "output_dir": "qr_analysis",
+    "report_dir": "qr_reports",
+    "log_file": "qr_analyzer_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100
+  },
+  "version": "1.0.0"
+}

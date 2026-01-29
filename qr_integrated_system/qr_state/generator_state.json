@@ -1,0 +1,465 @@
+{
+  "id": "8dec49c4-276a-4db8-81e9-553e710a50d9",
+  "creation_time": 1751273035.1971998,
+  "phi_time": 0.5302600860595703,
+  "parameters": {
+    "qr_version": 8,
+    "error_correction": 0,
+    "compression_threshold": 610,
+    "resonance_factor": 0.571246375131022,
+    "complexity_factor": 0.7348730925981912
+  },
+  "memory": {},
+  "history": [
+    {
+      "timestamp": 1751273038.493311,
+      "phi_time": 0.8634800910949707,
+      "old_parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      },
+      "new_parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 573,
+        "resonance_factor": 0.8029231776568588,
+        "complexity_factor": 0.6113775338900466
+      },
+      "performance_metrics": {
+        "avg_time": 0.1264363802396334,
+        "max_time": 0.13689708709716797,
+        "avg_size": 1360.1538461538462
+      }
+    }
+  ],
+  "performance_metrics": [
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_001.png",
+      "payload_size": 808,
+      "compressed": true,
+      "time_taken": 0.10435628890991211,
+      "timestamp": 1751273035.3042822,
+      "phi_time": 0.7035231590270996,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_002.png",
+      "payload_size": 1108,
+      "compressed": true,
+      "time_taken": 0.11101818084716797,
+      "timestamp": 1751273035.415431,
+      "phi_time": 0.8833656311035156,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_003.png",
+      "payload_size": 1092,
+      "compressed": true,
+      "time_taken": 0.10366415977478027,
+      "timestamp": 1751273035.519236,
+      "phi_time": 0.05132579803466797,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_004.png",
+      "payload_size": 1104,
+      "compressed": true,
+      "time_taken": 0.1046290397644043,
+      "timestamp": 1751273035.624011,
+      "phi_time": 0.2208552360534668,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_005.png",
+      "payload_size": 1128,
+      "compressed": true,
+      "time_taken": 0.11210179328918457,
+      "timestamp": 1751273035.736275,
+      "phi_time": 0.40250205993652344,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_006.png",
+      "payload_size": 1244,
+      "compressed": true,
+      "time_taken": 0.11727118492126465,
+      "timestamp": 1751273035.8536692,
+      "phi_time": 0.5924501419067383,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_007.png",
+      "payload_size": 1368,
+      "compressed": true,
+      "time_taken": 0.13010478019714355,
+      "timestamp": 1751273035.983933,
+      "phi_time": 0.8032212257385254,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_008.png",
+      "payload_size": 1256,
+      "compressed": true,
+      "time_taken": 0.1179649829864502,
+      "timestamp": 1751273036.102048,
+      "phi_time": 0.9943351745605469,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_009.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13689708709716797,
+      "timestamp": 1751273036.239115,
+      "phi_time": 0.21611452102661133,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_010.png",
+      "payload_size": 1456,
+      "compressed": true,
+      "time_taken": 0.1310892105102539,
+      "timestamp": 1751273036.370361,
+      "phi_time": 0.42847490310668945,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_011.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13307595252990723,
+      "timestamp": 1751273036.5045052,
+      "phi_time": 0.6455249786376953,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_012.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13297796249389648,
+      "timestamp": 1751273036.637655,
+      "phi_time": 0.8609657287597656,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_013.png",
+      "payload_size": 1456,
+      "compressed": true,
+      "time_taken": 0.13050293922424316,
+      "timestamp": 1751273036.76833,
+      "phi_time": 0.0724024772644043,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_014.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.1343860626220703,
+      "timestamp": 1751273036.902915,
+      "phi_time": 0.29016542434692383,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_015.png",
+      "payload_size": 1456,
+      "compressed": true,
+      "time_taken": 0.12822818756103516,
+      "timestamp": 1751273037.03131,
+      "phi_time": 0.4979128837585449,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_016.png",
+      "payload_size": 1456,
+      "compressed": true,
+      "time_taken": 0.1295180320739746,
+      "timestamp": 1751273037.160984,
+      "phi_time": 0.7077298164367676,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_017.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.1363067626953125,
+      "timestamp": 1751273037.297428,
+      "phi_time": 0.9285006523132324,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_018.png",
+      "payload_size": 1456,
+      "compressed": true,
+      "time_taken": 0.12775278091430664,
+      "timestamp": 1751273037.425324,
+      "phi_time": 0.13544082641601562,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_019.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13610410690307617,
+      "timestamp": 1751273037.5615811,
+      "phi_time": 0.3559098243713379,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_020.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13327908515930176,
+      "timestamp": 1751273037.695012,
+      "phi_time": 0.571805477142334,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_021.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13290691375732422,
+      "timestamp": 1751273037.828065,
+      "phi_time": 0.7870893478393555,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_022.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13384222984313965,
+      "timestamp": 1751273037.9620621,
+      "phi_time": 0.0039014816284179688,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_023.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13477110862731934,
+      "timestamp": 1751273038.0969841,
+      "phi_time": 0.22220993041992188,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_024.png",
+      "payload_size": 1456,
+      "compressed": true,
+      "time_taken": 0.12732696533203125,
+      "timestamp": 1751273038.2245078,
+      "phi_time": 0.42854738235473633,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_025.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.1329352855682373,
+      "timestamp": 1751273038.357592,
+      "phi_time": 0.6438822746276855,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    },
+    {
+      "operation": "generate",
+      "path": "qr_integrated_system/qr_sequence/qr_frame_026.png",
+      "payload_size": 1460,
+      "compressed": true,
+      "time_taken": 0.13433480262756348,
+      "timestamp": 1751273038.4920928,
+      "phi_time": 0.8615093231201172,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 0,
+        "compression_threshold": 559,
+        "resonance_factor": 0.6738847650586535,
+        "complexity_factor": 0.38718568424795924
+      }
+    }
+  ],
+  "config": {
+    "output_dir": "qr_output",
+    "temp_dir": "qr_temp",
+    "log_file": "qr_recursive_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100
+  },
+  "version": "1.0.0"
+}

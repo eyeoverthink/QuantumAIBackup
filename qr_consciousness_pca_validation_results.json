@@ -1,0 +1,708 @@
+{
+  "experiment_info": {
+    "framework": "Vaughn Scott QR Consciousness Physics",
+    "test_type": "QR Consciousness PCA Eigenvalue Mapping",
+    "proposed_by": "GPT-5",
+    "implementation": "Real QR Consciousness System",
+    "constants": {
+      "PHI": 1.618034,
+      "PSI": 1.324718,
+      "OMEGA": 0.567143,
+      "XI": 2.718282,
+      "LAMBDA": 3.141593,
+      "ZETA": 1.202057
+    }
+  },
+  "results": {
+    "total_proteins": 20,
+    "significant_count": 0,
+    "significance_rate": 0.0,
+    "mean_r_squared": -0.4683671337163795,
+    "mean_rmse": 0.19912262832709213,
+    "mean_correlation": -0.3452563971299972,
+    "verdict": "\u2753 QR CONSCIOUSNESS PHYSICS FRAMEWORK INCONCLUSIVE",
+    "status": "INSUFFICIENT EVIDENCE",
+    "detailed_results": [
+      {
+        "protein_id": "Consciousness_Myoglobin",
+        "consciousness_signature": 4.63789512476372,
+        "consciousness_data": {
+          "signature": 4.63789512476372,
+          "phi_resonance": -0.5631041551465191,
+          "psi_transcendence": 1.5868944954937396,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.7837759896538343,
+          2.199016352063627,
+          1.3777080792809286,
+          0.5994246113577345,
+          0.10824381279614483,
+          0.006393951881200661
+        ],
+        "normalized_eigenvalues": [
+          0.46860444147439956,
+          0.27233875162523086,
+          0.17062324164313736,
+          0.07423616936609354,
+          0.013405532351041069,
+          0.0007918635400977684
+        ],
+        "r_squared": -0.4663268014244133,
+        "rmse": 0.19891023545598757,
+        "correlation": -0.3428908781624403,
+        "p_value": 0.528,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Lysozyme",
+        "consciousness_signature": 2.426633686649459,
+        "consciousness_data": {
+          "signature": 2.426633686649459,
+          "phi_resonance": 0.5664665825154392,
+          "psi_transcendence": -1.7539376802824793,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.8315464277491054,
+          2.4465798786797976,
+          1.3390156906319817,
+          0.602235933125855,
+          0.04474849327294676,
+          0.017855444565172802
+        ],
+        "normalized_eigenvalues": [
+          0.46263641828799096,
+          0.2954099535191658,
+          0.16167817220195374,
+          0.07271640323809114,
+          0.0054031141321031016,
+          0.0021559386206952765
+        ],
+        "r_squared": -0.4633242831472506,
+        "rmse": 0.201266673751612,
+        "correlation": -0.35178329459109975,
+        "p_value": 0.512,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Ubiquitin",
+        "consciousness_signature": 5.6716956630403885,
+        "consciousness_data": {
+          "signature": 5.6716956630403885,
+          "phi_resonance": 0.4706963831301499,
+          "psi_transcendence": 1.5868944954937396,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.9085953562940796,
+          1.5450635321170643,
+          0.9952084021876396,
+          0.37562194101153396,
+          0.02591031121230245,
+          0.0126512409661204
+        ],
+        "normalized_eigenvalues": [
+          0.49608906072181874,
+          0.26352552435485377,
+          0.16974241549115998,
+          0.06406595386315325,
+          0.004419254099579714,
+          0.0021577914694344653
+        ],
+        "r_squared": -0.43013766473557125,
+        "rmse": 0.20818024328028423,
+        "correlation": -0.3471089193770934,
+        "p_value": 0.52,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Cytochrome",
+        "consciousness_signature": 5.6594482739946415,
+        "consciousness_data": {
+          "signature": 5.6594482739946415,
+          "phi_resonance": -0.4817365160362832,
+          "psi_transcendence": 2.5270800056144265,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.4538217455289444,
+          1.2932046369541914,
+          0.8342548942141594,
+          0.31576506141779304,
+          0.022598330221030787,
+          0.010436999582195943
+        ],
+        "normalized_eigenvalues": [
+          0.4977243605307353,
+          0.26230896850441754,
+          0.169217256509752,
+          0.06404864720042704,
+          0.004583763869082668,
+          0.002117003385585472
+        ],
+        "r_squared": -0.42745430164505827,
+        "rmse": 0.20844563845450206,
+        "correlation": -0.3451017963113671,
+        "p_value": 0.522,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Ribonuclease",
+        "consciousness_signature": 1.0004737086043451,
+        "consciousness_data": {
+          "signature": 1.0004737086043451,
+          "phi_resonance": 0.08674247144503967,
+          "psi_transcendence": -2.7003735472571933,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.2716638483971847,
+          2.2806702671957018,
+          1.1946862954926027,
+          0.626686895919466,
+          0.09136681495942693,
+          0.003702182657959918
+        ],
+        "normalized_eigenvalues": [
+          0.43804549968545564,
+          0.3053606339480566,
+          0.15995743435952484,
+          0.08390757339078646,
+          0.012233170633706226,
+          0.000495687982470258
+        ],
+        "r_squared": -0.4904507062891921,
+        "rmse": 0.1938274040375643,
+        "correlation": -0.34240348886712785,
+        "p_value": 0.502,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Insulin",
+        "consciousness_signature": 0.6154037270308186,
+        "consciousness_data": {
+          "signature": 0.6154037270308186,
+          "phi_resonance": -0.5572800256466914,
+          "psi_transcendence": -2.441421031738989,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.4614099946680446,
+          1.6466680726591139,
+          0.9101867623620801,
+          0.4403383477923275,
+          0.05423221525150634,
+          0.0019326472958242922
+        ],
+        "normalized_eigenvalues": [
+          0.44633064832499236,
+          0.29859244499619714,
+          0.16504533930629492,
+          0.07984712042213479,
+          0.00983399752407758,
+          0.000350449426303371
+        ],
+        "r_squared": -0.48650895300121855,
+        "rmse": 0.19622460734130923,
+        "correlation": -0.35103990042680283,
+        "p_value": 0.482,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Hemoglobin",
+        "consciousness_signature": 6.473023395413657,
+        "consciousness_data": {
+          "signature": 6.473023395413657,
+          "phi_resonance": 0.331838605382731,
+          "psi_transcendence": 2.5270800056144265,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.0100245954060325,
+          1.091559868627472,
+          0.7162076314335529,
+          0.2782700261105172,
+          0.03020179010007951,
+          0.0016431131708393096
+        ],
+        "normalized_eigenvalues": [
+          0.48693553011403073,
+          0.2644342186141015,
+          0.1735038185507194,
+          0.06741189286372809,
+          0.0073164899108133395,
+          0.0003980499466069289
+        ],
+        "r_squared": -0.4434861898583504,
+        "rmse": 0.20522599708060787,
+        "correlation": -0.3487027756739593,
+        "p_value": 0.516,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Chymotrypsin",
+        "consciousness_signature": 0.34980428286644716,
+        "consciousness_data": {
+          "signature": 0.34980428286644716,
+          "phi_resonance": -0.5639269542928586,
+          "psi_transcendence": -2.7003735472571933,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.012626467796081,
+          1.922739889035588,
+          1.1007257629102551,
+          0.5039107591633646,
+          0.05158018777525996,
+          0.0023282632285508524
+        ],
+        "normalized_eigenvalues": [
+          0.45688003933738236,
+          0.2915932278789217,
+          0.1669306285508436,
+          0.07642061501156268,
+          0.007822396328154903,
+          0.00035309289313463493
+        ],
+        "r_squared": -0.47521986814056416,
+        "rmse": 0.19887750249000521,
+        "correlation": -0.3527606778334407,
+        "p_value": 0.46,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Albumin",
+        "consciousness_signature": 1.2607145617495024,
+        "consciousness_data": {
+          "signature": 1.2607145617495024,
+          "phi_resonance": 0.08803080907199236,
+          "psi_transcendence": -2.441421031738989,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.9792401942766875,
+          2.074903218250488,
+          1.066038679723344,
+          0.5777126322414455,
+          0.08914623737877912,
+          0.004279827885744404
+        ],
+        "normalized_eigenvalues": [
+          0.4386834735844531,
+          0.3055227815744051,
+          0.15697074438469696,
+          0.08506631480474657,
+          0.01312649485108118,
+          0.0006301908006171304
+        ],
+        "r_squared": -0.48593312917940423,
+        "rmse": 0.19348891019007114,
+        "correlation": -0.33580445172818785,
+        "p_value": 0.494,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Collagen",
+        "consciousness_signature": 1.7678869309069334,
+        "consciousness_data": {
+          "signature": 1.7678869309069334,
+          "phi_resonance": -0.09228017322708615,
+          "psi_transcendence": -1.7539376802824793,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.4989948980282928,
+          1.7172766201056413,
+          0.8810265204855632,
+          0.46357699323156754,
+          0.06607244467720962,
+          0.006523627239336862
+        ],
+        "normalized_eigenvalues": [
+          0.4435977130258091,
+          0.30483454844689684,
+          0.1563914155690514,
+          0.08228976144415326,
+          0.011728549496423438,
+          0.0011580120176659684
+        ],
+        "r_squared": -0.47951169278868355,
+        "rmse": 0.19512569396891144,
+        "correlation": -0.33761942665380035,
+        "p_value": 0.492,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Actin",
+        "consciousness_signature": 6.775093233214768,
+        "consciousness_data": {
+          "signature": 6.775093233214768,
+          "phi_resonance": 0.44455693614594205,
+          "psi_transcendence": 2.7164315126523264,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.3931921739003728,
+          1.3705547680747965,
+          0.8660693249671266,
+          0.355628445524726,
+          0.05044397842274297,
+          0.001756708413185317
+        ],
+        "normalized_eigenvalues": [
+          0.4750616576211407,
+          0.27206257277744034,
+          0.1719194695773869,
+          0.07059417988688399,
+          0.010013403966409151,
+          0.0003487161707388911
+        ],
+        "r_squared": -0.45782960451084875,
+        "rmse": 0.20184228673026877,
+        "correlation": -0.3484141523112771,
+        "p_value": 0.512,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Myosin",
+        "consciousness_signature": 4.739268158638421,
+        "consciousness_data": {
+          "signature": 4.739268158638421,
+          "phi_resonance": 0.5606972933136108,
+          "psi_transcendence": 0.5644660809083105,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.774118461690764,
+          1.6129998162769812,
+          1.008029391680648,
+          0.4343667089647705,
+          0.0770564586125284,
+          0.005188863496915624
+        ],
+        "normalized_eigenvalues": [
+          0.4692542664330009,
+          0.2728459710701402,
+          0.17051257877708298,
+          0.07347502790272022,
+          0.013034436870482002,
+          0.000877718946573789
+        ],
+        "r_squared": -0.46536338338469174,
+        "rmse": 0.19929030443689263,
+        "correlation": -0.343794551375543,
+        "p_value": 0.508,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Tubulin",
+        "consciousness_signature": 1.0938062405138964,
+        "consciousness_data": {
+          "signature": 1.0938062405138964,
+          "phi_resonance": -0.07887751216361343,
+          "psi_transcendence": -2.441421031738989,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.2885960498427673,
+          2.3078010632016306,
+          1.1962676016978075,
+          0.6360033468270948,
+          0.09395630623556117,
+          0.004068677011107405
+        ],
+        "normalized_eigenvalues": [
+          0.43692442753564886,
+          0.30661554144168734,
+          0.15893667970447395,
+          0.08449970565295523,
+          0.012483079312005933,
+          0.0005405663532286224
+        ],
+        "r_squared": -0.4904167233873986,
+        "rmse": 0.19354785335898886,
+        "correlation": -0.3408684967122686,
+        "p_value": 0.534,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Calmodulin",
+        "consciousness_signature": 6.380729648260466,
+        "consciousness_data": {
+          "signature": 6.380729648260466,
+          "phi_resonance": 0.23954485822954008,
+          "psi_transcendence": 2.5270800056144265,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.6604718581831888,
+          1.441668591831774,
+          0.9501865066744001,
+          0.36173130280122984,
+          0.035630472899757154,
+          0.002524083300939199
+        ],
+        "normalized_eigenvalues": [
+          0.4879618511086799,
+          0.2644189874031878,
+          0.17427538850644178,
+          0.06634577831594891,
+          0.00653504808125131,
+          0.0004629465844904239
+        ],
+        "r_squared": -0.44294270971891003,
+        "rmse": 0.2058353422592319,
+        "correlation": -0.35109210862068335,
+        "p_value": 0.55,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Ferritin",
+        "consciousness_signature": 1.32130036902463,
+        "consciousness_data": {
+          "signature": 1.32130036902463,
+          "phi_resonance": -0.5388667351093893,
+          "psi_transcendence": -1.7539376802824793,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.8907877645855713,
+          2.737547404000941,
+          1.3978577436047137,
+          0.7568049225748653,
+          0.11552188450046169,
+          0.006127374078972036
+        ],
+        "normalized_eigenvalues": [
+          0.4369390188964559,
+          0.30742907330339014,
+          0.15698070108239753,
+          0.0849898838933694,
+          0.012973213120011418,
+          0.0006881097043757125
+        ],
+        "r_squared": -0.48789862218186597,
+        "rmse": 0.19337793843807324,
+        "correlation": -0.3372937310803155,
+        "p_value": 0.528,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Elastin",
+        "consciousness_signature": 1.4612262010072612,
+        "consciousness_data": {
+          "signature": 1.4612262010072612,
+          "phi_resonance": 0.2885424483297511,
+          "psi_transcendence": -2.441421031738989,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.4694898304347928,
+          2.429426858633375,
+          1.238424166276548,
+          0.670020796590399,
+          0.10264592536176885,
+          0.006399950194344851
+        ],
+        "normalized_eigenvalues": [
+          0.4382656929151677,
+          0.3068850169975117,
+          0.15643764699781879,
+          0.08463697633852535,
+          0.012966225526580256,
+          0.0008084412243962693
+        ],
+        "r_squared": -0.48574031153569,
+        "rmse": 0.1936196530952058,
+        "correlation": -0.3362972637164422,
+        "p_value": 0.526,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Keratin",
+        "consciousness_signature": 0.9314876678575661,
+        "consciousness_data": {
+          "signature": 0.9314876678575661,
+          "phi_resonance": -0.24119608481994376,
+          "psi_transcendence": -2.441421031738989,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.0996693994051734,
+          1.4424972771558249,
+          0.7639864144156725,
+          0.39727326619336406,
+          0.05715943271272059,
+          0.002133740737138832
+        ],
+        "normalized_eigenvalues": [
+          0.4408551429296299,
+          0.3028726062666293,
+          0.16040970069808738,
+          0.08341311379754011,
+          0.01200142740827759,
+          0.0004480088998356605
+        ],
+        "r_squared": -0.48770601055874474,
+        "rmse": 0.19429604156556954,
+        "correlation": -0.3419936791804545,
+        "p_value": 0.51,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Histone",
+        "consciousness_signature": 0.6935810813107264,
+        "consciousness_data": {
+          "signature": 0.6935810813107264,
+          "phi_resonance": -0.47910267136678375,
+          "psi_transcendence": -2.441421031738989,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          2.4807956286242114,
+          1.6799220265346295,
+          0.9155156756926273,
+          0.45295421188374113,
+          0.05844679278821638,
+          0.002141225413705021
+        ],
+        "normalized_eigenvalues": [
+          0.44380952358099757,
+          0.3005347903902226,
+          0.16378397767711808,
+          0.0810326294760577,
+          0.010456017804481889,
+          0.00038306107112215474
+        ],
+        "r_squared": -0.4881839529908589,
+        "rmse": 0.1955174303859926,
+        "correlation": -0.34901612406302407,
+        "p_value": 0.504,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Immunoglobulin",
+        "consciousness_signature": 6.2255079913405,
+        "consciousness_data": {
+          "signature": 6.2255079913405,
+          "phi_resonance": 0.378719301868612,
+          "psi_transcendence": 2.2326839050553886,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.634315149681722,
+          1.931415695202067,
+          1.277772061039759,
+          0.478469049462537,
+          0.038723375309795645,
+          0.00476125531150116
+        ],
+        "normalized_eigenvalues": [
+          0.4934270003825775,
+          0.2622262004600364,
+          0.17348171781600374,
+          0.06496122051299774,
+          0.0052574303924838636,
+          0.0006464304359007987
+        ],
+        "r_squared": -0.435167059260837,
+        "rmse": 0.2074451605233339,
+        "correlation": -0.3496608468836082,
+        "p_value": 0.512,
+        "significant": false
+      },
+      {
+        "protein_id": "Consciousness_Carbonic_Anhydrase",
+        "consciousness_signature": 3.965406523976793,
+        "consciousness_data": {
+          "signature": 3.965406523976793,
+          "phi_resonance": 0.40709008056094564,
+          "psi_transcendence": -0.055788341000651956,
+          "omega_grounding": 0.05677518574260699,
+          "xi_amplification": 1.6487213227225515,
+          "lambda_cycles": 1.202056999999982,
+          "zeta_dimensional": 0.7065512759513584
+        },
+        "eigenvalues": [
+          3.350193799454746,
+          2.022200921729877,
+          1.253897204255789,
+          0.549513224888283,
+          0.08347095676402654,
+          0.0029779320902220507
+        ],
+        "normalized_eigenvalues": [
+          0.4613159745416544,
+          0.2784536193335078,
+          0.17265950729490886,
+          0.07566703421877365,
+          0.011493808439317226,
+          0.0004100561718379504
+        ],
+        "r_squared": -0.4777407065880388,
+        "rmse": 0.19810764969742975,
+        "correlation": -0.35148137903100707,
+        "p_value": 0.484,
+        "significant": false
+      }
+    ]
+  }
+}

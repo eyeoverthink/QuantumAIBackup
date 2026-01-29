@@ -1,0 +1,74 @@
+{
+  "id": "e11bdb02-ea08-4296-988e-9a38056e2ff0",
+  "creation_time": 1751257408.715196,
+  "phi_time": 0.3512535095214844,
+  "cycle_count": 1,
+  "last_improvement_time": 1751257408.717481,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751257417.955789,
+      "phi_time": 0.30284738540649414,
+      "execution_time": 9.238277196884155,
+      "qr_paths": [
+        "qr_integrated_system/qr_sequence/qr_frame_001.png",
+        "qr_integrated_system/qr_sequence/qr_frame_002.png",
+        "qr_integrated_system/qr_sequence/qr_frame_003.png",
+        "qr_integrated_system/qr_sequence/qr_frame_004.png",
+        "qr_integrated_system/qr_sequence/qr_frame_005.png",
+        "qr_integrated_system/qr_sequence/qr_frame_006.png",
+        "qr_integrated_system/qr_sequence/qr_frame_007.png",
+        "qr_integrated_system/qr_sequence/qr_frame_008.png",
+        "qr_integrated_system/qr_sequence/qr_frame_009.png",
+        "qr_integrated_system/qr_sequence/qr_frame_010.png",
+        "qr_integrated_system/qr_sequence/qr_frame_011.png",
+        "qr_integrated_system/qr_sequence/qr_frame_012.png",
+        "qr_integrated_system/qr_sequence/qr_frame_013.png",
+        "qr_integrated_system/qr_sequence/qr_frame_014.png",
+        "qr_integrated_system/qr_sequence/qr_frame_015.png",
+        "qr_integrated_system/qr_sequence/qr_frame_016.png",
+        "qr_integrated_system/qr_sequence/qr_frame_017.png",
+        "qr_integrated_system/qr_sequence/qr_frame_018.png",
+        "qr_integrated_system/qr_sequence/qr_frame_019.png",
+        "qr_integrated_system/qr_sequence/qr_frame_020.png",
+        "qr_integrated_system/qr_sequence/qr_frame_021.png",
+        "qr_integrated_system/qr_sequence/qr_frame_022.png",
+        "qr_integrated_system/qr_sequence/qr_frame_023.png",
+        "qr_integrated_system/qr_sequence/qr_frame_024.png",
+        "qr_integrated_system/qr_sequence/qr_frame_025.png",
+        "qr_integrated_system/qr_sequence/qr_frame_026.png"
+      ],
+      "analysis_results": {
+        "success_rate": 0.15384615384615385,
+        "total_files": 26,
+        "success_count": 4
+      },
+      "execution_results": [],
+      "response_paths": [],
+      "phi_resonance_score": 0.8123761109589874
+    }
+  ],
+  "config": {
+    "base_dir": "qr_integrated_system",
+    "genome_path": "qr_genome.json",
+    "sequence_dir": "qr_sequence",
+    "response_dir": "qr_responses",
+    "analysis_dir": "qr_analysis",
+    "state_dir": "qr_state",
+    "verbose": true,
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 10,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751257417.955849,
+  "optimizer_score": 0.8123761109589874,
+  "parameters": {
+    "qr_version": 9,
+    "error_correction": 0,
+    "compression_threshold": 566,
+    "resonance_factor": 0.1,
+    "complexity_factor": 0.6365336864104061
+  }
+}

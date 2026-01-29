@@ -1,0 +1,13 @@
+{
+  "marker_id": "CI-7cc492bf-41",
+  "name": "Inversion Target 41",
+  "scheduled_time": "2025-04-28 05:55:12.449221",
+  "actual_placement_time": "2025-04-28 05:55:12.450326",
+  "phi_signature": 15.84519060717836,
+  "timeline_lane": 5,
+  "message_received": true,
+  "message_time": "2025-04-28 05:55:00.088541",
+  "message_content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 41 was placed",
+  "inversion_detected": true,
+  "time_difference": -12.361785
+}

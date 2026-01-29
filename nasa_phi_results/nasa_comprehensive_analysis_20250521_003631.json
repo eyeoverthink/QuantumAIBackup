@@ -1,0 +1,15 @@
+{
+  "data_types_analyzed": [
+    "exoplanets",
+    "apod"
+  ],
+  "phi_scores": {
+    "exoplanets": 0.944719493203066,
+    "apod": 0.8608098886453093
+  },
+  "best_type": "exoplanets",
+  "phi_harmonic_correlation": 0.9027646909241877,
+  "pattern_detected": true,
+  "qhrc_concordance": 1.2105137444642586,
+  "timestamp": "20250521_003631"
+}

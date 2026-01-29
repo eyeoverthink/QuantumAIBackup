@@ -1,0 +1,106 @@
+{
+  "timestamp": "20250331_182633",
+  "epoch_id": 1,
+  "discovery": {
+    "elements": [
+      "C",
+      "H",
+      "O"
+    ],
+    "properties": {
+      "C": {
+        "symbol": "C",
+        "category": "nonmetal",
+        "mass": 12.011,
+        "electronegativity": 0.0,
+        "quantum_numbers": {
+          "n": 2,
+          "l": 1,
+          "m": 0,
+          "s": 0.5
+        },
+        "valence_electrons": {
+          "total": 8,
+          "shell_config": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+          },
+          "principal_n": 2
+        },
+        "orbital_config": {
+          "principal": 2,
+          "angular": 1,
+          "magnetic": 0,
+          "spin": 0.5,
+          "orbital_type": "p",
+          "electrons_in_orbital": 6
+        }
+      },
+      "H": {
+        "symbol": "H",
+        "category": "nonmetal",
+        "mass": 1.008,
+        "electronegativity": 0.0,
+        "quantum_numbers": {
+          "n": 1,
+          "l": 0,
+          "m": 0,
+          "s": 0.5
+        },
+        "valence_electrons": {
+          "total": 2,
+          "shell_config": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+          },
+          "principal_n": 1
+        },
+        "orbital_config": {
+          "principal": 1,
+          "angular": 0,
+          "magnetic": 0,
+          "spin": 0.5,
+          "orbital_type": "s",
+          "electrons_in_orbital": 2
+        }
+      },
+      "O": {
+        "symbol": "O",
+        "category": "nonmetal",
+        "mass": 15.999,
+        "electronegativity": 0.0,
+        "quantum_numbers": {
+          "n": 2,
+          "l": 1,
+          "m": 0,
+          "s": 0.5
+        },
+        "valence_electrons": {
+          "total": 8,
+          "shell_config": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+          },
+          "principal_n": 2
+        },
+        "orbital_config": {
+          "principal": 2,
+          "angular": 1,
+          "magnetic": 0,
+          "spin": 0.5,
+          "orbital_type": "p",
+          "electrons_in_orbital": 6
+        }
+      }
+    },
+    "valence_states": {
+      "C-H": {
+        "shared_electrons": 2,
+        "bond_order": 1.0,
+        "stability_factor": 

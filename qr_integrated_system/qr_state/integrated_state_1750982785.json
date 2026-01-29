@@ -1,0 +1,56 @@
+{
+  "id": "435d3921-a529-43f3-aba4-944b76cbc2fb",
+  "creation_time": 1750982782.2156858,
+  "phi_time": 0.3408346176147461,
+  "cycle_count": 1,
+  "last_improvement_time": 1750982782.220624,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1750982785.62159,
+      "phi_time": 0.8517031669616699,
+      "execution_time": 3.4009618759155273,
+      "qr_paths": [
+        "qr_integrated_system/qr_sequence/qr_frame_001.png",
+        "qr_integrated_system/qr_sequence/qr_frame_002.png",
+        "qr_integrated_system/qr_sequence/qr_frame_003.png",
+        "qr_integrated_system/qr_sequence/qr_frame_004.png",
+        "qr_integrated_system/qr_sequence/qr_frame_005.png",
+        "qr_integrated_system/qr_sequence/qr_frame_006.png",
+        "qr_integrated_system/qr_sequence/qr_frame_007.png",
+        "qr_integrated_system/qr_sequence/qr_frame_008.png"
+      ],
+      "analysis_results": {
+        "success_rate": 0.0,
+        "total_files": 8,
+        "success_count": 0
+      },
+      "execution_results": [],
+      "response_paths": [],
+      "phi_resonance_score": 0.7063753510768216
+    }
+  ],
+  "config": {
+    "base_dir": "qr_integrated_system",
+    "genome_path": "qr_genome.json",
+    "sequence_dir": "qr_sequence",
+    "response_dir": "qr_responses",
+    "analysis_dir": "qr_analysis",
+    "state_dir": "qr_state",
+    "verbose": true,
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 10,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1750982785.621624,
+  "optimizer_score": 0.7063753510768216,
+  "parameters": {
+    "qr_version": 11,
+    "error_correction": 0,
+    "compression_threshold": 588,
+    "resonance_factor": 0.8026902804138185,
+    "complexity_factor": 0.5805032909168908
+  }
+}

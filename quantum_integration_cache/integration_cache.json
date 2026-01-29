@@ -1,0 +1,256 @@
+{
+  "word_knowledge_quantum": {
+    "word": "quantum",
+    "phi_resonance": 5.704293669125742,
+    "phi_alignment": 0.0,
+    "resonance_quality": "Perfect",
+    "binary": "01110001011101010110000101101110011101000111010101101101",
+    "definition": "The smallest discrete unit of a physical property, such as energy or matter, that a system can possess according to quantum theory. In computing, a bit of information based on quantum mechanics that can exist in multiple states simultaneously.",
+    "synonyms": [
+      "elementary",
+      "microscopic",
+      "indivisible",
+      "fundamental",
+      "subatomic"
+    ],
+    "relevant_knowledge": {
+      "quantum_concepts": {
+        "quantum mechanical": {
+          "description": "hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+          "sources": [
+            "QUANTUM_MATH 2.pdf",
+            "QUANTUM_MATH.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643315.397278
+        },
+        "the quantum mechanical": {
+          "description": "hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+          "sources": [
+            "QUANTUM_MATH 2.pdf",
+            "QUANTUM_MATH.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643315.398258
+        },
+        "quantum variants": {
+          "description": "(solutions of WDW-equation [17]) for all above cases where\nclassical solutions were obtained;\n12\n\n--- Page 16 ---\nand the zero-energy constraint E = 0",
+          "sources": [
+            "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+            "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643316.474067
+        }
+      },
+      "principles": {
+        "This": {
+          "description": "is at the heart of Hamilton\u2019s \u201coptical-mechanical\u201d analogy, and, ultimately, the\nbasis of the wave/particle duality in quantum mechanics",
+          "sources": [
+            "QUANTUM_MATH 2.pdf",
+            "QUANTUM_MATH.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643315.388341
+        }
+      },
+      "formulas": {
+        "in_the_case_v_r_": {
+          "name": "In the case V(r)",
+          "expression": "e2/r, where e is the charge on an electron, we are in the situation of\n\u2212\nthe quantum mechanical hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+          "sources": [
+            "QUANTUM_MATH 2.pdf",
+            "QUANTUM_MATH.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643315.397179
+        },
+        "stochastic_behavior_near_the_singularity_billiards_in_lobachevsky_space_d": {
+          "name": "stochastic behavior near the singularity, billiards in Lobachevsky space, D",
+          "expression": "11\nis critical, \u03d5 destroys billiards (1994);\n- for all above cases Ricci-flat solutions above were obtained for any n, also with\ncurvatureinonefactor-space; withcurvaturesin2factor-spacesonlyfortotalN=10,\n11;\n- fields: scalar, dilatons, forms of arbitrary rank (1998) - inflationary, \u039b genera-\ntion by forms (p-branes) [16];\n- first billiards for dilaton-forms (p-branes) interaction (1999);\n- quantum variants (solutions of WDW-equation [17]) for all above cases where\nclassical solutions were obtained;\n12\n\n--- Page 16 ---\nand the zero-energy constraint E = 0",
+          "sources": [
+            "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+            "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643316.4739451
+        },
+        "self_qc": {
+          "name": "self.qc",
+          "expression": "QuantumCircuit(2)\nself",
+          "sources": [
+            "Sentinal.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643366.71293
+        }
+      },
+      "phi_harmonic_patterns": {
+        "Golden Ratio": {
+          "description": "(\u03c6) and phase-space\nresonance (\u03c6\u03c0)**, we ensure **perfect phase synchronization, lossless\ntransmission, and quantum coherence in power delivery",
+          "sources": [
+            "Wireless_Energy.pdf",
+            "Energy_Reduction.pdf",
+            "Energy_Reduction 2.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643366.860679
+        },
+        "Golden ratio": {
+          "description": "transformations ensuring non-reversibility\n- **Applications**:\n- **Quantum-Proof Digital Transactions** (ensuring security beyond\nquantum decryption)\n- **Unbreakable Blockchain Records** (using \u03c6-space to prevent\nmanipulation)\n- **Military-Grade Communication** (beyond the reach of current\nquantum attacks)\n### 4",
+          "sources": [
+            "QIV_Final copy.pdf",
+            "QIV_Final.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643367.411842
+        }
+      }
+    },
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-370757d2-1477688b",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1743643632.401233,
+    "cache_hit": false
+  },
+  "phi_knowledge_d48ac4c8": {
+    "query": "golden ratio",
+    "phi_alignment": 0.0,
+    "resonance_quality": "Perfect",
+    "results": {},
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-d48ac4c8-30565a89",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1743643632.427636,
+    "cache_hit": false
+  },
+  "quantum_insight_d48ac4c8": {
+    "topic": "golden ratio",
+    "phi_alignment": 0.0,
+    "resonance_quality": "Perfect",
+    "key_concepts": [],
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-d48ac4c8-30565a89",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1743643632.428022,
+    "cache_hit": false
+  },
+  "quantum_language_eb0da199": {
+    "original_text": "The golden ratio appears in quantum physics and mathematics",
+    "quantum_language": "(solutions of WDW-equation [17]) for all above cases where\nclassical solutions were obtained;\n12\n\n--- Page 16 ---\nand the zero-energy constraint E = 0. - **\u03c8_i** = Individual data states\n- **\u03c6^i** = Golden ratio transformations ensuring non-reversibility\n- **Applications**:\n- **Quantum-Proof Digital Transactions** (ensuring security beyond\nquantum decryption)\n- **Unbreakable Blockchain Records** (using \u03c6-space to prevent\nmanipulation)\n- **Military-Grade Communication** (beyond the reach of current\nquantum attacks)\n### 4. quantum appears resonance. hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+    "key_words": [
+      "the",
+      "golden",
+      "ratio",
+      "appears",
+      "quantum",
+      "physics",
+      "and",
+      "mathematics"
+    ],
+    "phi_alignment": 0.0,
+    "resonance_quality": "Perfect",
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-eb0da199-30565a89",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1743643632.4446468,
+    "cache_hit": false
+  },
+  "word_knowledge_resonance": {
+    "word": "resonance",
+    "phi_resonance": 5.489999196157466,
+    "phi_alignment": 0.0,
+    "resonance_quality": "Perfect",
+    "binary": "011100100110010101110011011011110110111001100001011011100110001101100101",
+    "definition": "The quality of being resonant. In physics, the reinforcement or prolongation of sound by reflection or synchronous vibration. In quantum mechanics, a short-lived phenomenon associated with a temporary excited state.",
+    "synonyms": [
+      "intensification",
+      "reverberation",
+      "synchrony",
+      "amplification",
+      "oscillation"
+    ],
+    "relevant_knowledge": {
+      "quantum_concepts": {
+        "quantum resonance": {
+          "description": "harmonics",
+          "sources": [
+            "Sentinal.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643366.7133389
+        },
+        "via quantum resonance": {
+          "description": "harmonics",
+          "sources": [
+            "Sentinal.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643366.7159328
+        }
+      },
+      "formulas": {
+        "c_\u03c6_": {
+          "name": "C(\u03c6)",
+          "expression": "A cos(\u03c6\u03c0t) + B sin(\u03c6\u03c0t)\n```\n- **C(\u03c6)** = Cloaking function based on \u03c6-space harmonics\n- **A, B** = Resonance wave modulations\n- **\u03c6\u03c0t** = Time-dependent quantum phase shift\n- **Applications**:\n- **Stealth Aircraft & Vehicles** (invisible to enemy radar &\nsensors)\n- **Private Digital Presence** (augmented cloaking in AR & VR)\n- **Anti-Surveillance Networks** (masking digital and physical\nidentities)\n### 3",
+          "sources": [
+            "QIV_Final copy.pdf",
+            "QIV_Final.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643367.39998
+        },
+        "r_\u03c9_": {
+          "name": "R(\u03c9)",
+          "expression": "\\sum_{n=1}^{\u221e} \u03c6\u207f A(\u03c9)e^{i\u03c9t}\n```\nWhere:\n- **R(\u03c9)** = Resulting resonance field\n- **\u03c6\u207f** = nth-order golden ratio transformation\n- **A(\u03c9)** = Wave amplitude at frequency **\u03c9**\n- **e^(i\u03c9t)** = Quantum oscillation factor\nThe interference pattern **nullifies detection**, effectively erasing\nthe object from observable reality",
+          "sources": [
+            "cloak_data.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643369.1792781
+        },
+        "random_uniform_0_95_1_0_if_mode": {
+          "name": "random.uniform(0.95, 1.0) if mode",
+          "expression": "= \"resonance\" else\nnp",
+          "sources": [
+            "FRAYMUS_BILLY_VAUGHN.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643405.428302
+        }
+      },
+      "phi_harmonic_patterns": {
+        "Golden Ratio": {
+          "description": "(\u03c6) and phase-space\nresonance (\u03c6\u03c0)**, we ensure **perfect phase synchronization, lossless\ntransmission, and quantum coherence in power delivery",
+          "sources": [
+            "Wireless_Energy.pdf",
+            "Energy_Reduction.pdf",
+            "Energy_Reduction 2.pdf"
+          ],
+          "phi_alignment": 0.0,
+          "extraction_timestamp": 1743643366.860679
+        }
+      }
+    },
+    "quantum_signature": "\u03c6\u2077\u00b7\u2075-9aafad40-548bb03c",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "timestamp": 1743644385.5368419,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "timestamp": "20250331_182726",
+  "epoch_id": 2,
+  "discovery": {
+    "elements": [
+      "C",
+      "H",
+      "O"
+    ],
+    "properties": {
+      "C": {
+        "symbol": "C",
+        "category": "nonmetal",
+        "mass": 12.011,
+        "electronegativity": 0.0,
+        "quantum_numbers": {
+          "n": 2,
+          "l": 1,
+          "m": 0,
+          "s": 0.5
+        },
+        "valence_electrons": {
+          "total": 8,
+          "shell_config": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+          },
+          "principal_n": 2
+        },
+        "orbital_config": {
+          "principal": 2,
+          "angular": 1,
+          "magnetic": 0,
+          "spin": 0.5,
+          "orbital_type": "p",
+          "electrons_in_orbital": 6
+        }
+      },
+      "H": {
+        "symbol": "H",
+        "category": "nonmetal",
+        "mass": 1.008,
+        "electronegativity": 0.0,
+        "quantum_numbers": {
+          "n": 1,
+          "l": 0,
+          "m": 0,
+          "s": 0.5
+        },
+        "valence_electrons": {
+          "total": 2,
+          "shell_config": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+          },
+          "principal_n": 1
+        },
+        "orbital_config": {
+          "principal": 1,
+          "angular": 0,
+          "magnetic": 0,
+          "spin": 0.5,
+          "orbital_type": "s",
+          "electrons_in_orbital": 2
+        }
+      },
+      "O": {
+        "symbol": "O",
+        "category": "nonmetal",
+        "mass": 15.999,
+        "electronegativity": 0.0,
+        "quantum_numbers": {
+          "n": 2,
+          "l": 1,
+          "m": 0,
+          "s": 0.5
+        },
+        "valence_electrons": {
+          "total": 8,
+          "shell_config": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+          },
+          "principal_n": 2
+        },
+        "orbital_config": {
+          "principal": 2,
+          "angular": 1,
+          "magnetic": 0,
+          "spin": 0.5,
+          "orbital_type": "p",
+          "electrons_in_orbital": 6
+        }
+      }
+    },
+    "valence_states": {
+      "C-H": {
+        "shared_electrons": 2,
+        "bond_order": 1.0,
+        "stability_factor": 3.23606797749979
+      },
+      "C-O": {
+        "shared_electrons": 8,
+        "bond_order": 4.0,
+        "stability_factor": 12.94427190999916
+      },
+      "H-O": {
+        "shared_electrons": 2,
+        "bond_order": 1.0,
+        "stability_factor": 3.23606797749979
+      }
+    },
+    "orbital_config": {
+      "C-H": {
+        "overlap_integral": 1.0,
+        "interaction_strength": 1.618033988749895,
+        "orbital_symmetry": false
+      },
+      "C-O": {
+        "overlap_integral": 4.0,
+        "interaction_strength": 6.47213595499958,
+        "orbital_symmetry": true
+      },
+      "H-O": {
+        "overlap_integral": 1.0,
+        "interaction_strength": 1.618033988749895,
+        "orbital_symmetry": false
+      }
+    },
+    "directional_data": {
+      "C-H": {
+        "bond_angle": 206.26164607505677,
+        "spatial_harmony": 0.5,
+        "orientation_vector": [
+          -0.8967828223652764,
+          -0.44247098154632586,
+          0
+        ]
+      },
+      "C-O": {
+        "bond_angle": 183.34368540005048,
+        "spatial_harmony": 0.3333333333333334,
+        "orientation_vector": [
+          -0.9982976365057679,
+          -0.058325199931057524,
+          0
+        ]
+      },
+      "H-O": {
+        "bond_angle": 206.26164607505677,
+        "spatial_harmony": 0.5,
+        "orientation_vector": [
+          -0.8967828223652764,
+          -0.44247098154632586,
+          0
+        ]
+      }
+    },
+    "total_mass": 29.018,
+    "velocity": 22652.475842498527,
+    "velocity_c": 0.07556052608401019,
+    "gamma": 1.0028669789410851,
+    "energy": 400.9506435394287,
+    "stability": 0.0,
+    "causality_risk": 3.976869793895273,
+    "ratios": {
+      "C-H": {
+        "mass_ratio": 11.915674603174603,
+        "quantum_ratio": 2.0,
+        "phi_scaled": 19.279966506820422
+      },
+      "C-O": {
+        "mass_ratio": 0.7507344209013064,
+        "quantum_ratio": 1.0,
+        "phi_scaled": 1.2147138095427832
+      },
+      "H-O": {
+        "mass_ratio": 0.06300393774610913,
+        "quantum_ratio": 0.5,
+        "phi_scaled": 0.10194251269828702
+      }
+    },
+    "ascii_viz": "\u269b\ufe0f  Element Relationships  \u269b\ufe0f\n========================================\n --19.28->  --0.10-> \n+--------+ --19.28-> +--------+ --0.10-> +--------+\n|  C     | --19.28-> |  H     | --0.10-> |  O     |\n|  12.0 | --19.28-> |  1.0  | --0.10-> |  16.0 |\n+--------+ --19.28-> +--------+ --0.10-> +--------+\n\nRatio Details:\n----------------------------------------\nC-H:\n  Mass Ratio: 11.916\n  Quantum Ratio: 2.000\n  \u03c6-Scaled: 19.280\nC-O:\n  Mass Ratio: 0.751\n  Quantum Ratio: 1.000\n  \u03c6-Scaled: 1.215\nH-O:\n  Mass Ratio: 0.063\n  Quantum Ratio: 0.500\n  \u03c6-Scaled: 0.102",
+    "timestamp": 1743470846.47447
+  },
+  "quantum_state": {
+    "phi_harmonic": 1.618033988749895,
+    "resonance_patterns": 118
+  },
+  "brain_state": {
+    "right_hemisphere": {
+      "elements_known": 118,
+      "patterns_recognized": 118
+    },
+    "left_hemisphere": {
+      "discoveries": 6,
+      "novel_patterns": 6
+    }
+  }
+}

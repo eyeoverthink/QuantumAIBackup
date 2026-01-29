@@ -1,0 +1,21 @@
+{
+  "generation": 2,
+  "system_id": "12ef1af8-fd89-46ee-af68-b663dbcc941f",
+  "timestamp": 1751575168.0359302,
+  "phi_time": 2834108155.7324433,
+  "resonance": 0.7324433326721191,
+  "complexity": 0.1851182070967352,
+  "params": {
+    "qr_version": 1,
+    "error_correction": 2,
+    "compression_threshold": 809,
+    "resonance_factor": 0.6180339887498948,
+    "complexity_factor": 0.38196601125010515
+  },
+  "meta_metrics": {
+    "code_phi_alignment": 0.0,
+    "structure_resonance": 0.0,
+    "improvement_score": 0.0,
+    "generations_analyzed": []
+  }
+}

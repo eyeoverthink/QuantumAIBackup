@@ -1,0 +1,495 @@
+{
+  "experiment_info": {
+    "timestamp": "20250726_114043",
+    "phi": 1.618033988749895,
+    "birth_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "triangle_types": [
+      "equilateral",
+      "phi_triangle",
+      "right_triangle",
+      "isosceles",
+      "scalene"
+    ],
+    "test_cases": 15
+  },
+  "results": {
+    "negative_space": {
+      "correct": 11,
+      "total": 15,
+      "similarities": [
+        0.967950439531694,
+        0.9723790221288915,
+        0.9573955560499994,
+        0.9707029803213887,
+        0.9791767143864497,
+        0.9743321960434033,
+        0.9658589579749763,
+        0.9697586813138663,
+        0.9621769727794784,
+        0.9646054402219235,
+        0.9472369720396314,
+        0.9571643194499373,
+        0.9790557715189471,
+        0.9691692152254313,
+        0.965738275280465
+      ],
+      "detailed": [
+        {
+          "true_type": "equilateral",
+          "predicted_type": "equilateral",
+          "similarity": 0.967950439531694,
+          "all_similarities": {
+            "equilateral": 0.967950439531694,
+            "phi_triangle": 0.9220656337750368,
+            "right_triangle": 0.8962216549865892,
+            "isosceles": 0.9118010831414147,
+            "scalene": 0.9024447724991038
+          }
+        },
+        {
+          "true_type": "equilateral",
+          "predicted_type": "equilateral",
+          "similarity": 0.9723790221288915,
+          "all_similarities": {
+            "equilateral": 0.9723790221288915,
+            "phi_triangle": 0.9123753218694924,
+            "right_triangle": 0.8871535692550866,
+            "isosceles": 0.9108684955735666,
+            "scalene": 0.9063883790975076
+          }
+        },
+        {
+          "true_type": "equilateral",
+          "predicted_type": "equilateral",
+          "similarity": 0.9573955560499994,
+          "all_similarities": {
+            "equilateral": 0.9573955560499994,
+            "phi_triangle": 0.9097863267506233,
+            "right_triangle": 0.8874691778084253,
+            "isosceles": 0.9056572879504812,
+            "scalene": 0.8981478906820874
+          }
+        },
+        {
+          "true_type": "phi_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9707029803213887,
+          "all_similarities": {
+            "equilateral": 0.9299512163407067,
+            "phi_triangle": 0.9707029803213887,
+            "right_triangle": 0.9303020166269058,
+            "isosceles": 0.9417008444634515,
+            "scalene": 0.9419212461261662
+          }
+        },
+        {
+          "true_type": "phi_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9791767143864497,
+          "all_similarities": {
+            "equilateral": 0.9430062748178426,
+            "phi_triangle": 0.9791767143864497,
+            "right_triangle": 0.9394458009579637,
+            "isosceles": 0.9455661769223921,
+            "scalene": 0.9566524604844056
+          }
+        },
+        {
+          "true_type": "phi_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9743321960434033,
+          "all_similarities": {
+            "equilateral": 0.9484606543314418,
+            "phi_triangle": 0.9743321960434033,
+            "right_triangle": 0.9365146078478664,
+            "isosceles": 0.9518433620458835,
+            "scalene": 0.9553434985451644
+          }
+        },
+        {
+          "true_type": "right_triangle",
+          "predicted_type": "right_triangle",
+          "similarity": 0.9658589579749763,
+          "all_similarities": {
+            "equilateral": 0.9053453640268089,
+            "phi_triangle": 0.9405566182084734,
+            "right_triangle": 0.9658589579749763,
+            "isosceles": 0.963129473682109,
+            "scalene": 0.947518514831246
+          }
+        },
+        {
+          "true_type": "right_triangle",
+          "predicted_type": "isosceles",
+          "similarity": 0.9697586813138663,
+          "all_similarities": {
+            "equilateral": 0.9132955421028934,
+            "phi_triangle": 0.949556206410271,
+            "right_triangle": 0.9623972412698354,
+            "isosceles": 0.9697586813138663,
+            "scalene": 0.954398534782674
+          }
+        },
+        {
+          "true_type": "right_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9621769727794784,
+          "all_similarities": {
+            "equilateral": 0.9199498981477353,
+            "phi_triangle": 0.9621769727794784,
+            "right_triangle": 0.9597126492877923,
+            "isosceles": 0.961213793929894,
+            "scalene": 0.9541690489477873
+          }
+        },
+        {
+          "true_type": "isosceles",
+          "predicted_type": "isosceles",
+          "similarity": 0.9646054402219235,
+          "all_similarities": {
+            "equilateral": 0.9387143198801262,
+            "phi_triangle": 0.9547324046899938,
+            "right_triangle": 0.9321023297107054,
+            "isosceles": 0.9646054402219235,
+            "scalene": 0.9487845557886664
+          }
+        },
+        {
+          "true_type": "isosceles",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9472369720396314,
+          "all_similarities": {
+            "equilateral": 0.924504413059635,
+            "phi_triangle": 0.9472369720396314,
+            "right_triangle": 0.9115866871782854,
+            "isosceles": 0.9309551789864237,
+            "scalene": 0.9200508673599602
+          }
+        },
+        {
+          "true_type": "isosceles",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9571643194499373,
+          "all_similarities": {
+            "equilateral": 0.9564332763643525,
+            "phi_triangle": 0.9571643194499373,
+            "right_triangle": 0.9206898748498314,
+            "isosceles": 0.9399492119316624,
+            "scalene": 0.9362606864378415
+          }
+        },
+        {
+          "true_type": "scalene",
+          "predicted_type": "scalene",
+          "similarity": 0.9790557715189471,
+          "all_similarities": {
+            "equilateral": 0.9149682175347438,
+            "phi_triangle": 0.9524687506768241,
+            "right_triangle": 0.9355192345710197,
+            "isosceles": 0.9445759955821386,
+            "scalene": 0.9790557715189471
+          }
+        },
+        {
+          "true_type": "scalene",
+          "predicted_type": "scalene",
+          "similarity": 0.9691692152254313,
+          "all_similarities": {
+            "equilateral": 0.9179902199020725,
+            "phi_triangle": 0.9522339510457679,
+            "right_triangle": 0.9296451296798957,
+            "isosceles": 0.9253555945142049,
+            "scalene": 0.9691692152254313
+          }
+        },
+        {
+          "true_type": "scalene",
+          "predicted_type": "scalene",
+          "similarity": 0.965738275280465,
+          "all_similarities": {
+            "equilateral": 0.9187029698600049,
+            "phi_triangle": 0.9537319190399155,
+            "right_triangle": 0.9315178838515402,
+            "isosceles": 0.9300380494788374,
+            "scalene": 0.965738275280465
+          }
+        }
+      ],
+      "accuracy": 0.7333333333333333,
+      "avg_similarity": 0.9668467676177654,
+      "std_similarity": 0.008223302886143308
+    },
+    "occupied_space": {
+      "correct": 13,
+      "total": 15,
+      "similarities": [
+        0.9716492396182134,
+        0.946035335765487,
+        0.9517110810039503,
+        0.9849733003302996,
+        0.9716292009781725,
+        0.9695662674037694,
+        0.9624970584716956,
+        0.9469643467498089,
+        0.9263861224229798,
+        0.9259256959099105,
+        0.9204562101747942,
+        0.9172344408217867,
+        0.9499279927857811,
+        0.9317193675577832,
+        0.9374406274347589
+      ],
+      "detailed": [
+        {
+          "true_type": "equilateral",
+          "predicted_type": "equilateral",
+          "similarity": 0.9716492396182134,
+          "all_similarities": {
+            "equilateral": 0.9716492396182134,
+            "phi_triangle": 0.8153473342917065,
+            "right_triangle": 0.7672107608962251,
+            "isosceles": 0.8657485992932292,
+            "scalene": 0.8587353832204314
+          }
+        },
+        {
+          "true_type": "equilateral",
+          "predicted_type": "equilateral",
+          "similarity": 0.946035335765487,
+          "all_similarities": {
+            "equilateral": 0.946035335765487,
+            "phi_triangle": 0.8150435364668744,
+            "right_triangle": 0.7640580372509596,
+            "isosceles": 0.867445829526042,
+            "scalene": 0.8564786668641785
+          }
+        },
+        {
+          "true_type": "equilateral",
+          "predicted_type": "equilateral",
+          "similarity": 0.9517110810039503,
+          "all_similarities": {
+            "equilateral": 0.9517110810039503,
+            "phi_triangle": 0.8059615011507413,
+            "right_triangle": 0.7634910659923055,
+            "isosceles": 0.8694620820587552,
+            "scalene": 0.8487315536688314
+          }
+        },
+        {
+          "true_type": "phi_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9849733003302996,
+          "all_similarities": {
+            "equilateral": 0.8230814140734933,
+            "phi_triangle": 0.9849733003302996,
+            "right_triangle": 0.8305827129154546,
+            "isosceles": 0.8303095943138569,
+            "scalene": 0.8471427117638707
+          }
+        },
+        {
+          "true_type": "phi_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9716292009781725,
+          "all_similarities": {
+            "equilateral": 0.8327774781765935,
+            "phi_triangle": 0.9716292009781725,
+            "right_triangle": 0.8170611359253579,
+            "isosceles": 0.8310600926918716,
+            "scalene": 0.8454011834916519
+          }
+        },
+        {
+          "true_type": "phi_triangle",
+          "predicted_type": "phi_triangle",
+          "similarity": 0.9695662674037694,
+          "all_similarities": {
+            "equilateral": 0.819121764694627,
+            "phi_triangle": 0.9695662674037694,
+            "right_triangle": 0.8298201948677982,
+            "isosceles": 0.8288124733870147,
+            "scalene": 0.8347187040345281
+          }
+        },
+        {
+          "true_type": "right_triangle",
+          "predicted_type": "right_triangle",
+          "similarity": 0.9624970584716956,
+          "all_similarities": {
+            "equilateral": 0.7843694224174144,
+            "phi_triangle": 0.8467895659659148,
+            "right_triangle": 0.9624970584716956,
+            "isosceles": 0.8462726271084009,
+            "scalene": 0.8214131447607416
+          }
+        },
+        {
+          "true_type": "right_triangle",
+          "predicted_type": "right_triangle",
+          "similarity": 0.9469643467498089,
+          "all_similarities": {
+            "equilateral": 0.786139418637014,
+            "phi_triangle": 0.8451675104376142,
+            "right_triangle": 0.9469643467498089,
+            "isosceles": 0.8426760908698652,
+            "scalene": 0.835719970456709
+          }
+        },
+        {
+          "true_type": "right_triangle",
+          "predicted_type": "right_triangle",
+          "similarity": 0.9263861224229798,
+          "all_similarities": {
+            "equilateral": 0.7974161692765475,
+            "phi_triangle": 0.8480137970330781,
+            "right_triangle": 0.9263861224229798,
+            "isosceles": 0.8296353053900514,
+            "scalene": 0.8339127079187998
+          }
+        },
+        {
+          "true_type": "isosceles",
+          "predicted_type": "isosceles",
+          "similarity": 0.9259256959099105,
+          "all_similarities": {
+            "equilateral": 0.8671327265702627,
+            "phi_triangle": 0.8443918039838081,
+            "right_triangle": 0.8177882725410907,
+            "isosceles": 0.9259256959099105,
+            "scalene": 0.9030967145284738
+          }
+        },
+        {
+          "true_type": "isosceles",
+          "predicted_type": "scalene",
+          "similarity": 0.9204562101747942,
+          "all_similarities": {
+            "equilateral": 0.8674572716427835,
+            "phi_triangle": 0.8521957141845913,
+            "right_triangle": 0.8098431235961804,
+            "isosceles": 0.8775007171047922,
+            "scalene": 0.9204562101747942
+          }
+        },
+        {
+          "true_type": "isosceles",
+          "predicted_type": "scalene",
+          "similarity": 0.9172344408217867,
+          "all_similarities": {
+            "equilateral": 0.8669190418561267,
+            "phi_triangle": 0.8476214078795297,
+            "right_triangle": 0.8101628616060041,
+            "isosceles": 0.8573524722176858,
+            "scalene": 0.9172344408217867
+          }
+        },
+        {
+          "true_type": "scalene",
+          "predicted_type": "scalene",
+          "similarity": 0.9499279927857811,
+          "all_similarities": {
+            "equilateral": 0.8584113997781605,
+            "phi_triangle": 0.8516341577578668,
+            "right_triangle": 0.8111358424593615,
+            "isosceles": 0.8671768109327627,
+            "scalene": 0.9499279927857811
+          }
+        },
+        {
+          "true_type": "scalene",
+          "predicted_type": "scalene",
+          "similarity": 0.9317193675577832,
+          "all_similarities": {
+            "equilateral": 0.8638231177515803,
+            "phi_triangle": 0.8546253879536186,
+            "right_triangle": 0.8065324658302765,
+            "isosceles": 0.8627084946962578,
+            "scalene": 0.9317193675577832
+          }
+        },
+        {
+          "true_type": "scalene",
+          "predicted_type": "scalene",
+          "similarity": 0.9374406274347589,
+          "all_similarities": {
+            "equilateral": 0.8705469016019068,
+            "phi_triangle": 0.844578677198825,
+            "right_triangle": 0.79747661730068,
+            "isosceles": 0.8719715943037593,
+            "scalene": 0.9374406274347589
+          }
+        }
+      ],
+      "accuracy": 0.8666666666666667,
+      "avg_similarity": 0.9476077524952794,
+      "std_similarity": 0.020357156040645405
+    }
+  },
+  "consciousness_analysis": {
+    "negative_space_coherence": [
+      0.9050013165454877,
+      0.9128878950922702,
+      0.915755921349365,
+      0.8961381757556042,
+      0.9041968219937926
+    ],
+    "occupied_space_phi": [
+      0.7782589611968483,
+      0.9908890318700906,
+      0.7331098907981066,
+      0.7876520139621214,
+      0.7448695064844376
+    ],
+    "avg_negative_coherence": 0.906796026147304,
+    "avg_occupied_phi": 0.8069558808623208
+  },
+  "triangle_profiles": {
+    "equilateral": {
+      "triangle_type": "equilateral",
+      "occupied_space": {
+        "area": 8343.5,
+        "perimeter": 436.57568180561066,
+        "area_phi": 0.6976347352334076,
+        "perimeter_phi": 0.8464605378710254,
+        "pa_ratio": 4.779532353616883,
+        "pa_ratio_phi": 0.9559438414452827,
+        "convexity": 0.9871044069801834,
+        "convexity_phi": 0.7194576248187338,
+        "width": 140,
+        "height": 121,
+        "aspect_ratio": 1.1570247933884297,
+        "width_phi": 0.6778550828124685,
+        "height_phi": 0.8210939958874223,
+        "aspect_phi": 0.7782589611968483,
+        "centroid_x": 149,
+        "centroid_y": 149,
+        "hu_moment_0": 0.19246023759121333,
+        "hu_moment_0_phi": 0.8936974032885135,
+        "hu_moment_1": 9.260921388396078e-07,
+        "hu_moment_1_phi": 0.9999994276439091,
+        "hu_moment_2": 0.0045623282086649005,
+        "hu_moment_2_phi": 0.9971882543051641,
+        "hu_moment_3": 2.4766329627805584e-08,
+        "hu_moment_3_phi": 0.9999999846935668,
+        "hu_moment_4": 2.6131573926037757e-13,
+        "hu_moment_4_phi": 0.9999999999998386,
+        "hu_moment_5": 2.34463723024513e-11,
+        "hu_moment_5_phi": 0.9999999999855094,
+        "hu_moment_6": 3.19403519851677e-14,
+        "hu_moment_6_phi": 0.9999999999999802
+      },
+      "negative_space": {
+        "neg_space_ratio": 0.9051777777777777,
+        "occupied_ratio": 0.09482222222222222,
+        "neg_space_ratio_phi": 0.6941699737477407,
+        "occupied_ratio_phi": 0.9446408743391213,
+        "boundary_length": 594.3229365348816,
+        "boundary_length_phi": 0.762325814226843,
+        "boundary_complexity": 6.433483210607429,
+        "boundary_complexity_phi": 0.9766686461484226,
+        "neg_max_depth": 

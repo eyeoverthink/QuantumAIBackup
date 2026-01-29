@@ -1,0 +1,374 @@
+{
+  "generation": 21,
+  "complexity": 1.0959048548785342,
+  "resonance": 0.9736908128633082,
+  "mutation_rate": 0.0883388370063265,
+  "similarity_threshold": 0.6100000000000001,
+  "feature_weight": 0.5476560651392615,
+  "temporal_factor": 0.2941526485276454,
+  "evolution_history": [
+    {
+      "generation": 2,
+      "timestamp": 1753478349.7396321,
+      "phi_time": 0.41579198837280273,
+      "complexity": 1.021373890518317,
+      "resonance": 0.5172765569437096,
+      "mutation_rate": 0.09938196601125011,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.5106208963050979,
+      "temporal_factor": 0.20343395638994236
+    },
+    {
+      "generation": 3,
+      "timestamp": 1753478349.7399318,
+      "phi_time": 0.4162788391113281,
+      "complexity": 0.9717611947661916,
+      "resonance": 0.534524626146921,
+      "mutation_rate": 0.09876775168261272,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.4859678600902768,
+      "temporal_factor": 0.20686225044456885
+    },
+    {
+      "generation": 4,
+      "timestamp": 1753478349.878954,
+      "phi_time": 0.6412100791931152,
+      "complexity": 0.9583234857546361,
+      "resonance": 0.5876122632498043,
+      "mutation_rate": 0.09815733340729008,
+      "similarity_threshold": 0.45,
+      "feature_weight": 0.47929053038899944,
+      "temporal_factor": 0.2174141579369215
+    },
+    {
+      "generation": 5,
+      "timestamp": 1753478350.128584,
+      "phi_time": 0.04512310028076172,
+      "complexity": 1.003916486619297,
+      "resonance": 0.5457001331432617,
+      "mutation_rate": 0.09755068772438247,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.5019461407004125,
+      "temporal_factor": 0.2090835381575065
+    },
+    {
+      "generation": 6,
+      "timestamp": 1753478350.395367,
+      "phi_time": 0.4767918586730957,
+      "complexity": 1.0232758813262226,
+      "resonance": 0.5721817728153032,
+      "mutation_rate": 0.09694779131798652,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.5115660142342228,
+      "temporal_factor": 0.2143471329851245
+    },
+    {
+      "generation": 7,
+      "timestamp": 1753478350.3955998,
+      "phi_time": 0.4771718978881836,
+      "complexity": 0.9748616004508621,
+      "resonance": 0.5985593617370261,
+      "mutation_rate": 0.09634862101629904,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.48750848215215176,
+      "temporal_factor": 0.21959004627647927
+    },
+    {
+      "generation": 8,
+      "timestamp": 1753478350.5408971,
+      "phi_time": 0.7122578620910645,
+      "complexity": 0.963336097101441,
+      "resonance": 0.6614227353525283,
+      "mutation_rate": 0.09575315379072649,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.48178134624147817,
+      "temporal_factor": 0.232085017596496
+    },
+    {
+      "generation": 9,
+      "timestamp": 1753478350.7471669,
+      "phi_time": 0.04601430892944336,
+      "complexity": 1.018681871353793,
+      "resonance": 0.6206752408048966,
+      "mutation_rate": 0.09516136675499984,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.509283205519546,
+      "temporal_factor": 0.22398588536014333
+    },
+    {
+      "generation": 10,
+      "timestamp": 1753478350.7475011,
+      "phi_time": 0.04656171798706055,
+      "complexity": 0.9711854749168906,
+      "resonance": 0.5802638665637306,
+      "mutation_rate": 0.094573237164295,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.4856817792378004,
+      "temporal_factor": 0.2159535617175364
+    },
+    {
+      "generation": 11,
+      "timestamp": 1753478351.1645818,
+      "phi_time": 0.7213950157165527,
+      "complexity": 1.0271636778077926,
+      "resonance": 0.6433670698237455,
+      "mutation_rate": 0.0939887424143586,
+      "similarity_threshold": 0.47000000000000003,
+      "feature_weight": 0.5134978985231728,
+      "temporal_factor": 0.228496202520712
+    },
+    {
+      "generation": 12,
+      "timestamp": 1753478617.4785879,
+      "phi_time": 0.6265163421630859,
+      "complexity": 1.0214685207018843,
+      "resonance": 0.6916514117194829,
+      "mutation_rate": 0.09340786004063928,
+      "similarity_threshold": 0.49000000000000005,
+      "feature_weight": 0.5106679189735324,
+      "temporal_factor": 0.23809338817102751
+    },
+    {
+      "generation": 13,
+      "timestamp": 1753478617.6729548,
+      "phi_time": 0.9410104751586914,
+      "complexity": 1.022296319507475,
+      "resonance": 0.7871690687969707,
+      "mutation_rate": 0.09283056771742419,
+      "similarity_threshold": 0.51,
+      "feature_weight": 0.5110792603373392,
+      "temporal_factor": 0.2570788532693258
+    },
+    {
+      "generation": 14,
+      "timestamp": 1753478617.90854,
+      "phi_time": 0.3221917152404785,
+      "complexity": 1.068829478360782,
+      "resonance": 0.7891479515764431,
+      "mutation_rate": 0.09225684325698102,
+      "similarity_threshold": 0.53,
+      "feature_weight": 0.5342020443951164,
+      "temporal_factor": 0.2574721837915853
+    },
+    {
+      "generation": 15,
+      "timestamp": 1753478618.1606998,
+      "phi_time": 0.7301969528198242,
+      "complexity": 1.0836059194689225,
+      "resonance": 0.8520194669243721,
+      "mutation_rate": 0.09168666460870517,
+      "similarity_threshold": 0.55,
+      "feature_weight": 0.5415446032349988,
+      "temporal_factor": 0.26996877339435266
+    },
+    {
+      "generation": 16,
+      "timestamp": 1753478618.397116,
+      "phi_time": 0.11270952224731445,
+      "complexity": 1.1293681686982158,
+      "resonance": 0.822896833404563,
+      "mutation_rate": 0.09112000985827225,
+      "similarity_threshold": 0.55,
+      "feature_weight": 0.5642843147225186,
+      "temporal_factor": 0.2641802442451051
+    },
+    {
+      "generation": 17,
+      "timestamp": 1753478618.3983848,
+      "phi_time": 0.11477899551391602,
+      "complexity": 1.0841132771251194,
+      "resonance": 0.7942593010143651,
+      "mutation_rate": 0.09055685722679586,
+      "similarity_threshold": 0.55,
+      "feature_weight": 0.5417967142417173,
+      "temporal_factor": 0.2584881357038077
+    },
+    {
+      "generation": 18,
+      "timestamp": 1753478618.559191,
+      "phi_time": 0.374967098236084,
+      "complexity": 1.0769586690446036,
+      "resonance": 0.8039225788407601,
+      "mutation_rate": 0.08999718506999055,
+      "similarity_threshold": 0.55,
+      "feature_weight": 0.538241519156309,
+      "temporal_factor": 0.2604088468008078
+    },
+    {
+      "generation": 19,
+      "timestamp": 1753478618.794296,
+      "phi_time": 0.7553811073303223,
+      "complexity": 1.087355395542015,
+      "resonance": 0.8689214533581673,
+      "mutation_rate": 0.08944097187733986,
+      "similarity_threshold": 0.5700000000000001,
+      "feature_weight": 0.543407754753279,
+      "temporal_factor": 0.2733282786769247
+    },
+    {
+      "generation": 20,
+      "timestamp": 1753478618.899413,
+      "phi_time": 0.9254593849182129,
+      "complexity": 1.0672483883433321,
+      "resonance": 0.958132091478739,
+      "mutation_rate": 0.08888819627126966,
+      "similarity_threshold": 0.5900000000000001,
+      "feature_weight": 0.5334163852232416,
+      "temporal_factor": 0.2910601358880059
+    },
+    {
+      "generation": 21,
+      "timestamp": 1753478619.203327,
+      "phi_time": 0.41719579696655273,
+      "complexity": 1.0959048548785342,
+      "resonance": 0.9736908128633082,
+      "mutation_rate": 0.0883388370063265,
+      "similarity_threshold": 0.6100000000000001,
+      "feature_weight": 0.5476560651392615,
+      "temporal_factor": 0.2941526485276454
+    }
+  ],
+  "authentication_history": [
+    {
+      "timestamp": 1753478349.7396271,
+      "phi_time": 0.41579198837280273,
+      "success": false,
+      "similarity": 0.3610511606535621,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753478349.739928,
+      "phi_time": 0.4162788391113281,
+      "success": true,
+      "similarity": 0.6487540669309293,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753478349.878944,
+      "phi_time": 0.6412100791931152,
+      "success": true,
+      "similarity": 0.6402311927909797,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753478350.128576,
+      "phi_time": 0.04512310028076172,
+      "success": true,
+      "similarity": 0.6078755129255191,
+      "threshold": 0.45
+    },
+    {
+      "timestamp": 1753478350.395361,
+      "phi_time": 0.4767918586730957,
+      "success": false,
+      "similarity": 0.35255927536010656,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478350.395597,
+      "phi_time": 0.4771718978881836,
+      "success": true,
+      "similarity": 0.6560627865226305,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478350.540888,
+      "phi_time": 0.7122578620910645,
+      "success": true,
+      "similarity": 0.6075958191765714,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478350.7471611,
+      "phi_time": 0.04601430892944336,
+      "success": false,
+      "similarity": 0.39157694599368525,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478350.747498,
+      "phi_time": 0.04656171798706055,
+      "success": true,
+      "similarity": 0.5311654135653783,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478351.16457,
+      "phi_time": 0.7213950157165527,
+      "success": true,
+      "similarity": 0.5465256117297469,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478617.478579,
+      "phi_time": 0.6265163421630859,
+      "success": true,
+      "similarity": 0.5608073199031708,
+      "threshold": 0.47000000000000003
+    },
+    {
+      "timestamp": 1753478617.672948,
+      "phi_time": 0.9410104751586914,
+      "success": true,
+      "similarity": 0.6253683240944181,
+      "threshold": 0.49000000000000005
+    },
+    {
+      "timestamp": 1753478617.90853,
+      "phi_time": 0.3221917152404785,
+      "success": true,
+      "similarity": 0.6599297418751678,
+      "threshold": 0.51
+    },
+    {
+      "timestamp": 1753478618.160691,
+      "phi_time": 0.7301969528198242,
+      "success": true,
+      "similarity": 0.619521534220457,
+      "threshold": 0.53
+    },
+    {
+      "timestamp": 1753478618.397099,
+      "phi_time": 0.11270952224731445,
+      "success": false,
+      "similarity": 0.41655008242999847,
+      "threshold": 0.55
+    },
+    {
+      "timestamp": 1753478618.398377,
+      "phi_time": 0.11477899551391602,
+      "success": true,
+      "similarity": 0.6101009531967729,
+      "threshold": 0.55
+    },
+    {
+      "timestamp": 1753478618.559181,
+      "phi_time": 0.374967098236084,
+      "success": true,
+      "similarity": 0.7386285072148513,
+      "threshold": 0.55
+    },
+    {
+      "timestamp": 1753478618.7942898,
+      "phi_time": 0.7553811073303223,
+      "success": true,
+      "similarity": 0.7399471941548497,
+      "threshold": 0.55
+    },
+    {
+      "timestamp": 1753478618.899405,
+      "phi_time": 0.9254593849182129,
+      "success": true,
+      "similarity": 0.7561349749367227,
+      "threshold": 0.5700000000000001
+    },
+    {
+      "timestamp": 1753478619.203315,
+      "phi_time": 0.41719579696655273,
+      "success": true,
+      "similarity": 0.715571503922668,
+      "threshold": 0.5900000000000001
+    }
+  ],
+  "phi_harmonic_states": []
+}

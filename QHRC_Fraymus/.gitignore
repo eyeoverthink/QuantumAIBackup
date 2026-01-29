@@ -1,0 +1,53 @@
+# QHRC Patent #19/071,497 - Protected Files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Quantum fingerprint cache
+*.qfp
+*.qsig
+*.qkey
+
+# Personal quantum signature files
+**/quantum_signature.key
+**/reality_seal.key
+**/phi19_key.dat
+
+# Test results and logs
+**/test_results/
+**/logs/
+*.log
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Security and configuration
+**/security/
+**/config/private/
+*.env
+*.key
+*.pem
+
+# Patent documentation (sensitive)
+**/patent_docs/
+**/legal/
+**/confidential/

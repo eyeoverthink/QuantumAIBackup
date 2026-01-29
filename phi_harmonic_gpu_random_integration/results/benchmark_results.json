@@ -1,0 +1,665 @@
+{
+  "dimensional_scaling": {
+    "test_results": {
+      "dimensions": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "vertex_count": 500,
+      "generators": [
+        "adapter",
+        "quantum",
+        "phi_harmonic",
+        "standard"
+      ],
+      "transformations": [
+        "phi",
+        "standard",
+        "complex"
+      ],
+      "performance": {
+        "2": {
+          "generators": {
+            "adapter": {
+              "phi": {
+                "duration": 0.004487276077270508,
+                "ops_per_second": 111426.17289198237,
+                "coherence": 0.9887324785067735,
+                "resonance": 0.6349509549371969
+              },
+              "standard": {
+                "duration": 0.0024750232696533203,
+                "ops_per_second": 404036.60533667274,
+                "coherence": 0.9882849331524229,
+                "resonance": 0.6374191053995745
+              },
+              "complex": {
+                "duration": 0.0024530887603759766,
+                "ops_per_second": 611474.0013606765,
+                "coherence": 0.9882196371652091,
+                "resonance": 0.6377792036990346
+              }
+            },
+            "quantum": {
+              "phi": {
+                "duration": 0.0025098323822021484,
+                "ops_per_second": 796865.9637123587,
+                "coherence": 0.9882101106090615,
+                "resonance": 0.6378317413328827
+              },
+              "standard": {
+                "duration": 0.0025780200958251953,
+                "ops_per_second": 969736.4283732544,
+                "coherence": 0.9882087207032493,
+                "resonance": 0.6378394064703583
+              },
+              "complex": {
+                "duration": 0.0025517940521240234,
+                "ops_per_second": 1175643.4644492199,
+                "coherence": 0.9882085179187279,
+                "resonance": 0.6378405247988461
+              }
+            },
+            "phi_harmonic": {
+              "phi": {
+                "duration": 0.0027158260345458984,
+                "ops_per_second": 1288742.3404442105,
+                "coherence": 0.9882084883328617,
+                "resonance": 0.6378406879607715
+              },
+              "standard": {
+                "duration": 0.002655029296875,
+                "ops_per_second": 1506574.712643678,
+                "coherence": 0.9882084840163396,
+                "resonance": 0.6378407117657752
+              },
+              "complex": {
+                "duration": 0.002741575241088867,
+                "ops_per_second": 1641392.1210540046,
+                "coherence": 0.9882084833865672,
+                "resonance": 0.6378407152388798
+              }
+            },
+            "standard": {
+              "phi": {
+                "duration": 0.0025119781494140625,
+                "ops_per_second": 1990463.1738800304,
+                "coherence": 0.9882084832946876,
+                "resonance": 0.6378407157455974
+              },
+              "standard": {
+                "duration": 0.0024881362915039062,
+                "ops_per_second": 2210489.842851667,
+                "coherence": 0.9882084832812813,
+                "resonance": 0.6378407158195285
+              },
+              "complex": {
+                "duration": 0.002541780471801758,
+                "ops_per_second": 2360550.042209924,
+                "coherence": 0.9882084832793261,
+                "resonance": 0.6378407158303143
+              }
+            }
+          },
+          "coherence": {
+            "adapter": 0.9882196371652091,
+            "quantum": 0.9882085179187279,
+            "phi_harmonic": 0.9882084833865672,
+            "standard": 0.9882084832793261
+          },
+          "resonance": {
+            "adapter": 0.6377792036990346,
+            "quantum": 0.6378405247988461,
+            "phi_harmonic": 0.6378407152388798,
+            "standard": 0.6378407158303143
+          }
+        },
+        "3": {
+          "generators": {
+            "adapter": {
+              "phi": {
+                "duration": 0.003398895263671875,
+                "ops_per_second": 1912386.0830527497,
+                "coherence": 0.9882084832790399,
+                "resonance": 0.637840715831888
+              },
+              "standard": {
+                "duration": 0.0033659934997558594,
+                "ops_per_second": 2079623.7427397647,
+                "coherence": 0.9882084832789986,
+                "resonance": 0.6378407158321155
+              },
+              "complex": {
+                "duration": 0.003270864486694336,
+                "ops_per_second": 2292971.790946862,
+                "coherence": 0.9882084832789974,
+                "resonance": 0.6378407158321513
+              }
+            },
+            "quantum": {
+              "phi": {
+                "duration": 0.0034551620483398438,
+                "ops_per_second": 2315376.207562793,
+                "coherence": 0.9882084832789977,
+                "resonance": 0.6378407158321553
+              },
+              "standard": {
+                "duration": 0.0035851001739501953,
+                "ops_per_second": 2370923.987497506,
+                "coherence": 0.9882084832789985,
+                "resonance": 0.6378407158321557
+              },
+              "complex": {
+                "duration": 0.0034568309783935547,
+                "ops_per_second": 2603540.657976412,
+                "coherence": 0.9882084832790008,
+                "resonance": 0.6378407158321562
+              }
+            },
+            "phi_harmonic": {
+              "phi": {
+                "duration": 0.0032520294189453125,
+                "ops_per_second": 2921252.785923754,
+                "coherence": 0.9882084832790008,
+                "resonance": 0.6378407158321568
+              },
+              "standard": {
+                "duration": 0.0034818649291992188,
+                "ops_per_second": 2872024.1029854836,
+                "coherence": 0.9882084832790023,
+                "resonance": 0.6378407158321584
+              },
+              "complex": {
+                "duration": 0.0035157203674316406,
+                "ops_per_second": 2986585.6503458563,
+                "coherence": 0.9882084832790053,
+                "resonance": 0.6378407158321586
+              }
+            },
+            "standard": {
+              "phi": {
+                "duration": 0.003445148468017578,
+                "ops_per_second": 3192895.778546713,
+                "coherence": 0.9882084832790053,
+                "resonance": 0.6378407158321598
+              },
+              "standard": {
+                "duration": 0.003306150436401367,
+                "ops_per_second": 3478365.616211149,
+                "coherence": 0.9882084832790057,
+                "resonance": 0.6378407158321615
+              },
+              "complex": {
+                "duration": 0.003386259078979492,
+                "ops_per_second": 3543733.5774132228,
+                "coherence": 0.9882084832790061,
+                "resonance": 0.6378407158321606
+              }
+            }
+          },
+          "coherence": {
+            "adapter": 0.9882084832789974,
+            "quantum": 0.9882084832790008,
+            "phi_harmonic": 0.9882084832790053,
+            "standard": 0.9882084832790061
+          },
+          "resonance": {
+            "adapter": 0.6378407158321513,
+            "quantum": 0.6378407158321562,
+            "phi_harmonic": 0.6378407158321586,
+            "standard": 0.6378407158321606
+          }
+        },
+        "4": {
+          "generators": {
+            "adapter": {
+              "phi": {
+                "duration": 0.004209995269775391,
+                "ops_per_second": 2969124.476158115,
+                "coherence": 0.9882084832790087,
+                "resonance": 0.6378407158321615
+              },
+              "standard": {
+                "duration": 0.0042743682861328125,
+                "ops_per_second": 3041385.0959393126,
+                "coherence": 0.9882084832790057,
+                "resonance": 0.6378407158321604
+              },
+              "complex": {
+                "duration": 0.004589080810546875,
+                "ops_per_second": 2941765.5860349126,
+                "coherence": 0.988208483279003,
+                "resonance": 0.637840715832163
+              }
+            },
+            "quantum": {
+              "phi": {
+                "duration": 0.004174947738647461,
+                "ops_per_second": 3353335.3891839413,
+                "coherence": 0.9882084832790065,
+                "resonance": 0.6378407158321611
+              },
+              "standard": {
+                "duration": 0.004312276840209961,
+                "ops_per_second": 3362492.840161442,
+                "coherence": 0.988208483279005,
+                "resonance": 0.6378407158321611
+              },
+              "complex": {
+                "duration": 0.00450587272644043,
+                "ops_per_second": 3328988.8353881156,
+                "coherence": 0.9882084832790049,
+                "resonance": 0.63784071583216
+              }
+            },
+            "phi_harmonic": {
+              "phi": {
+                "duration": 0.004347801208496094,
+                "ops_per_second": 3565020.399210353,
+                "coherence": 0.9882084832790048,
+                "resonance": 0.6378407158321602
+              },
+              "standard": {
+                "duration": 0.004532337188720703,
+                "ops_per_second": 3530187.48027354,
+                "coherence": 0.9882084832790043,
+                "resonance": 0.6378407158321608
+              },
+              "complex": {
+                "duration": 0.0046539306640625,
+                "ops_per_second": 3545390.1639344264,
+                "coherence": 0.988208483279004,
+                "resonance": 0.6378407158321618
+              }
+            },
+            "standard": {
+              "phi": {
+                "duration": 0.004312038421630859,
+                "ops_per_second": 3942450.956540971,
+                "coherence": 0.9882084832790039,
+                "resonance": 0.6378407158321625
+              },
+              "standard": {
+                "duration": 0.004151105880737305,
+                "ops_per_second": 4215744.069840905,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321655
+              },
+              "complex": {
+                "duration": 0.0042438507080078125,
+                "ops_per_second": 4241431.011235955,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.637840715832167
+              }
+            }
+          },
+          "coherence": {
+            "adapter": 0.988208483279003,
+            "quantum": 0.9882084832790049,
+            "phi_harmonic": 0.988208483279004,
+            "standard": 0.9882084832790037
+          },
+          "resonance": {
+            "adapter": 0.637840715832163,
+            "quantum": 0.63784071583216,
+            "phi_harmonic": 0.6378407158321618,
+            "standard": 0.637840715832167
+          }
+        },
+        "5": {
+          "generators": {
+            "adapter": {
+              "phi": {
+                "duration": 0.005129098892211914,
+                "ops_per_second": 3606871.380095756,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321682
+              },
+              "standard": {
+                "duration": 0.005177021026611328,
+                "ops_per_second": 3670064.2903196095,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.637840715832169
+              },
+              "complex": {
+                "duration": 0.004971742630004883,
+                "ops_per_second": 3922166.0192778017,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321693
+              }
+            },
+            "quantum": {
+              "phi": {
+                "duration": 0.005218029022216797,
+                "ops_per_second": 3832864.8451064606,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321695
+              },
+              "standard": {
+                "duration": 0.005149126052856445,
+                "ops_per_second": 3981258.137704311,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321696
+              },
+              "complex": {
+                "duration": 0.00506901741027832,
+                "ops_per_second": 4142814.731197968,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              }
+            },
+            "phi_harmonic": {
+              "phi": {
+                "duration": 0.0050847530364990234,
+                "ops_per_second": 4228327.284662634,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              },
+              "standard": {
+                "duration": 0.01873779296875,
+                "ops_per_second": 1174097.7198697068,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              },
+              "complex": {
+                "duration": 0.04559206962585449,
+                "ops_per_second": 493506.8792586821,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              }
+            },
+            "standard": {
+              "phi": {
+                "duration": 0.008890867233276367,
+                "ops_per_second": 2586924.244455767,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              },
+              "standard": {
+                "duration": 0.00830984115600586,
+                "ops_per_second": 2827972.227004074,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              },
+              "complex": {
+                "duration": 0.005007028579711914,
+                "ops_per_second": 4793262.035141184,
+                "coherence": 0.9882084832790037,
+                "resonance": 0.6378407158321697
+              }
+            }
+          },
+          "coherence": {
+            "adapter": 0.9882084832790037,
+            "quantum": 0.9882084832790037,
+            "phi_harmonic": 0.9882084832790037,
+            "standard": 0.9882084832790037
+          },
+          "resonance": {
+            "adapter": 0.6378407158321693,
+            "quantum": 0.6378407158321697,
+            "phi_harmonic": 0.6378407158321697,
+            "standard": 0.6378407158321697
+          }
+        }
+      },
+      "visualizations": {
+        "performance": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_gpu_random_integration/results/visualizations/dimensional_scaling_performance.png",
+        "coherence": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_gpu_random_integration/results/visualizations/dimensional_scaling_coherence.png",
+        "resonance": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_gpu_random_integration/results/visualizations/dimensional_scaling_resonance.png"
+      },
+      "scaling_factors": {
+        "Adapter + Phi": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "111426.17 \u2192 3606871.38 ops/s (32.37x)",
+          "phi_power_equivalent": "\u03c6^7.23"
+        },
+        "Adapter + Standard": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "404036.61 \u2192 3670064.29 ops/s (9.08x)",
+          "phi_power_equivalent": "\u03c6^4.59"
+        },
+        "Adapter + Complex": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "611474.00 \u2192 3922166.02 ops/s (6.41x)",
+          "phi_power_equivalent": "\u03c6^3.86"
+        },
+        "Quantum + Phi": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "796865.96 \u2192 3832864.85 ops/s (4.81x)",
+          "phi_power_equivalent": "\u03c6^3.26"
+        },
+        "Quantum + Standard": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "969736.43 \u2192 3981258.14 ops/s (4.11x)",
+          "phi_power_equivalent": "\u03c6^2.93"
+        },
+        "Quantum + Complex": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "1175643.46 \u2192 4142814.73 ops/s (3.52x)",
+          "phi_power_equivalent": "\u03c6^2.62"
+        },
+        "Phi-harmonic + Phi": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "1288742.34 \u2192 4228327.28 ops/s (3.28x)",
+          "phi_power_equivalent": "\u03c6^2.47"
+        },
+        "Phi-harmonic + Standard": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "1506574.71 \u2192 1174097.72 ops/s (0.78x)",
+          "phi_power_equivalent": "\u03c6^-0.52"
+        },
+        "Phi-harmonic + Complex": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "1641392.12 \u2192 493506.88 ops/s (0.30x)",
+          "phi_power_equivalent": "\u03c6^-2.50"
+        },
+        "Standard + Phi": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "1990463.17 \u2192 2586924.24 ops/s (1.30x)",
+          "phi_power_equivalent": "\u03c6^0.54"
+        },
+        "Standard + Standard": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "2210489.84 \u2192 2827972.23 ops/s (1.28x)",
+          "phi_power_equivalent": "\u03c6^0.51"
+        },
+        "Standard + Complex": {
+          "dimension_increase": "2 \u2192 5 (2.5x)",
+          "performance_increase": "2360550.04 \u2192 4793262.04 ops/s (2.03x)",
+          "phi_power_equivalent": "\u03c6^1.47"
+        }
+      }
+    },
+    "advantage_analysis": {
+      "performance_ratios": {
+        "adapter_phi": [
+          [
+            2,
+            0.055980022315498645
+          ],
+          [
+            3,
+            0.598950362207938
+          ],
+          [
+            4,
+            0.7531164011646112
+          ],
+          [
+            5,
+            1.3942701986058985
+          ]
+        ],
+        "quantum_phi": [
+          [
+            2,
+            0.40034197777144487
+          ],
+          [
+            3,
+            0.7251649813063006
+          ],
+          [
+            4,
+            0.8505712375750368
+          ],
+          [
+            5,
+            1.4816301069971274
+          ]
+        ],
+        "phi_harmonic_phi": [
+          [
+            2,
+            0.6474585198841191
+          ],
+          [
+            3,
+            0.9149226872833911
+          ],
+          [
+            4,
+            0.9042649961936956
+          ],
+          [
+            5,
+            1.6344998481206716
+          ]
+        ],
+        "adapter_standard": [
+          [
+            2,
+            0.1827814801516757
+          ],
+          [
+            3,
+            0.5978738212704102
+          ],
+          [
+            4,
+            0.7214349461337413
+          ],
+          [
+            5,
+            1.2977723951015034
+          ]
+        ],
+        "quantum_standard": [
+          [
+            2,
+            0.43869752738706774
+          ],
+          [
+            3,
+            0.6816201196469
+          ],
+          [
+            4,
+            0.7976036458703567
+          ],
+          [
+            5,
+            1.407813732994831
+          ]
+        ],
+        "phi_harmonic_standard": [
+          [
+            2,
+            0.6815569487983281
+          ],
+          [
+            3,
+            0.8256820644731044
+          ],
+          [
+            4,
+            0.8373818291124971
+          ],
+          [
+            5,
+            0.4151730022870608
+          ]
+        ],
+        "adapter_complex": [
+          [
+            2,
+            0.2590387792788415
+          ],
+          [
+            3,
+            0.6470497120781398
+          ],
+          [
+            4,
+            0.6935785536159601
+          ],
+          [
+            5,
+            0.8182665563707859
+          ]
+        ],
+        "quantum_complex": [
+          [
+            2,
+            0.49803793328973184
+          ],
+          [
+            3,
+            0.7346885992137389
+          ],
+          [
+            4,
+            0.7848739792228865
+          ],
+          [
+            5,
+            0.8642996566483232
+          ]
+        ],
+        "phi_harmonic_complex": [
+          [
+            2,
+            0.6953430733107226
+          ],
+          [
+            3,
+            0.8427793978027939
+          ],
+          [
+            4,
+            0.8358948087431695
+          ],
+          [
+            5,
+            0.10295846036386075
+          ]
+        ]
+      },
+      "average_advantage": {
+        "adapter_phi": 0.7005792460734865,
+        "quantum_phi": 0.8644270759124775,
+        "phi_harmonic_phi": 1.0252865128704693,
+        "adapter_standard": 0.6999656606643326,
+        "quantum_standard": 0.8314337564747889,
+        "phi_harmonic_standard": 0.6899484611677476,
+        "adapter_complex": 0.6044834003359318,
+        "quantum_complex": 0.7204750420936701,
+        "phi_harmonic_complex": 0.6192439350551366
+      },
+      "best_combination": {
+        "key": "phi_harmonic_phi",
+        "advantage": 1.0252865128704693,
+        "phi_power_equivalent": 0.05189419083621034
+      },
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_gpu_random_integration/results/visualizations/dimensional_advantage.png"
+    }
+  },
+  "random_integration": {},
+  "gpu_performance": {},
+  "comparative_analysis": {},
+  "summary": {},
+  "timestamp": 1744439833.4321501
+}

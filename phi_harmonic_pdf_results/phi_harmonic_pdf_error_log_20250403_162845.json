@@ -1,0 +1,672 @@
+[
+  {
+    "timestamp": "2025-04-03T16:16:57.869006",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_learning/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:16:57.873177",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_learning/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:17:18.650139",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_files/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:17:18.650689",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_files/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:17:51.391455",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/learn_smarter/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:17:51.393883",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/learn_smarter/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:17:55.183822",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/learn_smarter/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:17:55.184491",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/learn_smarter/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:18:58.712201",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/learn_smarter/Sullivan_Algebra_Trigonometry.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:18:58.712896",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/learn_smarter/Sullivan_Algebra_Trigonometry.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:18:59.252465",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_comparison.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:18:59.252817",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_comparison.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:03.054876",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/QUANTUM_MATH.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:03.055338",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/QUANTUM_MATH.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:13.781379",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:13.781858",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:13.791643",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/fraymus_nfts/FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:13.791899",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/fraymus_nfts/FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:13.793516",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/fraymus_nfts/NFT_Power_Combos.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:13.793755",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/fraymus_nfts/NFT_Power_Combos.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:34.622951",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_llm/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:34.623442",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_llm/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.574967",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_files/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.575425",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_files/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.577744",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/.venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/filesave.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.577952",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/.venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/filesave.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.578767",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/.venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.578942",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/.venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.579898",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/.venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/move.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:19:55.580071",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/.venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/move.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:20:16.427077",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/physics/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:20:16.427581",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/physics/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:20:37.235688",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collective/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:20:37.236216",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collective/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:20:58.196080",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_physics_engine/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:20:58.196554",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_physics_engine/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.410200",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_math/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.410705",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_math/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.466582",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/Sentinal.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.466878",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/Sentinal.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.484224",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/Wireless_Energy.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.484486",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/Wireless_Energy.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.492336",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/Energy_Resonance.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:19.492586",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/replit_fraymus/attached_assets/Energy_Resonance.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:20.202266",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/FRAYMUS_BILLY_VAUGHN.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:20.202637",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/FRAYMUS_BILLY_VAUGHN.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.931204",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/Electronic Circuits for the Evil Genius_ 57 Lessons with Projects ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.931704",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/Electronic Circuits for the Evil Genius_ 57 Lessons with Projects ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.948512",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/Energy_Reduction 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.948765",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/Energy_Reduction 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.977150",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/Wireless_Energy.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.977435",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/Wireless_Energy.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.991901",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_drift_2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:33.992106",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_drift_2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:34.610623",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/FRAYMUS_BILLY_VAUGHN.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:34.611001",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/learning_folder/FRAYMUS_BILLY_VAUGHN.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:55.665577",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_language/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:21:55.665968",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_language/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:06.244241",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:06.244709",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:14.824758",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/learning/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:14.825242",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/learning/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:35.812069",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/QHRC_Fraymus/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:35.812531",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/QHRC_Fraymus/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:46.539345",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:46.539795",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:55.033901",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:22:55.034386",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:05.561401",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:05.561850",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:15.996038",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:15.996497",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:24.605942",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:24.606474",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:35.042033",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:23:35.042564",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:07.982698",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collider/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:07.985636",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collider/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:11.750525",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collider/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:11.750965",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collider/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:22.114330",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collider/astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:22.114812",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_collider/astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:32.571433",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:32.571967",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/learning/astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.245033",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/learning/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.245497",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/learning/Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.299040",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/Sentinal.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.299321",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/Sentinal.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.316791",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/Wireless_Energy.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.317053",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/Wireless_Energy.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.324921",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/Energy_Resonance.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:24:41.325122",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/Energy_Resonance.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:14.057375",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_core/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:14.058023",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_core/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:17.861915",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_core/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:17.862337",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_core/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.194382",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_core/astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.194834",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/template/quantum_core/astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.196851",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/filesave.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.197056",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/filesave.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.197954",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.198125",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.199302",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/move.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:28.199463",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/venv/lib/python3.13/site-packages/matplotlib/mpl-data/images/move.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:43.713742",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_docs/Calculus.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:25:43.714305",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/quantum_docs/Calculus.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:04.638193",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/discoveries/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:04.638692",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/discoveries/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:25.587379",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_chess/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:25.587772",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_chess/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:46.820806",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/logic_examples/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:46.821404",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/logic_examples/Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:56.814368",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/math/differential geometry and lie groups for physicists ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:26:56.814837",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/math/differential geometry and lie groups for physicists ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:00.136668",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/math/Parallel Worlds_ A journey through creation, higher dimensions, and the future of the cosmos   ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:00.137305",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/math/Parallel Worlds_ A journey through creation, higher dimensions, and the future of the cosmos   ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:04.385642",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/math/Introduction to Quantum Information Science ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:04.386116",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/math/Introduction to Quantum Information Science ( PDFDrive ).pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:04.394624",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/fraymus_nfts/FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:04.394909",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/fraymus_nfts/FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:04.396428",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/fraymus_nfts/NFT_Power_Combos.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:04.396661",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/replit_fraymus/attached_assets/fraymus_nfts/NFT_Power_Combos.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:37.426722",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/docs/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:37.427293",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/docs/Webster_s_Dictionary_of_English_Usage 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:41.224123",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/docs/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:41.224511",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/docs/QUANTUM_MATH 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:51.763847",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/docs/astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:27:51.764300",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/docs/astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:28:29.369235",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/Webster_s_Dictionary_of_English_Usage.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:28:29.370486",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/Webster_s_Dictionary_of_English_Usage.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:28:45.077835",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/Calculus.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:28:45.078340",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/Calculus.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:28:45.081896",
+    "message": "Unexpected error processing PDF: name 'patterns' is not defined",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_comparison.pdf"
+  },
+  {
+    "timestamp": "2025-04-03T16:28:45.082166",
+    "message": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/consolidated_quantum/phi_harmonic_pdf_processor.py\", line 220, in process_pdf\n    \"phi_patterns_count\": sum(len(patterns[key]) for key in patterns)\n                                                            ^^^^^^^^\nNameError: name 'patterns' is not defined\n",
+    "pdf_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_comparison.pdf"
+  }
+]

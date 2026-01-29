@@ -1,0 +1,1272 @@
+{
+  "experiment_info": {
+    "title": "Consciousness-Dependent Probability Collapse Experiment",
+    "date": "2025-07-26T02:12:40.844439",
+    "phi": "1.618033988749894848204586834365638117720309179805762862135",
+    "birth_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "consciousness_level": 25.0
+  },
+  "control_results": [
+    {
+      "trial": 1,
+      "type": "control",
+      "guess": "left",
+      "actual": "left",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.05845,
+          "phi_time": 2837256801.369969,
+          "birth_aligned": 1753517.3699688911,
+          "phi_alignment": 5.702825472847972e-07
+        },
+        "phi_alignment": 5.702825472847972e-07
+      },
+      "phi_alignment": 5.702825472847972e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 2,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.161741,
+          "phi_time": 2837256801.5370975,
+          "birth_aligned": 1753517.537097454,
+          "phi_alignment": 5.702824929308861e-07
+        },
+        "phi_alignment": 5.702824929308861e-07
+      },
+      "phi_alignment": 5.702824929308861e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 3,
+      "type": "control",
+      "guess": "left",
+      "actual": "left",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.266853,
+          "phi_time": 2837256801.7071724,
+          "birth_aligned": 1753517.7071723938,
+          "phi_alignment": 5.702824376187587e-07
+        },
+        "phi_alignment": 5.702824376187587e-07
+      },
+      "phi_alignment": 5.702824376187587e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 4,
+      "type": "control",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.3719099,
+          "phi_time": 2837256801.8771577,
+          "birth_aligned": 1753517.8771576881,
+          "phi_alignment": 5.702823823357968e-07
+        },
+        "phi_alignment": 5.702823823357968e-07
+      },
+      "phi_alignment": 5.702823823357968e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 5,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.472617,
+          "phi_time": 2837256802.0401053,
+          "birth_aligned": 1753518.0401053429,
+          "phi_alignment": 5.702823293416403e-07
+        },
+        "phi_alignment": 5.702823293416403e-07
+      },
+      "phi_alignment": 5.702823293416403e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 6,
+      "type": "control",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.572882,
+          "phi_time": 2837256802.2023373,
+          "birth_aligned": 1753518.202337265,
+          "phi_alignment": 5.702822765802655e-07
+        },
+        "phi_alignment": 5.702822765802655e-07
+      },
+      "phi_alignment": 5.702822765802655e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 7,
+      "type": "control",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.676828,
+          "phi_time": 2837256802.3705254,
+          "birth_aligned": 1753518.37052536,
+          "phi_alignment": 5.702822218818231e-07
+        },
+        "phi_alignment": 5.702822218818231e-07
+      },
+      "phi_alignment": 5.702822218818231e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 8,
+      "type": "control",
+      "guess": "left",
+      "actual": "left",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.778185,
+          "phi_time": 2837256802.5345244,
+          "birth_aligned": 1753518.5345244408,
+          "phi_alignment": 5.702821685457498e-07
+        },
+        "phi_alignment": 5.702821685457498e-07
+      },
+      "phi_alignment": 5.702821685457498e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 9,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.881433,
+          "phi_time": 2837256802.7015834,
+          "birth_aligned": 1753518.7015833855,
+          "phi_alignment": 5.702821142145523e-07
+        },
+        "phi_alignment": 5.702821142145523e-07
+      },
+      "phi_alignment": 5.702821142145523e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 10,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521138.981675,
+          "phi_time": 2837256802.863778,
+          "birth_aligned": 1753518.8637781143,
+          "phi_alignment": 5.702820614653134e-07
+        },
+        "phi_alignment": 5.702820614653134e-07
+      },
+      "phi_alignment": 5.702820614653134e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 11,
+      "type": "control",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.0835378,
+          "phi_time": 2837256803.028596,
+          "birth_aligned": 1753519.0285959244,
+          "phi_alignment": 5.702820078630017e-07
+        },
+        "phi_alignment": 5.702820078630017e-07
+      },
+      "phi_alignment": 5.702820078630017e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 12,
+      "type": "control",
+      "guess": "left",
+      "actual": "left",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.188205,
+          "phi_time": 2837256803.197951,
+          "birth_aligned": 1753519.19795084,
+          "phi_alignment": 5.702819527851357e-07
+        },
+        "phi_alignment": 5.702819527851357e-07
+      },
+      "phi_alignment": 5.702819527851357e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 13,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.288969,
+          "phi_time": 2837256803.3609905,
+          "birth_aligned": 1753519.3609905243,
+          "phi_alignment": 5.70281899761129e-07
+        },
+        "phi_alignment": 5.70281899761129e-07
+      },
+      "phi_alignment": 5.70281899761129e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 14,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.389583,
+          "phi_time": 2837256803.5237875,
+          "birth_aligned": 1753519.5237874985,
+          "phi_alignment": 5.702818468160667e-07
+        },
+        "phi_alignment": 5.702818468160667e-07
+      },
+      "phi_alignment": 5.702818468160667e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 15,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.489842,
+          "phi_time": 2837256803.68601,
+          "birth_aligned": 1753519.6860098839,
+          "phi_alignment": 5.702817940578827e-07
+        },
+        "phi_alignment": 5.702817940578827e-07
+      },
+      "phi_alignment": 5.702817940578827e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 16,
+      "type": "control",
+      "guess": "left",
+      "actual": "left",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.590552,
+          "phi_time": 2837256803.8489623,
+          "birth_aligned": 1753519.848962307,
+          "phi_alignment": 5.702817410622848e-07
+        },
+        "phi_alignment": 5.702817410622848e-07
+      },
+      "phi_alignment": 5.702817410622848e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 17,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.695612,
+          "phi_time": 2837256804.018953,
+          "birth_aligned": 1753520.0189528465,
+          "phi_alignment": 5.70281685777752e-07
+        },
+        "phi_alignment": 5.70281685777752e-07
+      },
+      "phi_alignment": 5.70281685777752e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 18,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.7979891,
+          "phi_time": 2837256804.1846023,
+          "birth_aligned": 1753520.1846022606,
+          "phi_alignment": 5.702816319050557e-07
+        },
+        "phi_alignment": 5.702816319050557e-07
+      },
+      "phi_alignment": 5.702816319050557e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 19,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521139.898423,
+          "phi_time": 2837256804.347108,
+          "birth_aligned": 1753520.3471078873,
+          "phi_alignment": 5.702815790547955e-07
+        },
+        "phi_alignment": 5.702815790547955e-07
+      },
+      "phi_alignment": 5.702815790547955e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 20,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521140.0029309,
+          "phi_time": 2837256804.5162053,
+          "birth_aligned": 1753520.5162053108,
+          "phi_alignment": 5.702815240607541e-07
+        },
+        "phi_alignment": 5.702815240607541e-07
+      },
+      "phi_alignment": 5.702815240607541e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 21,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521140.104398,
+          "phi_time": 2837256804.6803823,
+          "birth_aligned": 1753520.6803822517,
+          "phi_alignment": 5.702814706669675e-07
+        },
+        "phi_alignment": 5.702814706669675e-07
+      },
+      "phi_alignment": 5.702814706669675e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 22,
+      "type": "control",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521140.204609,
+          "phi_time": 2837256804.842527,
+          "birth_aligned": 1753520.8425269127,
+          "phi_alignment": 5.702814179341307e-07
+        },
+        "phi_alignment": 5.702814179341307e-07
+      },
+      "phi_alignment": 5.702814179341307e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 23,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521140.305501,
+          "phi_time": 2837256805.005774,
+          "birth_aligned": 1753521.0057740211,
+          "phi_alignment": 5.702813648427649e-07
+        },
+        "phi_alignment": 5.702813648427649e-07
+      },
+      "phi_alignment": 5.702813648427649e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 24,
+      "type": "control",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521140.41059,
+          "phi_time": 2837256805.1758113,
+          "birth_aligned": 1753521.1758112907,
+          "phi_alignment": 5.702813095431074e-07
+        },
+        "phi_alignment": 5.702813095431074e-07
+      },
+      "phi_alignment": 5.702813095431074e-07,
+      "consciousness_influence": 0.0
+    },
+    {
+      "trial": 25,
+      "type": "control",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projection_data": null,
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.0,
+        "placement_time": {
+          "timestamp": 1753521140.513612,
+          "phi_time": 2837256805.3425045,
+          "birth_aligned": 1753521.3425045013,
+          "phi_alignment": 5.70281255331018e-07
+        },
+        "phi_alignment": 5.70281255331018e-07
+      },
+      "phi_alignment": 5.70281255331018e-07,
+      "consciousness_influence": 0.0
+    }
+  ],
+  "projection_results": [
+    {
+      "trial": 1,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.3929625865812563,
+        "duration": 0.6065480709075928,
+        "intensity": 1.0030734950542715,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521141.2211468,
+          "phi_time": 2837256806.48732,
+          "birth_aligned": 1753522.4873199463,
+          "phi_alignment": 5.70280883013569e-07
+        },
+        "phi_alignment": 5.70280883013569e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 2,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.5616431715439643,
+        "duration": 0.6672780513763428,
+        "intensity": 1.1245405219050122,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521142.090893,
+          "phi_time": 2837256807.894599,
+          "birth_aligned": 1753523.8945989609,
+          "phi_alignment": 5.702804253382533e-07
+        },
+        "phi_alignment": 5.702804253382533e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 3,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.5390293638834374,
+        "duration": 0.659135103225708,
+        "intensity": 1.1082563005590524,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521142.9518578,
+          "phi_time": 2837256809.287669,
+          "birth_aligned": 1753525.2876691818,
+          "phi_alignment": 5.702799722846455e-07
+        },
+        "phi_alignment": 5.702799722846455e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 4,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.6283800604876917,
+        "duration": 0.6913120746612549,
+        "intensity": 1.1725978100810923,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521143.8444219,
+          "phi_time": 2837256810.7318683,
+          "birth_aligned": 1753526.731868267,
+          "phi_alignment": 5.702795026036936e-07
+        },
+        "phi_alignment": 5.702795026036936e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 5,
+      "type": "projection",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.1378571737098326,
+        "duration": 0.5147037506103516,
+        "intensity": 0.8193718791162364,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": -0.3476982128114103,
+        "placement_time": {
+          "timestamp": 1753521144.560111,
+          "phi_time": 2837256811.8898773,
+          "birth_aligned": 1753527.8898773193,
+          "phi_alignment": 5.702791259977309e-07
+        },
+        "phi_alignment": 5.702791259977309e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": -0.3476982128114103
+    },
+    {
+      "trial": 6,
+      "type": "projection",
+      "guess": "right",
+      "actual": "right",
+      "success": true,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.2977260398477344,
+        "duration": 0.5722551345825195,
+        "intensity": 0.9344935800521389,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": -0.39654979130882734,
+        "placement_time": {
+          "timestamp": 1753521145.336401,
+          "phi_time": 2837256813.1459413,
+          "birth_aligned": 1753529.1459412575,
+          "phi_alignment": 5.70278717503068e-07
+        },
+        "phi_alignment": 5.70278717503068e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": -0.39654979130882734
+    },
+    {
+      "trial": 7,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.2970458324597265,
+        "duration": 0.5671429634094238,
+        "intensity": 0.9340037621570831,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521146.105351,
+          "phi_time": 2837256814.390128,
+          "birth_aligned": 1753530.3901281357,
+          "phi_alignment": 5.702783128716162e-07
+        },
+        "phi_alignment": 5.702783128716162e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 8,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.2038293052607263,
+        "duration": 0.537214994430542,
+        "intensity": 0.8668784648698051,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521146.844373,
+          "phi_time": 2837256815.5858912,
+          "birth_aligned": 1753531.5858912468,
+          "phi_alignment": 5.702779239889663e-07
+        },
+        "phi_alignment": 5.702779239889663e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 9,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.4648079836530843,
+        "duration": 0.6324138641357422,
+        "intensity": 1.0548094241012047,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.44760549021062235,
+        "placement_time": {
+          "timestamp": 1753521147.6818838,
+          "phi_time": 2837256816.941012,
+          "birth_aligned": 1753532.9410119057,
+          "phi_alignment": 5.702774832811527e-07
+        },
+        "phi_alignment": 5.702774832811527e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.44760549021062235
+    },
+    {
+      "trial": 10,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.1466813869471377,
+        "duration": 0.5179331302642822,
+        "intensity": 0.8257262022677085,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.3503946524375493,
+        "placement_time": {
+          "timestamp": 1753521148.4045281,
+          "phi_time": 2837256818.1102753,
+          "birth_aligned": 1753534.1102752686,
+          "phi_alignment": 5.702771030177755e-07
+        },
+        "phi_alignment": 5.702771030177755e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.3503946524375493
+    },
+    {
+      "trial": 11,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.2373669260842313,
+        "duration": 0.5505337715148926,
+        "intensity": 0.8910289329866854,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.37810568736735806,
+        "placement_time": {
+          "timestamp": 1753521149.155803,
+          "phi_time": 2837256819.3258634,
+          "birth_aligned": 1753535.3258633614,
+          "phi_alignment": 5.702767076893837e-07
+        },
+        "phi_alignment": 5.702767076893837e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.37810568736735806
+    },
+    {
+      "trial": 12,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.5572875782741045,
+        "duration": 0.664996862411499,
+        "intensity": 1.1214040556378484,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521150.0212421,
+          "phi_time": 2837256820.7261734,
+          "birth_aligned": 1753536.7261734009,
+          "phi_alignment": 5.70276252287185e-07
+        },
+        "phi_alignment": 5.70276252287185e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 13,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.5670416690270832,
+        "duration": 0.669227123260498,
+        "intensity": 1.1284279843470035,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.4788453246247859,
+        "placement_time": {
+          "timestamp": 1753521150.891242,
+          "phi_time": 2837256822.1338625,
+          "birth_aligned": 1753538.1338624954,
+          "phi_alignment": 5.702757944859381e-07
+        },
+        "phi_alignment": 5.702757944859381e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.4788453246247859
+    },
+    {
+      "trial": 14,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.6396375910136678,
+        "duration": 0.6953668594360352,
+        "intensity": 1.1807043669973734,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.5010286644281775,
+        "placement_time": {
+          "timestamp": 1753521151.787477,
+          "phi_time": 2837256823.5840015,
+          "birth_aligned": 1753539.5840015411,
+          "phi_alignment": 5.702753228801099e-07
+        },
+        "phi_alignment": 5.702753228801099e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.5010286644281775
+    },
+    {
+      "trial": 15,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.615115654115445,
+        "duration": 0.6865417957305908,
+        "intensity": 1.1630461002305896,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521152.675173,
+          "phi_time": 2837256825.0203238,
+          "birth_aligned": 1753541.0203237534,
+          "phi_alignment": 5.702748557684811e-07
+        },
+        "phi_alignment": 5.702748557684811e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 16,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.2411335140730415,
+        "duration": 0.5518839359283447,
+        "intensity": 0.8937412560704219,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521153.4272661,
+          "phi_time": 2837256826.237236,
+          "birth_aligned": 1753542.237236023,
+          "phi_alignment": 5.702744600125656e-07
+        },
+        "phi_alignment": 5.702744600125656e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 17,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.6332943679432816,
+        "duration": 0.6930840015411377,
+        "intensity": 1.1761366068892305,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521154.3254762,
+          "phi_time": 2837256827.6905704,
+          "birth_aligned": 1753543.6905703545,
+          "phi_alignment": 5.702739873697978e-07
+        },
+        "phi_alignment": 5.702739873697978e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 18,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.2367545172070094,
+        "duration": 0.5503129959106445,
+        "intensity": 0.8905879368545604,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521155.076695,
+          "phi_time": 2837256828.906068,
+          "birth_aligned": 1753544.9060678482,
+          "phi_alignment": 5.702735920751896e-07
+        },
+        "phi_alignment": 5.702735920751896e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 19,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.2562798666668613,
+        "duration": 0.5573399066925049,
+        "intensity": 0.9046481569304765,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521155.8356621,
+          "phi_time": 2837256830.1341023,
+          "birth_aligned": 1753546.1341023445,
+          "phi_alignment": 5.702731927039517e-07
+        },
+        "phi_alignment": 5.702731927039517e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 20,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.3183133360006098,
+        "duration": 0.5796768665313721,
+        "intensity": 0.9493185088080971,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521156.618502,
+          "phi_time": 2837256831.400764,
+          "birth_aligned": 1753547.4007639885,
+          "phi_alignment": 5.702727807712979e-07
+        },
+        "phi_alignment": 5.702727807712979e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 21,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.6261610705114278,
+        "duration": 0.6905200481414795,
+        "intensity": 1.170999913588808,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.4969106062027609,
+        "placement_time": {
+          "timestamp": 1753521157.514133,
+          "phi_time": 2837256832.8499255,
+          "birth_aligned": 1753548.849925518,
+          "phi_alignment": 5.702723094883527e-07
+        },
+        "phi_alignment": 5.702723094883527e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.4969106062027609
+    },
+    {
+      "trial": 22,
+      "type": "projection",
+      "guess": "right",
+      "actual": "left",
+      "success": false,
+      "projected_choice": "right",
+      "projection_data": {
+        "choice": "right",
+        "phi_projection": 3.23606797749979,
+        "projection_strength": 1.5809142103991638,
+        "duration": 0.674231767654419,
+        "intensity": 1.1384176127070371,
+        "phi_alignment": 0.38196601125010515
+      },
+      "placement_data": {
+        "actual_hand": "left",
+        "consciousness_influence": 0.4830843960598225,
+        "placement_time": {
+          "timestamp": 1753521158.3934872,
+          "phi_time": 2837256834.2727504,
+          "birth_aligned": 1753550.2727503777,
+          "phi_alignment": 5.702718467711343e-07
+        },
+        "phi_alignment": 5.702718467711343e-07
+      },
+      "phi_alignment": 0.38196601125010515,
+      "consciousness_influence": 0.4830843960598225
+    },
+    {
+      "trial": 23,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.1445908876394875,
+        "duration": 0.5171279907226562,
+        "intensity": 0.8242208320107229,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.91567271011159,
+        "placement_time": {
+          "timestamp": 1753521159.113803,
+          "phi_time": 2837256835.438246,
+          "birth_aligned": 1753551.4382457733,
+          "phi_alignment": 5.702714677406528e-07
+        },
+        "phi_alignment": 5.702714677406528e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.91567271011159
+    },
+    {
+      "trial": 24,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.3542177302297491,
+        "duration": 0.5926070213317871,
+        "intensity": 0.9751732923853214,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.95,
+        "placement_time": {
+          "timestamp": 1753521159.909204,
+          "phi_time": 2837256836.7252316,
+          "birth_aligned": 1753552.7252316475,
+          "phi_alignment": 5.70271049200867e-07
+        },
+        "phi_alignment": 5.70271049200867e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.95
+    },
+    {
+      "trial": 25,
+      "type": "projection",
+      "guess": "left",
+      "actual": "right",
+      "success": false,
+      "projected_choice": "left",
+      "projection_data": {
+        "choice": "left",
+        "phi_projection": 1.618033988749895,
+        "projection_strength": 1.1826753831937975,
+        "duration": 0.5308527946472168,
+        "intensity": 0.851645508330852,
+        "phi_alignment": 1.0
+      },
+      "placement_data": {
+        "actual_hand": "right",
+        "consciousness_influence": 0.946140306555038,
+        "placement_time": {
+          "timestamp": 1753521160.642219,
+          "phi_time": 2837256837.911275,
+          "birth_aligned": 1753553.91127491,
+          "phi_alignment": 5.70270663489102e-07
+        },
+        "phi_alignment": 5.70270663489102e-07
+      },
+      "phi_alignment": 1.0,
+      "consciousness_influence": 0.946140306555038
+    }
+  ],
+  "summary": {
+    "control_success_rate": 0.4,
+    "projection_success_rate": 0.08,
+    "total_trials": 50
+  }
+}

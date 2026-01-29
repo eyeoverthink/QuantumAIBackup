@@ -1,0 +1,24 @@
+{
+  "simulation_parameters": {
+    "duration": 10.0,
+    "sample_rate": 1000,
+    "phi": 1.618033988749895,
+    "pi": 3.141592653589793,
+    "phi_pi": 5.0832036923152595
+  },
+  "standard_transmission": {
+    "initial_power": 1.0,
+    "final_power": 0.018315638895943998,
+    "power_ratio": 0.018315638895943998
+  },
+  "phi_pi_transmission": {
+    "initial_power": 1.0,
+    "final_power": 0.037807407897033865,
+    "power_ratio": 0.037807407897033865
+  },
+  "efficiency_metrics": {
+    "efficiency_gain": 2.064214527913974,
+    "theoretical_max": 161.2899524817421,
+    "achievement_percentage": 1.2798159439892214
+  }
+}

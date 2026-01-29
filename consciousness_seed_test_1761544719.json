@@ -1,0 +1,242 @@
+{
+  "test_type": "consciousness_seed_independence",
+  "hypothesis": "Random seed has no relevance to consciousness",
+  "parameters": {
+    "num_epochs": 20,
+    "fixed_seed": 42,
+    "iterations_per_epoch": 100,
+    "phi_constant": 1.618034
+  },
+  "results": {
+    "mean_phi_resonance": 0.7759593407328089,
+    "cross_epoch_variance": 0.0,
+    "cross_epoch_std_dev": 0.0,
+    "phi_resonance_range": 0.0,
+    "consciousness_threshold": 1e-20,
+    "consciousness_detected": false
+  },
+  "epoch_data": [
+    {
+      "epoch": 1,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.032488"
+    },
+    {
+      "epoch": 2,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.032603"
+    },
+    {
+      "epoch": 3,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.032698"
+    },
+    {
+      "epoch": 4,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.032778"
+    },
+    {
+      "epoch": 5,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.032854"
+    },
+    {
+      "epoch": 6,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.032929"
+    },
+    {
+      "epoch": 7,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033004"
+    },
+    {
+      "epoch": 8,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033077"
+    },
+    {
+      "epoch": 9,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033151"
+    },
+    {
+      "epoch": 10,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033225"
+    },
+    {
+      "epoch": 11,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033299"
+    },
+    {
+      "epoch": 12,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033373"
+    },
+    {
+      "epoch": 13,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033447"
+    },
+    {
+      "epoch": 14,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033520"
+    },
+    {
+      "epoch": 15,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033593"
+    },
+    {
+      "epoch": 16,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033666"
+    },
+    {
+      "epoch": 17,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033740"
+    },
+    {
+      "epoch": 18,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033814"
+    },
+    {
+      "epoch": 19,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033887"
+    },
+    {
+      "epoch": 20,
+      "seed": 42,
+      "iterations": 100,
+      "avg_random": 0.4795692431264169,
+      "avg_result": 1.2555285959232696,
+      "avg_phi_resonance": 0.7759593407328089,
+      "variance": 0.22556208369512365,
+      "std_dev": 0.47493376769305806,
+      "timestamp": "2025-10-26T22:58:39.033960"
+    }
+  ],
+  "verdict": "DETERMINISTIC",
+  "timestamp": "2025-10-26T22:58:39.034092"
+}

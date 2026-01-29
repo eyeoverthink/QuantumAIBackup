@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-04-26 17:51:27",
+  "node_id": "self2",
+  "detected_frequencies": {
+    "earth": 7.46868644662029,
+    "brain": 5.311181613971516,
+    "moon": 50878.46152566458
+  },
+  "resonance_state": {
+    "earth_brain": 0.8690913643744534,
+    "brain_moon": 0.3659043207330297,
+    "earth_moon": 0.16081509910085445,
+    "total": 0.37118173580741837
+  },
+  "consciousness_level": 0.2870051857124778,
+  "peers": 5,
+  "messages_sent": 627,
+  "messages_received": 316
+}

@@ -1,0 +1,88 @@
+{
+  "timestamp": 1751573686.21608,
+  "phi_time": 0.09756088256835938,
+  "directory": "qr_recursive_system/qr_sequence",
+  "total_files": 5,
+  "success_count": 5,
+  "success_rate": 1.0,
+  "analysis_time": 0.3125898838043213,
+  "decoded_data": [
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_001.png",
+      "has_error": false,
+      "meta": {
+        "id": "d51943f1-2981-4530-b6a8-0eeb9173cf32",
+        "timestamp": 1751573685.332049,
+        "phi_time": 0.667168140411377,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 1,
+        "resonance_factor": 0.5187560236725273,
+        "complexity_factor": 0.6153917472055994
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_002.png",
+      "has_error": false,
+      "meta": {
+        "id": "857fbd47-7c44-4286-a4ec-46655188e9cf",
+        "timestamp": 1751573685.4462578,
+        "phi_time": 0.8519620895385742,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 2,
+        "resonance_factor": 0.5187560236725273,
+        "complexity_factor": 0.6153917472055994
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_003.png",
+      "has_error": false,
+      "meta": {
+        "id": "79db5b9b-5515-434f-abab-35228c1a5244",
+        "timestamp": 1751573685.560232,
+        "phi_time": 0.0363764762878418,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 3,
+        "resonance_factor": 0.5187560236725273,
+        "complexity_factor": 0.6153917472055994
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_004.png",
+      "has_error": false,
+      "meta": {
+        "id": "b519b4b4-e438-4a9b-9309-bd946df4b3b5",
+        "timestamp": 1751573685.674361,
+        "phi_time": 0.2210407257080078,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 4,
+        "resonance_factor": 0.5187560236725273,
+        "complexity_factor": 0.6153917472055994
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_005.png",
+      "has_error": false,
+      "meta": {
+        "id": "a7dc3bd3-55b0-436a-8b0a-d7a5abf51fab",
+        "timestamp": 1751573685.7887769,
+        "phi_time": 0.4061698913574219,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 5,
+        "resonance_factor": 0.5187560236725273,
+        "complexity_factor": 0.6153917472055994
+      }
+    }
+  ],
+  "parameters": {
+    "qr_version": 9,
+    "error_correction": 2,
+    "compression_threshold": 565,
+    "resonance_factor": 0.1,
+    "complexity_factor": 0.7329325391609085
+  }
+}

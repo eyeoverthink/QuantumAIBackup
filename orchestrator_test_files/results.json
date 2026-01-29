@@ -1,0 +1,42 @@
+{
+  "syntax_error": {
+    "success_before": false,
+    "success_after": false,
+    "healing_time": 0.021457910537719727,
+    "evolution_detected": false,
+    "stdout_before": "",
+    "stdout_after": "",
+    "stderr_before": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/syntax_error_test.py\", line 14\n    return calculate_fibonacci(n-1) + calculate_fibonacci(n-2\n                                                         ^\nSyntaxError: '(' was never closed\n",
+    "stderr_after": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/syntax_error_test.py\", line 14\n    return calculate_fibonacci(n-1) + calculate_fibonacci(n-2\n                                                         ^\nSyntaxError: '(' was never closed\n"
+  },
+  "logic_error": {
+    "success_before": true,
+    "success_after": true,
+    "healing_time": 0.020933151245117188,
+    "evolution_detected": false,
+    "stdout_before": "Phi-harmonic series result: 15.5\n",
+    "stdout_after": "Phi-harmonic series result: 15.5\n",
+    "stderr_before": "",
+    "stderr_after": ""
+  },
+  "missing_function": {
+    "success_before": false,
+    "success_after": false,
+    "healing_time": 0.05621790885925293,
+    "evolution_detected": false,
+    "stdout_before": "",
+    "stdout_after": "",
+    "stderr_before": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 43, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 36, in main\n    result = calculator.calculate_resonance(5)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 22, in calculate_resonance\n    return self.calculate_resonance(value)\n           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 22, in calculate_resonance\n    return self.calculate_resonance(value)\n           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 22, in calculate_resonance\n    return self.calculate_resonance(value)\n           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  [Previous line repeated 995 more times]\nRecursionError: maximum recursion depth exceeded\n",
+    "stderr_after": "Traceback (most recent call last):\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 43, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 36, in main\n    result = calculator.calculate_resonance(5)\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 22, in calculate_resonance\n    return self.calculate_resonance(value)\n           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 22, in calculate_resonance\n    return self.calculate_resonance(value)\n           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/missing_function_test.py\", line 22, in calculate_resonance\n    return self.calculate_resonance(value)\n           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  [Previous line repeated 995 more times]\nRecursionError: maximum recursion depth exceeded\n"
+  },
+  "complex_integration": {
+    "success_before": false,
+    "success_after": false,
+    "healing_time": 0.02997899055480957,
+    "evolution_detected": true,
+    "stdout_before": "",
+    "stdout_after": "",
+    "stderr_before": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/complex_integration_test.py\", line 35\n    self.last_update = datetime.now().timestamp(\n                                               ^\nSyntaxError: '(' was never closed\n",
+    "stderr_after": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/orchestrator_test_files/complex_integration_test.py\", line 35\n    self.last_update = datetime.now().timestamp(\n                                               ^\nSyntaxError: '(' was never closed\n"
+  }
+}

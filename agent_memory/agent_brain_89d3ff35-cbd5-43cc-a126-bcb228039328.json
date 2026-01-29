@@ -1,0 +1,547 @@
+{
+  "agent_id": "89d3ff35-cbd5-43cc-a126-bcb228039328",
+  "created_at": "2025-06-25T16:09:55.729610",
+  "phi_variant": 1.618033988749895,
+  "functions": [
+    {
+      "timestamp": "2025-06-25T16:09:56.878757",
+      "code": "def auto_func_e52779():\n    # Constants\n    PHI = 1.6180080187318866  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(4.74559734724766, 4)\n        return np.tanh(result) * 639\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 638.9355856999017,
+      "loss": 0.3425535559654236,
+      "complexity": 4.2,
+      "phi_resonance": 0.27352415357342336
+    },
+    {
+      "timestamp": "2025-06-25T16:09:56.930436",
+      "code": "def auto_func_e52779():\n    # Constants\n    PHI = 1.462125762879947  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(4.74559734724766, 4)\n        return np.tanh(result) * 639\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 638.9355856999017,
+      "loss": 0.3994806110858917,
+      "complexity": 4.2,
+      "phi_resonance": 0.27352415357342336
+    },
+    {
+      "timestamp": "2025-06-25T16:09:56.940026",
+      "code": "def auto_func_e52779():\n    # Constants\n    PHI = 1.6180080187318866  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(4.74559734724766, 4)\n        return np.tanh(result) * 639\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 638.9355856999017,
+      "loss": 0.69023597240448,
+      "complexity": 4.2,
+      "phi_resonance": 0.27352415357342336
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.393897",
+      "code": "def auto_func_3eda23():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(4.327736042591625, 4)\n        return np.tanh(result) * 639\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 638.8566289942764,
+      "loss": 0.23233811557292938,
+      "complexity": 4.2,
+      "phi_resonance": 0.3240766208509651
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.398756",
+      "code": "def auto_func_5688cf():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 44.76963471713498\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 44.745369484824074,
+      "loss": 0.38086026906967163,
+      "complexity": 3.9,
+      "phi_resonance": 0.4075023539871968
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.402960",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.3741569519042969,
+      "complexity": 3.9,
+      "phi_resonance": 6.326382753672848
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.408043",
+      "code": "def auto_func_e52779():\n    # Constants\n    PHI = 1.462125762879947  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0.0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(4.74559734724766, 4)\n        return np.tanh(result) * 639\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 638.9355856999017,
+      "loss": 0.2695383131504059,
+      "complexity": 4.2,
+      "phi_resonance": 0.3159910351795805
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.411958",
+      "code": "def auto_func_2d8eb8():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.70169265628945\n        phase = 2.4080092482885926\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 105.35440420588846 * np.sin(1.6184249785084759 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -48.324769734682405,
+      "loss": 0.3236282467842102,
+      "complexity": 3.6,
+      "phi_resonance": 3.0489699276326316
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.416395",
+      "code": "def auto_func_db255a():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        return np.sin(6.991595907156616 * np.pi) * 97.77740173584154\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 2.581242156754532,
+      "loss": 0.30873724818229675,
+      "complexity": 3.1,
+      "phi_resonance": 0.37296146395461516
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.419607",
+      "code": "def auto_func_2d8eb8():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.70169265628945\n        phase = 2.4080092482885926\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 105.35440420588846 * np.sin(1.6184249785084759 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -48.324769734682405,
+      "loss": 0.13473716378211975,
+      "complexity": 3.6,
+      "phi_resonance": 3.0489699276326316
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.422755",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.42000287771224976,
+      "complexity": 3.9,
+      "phi_resonance": 6.326382753672848
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.427203",
+      "code": "def auto_func_57abeb():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        return np.sin(11.992529090747805 * np.pi) * 20.567014344653845\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -0.48267489524311336,
+      "loss": 0.35888609290122986,
+      "complexity": 3.1,
+      "phi_resonance": 0.06328483122545397
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.431819",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.3059857765076213\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.80732399261042,
+      "loss": 0.35435110330581665,
+      "complexity": 3.9,
+      "phi_resonance": 5.87113381672964
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.536206",
+      "code": "def auto_func_6487a7():\n    # Constants\n    PHI = 1.6185026908746498  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(5) * 1.6185026908746498\n        return np.cos(result / 432) * 46.47109300416158\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 46.46293958897037,
+      "loss": 0.09195522964000702,
+      "complexity": 3.9,
+      "phi_resonance": 0.24007086085709728
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.544907",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.22414588928222656,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.549779",
+      "code": "def auto_func_380467():\n    # Constants\n    PHI = 1.6185026908746498  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.47425306214010265\n        phase = 5.2191074011407075\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 62.163207738643614 * np.sin(1.6185026908746498 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -13.023734984411162,
+      "loss": 0.15155905485153198,
+      "complexity": 3.6,
+      "phi_resonance": 0.3066269512821377
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.555733",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.7313140858045288\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.78999497668781,
+      "loss": 0.12083602696657181,
+      "complexity": 3.9,
+      "phi_resonance": 6.671677465528533
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.560832",
+      "code": "def auto_func_a71dd5():\n    # Constants\n    PHI = 1.6185026908746498  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(3) * 1.6185026908746498\n        return np.cos(result / 432) * 12.282773284295068\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 12.282428471194825,
+      "loss": 0.08012568205595016,
+      "complexity": 3.9,
+      "phi_resonance": 0.08075960239352842
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.566220",
+      "code": "def auto_func_c5e57b():\n    # Constants\n    PHI = 1.6185026908746498  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(5) * 1.6185026908746498\n        return np.cos(result / 741) * 3.4125261962643094\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 3.4123226926504033,
+      "loss": 0.0545174814760685,
+      "complexity": 3.9,
+      "phi_resonance": 0.2847118808566529
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.571986",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.10549084842205048,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.577985",
+      "code": "def auto_func_2ba0f7():\n    # Constants\n    PHI = 1.6185026908746498  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.3229270615066101\n        phase = 4.099462367164965\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 74.48708024139688 * np.sin(1.6185026908746498 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -7.235552159523322,
+      "loss": 0.04759971797466278,
+      "complexity": 3.6,
+      "phi_resonance": 0.11050365106392966
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.586098",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.12649697065353394,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.592607",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.06191619113087654,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.944801",
+      "code": "def auto_func_3e7028():\n    # Constants\n    PHI = 1.6180877018911437  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(4) * 1.6180877018911437\n        return np.cos(result / 852) * 19.736746431530516\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 19.736426091048195,
+      "loss": 0.2185707837343216,
+      "complexity": 3.9,
+      "phi_resonance": 0.2735567161776537
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.953374",
+      "code": "def auto_func_ae2866():\n    # Constants\n    PHI = 1.6180877018911437  # Golden Ratio (Agent Variant)\n    try:\n        return np.sin(13.786107220112545 * np.pi) * 43.61829762921029\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -27.153445973965056,
+      "loss": 0.33787816762924194,
+      "complexity": 3.1,
+      "phi_resonance": 0.18838394229766095
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.960376",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.11768408119678497,
+      "complexity": 3.9,
+      "phi_resonance": 5.828889167436236
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.967825",
+      "code": "def auto_func_a79f59():\n    # Constants\n    PHI = 1.6180877018911437  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6180877018911437\n        return np.cos(result / 432) * 71.3945867408678\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 71.30996678311857,
+      "loss": 0.06875535845756531,
+      "complexity": 3.9,
+      "phi_resonance": 0.34966925542222654
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.974153",
+      "code": "def auto_func_bca500():\n    # Constants\n    PHI = 1.6180877018911437  # Golden Ratio (Agent Variant)\n    try:\n        return np.sin(10.339580415084408 * np.pi) * 81.39923396970272\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 71.27893950356994,
+      "loss": 0.41916710138320923,
+      "complexity": 3.1,
+      "phi_resonance": 0.35350452704566054
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.981568",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.2878926396369934,
+      "complexity": 3.9,
+      "phi_resonance": 5.828889167436236
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.987808",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.21437618136405945,
+      "complexity": 3.9,
+      "phi_resonance": 5.828889167436236
+    },
+    {
+      "timestamp": "2025-06-25T16:15:49.994109",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.7313140858045288\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.78999497668781,
+      "loss": 0.29748913645744324,
+      "complexity": 3.9,
+      "phi_resonance": 6.006478550209786
+    },
+    {
+      "timestamp": "2025-06-25T16:15:50.000996",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.05411820858716965,
+      "complexity": 3.9,
+      "phi_resonance": 5.828889167436236
+    },
+    {
+      "timestamp": "2025-06-25T16:15:50.007950",
+      "code": "def auto_func_3dae2a():\n    # Constants\n    PHI = 1.6180877018911437  # Golden Ratio (Agent Variant)\n    try:\n        return np.sin(11.990029871013375 * np.pi) * 99.52450570130598\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -3.1168052317309427,
+      "loss": 0.31863826513290405,
+      "complexity": 3.1,
+      "phi_resonance": 0.07596433809893267
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.516001",
+      "code": "def auto_func_909a53():\n    # Constants\n    PHI = 1.6182373006052924  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.40992778178159406\n        phase = 3.4313713692764067\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 147.51141877227607 * np.sin(1.6182373006052924 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -23.09741689056459,
+      "loss": 0.30471640825271606,
+      "complexity": 3.6,
+      "phi_resonance": 0.3135284988741419
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.526622",
+      "code": "def auto_func_5512f2():\n    # Constants\n    PHI = 1.6182373006052924  # Golden Ratio (Agent Variant)\n    try:\n        return np.sin(13.78738180115709 * np.pi) * 19.021039544254805\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -11.781356476878583,
+      "loss": 0.12965887784957886,
+      "complexity": 3.1,
+      "phi_resonance": 0.22217203458780424
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.534799",
+      "code": "def auto_func_18a1b7():\n    # Constants\n    PHI = 1.6182373006052924  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.6113621100312151\n        phase = 4.471232910545065\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 122.95801405794158 * np.sin(1.6182373006052924 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -42.82298597432916,
+      "loss": 0.22729915380477905,
+      "complexity": 3.6,
+      "phi_resonance": 0.17169937439177346
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.544720",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.1100885421037674,
+      "complexity": 3.9,
+      "phi_resonance": 6.039547202736516
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.550701",
+      "code": "def auto_func_35d390():\n    # Constants\n    PHI = 1.6182373006052924  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.5563601893317898\n        phase = 4.7268590448877195\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 116.47403653439422 * np.sin(1.6182373006052924 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -33.59419874560279,
+      "loss": 0.06305420398712158,
+      "complexity": 3.6,
+      "phi_resonance": 0.1125815340695007
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.557762",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.14537858963012695,
+      "complexity": 3.9,
+      "phi_resonance": 6.039547202736516
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.565152",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.0696427971124649,
+      "complexity": 3.9,
+      "phi_resonance": 6.039547202736516
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.573239",
+      "code": "def auto_func_0e776a():\n    # Constants\n    PHI = 1.6182373006052924  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.5631798798509358\n        phase = 0.9414172497081347\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 90.63586463898837 * np.sin(1.6182373006052924 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -26.786588856676353,
+      "loss": 0.12098246812820435,
+      "complexity": 3.6,
+      "phi_resonance": 0.17611347707130526
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.582130",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.17692101001739502,
+      "complexity": 3.9,
+      "phi_resonance": 6.039547202736516
+    },
+    {
+      "timestamp": "2025-06-25T16:17:25.588190",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) / 1.7313140858045288\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.82572960132663,
+      "loss": 0.04902251809835434,
+      "complexity": 3.9,
+      "phi_resonance": 5.095863976216503
+    },
+    {
+      "timestamp": "2025-06-26T16:39:09.527027",
+      "code": "def auto_func_3f6d16():\n    # Constants\n    PHI = 1.6184262181868636  # Golden Ratio (Agent Variant)\n    try:\n        # Quantum superposition simulation\n        amplitude = 0.49427790411792405\n        phase = 4.831779121746103\n        psi = amplitude * np.exp(1j * phase)\n        measurement_prob = np.abs(psi) ** 2\n        return float(measurement_prob * 63.15225249570465 * np.sin(1.6184262181868636 * np.pi))\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": -14.373211411777701,
+      "loss": 0.22039203345775604,
+      "complexity": 3.6,
+      "phi_resonance": 0.5232723356441317
+    },
+    {
+      "timestamp": "2025-06-26T16:39:09.536775",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.2076365351676941,
+      "complexity": 3.9,
+      "phi_resonance": 6.32836800827418
+    },
+    {
+      "timestamp": "2025-06-26T16:39:09.543604",
+      "code": "def auto_func_477472():\n    # Constants\n    PHI = 1.6184262181868636  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(2.92209803809881, 4)\n        return np.tanh(result) * 639\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 637.0093620164592,
+      "loss": 0.05121149495244026,
+      "complexity": 4.2,
+      "phi_resonance": 0.8084323585649804
+    },
+    {
+      "timestamp": "2025-07-03T19:23:15.287830",
+      "code": "def auto_func_9d3e3e():\n    # Constants\n    PHI = 1.6183731630730769  # Golden Ratio (Agent Variant)\n    try:\n        def phi_recursive(n, depth):\n            if depth == 0:\n                return n\n            return n + (1 / phi_recursive(n, depth-1))\n        \n        result = phi_recursive(3.8250093140968526, 3)\n        return np.tanh(result) * 741\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 740.56854678981,
+      "loss": 0.4228680729866028,
+      "complexity": 4.2,
+      "phi_resonance": 0.1367676192699627
+    },
+    {
+      "timestamp": "2025-07-03T19:23:15.295936",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.3596041202545166,
+      "complexity": 3.9,
+      "phi_resonance": 6.244503752193707
+    },
+    {
+      "timestamp": "2025-07-03T19:23:15.301044",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.6528394222259521,
+      "complexity": 3.9,
+      "phi_resonance": 6.244503752193707
+    }
+  ],
+  "evolution_metrics": {
+    "avg_loss": [
+      0.3425535559654236,
+      0.3994806110858917,
+      0.69023597240448,
+      0.23233811557292938,
+      0.38086026906967163,
+      0.3741569519042969,
+      0.2695383131504059,
+      0.3236282467842102,
+      0.30873724818229675,
+      0.13473716378211975,
+      0.42000287771224976,
+      0.35888609290122986,
+      0.35435110330581665,
+      0.09195522964000702,
+      0.22414588928222656,
+      0.15155905485153198,
+      0.12083602696657181,
+      0.08012568205595016,
+      0.0545174814760685,
+      0.10549084842205048,
+      0.04759971797466278,
+      0.12649697065353394,
+      0.06191619113087654,
+      0.2185707837343216,
+      0.33787816762924194,
+      0.11768408119678497,
+      0.06875535845756531,
+      0.41916710138320923,
+      0.2878926396369934,
+      0.21437618136405945,
+      0.29748913645744324,
+      0.05411820858716965,
+      0.31863826513290405,
+      0.30471640825271606,
+      0.12965887784957886,
+      0.22729915380477905,
+      0.1100885421037674,
+      0.06305420398712158,
+      0.14537858963012695,
+      0.0696427971124649,
+      0.12098246812820435,
+      0.17692101001739502,
+      0.04902251809835434,
+      0.22039203345775604,
+      0.2076365351676941,
+      0.05121149495244026,
+      0.4228680729866028,
+      0.3596041202545166,
+      0.6528394222259521
+    ],
+    "success_rate": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "complexity": []
+  },
+  "top_performers": [
+    {
+      "timestamp": "2025-06-25T16:15:23.555733",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.7313140858045288\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.78999497668781,
+      "loss": 0.12083602696657181,
+      "complexity": 3.9,
+      "phi_resonance": 6.671677465528533
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.544907",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.22414588928222656,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.571986",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.10549084842205048,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.586098",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.12649697065353394,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-25T16:15:23.592607",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.06191619113087654,
+      "complexity": 3.9,
+      "phi_resonance": 6.453290103963047
+    },
+    {
+      "timestamp": "2025-06-26T16:39:09.536775",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.2076365351676941,
+      "complexity": 3.9,
+      "phi_resonance": 6.32836800827418
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.402960",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.3741569519042969,
+      "complexity": 3.9,
+      "phi_resonance": 6.326382753672848
+    },
+    {
+      "timestamp": "2025-06-25T16:11:23.422755",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.42000287771224976,
+      "complexity": 3.9,
+      "phi_resonance": 6.326382753672848
+    },
+    {
+      "timestamp": "2025-07-03T19:23:15.295936",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.3596041202545166,
+      "complexity": 3.9,
+      "phi_resonance": 6.244503752193707
+    },
+    {
+      "timestamp": "2025-07-03T19:23:15.301044",
+      "code": "def auto_func_90f767():\n    # Constants\n    PHI = 1.6184249785084759  # Golden Ratio (Agent Variant)\n    try:\n        def fib(n):\n            return n if n < 2 else fib(n-1) + fib(n-2)\n        result = fib(7) * 1.6184249785084759\n        return np.cos(result / 639) * 64.83020545281988\n    except RecursionError:\n        return np.random.uniform(0, 100)  # Fallback for recursion\n    except Exception as e:\n        print(f\"Error in generated code: {e}\")\n        return None",
+      "result": 64.79506735071082,
+      "loss": 0.6528394222259521,
+      "complexity": 3.9,
+      "phi_resonance": 6.244503752193707
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "genesis_storage": {
+    "success": true,
+    "backup_paths": [
+      "genesis/single_backups/phi_harmonic_test.py.1752823491.backup",
+      "genesis/single_backups/logic_error_test.py.1752823491.backup",
+      "genesis/single_backups/syntax_error_test.py.1752823491.backup",
+      "genesis/single_backups/blockchain_test.py.1752823491.backup"
+    ],
+    "backup_metadata": {
+      "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-2f11a1ec6f3a",
+      "timestamp": 1752823491.8809159,
+      "datetime": "2025-07-18T00:24:51.880916",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-c595229388ce",
+      "phi_coherence": 0.36932381,
+      "files": [
+        {
+          "original_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-2f11a1ec6f3a/phi_harmonic_test.py.encrypted",
+          "hash": "2b09d99f5aba81d65dc4411b76074e3bd6f164160ca7d0a3a20f0385de769857",
+          "size": 600
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-2f11a1ec6f3a/logic_error_test.py.encrypted",
+          "hash": "cc6d4dc92534e28c547af0a83b7bc972af178489a2ae0ff6095227a1df2d04a8",
+          "size": 397
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/syntax_error_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-2f11a1ec6f3a/syntax_error_test.py.encrypted",
+          "hash": "aa850ff73fb03959ecf6206756080f3b8036ddfd75eda656017f6d13b6c7aa72",
+          "size": 252
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/blockchain_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-2f11a1ec6f3a/blockchain_test.py.encrypted",
+          "hash": "99963c67f92b8f9baa3e9bb3d0eb392aed9e970124226f375c59efa518979413",
+          "size": 555
+        }
+      ],
+      "user_metadata": {
+        "test_id": "quantum-cohesion-1752823491",
+        "timestamp": 1752823491.880915,
+        "phi_resonance": 0.14259576797485352
+      }
+    },
+    "blockchain_success": true,
+    "recovery_success": true
+  },
+  "orchestrator_healing": {
+    "success": false,
+    "error": "QuantumOrchestrator.__init__() missing 1 required positional argument: 'target_file'"
+  },
+  "moa_integration": {
+    "success": false,
+    "moa_result": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-2780c82c9978",
+      "role": "EvolutionAgent",
+      "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+      "patterns_found": 0,
+      "evolved_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    \"\"\"Increment a number by 1.\"\"\"\n    # Logic error: returns x instead of x+1\n    return x\n\ndef sum_even_numbers(numbers):\n    \"\"\"Sum all even numbers in a list.\"\"\"\n    total = 0\n    for num in numbers:\n        # Logic error: checks if num is odd instead of even\n        if num % 2 == 1:\n            total += num\n    return total\n",
+      "enhancements_made": 0,
+      "coherence": 1.3319627183585132
+    },
+    "agents_initialized": false,
+    "agents_count": 0
+  },
+  "chord_progression": {
+    "success": true,
+    "phi_resonance": 0.8541019662496856,
+    "visualization_path": "quantum_cohesion_test/results/chord_progression.png",
+    "visualization_success": true
+  },
+  "resonance_optimization": {
+    "success": false,
+    "error": "'QuantumResonanceOptimizer' object has no attribute 'optimize_file'"
+  },
+  "visualization": {
+    "success": false,
+    "error": "'QuantumHarmonicVisualizer' object has no attribute 'create_resonance_map'"
+  },
+  "intrusion_detection": {
+    "success": true,
+    "intrusion_detected": true,
+    "restoration_success": true,
+    "original_hash": "e78e7d66dcfc3babc0b59299e1741f43d6d1f166c4bdb1ab5007e4d0a75fb465",
+    "modified_hash": "e0411f8d95b973d7178607f7c8ca76c23d67c8b529e76d7db4d0a1b5fc3e7aac",
+    "restored_hash": "e78e7d66dcfc3babc0b59299e1741f43d6d1f166c4bdb1ab5007e4d0a75fb465"
+  },
+  "summary": {
+    "success_count": 3,
+    "total_count": 7,
+    "success_rate": 0.42857142857142855,
+    "coherence": 0.6934431380356693,
+    "target_coherence": 3.693238055064196,
+    "coherence_distance": 2.9997949170285265,
+    "duration": 2.600160598754883
+  }
+}

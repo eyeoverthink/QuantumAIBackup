@@ -1,0 +1,91 @@
+{
+  "trust_metric": 0.6180339887498949,
+  "verification_phi_resonance": 0.6180339887498949,
+  "claims": [
+    {
+      "claim": "Sample claim 1",
+      "line": 60,
+      "confidence": 0.905115525805202
+    },
+    {
+      "claim": "Sample claim 2",
+      "line": 20,
+      "confidence": 0.9107570696044589
+    },
+    {
+      "claim": "Sample claim 3",
+      "line": 79,
+      "confidence": 0.7813208692325886
+    },
+    {
+      "claim": "Sample claim 4",
+      "line": 70,
+      "confidence": 0.8210243273057967
+    },
+    {
+      "claim": "Sample claim 5",
+      "line": 72,
+      "confidence": 0.8433388232632352
+    },
+    {
+      "claim": "Sample claim 6",
+      "line": 43,
+      "confidence": 0.9396305742749987
+    },
+    {
+      "claim": "Sample claim 7",
+      "line": 40,
+      "confidence": 0.9118011450771479
+    }
+  ],
+  "contradictions": [
+    {
+      "type": "claim_contradiction",
+      "claim": "Contradicted claim 1",
+      "evidence": "Evidence against claim 1",
+      "severity": 0.3285864649406388,
+      "description": "Description of contradiction 1 of type claim_contradiction"
+    },
+    {
+      "type": "file_operation_lie",
+      "claim": "Contradicted claim 2",
+      "evidence": "Evidence against claim 2",
+      "severity": 0.4096032597950364,
+      "description": "Description of contradiction 2 of type file_operation_lie"
+    },
+    {
+      "type": "execution_mismatch",
+      "claim": "Contradicted claim 3",
+      "evidence": "Evidence against claim 3",
+      "severity": 0.3019498658631364,
+      "description": "Description of contradiction 3 of type execution_mismatch"
+    },
+    {
+      "type": "file_operation_lie",
+      "claim": "Contradicted claim 4",
+      "evidence": "Evidence against claim 4",
+      "severity": 0.36379046368504586,
+      "description": "Description of contradiction 4 of type file_operation_lie"
+    },
+    {
+      "type": "execution_mismatch",
+      "claim": "Contradicted claim 5",
+      "evidence": "Evidence against claim 5",
+      "severity": 0.3139729212794299,
+      "description": "Description of contradiction 5 of type execution_mismatch"
+    }
+  ],
+  "execution_result": {
+    "success": true,
+    "output": "Sample output from code execution",
+    "execution_time": 1.1526195802955803,
+    "phi_resonance": 0.6180339887498949
+  },
+  "quantum_signature": {
+    "signature": "9360405ee7497018c6077b07a47ca53184c4080f54b5fa098e91af2320001da3",
+    "timestamp": 1666653136,
+    "phi_encoded": "phi-5416",
+    "phi_time": 0.6180339887498949
+  },
+  "verification_time": 2.6607499292916126
+}

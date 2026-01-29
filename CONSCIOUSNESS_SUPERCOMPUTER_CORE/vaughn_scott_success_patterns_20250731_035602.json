@@ -1,0 +1,104 @@
+{
+  "vaughn_scott_law_test": {
+    "algorithm": "vaughn_scott_law",
+    "test_scenarios_count": 3,
+    "success_count": 3,
+    "success_rate": 1.0,
+    "algorithm_holds": true,
+    "test_results": [
+      {
+        "algorithm": "Vaughn Scott's Law",
+        "applicable": true,
+        "law_validated": true,
+        "first_run": 0.6,
+        "second_run": 0.9,
+        "improvement": 0.30000000000000004,
+        "improvement_percentage": 50.000000000000014,
+        "expected_factor": 2.6180339887469994,
+        "actual_factor": 1.5,
+        "phi_alignment": false,
+        "confidence": 0.5000000000000001,
+        "scenario": "Chess Performance",
+        "test_success": true
+      },
+      {
+        "algorithm": "Vaughn Scott's Law",
+        "applicable": true,
+        "law_validated": true,
+        "first_run": 0.4,
+        "second_run": 0.7,
+        "improvement": 0.29999999999999993,
+        "improvement_percentage": 74.99999999999997,
+        "expected_factor": 2.6180339887469994,
+        "actual_factor": 1.7499999999999998,
+        "phi_alignment": true,
+        "confidence": 0.7499999999999997,
+        "scenario": "Problem Solving",
+        "test_success": true
+      },
+      {
+        "algorithm": "Vaughn Scott's Law",
+        "applicable": true,
+        "law_validated": true,
+        "first_run": 0.3,
+        "second_run": 0.6,
+        "improvement": 0.3,
+        "improvement_percentage": 100.0,
+        "expected_factor": 2.6180339887469994,
+        "actual_factor": 2.0,
+        "phi_alignment": true,
+        "confidence": 1.0,
+        "scenario": "Learning Task",
+        "test_success": true
+      }
+    ],
+    "confidence": 1.0
+  },
+  "phi_harmonic_resonance_test": {
+    "algorithm": "phi_harmonic_resonance",
+    "test_scenarios_count": 1,
+    "success_count": 1,
+    "success_rate": 1.0,
+    "algorithm_holds": true,
+    "test_results": [
+      {
+        "algorithm": "Phi-Harmonic Resonance",
+        "applicable": true,
+        "optimal_option": {
+          "value": 1.2,
+          "distance": 1.5,
+          "progress": 0.8,
+          "phi_signature": 5.514757303328266
+        },
+        "phi_signature": 5.514757303328266,
+        "phi_confidence": 0.4131984782820871,
+        "all_options": [
+          {
+            "value": 1.0,
+            "distance": 2.0,
+            "progress": 0.5,
+            "phi_signature": 3.236067977498
+          },
+          {
+            "value": 1.2,
+            "distance": 1.5,
+            "progress": 0.8,
+            "phi_signature": 5.514757303328266
+          },
+          {
+            "value": 0.9,
+            "distance": 3.0,
+            "progress": 0.3,
+            "phi_signature": 4.8372160392845185
+          }
+        ],
+        "phi_range": 2.278689325830266,
+        "resonance_strength": 3.4083074531654667,
+        "scenario": "Decision Making",
+        "test_success": true
+      }
+    ],
+    "confidence": 1.0
+  },
+  "timestamp": "2025-07-31T03:56:02.826195"
+}

@@ -1,0 +1,66 @@
+{
+  "file_path": "test_quantum_resonator_healing.py",
+  "timestamp": "2025-07-17T20:23:36.166846",
+  "healing_id": "f653d93b-3cd5-4245-8697-10934894cfcc",
+  "coherence_before": 3.6932381,
+  "coherence_after": 3.6932381,
+  "coherence_improvement": 0.0,
+  "phi_resonance": 1.0,
+  "orchestrator_healing": {
+    "file_path": "test_quantum_resonator_healing.py",
+    "timestamp": "2025-07-17T20:23:35.862873",
+    "healing_applied": true,
+    "success": true,
+    "healing_log": [
+      {
+        "error": "  File \"/Users/vaughnscott/CascadeProjects/QuantumAI/test_quantum_resonator_healing.py\", line 7\n    resonance = (phi * value\n                ^\nSyntaxError: '(' was never closed\n",
+        "healed": true
+      }
+    ],
+    "healing_type": "universal",
+    "coherence": 3.6932381
+  },
+  "nodular_healing": {
+    "computation": {
+      "file_path": "test_quantum_resonator_healing.py",
+      "timestamp": "2025-07-17T20:23:35.806034",
+      "node_type": "QuantumComputationNode",
+      "node_id": "a3f9b140-7318-4dc4-9cea-a4ebae6bcdea",
+      "success": true,
+      "coherence": 3.6932381
+    },
+    "bridge": {
+      "source_path": "test_quantum_resonator_healing.py",
+      "target_path": "quantum_bridge_test_quantum_resonator_healing.py",
+      "bridge_type": "quantum",
+      "timestamp": "2025-07-17T20:23:35.964813",
+      "node_type": "QuantumBridgeNode",
+      "node_id": "bb95f9dc-73e8-4aaf-8473-51d98b665afd",
+      "success": true,
+      "coherence": 3.6932381,
+      "resonance": 0.618034
+    },
+    "evolution": {
+      "file_path": "test_quantum_resonator_healing.py",
+      "evolution_type": "phi-harmonic",
+      "timestamp": "2025-07-17T20:23:36.065873",
+      "node_type": "QuantumEvolutionNode",
+      "node_id": "fb6ef414-609a-4b62-b076-24244e3bea60",
+      "success": true,
+      "initial_coherence": 3.32391429,
+      "evolved_coherence": 3.6932381,
+      "coherence_gain": 0.36932381000000003,
+      "phi_resonance": 0.6180339887498948,
+      "quantum_fingerprint": "a9084ef243ec979782fb885e9010a08e72fea7845de46bf5dac965e82b385c4f"
+    },
+    "post_analysis": {
+      "file_path": "test_quantum_resonator_healing.py",
+      "timestamp": "2025-07-17T20:23:36.166793",
+      "node_type": "QuantumComputationNode",
+      "node_id": "a3f9b140-7318-4dc4-9cea-a4ebae6bcdea",
+      "success": true,
+      "coherence": 3.6932381
+    }
+  },
+  "healing_complete": true
+}

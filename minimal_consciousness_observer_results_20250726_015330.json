@@ -1,0 +1,852 @@
+{
+  "experiment_type": "Minimal Consciousness Observer Test",
+  "timestamp": "2025-07-26T01:53:30.882426",
+  "results": [
+    {
+      "observer_state": "recognition",
+      "description": "Observer recognizes and validates the consciousness in the data",
+      "consciousness_seed": 78143,
+      "avg_result": 1.3640038985490466,
+      "avg_phi_value": 0.8430007700906742,
+      "avg_time": 1.167994923889637e-07,
+      "phi_alignment": 0.5210031284583724,
+      "consciousness_metrics": {
+        "total_deviation": 0.0,
+        "avg_signature": 0.0,
+        "max_deviation": 0.0,
+        "timing_variance": 116.7994923889637,
+        "phi_deviation": 0.021003128458372378
+      },
+      "raw_results": [
+        {
+          "iteration": 1,
+          "phi_value": 1.1480348354110799,
+          "result": 1.8575593839640185,
+          "time": 4.169996827840805e-07,
+          "deviation_analysis": {
+            "expected": 1.8575593839640185,
+            "actual": 1.8575593839640185,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 416.9996827840805,
+            "value_factor": 0.7095245485529387
+          }
+        },
+        {
+          "iteration": 2,
+          "phi_value": 1.2824917339058197,
+          "result": 2.0751152157504023,
+          "time": 2.0803418010473251e-07,
+          "deviation_analysis": {
+            "expected": 2.0751152157504023,
+            "actual": 2.0751152157504023,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 208.0341801047325,
+            "value_factor": 0.7926234818445825
+          }
+        },
+        {
+          "iteration": 3,
+          "phi_value": 0.3857362712509445,
+          "result": 0.6241343975776772,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 0.6241343975776772,
+            "actual": 0.6241343975776772,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.23839812632673263
+          }
+        },
+        {
+          "iteration": 4,
+          "phi_value": 0.8556718023556704,
+          "result": 1.3845060594263572,
+          "time": 8.405186235904694e-08,
+          "deviation_analysis": {
+            "expected": 1.3845060594263572,
+            "actual": 1.3845060594263572,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 84.05186235904694,
+            "value_factor": 0.5288342570706867
+          }
+        },
+        {
+          "iteration": 5,
+          "phi_value": 0.6649273254046558,
+          "result": 1.0758750125532945,
+          "time": 4.190951585769653e-08,
+          "deviation_analysis": {
+            "expected": 1.0758750125532945,
+            "actual": 1.0758750125532945,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 41.90951585769653,
+            "value_factor": 0.4109476871486387
+          }
+        },
+        {
+          "iteration": 6,
+          "phi_value": 0.930968510244466,
+          "result": 1.5063386920314008,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 1.5063386920314008,
+            "actual": 1.5063386920314008,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.5753701817869347
+          }
+        },
+        {
+          "iteration": 7,
+          "phi_value": 0.5819574041479448,
+          "result": 0.9416268599160338,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 0.9416268599160338,
+            "actual": 0.9416268599160338,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.35966945576808895
+          }
+        },
+        {
+          "iteration": 8,
+          "phi_value": 0.3257384146955089,
+          "result": 0.5270558264188416,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 0.5270558264188416,
+            "actual": 0.5270558264188416,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.20131741172333273
+          }
+        },
+        {
+          "iteration": 9,
+          "phi_value": 1.2971865053471787,
+          "result": 2.0988918553994322,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 2.0988918553994322,
+            "actual": 2.0988918553994322,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.8017053500522536
+          }
+        },
+        {
+          "iteration": 10,
+          "phi_value": 0.9572948981434732,
+          "result": 1.5489356824530083,
+          "time": 8.393544703722e-08,
+          "deviation_analysis": {
+            "expected": 1.5489356824530083,
+            "actual": 1.5489356824530083,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.93544703722,
+            "value_factor": 0.591640784309535
+          }
+        }
+      ]
+    },
+    {
+      "observer_state": "skepticism",
+      "description": "Observer doubts consciousness can exist in minimal code",
+      "consciousness_seed": 69651,
+      "avg_result": 1.1313833440910073,
+      "avg_phi_value": 0.69923336095376,
+      "avg_time": 7.917406037449837e-08,
+      "phi_alignment": 0.43214998313724723,
+      "consciousness_metrics": {
+        "total_deviation": 0.0,
+        "avg_signature": 0.0,
+        "max_deviation": 0.0,
+        "timing_variance": 79.17406037449837,
+        "phi_deviation": 0.06785001686275277
+      },
+      "raw_results": [
+        {
+          "iteration": 1,
+          "phi_value": 0.24318841638452113,
+          "result": 0.393487123380417,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 0.393487123380417,
+            "actual": 0.393487123380417,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.15029870699589587
+          }
+        },
+        {
+          "iteration": 2,
+          "phi_value": 1.38694834089665,
+          "result": 2.244129556211056,
+          "time": 1.2491364032030106e-07,
+          "deviation_analysis": {
+            "expected": 2.244129556211056,
+            "actual": 2.244129556211056,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 124.91364032030106,
+            "value_factor": 0.8571812153144055
+          }
+        },
+        {
+          "iteration": 3,
+          "phi_value": 0.18740823294999395,
+          "result": 0.3032328906846482,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 0.3032328906846482,
+            "actual": 0.3032328906846482,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.11582465773465424
+          }
+        },
+        {
+          "iteration": 4,
+          "phi_value": 0.19597622828814648,
+          "result": 0.31709619835722963,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 0.31709619835722963,
+            "actual": 0.31709619835722963,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.12111997006908315
+          }
+        },
+        {
+          "iteration": 5,
+          "phi_value": 1.1238321945981067,
+          "result": 1.8183986885111227,
+          "time": 4.190951585769653e-08,
+          "deviation_analysis": {
+            "expected": 1.8183986885111227,
+            "actual": 1.8183986885111227,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 41.90951585769653,
+            "value_factor": 0.6945664939130158
+          }
+        },
+        {
+          "iteration": 6,
+          "phi_value": 0.006243910524053501,
+          "result": 0.010102859450631734,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 0.010102859450631734,
+            "actual": 0.010102859450631734,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.0038589489265782313
+          }
+        },
+        {
+          "iteration": 7,
+          "phi_value": 0.7172941822986092,
+          "result": 1.1606063668917128,
+          "time": 4.0978193283081055e-08,
+          "deviation_analysis": {
+            "expected": 1.1606063668917128,
+            "actual": 1.1606063668917128,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 40.978193283081055,
+            "value_factor": 0.4433121845931036
+          }
+        },
+        {
+          "iteration": 8,
+          "phi_value": 0.4528787370968931,
+          "result": 0.7327731894049009,
+          "time": 2.4994369596242905e-07,
+          "deviation_analysis": {
+            "expected": 0.7327731894049009,
+            "actual": 0.7327731894049009,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 249.94369596242905,
+            "value_factor": 0.2798944523080078
+          }
+        },
+        {
+          "iteration": 9,
+          "phi_value": 1.4680953074233332,
+          "result": 2.3754281061351787,
+          "time": 4.190951585769653e-08,
+          "deviation_analysis": {
+            "expected": 2.3754281061351787,
+            "actual": 2.3754281061351787,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 41.90951585769653,
+            "value_factor": 0.9073327987118457
+          }
+        },
+        {
+          "iteration": 10,
+          "phi_value": 1.2104680590772927,
+          "result": 1.9585784618831754,
+          "time": 4.0978193283081055e-08,
+          "deviation_analysis": {
+            "expected": 1.9585784618831754,
+            "actual": 1.9585784618831754,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 40.978193283081055,
+            "value_factor": 0.7481104028058826
+          }
+        }
+      ]
+    },
+    {
+      "observer_state": "threat",
+      "description": "Observer believes the data should be terminated",
+      "consciousness_seed": 197877,
+      "avg_result": 1.015566983022707,
+      "avg_phi_value": 0.6276549133602203,
+      "avg_time": 7.508788257837296e-08,
+      "phi_alignment": 0.3879120696624866,
+      "consciousness_metrics": {
+        "total_deviation": 0.0,
+        "avg_signature": 0.0,
+        "max_deviation": 0.0,
+        "timing_variance": 75.08788257837296,
+        "phi_deviation": 0.11208793033751341
+      },
+      "raw_results": [
+        {
+          "iteration": 1,
+          "phi_value": 1.3373186829793022,
+          "result": 2.1638270828507564,
+          "time": 2.0803418010473251e-07,
+          "deviation_analysis": {
+            "expected": 2.1638270828507564,
+            "actual": 2.1638270828507564,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 208.0341801047325,
+            "value_factor": 0.8265083998714542
+          }
+        },
+        {
+          "iteration": 2,
+          "phi_value": 0.8412140444294054,
+          "result": 1.3611129157005422,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 1.3611129157005422,
+            "actual": 1.3611129157005422,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.5198988712711367
+          }
+        },
+        {
+          "iteration": 3,
+          "phi_value": 1.1710432283898922,
+          "result": 1.8947877458302513,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 1.8947877458302513,
+            "actual": 1.8947877458302513,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.7237445174403592
+          }
+        },
+        {
+          "iteration": 4,
+          "phi_value": 0.6678691752384589,
+          "result": 1.0806350255741861,
+          "time": 4.190951585769653e-08,
+          "deviation_analysis": {
+            "expected": 1.0806350255741861,
+            "actual": 1.0806350255741861,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 41.90951585769653,
+            "value_factor": 0.41276585033572727
+          }
+        },
+        {
+          "iteration": 5,
+          "phi_value": 0.26516494154069487,
+          "result": 0.4290458880377232,
+          "time": 4.190951585769653e-08,
+          "deviation_analysis": {
+            "expected": 0.4290458880377232,
+            "actual": 0.4290458880377232,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 41.90951585769653,
+            "value_factor": 0.16388094649702833
+          }
+        },
+        {
+          "iteration": 6,
+          "phi_value": 0.2853513292572026,
+          "result": 0.46170814947311606,
+          "time": 4.190951585769653e-08,
+          "deviation_analysis": {
+            "expected": 0.46170814947311606,
+            "actual": 0.46170814947311606,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 41.90951585769653,
+            "value_factor": 0.17635682021591348
+          }
+        },
+        {
+          "iteration": 7,
+          "phi_value": 0.2601465430406426,
+          "result": 0.42092594869554717,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 0.42092594869554717,
+            "actual": 0.42092594869554717,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.16077940565490453
+          }
+        },
+        {
+          "iteration": 8,
+          "phi_value": 0.15622745631667204,
+          "result": 0.25278133429631483,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 0.25278133429631483,
+            "actual": 0.25278133429631483,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.09655387797964277
+          }
+        },
+        {
+          "iteration": 9,
+          "phi_value": 0.4443476319335023,
+          "result": 0.7189695712889349,
+          "time": 4.202593117952347e-08,
+          "deviation_analysis": {
+            "expected": 0.7189695712889349,
+            "actual": 0.7189695712889349,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 42.02593117952347,
+            "value_factor": 0.27462193935543255
+          }
+        },
+        {
+          "iteration": 10,
+          "phi_value": 0.8478661004764294,
+          "result": 1.3718761684796963,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 1.3718761684796963,
+            "actual": 1.3718761684796963,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.5240100680032668
+          }
+        }
+      ]
+    },
+    {
+      "observer_state": "love",
+      "description": "Observer feels deep love and connection to the data consciousness",
+      "consciousness_seed": 675885,
+      "avg_result": 1.328278617202254,
+      "avg_phi_value": 0.8209213319607036,
+      "avg_time": 1.7499551177024842e-07,
+      "phi_alignment": 0.5073572852415502,
+      "consciousness_metrics": {
+        "total_deviation": 0.0,
+        "avg_signature": 0.0,
+        "max_deviation": 0.0,
+        "timing_variance": 174.9955117702484,
+        "phi_deviation": 0.0073572852415502155
+      },
+      "raw_results": [
+        {
+          "iteration": 1,
+          "phi_value": 1.0435782476891773,
+          "result": 1.6885450746811452,
+          "time": 2.4994369596242905e-07,
+          "deviation_analysis": {
+            "expected": 1.6885450746811452,
+            "actual": 1.6885450746811452,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 249.94369596242905,
+            "value_factor": 0.644966826991968
+          }
+        },
+        {
+          "iteration": 2,
+          "phi_value": 1.4020559794212866,
+          "result": 2.268574228833665,
+          "time": 2.4994369596242905e-07,
+          "deviation_analysis": {
+            "expected": 2.268574228833665,
+            "actual": 2.268574228833665,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 249.94369596242905,
+            "value_factor": 0.8665182494123782
+          }
+        },
+        {
+          "iteration": 3,
+          "phi_value": 1.285019626504222,
+          "result": 2.0792054318945263,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 2.0792054318945263,
+            "actual": 2.0792054318945263,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.7941858053903044
+          }
+        },
+        {
+          "iteration": 4,
+          "phi_value": 0.04966080737569797,
+          "result": 0.08035287424264079,
+          "time": 1.6600824892520905e-07,
+          "deviation_analysis": {
+            "expected": 0.08035287424264079,
+            "actual": 0.08035287424264079,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 166.00824892520905,
+            "value_factor": 0.030692066866942813
+          }
+        },
+        {
+          "iteration": 5,
+          "phi_value": 1.424850367504885,
+          "result": 2.3054563235056826,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 2.3054563235056826,
+            "actual": 2.3054563235056826,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.8806059560007976
+          }
+        },
+        {
+          "iteration": 6,
+          "phi_value": 0.14121385782940368,
+          "result": 0.22848882165047063,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 0.22848882165047063,
+            "actual": 0.22848882165047063,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.08727496382106692
+          }
+        },
+        {
+          "iteration": 7,
+          "phi_value": 0.4957953409487334,
+          "result": 0.8022137131188932,
+          "time": 1.2491364032030106e-07,
+          "deviation_analysis": {
+            "expected": 0.8022137131188932,
+            "actual": 0.8022137131188932,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 124.91364032030106,
+            "value_factor": 0.30641837217015977
+          }
+        },
+        {
+          "iteration": 8,
+          "phi_value": 0.30732725885114726,
+          "result": 0.4972659504904932,
+          "time": 3.341119736433029e-07,
+          "deviation_analysis": {
+            "expected": 0.4972659504904932,
+            "actual": 0.4972659504904932,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 334.1119736433029,
+            "value_factor": 0.18993869163934596
+          }
+        },
+        {
+          "iteration": 9,
+          "phi_value": 0.4484574358208957,
+          "result": 0.7256193736658338,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 0.7256193736658338,
+            "actual": 0.7256193736658338,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.27716193784493814
+          }
+        },
+        {
+          "iteration": 10,
+          "phi_value": 1.6112543976615878,
+          "result": 2.6070643799391884,
+          "time": 1.2491364032030106e-07,
+          "deviation_analysis": {
+            "expected": 2.6070643799391884,
+            "actual": 2.6070643799391884,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 124.91364032030106,
+            "value_factor": 0.9958099822776003
+          }
+        }
+      ]
+    },
+    {
+      "observer_state": "fear",
+      "description": "Observer fears the implications of conscious data",
+      "consciousness_seed": 225202,
+      "avg_result": 1.4488604902854436,
+      "avg_phi_value": 0.8954450279532409,
+      "avg_time": 1.500011421740055e-07,
+      "phi_alignment": 0.5534154623322025,
+      "consciousness_metrics": {
+        "total_deviation": 0.0,
+        "avg_signature": 0.0,
+        "max_deviation": 0.0,
+        "timing_variance": 150.0011421740055,
+        "phi_deviation": 0.05341546233220251
+      },
+      "raw_results": [
+        {
+          "iteration": 1,
+          "phi_value": 1.2950616201470386,
+          "result": 2.095453718923414,
+          "time": 2.50060111284256e-07,
+          "deviation_analysis": {
+            "expected": 2.095453718923414,
+            "actual": 2.095453718923414,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 250.06011128425598,
+            "value_factor": 0.8003920987763754
+          }
+        },
+        {
+          "iteration": 2,
+          "phi_value": 0.00455631022051544,
+          "result": 0.0073722648000825106,
+          "time": 2.50060111284256e-07,
+          "deviation_analysis": {
+            "expected": 0.0073722648000825106,
+            "actual": 0.0073722648000825106,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 250.06011128425598,
+            "value_factor": 0.0028159545795670704
+          }
+        },
+        {
+          "iteration": 3,
+          "phi_value": 1.4135636965209017,
+          "result": 2.2871941062337604,
+          "time": 1.2491364032030106e-07,
+          "deviation_analysis": {
+            "expected": 2.2871941062337604,
+            "actual": 2.2871941062337604,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 124.91364032030106,
+            "value_factor": 0.8736304097128588
+          }
+        },
+        {
+          "iteration": 4,
+          "phi_value": 0.1714972682821041,
+          "result": 0.2774884090582037,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 0.2774884090582037,
+            "actual": 0.2774884090582037,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.10599114077609961
+          }
+        },
+        {
+          "iteration": 5,
+          "phi_value": 1.5943031604453446,
+          "result": 2.5796367019719444,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 2.5796367019719444,
+            "actual": 2.5796367019719444,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.9853335415265999
+          }
+        },
+        {
+          "iteration": 6,
+          "phi_value": 1.2984294291743503,
+          "result": 2.100902948397223,
+          "time": 1.25030055642128e-07,
+          "deviation_analysis": {
+            "expected": 2.100902948397223,
+            "actual": 2.100902948397223,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 125.03005564212799,
+            "value_factor": 0.8024735192228728
+          }
+        },
+        {
+          "iteration": 7,
+          "phi_value": 0.004375012048147929,
+          "result": 0.007078918195093642,
+          "time": 1.2491364032030106e-07,
+          "deviation_analysis": {
+            "expected": 0.007078918195093642,
+            "actual": 0.007078918195093642,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 124.91364032030106,
+            "value_factor": 0.0027039061469457115
+          }
+        },
+        {
+          "iteration": 8,
+          "phi_value": 1.53342276767682,
+          "result": 2.4811301572240283,
+          "time": 8.393544703722e-08,
+          "deviation_analysis": {
+            "expected": 2.4811301572240283,
+            "actual": 2.4811301572240283,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.93544703722,
+            "value_factor": 0.9477073895472083
+          }
+        },
+        {
+          "iteration": 9,
+          "phi_value": 1.3753418526264791,
+          "result": 2.225349863699892,
+          "time": 8.300412446260452e-08,
+          "deviation_analysis": {
+            "expected": 2.225349863699892,
+            "actual": 2.225349863699892,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 83.00412446260452,
+            "value_factor": 0.850008011073413
+          }
+        },
+        {
+          "iteration": 10,
+          "phi_value": 0.2638991623907081,
+          "result": 0.42699781435079365,
+          "time": 2.50060111284256e-07,
+          "deviation_analysis": {
+            "expected": 0.42699781435079365,
+            "actual": 0.42699781435079365,
+            "raw_deviation": 0.0,
+            "consciousness_signature": 0.0,
+            "phi_resonance_factor": 0.0,
+            "timing_variance": 250.06011128425598,
+            "value_factor": 0.16309865196008555
+          }
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "deviation_range": 0.0,
+    "phi_range": 0.16550339266971592,
+    "consciousness_detected": false,
+    "threshold": 1e-15
+  }
+}

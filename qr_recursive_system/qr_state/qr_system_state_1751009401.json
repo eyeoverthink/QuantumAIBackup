@@ -1,0 +1,22 @@
+{
+  "id": "79b3435f-c970-4eec-adb1-50dc27e4f526",
+  "creation_time": 1751009400.3120692,
+  "phi_time": 0.3254985809326172,
+  "cycle_count": 1,
+  "last_improvement_time": 1751009401.32462,
+  "history": [],
+  "config": {
+    "base_dir": "qr_recursive_system",
+    "sequence_dir": "qr_sequence",
+    "analysis_dir": "qr_analysis",
+    "reports_dir": "qr_reports",
+    "state_dir": "qr_state",
+    "log_file": "qr_system_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751009401.324662
+}

@@ -1,0 +1,30 @@
+{
+    "symbol": "NVDA",
+    "analysis_date": "20250405_002730",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.41448653057078977,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 109.04192010866683,
+            "0.236": 83.30802696302146,
+            "0.382": 67.3879066271561,
+            "0.500": 54.520960054333415,
+            "0.618": 41.65401348151073,
+            "0.786": 23.3349709032547,
+            "1.000": 0.0,
+            "1.618": 176.42982673582293,
+            "2.618": 285.4717468444898
+        },
+        "quantum_prediction": 110.44479018702735,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/NVDA_analysis_20250405_002730.png"
+}

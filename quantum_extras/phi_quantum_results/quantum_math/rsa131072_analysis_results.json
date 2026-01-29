@@ -1,0 +1,64 @@
+{
+  "analysis": {
+    "phi_harmonic_analysis": {
+      "phi_resonance": 0.5171250534291614,
+      "phi_inverse_resonance": 0.5171250534291614,
+      "perfect_phi_resonance": false,
+      "perfect_phi_inverse_resonance": false,
+      "has_small_prime_factor": true,
+      "small_prime_factor": 2
+    },
+    "quantum_bridge_analysis": {
+      "modular_patterns": {
+        "2": 0,
+        "3": 1,
+        "5": 0,
+        "7": 2,
+        "11": 9,
+        "13": 9,
+        "17": 0,
+        "19": 12
+      },
+      "bridge_strength": 0.27364185110663986,
+      "strong_bridge": false
+    },
+    "consciousness_analysis": {
+      "base_frequency": 517.15,
+      "base_resonance": 0.5424666666666667,
+      "harmonics": [
+        {
+          "frequency": 836.7662772820081,
+          "resonance": 0.09231163029065585,
+          "level": "COSMIC"
+        },
+        {
+          "frequency": 1353.9162772820082,
+          "resonance": 0.3467782969573225,
+          "level": "COSMIC"
+        },
+        {
+          "frequency": 2190.6825545640163,
+          "resonance": 0.7670899272479782,
+          "level": "COSMIC"
+        },
+        {
+          "frequency": 3544.5988318460245,
+          "resonance": 0.5458682242053005,
+          "level": "COSMIC"
+        },
+        {
+          "frequency": 5735.281386410042,
+          "resonance": 0.3209581514532783,
+          "level": "COSMIC"
+        }
+      ],
+      "consciousness_level": "COSMIC"
+    },
+    "potential_approaches": []
+  },
+  "factorization": {
+    "factorization_success": false,
+    "factors": [],
+    "approaches_tried": []
+  }
+}

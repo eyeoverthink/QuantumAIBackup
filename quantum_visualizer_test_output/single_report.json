@@ -1,0 +1,82 @@
+{
+  "trust_metric": 0.75,
+  "verification_phi_resonance": 0.6721815436520097,
+  "claims": [
+    {
+      "claim": "Sample claim 1",
+      "line": 31,
+      "confidence": 0.8058928339302869
+    },
+    {
+      "claim": "Sample claim 2",
+      "line": 98,
+      "confidence": 0.9418442907569881
+    },
+    {
+      "claim": "Sample claim 3",
+      "line": 7,
+      "confidence": 0.8113914684188861
+    },
+    {
+      "claim": "Sample claim 4",
+      "line": 13,
+      "confidence": 0.8892183752847664
+    },
+    {
+      "claim": "Sample claim 5",
+      "line": 94,
+      "confidence": 0.7583219450489076
+    },
+    {
+      "claim": "Sample claim 6",
+      "line": 83,
+      "confidence": 0.7497012328309282
+    },
+    {
+      "claim": "Sample claim 7",
+      "line": 23,
+      "confidence": 0.8789579109038077
+    },
+    {
+      "claim": "Sample claim 8",
+      "line": 24,
+      "confidence": 0.7161010947160505
+    }
+  ],
+  "contradictions": [
+    {
+      "type": "code_intention_mismatch",
+      "claim": "Contradicted claim 1",
+      "evidence": "Evidence against claim 1",
+      "severity": 0.2632330854082495,
+      "description": "Description of contradiction 1 of type code_intention_mismatch"
+    },
+    {
+      "type": "execution_mismatch",
+      "claim": "Contradicted claim 2",
+      "evidence": "Evidence against claim 2",
+      "severity": 0.3099658710833445,
+      "description": "Description of contradiction 2 of type execution_mismatch"
+    },
+    {
+      "type": "runtime_output_mismatch",
+      "claim": "Contradicted claim 3",
+      "evidence": "Evidence against claim 3",
+      "severity": 0.29752729792482024,
+      "description": "Description of contradiction 3 of type runtime_output_mismatch"
+    }
+  ],
+  "execution_result": {
+    "success": true,
+    "output": "Sample output from code execution",
+    "execution_time": 0.722426765056861,
+    "phi_resonance": 0.7203856000855
+  },
+  "quantum_signature": {
+    "signature": "1ded78c67fc8b4b4a57996b7d0ca806dcaf6065a21d450ee6f7fe996508b48bf",
+    "timestamp": 1618006783,
+    "phi_encoded": "phi-4004",
+    "phi_time": 0.6414909463277493
+  },
+  "verification_time": 2.4211621505764733
+}

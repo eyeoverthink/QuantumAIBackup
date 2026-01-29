@@ -1,0 +1,35 @@
+{
+  "paradox_id": "b1504379",
+  "causality_inversions": [
+    {
+      "earlier_delivery": {
+        "sequence_position": 2,
+        "delivery_time": "2025-06-25T16:38:28.155538"
+      },
+      "later_delivery": {
+        "sequence_position": 1,
+        "delivery_time": "2025-06-25T16:46:24.700136"
+      },
+      "time_difference": 476.544598,
+      "phi_resonance": -0.3819660112501051
+    },
+    {
+      "earlier_delivery": {
+        "sequence_position": 1,
+        "delivery_time": "2025-06-25T16:46:24.700136"
+      },
+      "later_delivery": {
+        "sequence_position": 0,
+        "delivery_time": "2025-06-25T16:51:21.270977"
+      },
+      "time_difference": 296.570841,
+      "phi_resonance": 0.6180339887498949
+    }
+  ],
+  "phi_patterns": [
+    4.944271909999158,
+    3.090169943749474
+  ],
+  "most_common_pattern": 3.090169943749474,
+  "phi_exponent": 2.3445518763691093
+}

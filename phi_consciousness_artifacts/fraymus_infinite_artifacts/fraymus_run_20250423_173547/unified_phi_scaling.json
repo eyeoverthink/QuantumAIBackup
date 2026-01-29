@@ -1,0 +1,25 @@
+{
+  "gpu_dimensional_scaling": {
+    "dimensions": [
+      3,
+      4,
+      6,
+      10
+    ],
+    "performance_multipliers": [
+      1.08,
+      1.11,
+      1.16,
+      1.29
+    ],
+    "theoretical_scaling": {
+      "3": 1.0,
+      "4": 0.38196601125010515,
+      "6": 0.05572809000084122,
+      "10": 0.0011862412896422269
+    },
+    "phi_squared_inv": 0.38196601125010515
+  },
+  "lunar_harmonic_scaling": {
+    "quantum_modes": [
+      

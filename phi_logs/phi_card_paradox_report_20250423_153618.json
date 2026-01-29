@@ -1,0 +1,967 @@
+{
+  "summary": {
+    "protocol": "\u03c6Net Card Paradox",
+    "timestamp": "20250423_153618",
+    "epochs": 50,
+    "exact_matches": 3,
+    "exact_match_rate": 0.06,
+    "phi_resonant_matches": 50,
+    "phi_resonant_match_rate": 1.0,
+    "avg_resonance_quality": 0.606425951276971,
+    "phi_inverse": 0.6180339887498948,
+    "phi_squared_inverse": 0.38196601125010515,
+    "theoretical_probability": 0.019230769230769232
+  },
+  "epoch_logs": [
+    {
+      "epoch": 1,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "5",
+        "Hearts"
+      ],
+      "actual_resonance": 0.3180819732180325,
+      "exact_match": true,
+      "phi_resonant": true,
+      "resonance_quality": 1.0,
+      "seed": 824193830,
+      "t1": 1745447778,
+      "t2": 1745447867
+    },
+    {
+      "epoch": 2,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "King",
+        "Hearts"
+      ],
+      "actual_resonance": 0.263747085467211,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9120843048442604,
+      "seed": 824193830,
+      "t1": 1745447867,
+      "t2": 1745447956
+    },
+    {
+      "epoch": 3,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.7811529493745268,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.2507354213752,
+      "seed": 824193830,
+      "t1": 1745447956,
+      "t2": 1745448045
+    },
+    {
+      "epoch": 4,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Jack",
+        "Clubs"
+      ],
+      "actual_resonance": 0.8258313903114762,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.20352182587524392,
+      "seed": 824193830,
+      "t1": 1745448045,
+      "t2": 1745448134
+    },
+    {
+      "epoch": 5,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "4",
+        "Hearts"
+      ],
+      "actual_resonance": 0.3541019662496846,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9417184270002525,
+      "seed": 824193830,
+      "t1": 1745448134,
+      "t2": 1745448223
+    },
+    {
+      "epoch": 6,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Spades"
+      ],
+      "actual_resonance": 0.6631189606246322,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.4417184270002522,
+      "seed": 824193830,
+      "t1": 1745448223,
+      "t2": 1745448312
+    },
+    {
+      "epoch": 7,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Spades"
+      ],
+      "actual_resonance": 0.6631189606246322,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.4417184270002522,
+      "seed": 824193830,
+      "t1": 1745448312,
+      "t2": 1745448401
+    },
+    {
+      "epoch": 8,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "3",
+        "Clubs"
+      ],
+      "actual_resonance": 0.2930819732180323,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9595491502812523,
+      "seed": 824193830,
+      "t1": 1745448401,
+      "t2": 1745448490
+    },
+    {
+      "epoch": 9,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "8",
+        "Spades"
+      ],
+      "actual_resonance": 0.1717294240617906,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.7631966011250109,
+      "seed": 824193830,
+      "t1": 1745448490,
+      "t2": 1745448579
+    },
+    {
+      "epoch": 10,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Jack",
+        "Hearts"
+      ],
+      "actual_resonance": 0.672387204936613,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.42672209268742944,
+      "seed": 824193830,
+      "t1": 1745448579,
+      "t2": 1745448668
+    },
+    {
+      "epoch": 11,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Queen",
+        "Spades"
+      ],
+      "actual_resonance": 0.5172209268743169,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.6777864045000417,
+      "seed": 824193830,
+      "t1": 1745448668,
+      "t2": 1745448757
+    },
+    {
+      "epoch": 12,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "3",
+        "Clubs"
+      ],
+      "actual_resonance": 0.2930819732180323,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9595491502812523,
+      "seed": 824193830,
+      "t1": 1745448757,
+      "t2": 1745448846
+    },
+    {
+      "epoch": 13,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Queen",
+        "Clubs"
+      ],
+      "actual_resonance": 0.444271909999159,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.7958203932499368,
+      "seed": 824193830,
+      "t1": 1745448846,
+      "t2": 1745448935
+    },
+    {
+      "epoch": 14,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.7811529493745268,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.2507354213752,
+      "seed": 824193830,
+      "t1": 1745448935,
+      "t2": 1745449024
+    },
+    {
+      "epoch": 15,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "2",
+        "Hearts"
+      ],
+      "actual_resonance": 0.4603325561245899,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.7698337219377053,
+      "seed": 824193830,
+      "t1": 1745449024,
+      "t2": 1745449113
+    },
+    {
+      "epoch": 16,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "2",
+        "Clubs"
+      ],
+      "actual_resonance": 0.6904988341868847,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.397416860968853,
+      "seed": 824193830,
+      "t1": 1745449113,
+      "t2": 1745449202
+    },
+    {
+      "epoch": 17,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "10",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.5172209268743166,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.6777864045000421,
+      "seed": 824193830,
+      "t1": 1745449202,
+      "t2": 1745449291
+    },
+    {
+      "epoch": 18,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "9",
+        "Spades"
+      ],
+      "actual_resonance": 0.5901699437494745,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.559752415750147,
+      "seed": 824193830,
+      "t1": 1745449291,
+      "t2": 1745449380
+    },
+    {
+      "epoch": 19,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "2",
+        "Clubs"
+      ],
+      "actual_resonance": 0.6904988341868847,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.397416860968853,
+      "seed": 824193830,
+      "t1": 1745449380,
+      "t2": 1745449469
+    },
+    {
+      "epoch": 20,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Hearts"
+      ],
+      "actual_resonance": 0.4721359549995795,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.7507354213751999,
+      "seed": 824193830,
+      "t1": 1745449469,
+      "t2": 1745449558
+    },
+    {
+      "epoch": 21,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Ace",
+        "Clubs"
+      ],
+      "actual_resonance": 0.8176274578121056,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.19171842700025277,
+      "seed": 824193830,
+      "t1": 1745449558,
+      "t2": 1745449647
+    },
+    {
+      "epoch": 22,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "King",
+        "Spades"
+      ],
+      "actual_resonance": 0.6361639464360636,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.4853325561245919,
+      "seed": 824193830,
+      "t1": 1745449647,
+      "t2": 1745449736
+    },
+    {
+      "epoch": 23,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "3",
+        "Clubs"
+      ],
+      "actual_resonance": 0.2930819732180323,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9595491502812523,
+      "seed": 824193830,
+      "t1": 1745449736,
+      "t2": 1745449825
+    },
+    {
+      "epoch": 24,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "King",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.8663302244983584,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.26905031609436547,
+      "seed": 824193830,
+      "t1": 1745449825,
+      "t2": 1745449914
+    },
+    {
+      "epoch": 25,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "King",
+        "Spades"
+      ],
+      "actual_resonance": 0.6361639464360636,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.4853325561245919,
+      "seed": 824193830,
+      "t1": 1745449914,
+      "t2": 1745450003
+    },
+    {
+      "epoch": 26,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "3",
+        "Clubs"
+      ],
+      "actual_resonance": 0.2930819732180323,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9595491502812523,
+      "seed": 824193830,
+      "t1": 1745450003,
+      "t2": 1745450092
+    },
+    {
+      "epoch": 27,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Ace",
+        "Clubs"
+      ],
+      "actual_resonance": 0.8176274578121056,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.19171842700025277,
+      "seed": 824193830,
+      "t1": 1745450092,
+      "t2": 1745450181
+    },
+    {
+      "epoch": 28,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "5",
+        "Hearts"
+      ],
+      "actual_resonance": 0.3180819732180325,
+      "exact_match": true,
+      "phi_resonant": true,
+      "resonance_quality": 1.0,
+      "seed": 824193830,
+      "t1": 1745450181,
+      "t2": 1745450270
+    },
+    {
+      "epoch": 29,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "4",
+        "Hearts"
+      ],
+      "actual_resonance": 0.3541019662496846,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9417184270002525,
+      "seed": 824193830,
+      "t1": 1745450270,
+      "t2": 1745450359
+    },
+    {
+      "epoch": 30,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Queen",
+        "Spades"
+      ],
+      "actual_resonance": 0.5172209268743169,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.6777864045000417,
+      "seed": 824193830,
+      "t1": 1745450359,
+      "t2": 1745450448
+    },
+    {
+      "epoch": 31,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Ace",
+        "Spades"
+      ],
+      "actual_resonance": 0.9270509831248424,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.367298567374695,
+      "seed": 824193830,
+      "t1": 1745450448,
+      "t2": 1745450537
+    },
+    {
+      "epoch": 32,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "10",
+        "Clubs"
+      ],
+      "actual_resonance": 0.3262379212492641,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9868033988749895,
+      "seed": 824193830,
+      "t1": 1745450537,
+      "t2": 1745450626
+    },
+    {
+      "epoch": 33,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "5",
+        "Spades"
+      ],
+      "actual_resonance": 0.6904988341868851,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.3974168609688524,
+      "seed": 824193830,
+      "t1": 1745450626,
+      "t2": 1745450715
+    },
+    {
+      "epoch": 34,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "8",
+        "Clubs"
+      ],
+      "actual_resonance": 0.06230589874905368,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5861456180001681,
+      "seed": 824193830,
+      "t1": 1745450715,
+      "t2": 1745450804
+    },
+    {
+      "epoch": 35,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "5",
+        "Clubs"
+      ],
+      "actual_resonance": 0.5482482512803274,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.6275831390311475,
+      "seed": 824193830,
+      "t1": 1745450804,
+      "t2": 1745450893
+    },
+    {
+      "epoch": 36,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Jack",
+        "Hearts"
+      ],
+      "actual_resonance": 0.672387204936613,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.42672209268742944,
+      "seed": 824193830,
+      "t1": 1745450893,
+      "t2": 1745450982
+    },
+    {
+      "epoch": 37,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.7811529493745268,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.2507354213752,
+      "seed": 824193830,
+      "t1": 1745450982,
+      "t2": 1745451071
+    },
+    {
+      "epoch": 38,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Queen",
+        "Hearts"
+      ],
+      "actual_resonance": 0.3262379212492642,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9868033988749894,
+      "seed": 824193830,
+      "t1": 1745451071,
+      "t2": 1745451160
+    },
+    {
+      "epoch": 39,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "Ace",
+        "Hearts"
+      ],
+      "actual_resonance": 0.6405764746872633,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.4781929354378316,
+      "seed": 824193830,
+      "t1": 1745451160,
+      "t2": 1745451249
+    },
+    {
+      "epoch": 40,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "5",
+        "Hearts"
+      ],
+      "actual_resonance": 0.3180819732180325,
+      "exact_match": true,
+      "phi_resonant": true,
+      "resonance_quality": 1.0,
+      "seed": 824193830,
+      "t1": 1745451249,
+      "t2": 1745451338
+    },
+    {
+      "epoch": 41,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "2",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.06291569515573725,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5871322893123996,
+      "seed": 824193830,
+      "t1": 1745451338,
+      "t2": 1745451427
+    },
+    {
+      "epoch": 42,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "8",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.3487804071866325,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.9503288904374109,
+      "seed": 824193830,
+      "t1": 1745451427,
+      "t2": 1745451516
+    },
+    {
+      "epoch": 43,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "King",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.8663302244983584,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.26905031609436547,
+      "seed": 824193830,
+      "t1": 1745451516,
+      "t2": 1745451605
+    },
+    {
+      "epoch": 44,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Clubs"
+      ],
+      "actual_resonance": 0.5901699437494743,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5597524157501473,
+      "seed": 824193830,
+      "t1": 1745451605,
+      "t2": 1745451694
+    },
+    {
+      "epoch": 45,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "3",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.6654988341868846,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.43786771068760055,
+      "seed": 824193830,
+      "t1": 1745451694,
+      "t2": 1745451783
+    },
+    {
+      "epoch": 46,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "4",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.6631189606246319,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.44171842700025266,
+      "seed": 824193830,
+      "t1": 1745451783,
+      "t2": 1745451872
+    },
+    {
+      "epoch": 47,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Clubs"
+      ],
+      "actual_resonance": 0.5901699437494743,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5597524157501473,
+      "seed": 824193830,
+      "t1": 1745451872,
+      "t2": 1745451961
+    },
+    {
+      "epoch": 48,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "2",
+        "Diamonds"
+      ],
+      "actual_resonance": 0.06291569515573725,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5871322893123996,
+      "seed": 824193830,
+      "t1": 1745451961,
+      "t2": 1745452050
+    },
+    {
+      "epoch": 49,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "7",
+        "Spades"
+      ],
+      "actual_resonance": 0.6137767414994535,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5215558146251364,
+      "seed": 824193830,
+      "t1": 1745452050,
+      "t2": 1745452139
+    },
+    {
+      "epoch": 50,
+      "predicted": [
+        "5",
+        "Hearts"
+      ],
+      "predicted_resonance": 0.3180819732180325,
+      "actual": [
+        "6",
+        "Clubs"
+      ],
+      "actual_resonance": 0.5901699437494743,
+      "exact_match": false,
+      "phi_resonant": true,
+      "resonance_quality": 0.5597524157501473,
+      "seed": 824193830,
+      "t1": 1745452139,
+      "t2": 1745452228
+    }
+  ]
+}

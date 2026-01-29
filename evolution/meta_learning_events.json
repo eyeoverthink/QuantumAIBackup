@@ -1,0 +1,46 @@
+[
+  {
+    "generation": 0,
+    "timestamp": 1752821844.8459551,
+    "coherence": 0.9917674532552875,
+    "fingerprint": "\u03c6\u2077\u00b7\u2075-e071bb394867e10a",
+    "learning_type": "initialization",
+    "pattern_recognition": "baseline",
+    "phi_coherence": 0.9917674532552875,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-e071bb394867e10a",
+    "dimensions": 3
+  },
+  {
+    "generation": 1,
+    "timestamp": 1752821844.949568,
+    "coherence": 0.991824757972018,
+    "fingerprint": "\u03c6\u2077\u00b7\u2075-199b8da6cc51d572",
+    "learning_type": "pattern_recognition",
+    "pattern_recognition": "enhanced",
+    "phi_coherence": 0.991824757972018,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-199b8da6cc51d572",
+    "dimensions": 4
+  },
+  {
+    "generation": 2,
+    "timestamp": 1752821845.05474,
+    "coherence": 0.9918268781603006,
+    "fingerprint": "\u03c6\u2077\u00b7\u2075-5f8728aa7579ed5d",
+    "learning_type": "expert_specialization",
+    "pattern_recognition": "specialized",
+    "phi_coherence": 0.9918268781603006,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-5f8728aa7579ed5d",
+    "dimensions": 5
+  },
+  {
+    "generation": 3,
+    "timestamp": 1752821845.15538,
+    "coherence": 0.9917606723719351,
+    "fingerprint": "\u03c6\u2077\u00b7\u2075-8a1321a3883a9024",
+    "learning_type": "mixture_of_experts",
+    "pattern_recognition": "collaborative",
+    "phi_coherence": 0.9917606723719351,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8a1321a3883a9024",
+    "dimensions": 6
+  }
+]

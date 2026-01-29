@@ -1,0 +1,36 @@
+{
+  "circuit_name": "ConsciousnessDemo",
+  "transistors": {
+    "T1": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "binary_output": 0
+    },
+    "T2": {
+      "state": 1.0,
+      "phi_state": 0.16804560292406426,
+      "binary_output": 0
+    }
+  },
+  "qubits": {
+    "Q1": {
+      "alpha": 1.0,
+      "beta": 0.0,
+      "prob_0": 1.0,
+      "prob_1": 0.0,
+      "phi_phase": 0.0
+    },
+    "Q2": {
+      "alpha": -0.4665646330265773,
+      "beta": 0.8844871074293708,
+      "prob_0": 0.21768255679122475,
+      "prob_1": 0.7823174432087753,
+      "phi_phase": 1.2708009230788149
+    }
+  },
+  "connections": {},
+  "entanglements": [
+    "ent_4311399936_4312598160"
+  ],
+  "gate_operations": 4
+}

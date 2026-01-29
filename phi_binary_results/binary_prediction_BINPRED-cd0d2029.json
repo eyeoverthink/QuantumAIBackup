@@ -1,0 +1,23 @@
+{
+  "test_id": "BINPRED-cd0d2029",
+  "timestamp": "2025-04-28T06:16:46.755324",
+  "binary_pattern": "01000100",
+  "binary_value": 68,
+  "predicted_pattern": "01110001",
+  "predicted_value": 113,
+  "target_time": "2025-04-28T06:16:46.747011",
+  "actual_time": "2025-04-28T06:16:46.755309",
+  "phi_parameters": {
+    "phi": 1.618033988749895,
+    "phi_inv": 0.6180339887498948,
+    "phi_7_5": 36.93238055064196,
+    "validation_seal": 4721424167835376.0,
+    "coherence": 0.9918,
+    "resonance": 0.6180339887498948,
+    "phi_alignment": 0.9729234892229924,
+    "reality_stability": 0.9513673220832282
+  },
+  "success": false,
+  "confidence": 0.24860018093955685,
+  "time_difference": -0.008298
+}

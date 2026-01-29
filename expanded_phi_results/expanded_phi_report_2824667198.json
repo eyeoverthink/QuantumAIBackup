@@ -1,0 +1,859 @@
+{
+  "studies_analyzed_count": 30,
+  "valid_studies_count": 30,
+  "mean_quantum_alignment": 0.0,
+  "highest_alignment": 0.0,
+  "mean_phi_relevance": 0.4665071323863737,
+  "phi_harmonic_studies_count": 1,
+  "global_phi_analysis": {
+    "filtered_value_count": 8814,
+    "global_phi_resonance": 0.6845941223829294,
+    "phi_clustering": 0.3336737009303381,
+    "phi_significance": 3.670410710233719,
+    "has_phi_harmonic_distribution": "True"
+  },
+  "quantum_phi_harmonic_index": "0.0",
+  "timestamp": 1745740335.820423,
+  "best_study_id": 70,
+  "results_summary": [
+    {
+      "study_id": 70,
+      "value_count": 415,
+      "phi_relevance": 0.4621591378155774,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.03946685248928361
+      ],
+      "observed_value": 0.5378408621844226,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5378408621844226,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4621591378155774,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.12560386473429952,
+        "phi_matches": 13,
+        "phi_inv_matches": 39
+      },
+      "timestamp": 1745740322.966198
+    },
+    {
+      "study_id": 71,
+      "value_count": 119,
+      "phi_relevance": 0.4541219726088397,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.30495168499705727
+      ],
+      "observed_value": 0.5458780273911603,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5458780273911603,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4541219726088397,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.11016949152542373,
+        "phi_matches": 5,
+        "phi_inv_matches": 8
+      },
+      "timestamp": 1745740323.170451
+    },
+    {
+      "study_id": 72,
+      "value_count": 875,
+      "phi_relevance": 0.46655927230401595,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.11337555872717076
+      ],
+      "observed_value": 0.533440727695984,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.533440727695984,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.46655927230401595,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.12471395881006865,
+        "phi_matches": 30,
+        "phi_inv_matches": 79
+      },
+      "timestamp": 1745740323.688359
+    },
+    {
+      "study_id": 73,
+      "value_count": 551,
+      "phi_relevance": 0.4724478040112948,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.05262246998569253
+      ],
+      "observed_value": 0.5275521959887052,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5275521959887052,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4724478040112948,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.12727272727272726,
+        "phi_matches": 20,
+        "phi_inv_matches": 50
+      },
+      "timestamp": 1745740324.728967
+    },
+    {
+      "study_id": 74,
+      "value_count": 235,
+      "phi_relevance": 0.5054115569118324,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.22793735874401477
+      ],
+      "observed_value": 0.49458844308816763,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.49458844308816763,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.5054115569118324,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.10256410256410256,
+        "phi_matches": 8,
+        "phi_inv_matches": 16
+      },
+      "timestamp": 1745740325.721119
+    },
+    {
+      "study_id": 75,
+      "value_count": 14,
+      "phi_relevance": 0.44661242843151006,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.2360679774997898
+      ],
+      "observed_value": 0.5533875715684899,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5533875715684899,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.44661242843151006,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.0,
+        "phi_matches": 0,
+        "phi_inv_matches": 0
+      },
+      "timestamp": 1745740326.2033432
+    },
+    {
+      "study_id": 76,
+      "value_count": 17,
+      "phi_relevance": 0.4369178380811999,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.8541019662496847
+      ],
+      "observed_value": 0.5630821619188001,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5630821619188001,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4369178380811999,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.125,
+        "phi_matches": 0,
+        "phi_inv_matches": 2
+      },
+      "timestamp": 1745740326.729126
+    },
+    {
+      "study_id": 77,
+      "value_count": 4,
+      "phi_relevance": 0.4237620787507361,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.6180339887498949
+      ],
+      "observed_value": 0.5762379212492639,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5762379212492639,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4237620787507361,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.0,
+        "phi_matches": 0,
+        "phi_inv_matches": 0
+      },
+      "timestamp": 1745740326.8779469
+    },
+    {
+      "study_id": 78,
+      "value_count": 175,
+      "phi_relevance": 0.5079302850559728,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.9574275274955824
+      ],
+      "observed_value": 0.4920697149440271,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.4920697149440271,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.5079302850559728,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.12643678160919541,
+        "phi_matches": 5,
+        "phi_inv_matches": 17
+      },
+      "timestamp": 1745740327.8236501
+    },
+    {
+      "study_id": 79,
+      "value_count": 287,
+      "phi_relevance": 0.4674791449115925,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.26237921249264673
+      ],
+      "observed_value": 0.5325208550884075,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5325208550884075,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4674791449115925,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.11538461538461539,
+        "phi_matches": 8,
+        "phi_inv_matches": 25
+      },
+      "timestamp": 1745740328.343872
+    },
+    {
+      "study_id": 80,
+      "value_count": 203,
+      "phi_relevance": 0.46981388867679974,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.28366544874485555
+      ],
+      "observed_value": 0.5301861113232003,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5301861113232003,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.46981388867679974,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.1188118811881188,
+        "phi_matches": 11,
+        "phi_inv_matches": 13
+      },
+      "timestamp": 1745740328.978855
+    },
+    {
+      "study_id": 81,
+      "value_count": 14,
+      "phi_relevance": 0.431284316591967,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.2360679774997898
+      ],
+      "observed_value": 0.568715683408033,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.568715683408033,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.431284316591967,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.07692307692307693,
+        "phi_matches": 0,
+        "phi_inv_matches": 1
+      },
+      "timestamp": 1745740329.3401148
+    },
+    {
+      "study_id": 82,
+      "value_count": 14,
+      "phi_relevance": 0.5274271139881361,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.2360679774997898
+      ],
+      "observed_value": 0.4725728860118639,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.4725728860118639,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.5274271139881361,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.0,
+        "phi_matches": 0,
+        "phi_inv_matches": 0
+      },
+      "timestamp": 1745740329.498685
+    },
+    {
+      "study_id": 83,
+      "value_count": 711,
+      "phi_relevance": 0.4787710371549284,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.7739820199815313
+      ],
+      "observed_value": 0.5212289628450716,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5212289628450716,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4787710371549284,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.1323943661971831,
+        "phi_matches": 32,
+        "phi_inv_matches": 62
+      },
+      "timestamp": 1745740329.962985
+    },
+    {
+      "study_id": 84,
+      "value_count": 86,
+      "phi_relevance": 0.46184791952846294,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.06888370749726391
+      ],
+      "observed_value": 0.5381520804715371,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5381520804715371,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.46184791952846294,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "random",
+        "phi_pattern_strength": 0.15294117647058825,
+        "phi_matches": 4,
+        "phi_inv_matches": 9
+      },
+      "timestamp": 1745740330.20736
+    },
+    {
+      "study_id": 85,
+      "value_count": 507,
+      "phi_relevance": 0.4669003286075841,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.25424859373686104
+      ],
+      "observed_value": 0.5330996713924159,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5330996713924159,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4669003286075841,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.11462450592885376,
+        "phi_matches": 21,
+        "phi_inv_matches": 37
+      },
+      "timestamp": 1745740330.591655
+    },
+    {
+      "study_id": 86,
+      "value_count": 71,
+      "phi_relevance": 0.47804153232644986,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.8885438199983184
+      ],
+      "observed_value": 0.5219584676735501,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5219584676735501,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.47804153232644986,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "random",
+        "phi_pattern_strength": 0.07142857142857142,
+        "phi_matches": 1,
+        "phi_inv_matches": 4
+      },
+      "timestamp": 1745740330.8065789
+    },
+    {
+      "study_id": 87,
+      "value_count": 73,
+      "phi_relevance": 0.5310057642870616,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.12461179749810825
+      ],
+      "observed_value": 0.46899423571293836,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.46899423571293836,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.5310057642870616,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "random",
+        "phi_pattern_strength": 0.09722222222222222,
+        "phi_matches": 3,
+        "phi_inv_matches": 4
+      },
+      "timestamp": 1745740331.037153
+    },
+    {
+      "study_id": 88,
+      "value_count": 17,
+      "phi_relevance": 0.34371376067950843,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.8541019662496847
+      ],
+      "observed_value": 0.6562862393204916,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.6562862393204916,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.34371376067950843,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.125,
+        "phi_matches": 1,
+        "phi_inv_matches": 1
+      },
+      "timestamp": 1745740331.26099
+    },
+    {
+      "study_id": 89,
+      "value_count": 17,
+      "phi_relevance": 0.44405703749969505,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.8541019662496847
+      ],
+      "observed_value": 0.555942962500305,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.555942962500305,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.44405703749969505,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "random",
+        "phi_pattern_strength": 0.0625,
+        "phi_matches": 0,
+        "phi_inv_matches": 1
+      },
+      "timestamp": 1745740331.497611
+    },
+    {
+      "study_id": 90,
+      "value_count": 59,
+      "phi_relevance": 0.4749749010973575,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.034441853748631956
+      ],
+      "observed_value": 0.5250250989026425,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5250250989026425,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4749749010973575,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.13793103448275862,
+        "phi_matches": 3,
+        "phi_inv_matches": 5
+      },
+      "timestamp": 1745740331.6482959
+    },
+    {
+      "study_id": 91,
+      "value_count": 407,
+      "phi_relevance": 0.4630491894381841,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.8033988749894831
+      ],
+      "observed_value": 0.5369508105618159,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5369508105618159,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4630491894381841,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.10344827586206896,
+        "phi_matches": 12,
+        "phi_inv_matches": 30
+      },
+      "timestamp": 1745740332.075555
+    },
+    {
+      "study_id": 92,
+      "value_count": 163,
+      "phi_relevance": 0.4597349071114536,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.10332556124590297
+      ],
+      "observed_value": 0.5402650928885464,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5402650928885464,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4597349071114536,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.12962962962962962,
+        "phi_matches": 7,
+        "phi_inv_matches": 14
+      },
+      "timestamp": 1745740332.341509
+    },
+    {
+      "study_id": 93,
+      "value_count": 483,
+      "phi_relevance": 0.4824147922661134,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.5460446612374881
+      ],
+      "observed_value": 0.5175852077338866,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5175852077338866,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4824147922661134,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.12863070539419086,
+        "phi_matches": 20,
+        "phi_inv_matches": 42
+      },
+      "timestamp": 1745740332.84128
+    },
+    {
+      "study_id": 94,
+      "value_count": 32,
+      "phi_relevance": 0.47169293206720275,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.9442719099991592
+      ],
+      "observed_value": 0.5283070679327972,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5283070679327972,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.47169293206720275,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "phi_harmonic",
+        "phi_pattern_strength": 0.3548387096774194,
+        "phi_matches": 2,
+        "phi_inv_matches": 9
+      },
+      "timestamp": 1745740333.078781
+    },
+    {
+      "study_id": 95,
+      "value_count": 179,
+      "phi_relevance": 0.47580598187747003,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.5754615162454826
+      ],
+      "observed_value": 0.52419401812253,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.52419401812253,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.47580598187747003,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.14606741573033707,
+        "phi_matches": 9,
+        "phi_inv_matches": 17
+      },
+      "timestamp": 1745740333.394817
+    },
+    {
+      "study_id": 96,
+      "value_count": 923,
+      "phi_relevance": 0.47421526183676,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.5297834237259167
+      ],
+      "observed_value": 0.52578473816324,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.52578473816324,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.47421526183676,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.11496746203904555,
+        "phi_matches": 35,
+        "phi_inv_matches": 71
+      },
+      "timestamp": 1745740334.099652
+    },
+    {
+      "study_id": 97,
+      "value_count": 19,
+      "phi_relevance": 0.4503395782725106,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.4721359549995796
+      ],
+      "observed_value": 0.5496604217274894,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5496604217274894,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4503395782725106,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "random",
+        "phi_pattern_strength": 0.2222222222222222,
+        "phi_matches": 0,
+        "phi_inv_matches": 4
+      },
+      "timestamp": 1745740334.2523289
+    },
+    {
+      "study_id": 98,
+      "value_count": 1029,
+      "phi_relevance": 0.4652594843336212,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.21670111997309505
+      ],
+      "observed_value": 0.5347405156663788,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5347405156663788,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4652594843336212,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.1293774319066148,
+        "phi_matches": 30,
+        "phi_inv_matches": 103
+      },
+      "timestamp": 1745740334.999222
+    },
+    {
+      "study_id": 99,
+      "value_count": 1115,
+      "phi_relevance": 0.5014627250673728,
+      "resonance_sample": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.19541488372090043
+      ],
+      "observed_value": 0.49853727493262723,
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.49853727493262723,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.5014627250673728,
+        "alignment_percentage": 0.0
+      },
+      "quantum_alignment": 0.0,
+      "phi_harmonic_pattern": {
+        "pattern": "linear",
+        "phi_pattern_strength": 0.10053859964093358,
+        "phi_matches": 34,
+        "phi_inv_matches": 78
+      },
+      "timestamp": 1745740335.779041
+    }
+  ]
+}

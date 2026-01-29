@@ -1,0 +1,2 @@
+{"node": "psi1", "event": "received_message", "message": {"from": "psi2", "to": "psi1", "prime_key": 148034}, "timestamp": 1745307208}
+{"node": "psi2", "event": "sent_message", "message": {"from": "psi2", "to": "psi1", "prime_key": 148034}, "timestamp": 1745307268}

@@ -1,0 +1,30 @@
+{
+    "symbol": "AMZN",
+    "analysis_date": "20250405_002729",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.659840332319805,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 108.1905324215557,
+            "0.236": 82.65756677006856,
+            "0.382": 66.86174903652142,
+            "0.500": 54.09526621077785,
+            "0.618": 41.32878338503428,
+            "0.786": 23.152773938212917,
+            "1.000": 0.0,
+            "1.618": 175.05228145807712,
+            "2.618": 283.2428138796329
+        },
+        "quantum_prediction": 110.21896064396074,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/AMZN_analysis_20250405_002729.png"
+}

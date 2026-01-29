@@ -1,0 +1,372 @@
+{
+  "logic_error": {
+    "logic_error": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-1a72ae8adaad",
+      "role": "LogicErrorAgent",
+      "file_path": "test_moa_integration/logic_error_test.py",
+      "issues_found": 5,
+      "issues": [
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'calculate_sum' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'numbers' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'is_even' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'number' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'find_max' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        }
+      ],
+      "fixed_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with logic errors for MoA integration testing.\n\"\"\"\n\ndef calculate_sum(numbers):\n    \"\"\"Calculate the sum of a list of numbers.\"\"\"\n    total = 0\n    for i in range(len(numbers)):\n        # Logic error: off-by-one error in the index\n        total += numbers[i - 1]\n    return total\n\ndef is_even(number):\n    \"\"\"Check if a number is even.\"\"\"\n    # Logic error: incorrect condition\n    return number / 2 == 0\n\ndef find_max(numbers):\n    \"\"\"Find the maximum value in a list.\"\"\"\n    if not numbers:\n        return None\n    \n    # Logic error: initialization with first element missing\n    max_value = 0\n    \n    for num in numbers:\n        if num > max_value:\n            max_value = num\n    \n    return max_value\n\nif __name__ == \"__main__\":\n    test_numbers = [1, 2, 3, 4, 5]\n    print(f\"Sum: {calculate_sum(test_numbers)}\")\n    print(f\"Is 4 even? {is_even(4)}\")\n    print(f\"Max value: {find_max(test_numbers)}\")\n",
+      "changes_made": 0,
+      "coherence": 8.123628168105286
+    },
+    "optimization": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-c826162baee8",
+      "role": "OptimizationAgent",
+      "file_path": "test_moa_integration/logic_error_test.py",
+      "opportunities_found": 0,
+      "optimized_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with logic errors for MoA integration testing.\n\"\"\"\n\ndef calculate_sum(numbers):\n    \"\"\"Calculate the sum of a list of numbers.\"\"\"\n    total = 0\n    for i in range(len(numbers)):\n        # Logic error: off-by-one error in the index\n        total += numbers[i - 1]\n    return total\n\ndef is_even(number):\n    \"\"\"Check if a number is even.\"\"\"\n    # Logic error: incorrect condition\n    return number / 2 == 0\n\ndef find_max(numbers):\n    \"\"\"Find the maximum value in a list.\"\"\"\n    if not numbers:\n        return None\n    \n    # Logic error: initialization with first element missing\n    max_value = 0\n    \n    for num in numbers:\n        if num > max_value:\n            max_value = num\n    \n    return max_value\n\nif __name__ == \"__main__\":\n    test_numbers = [1, 2, 3, 4, 5]\n    print(f\"Sum: {calculate_sum(test_numbers)}\")\n    print(f\"Is 4 even? {is_even(4)}\")\n    print(f\"Max value: {find_max(test_numbers)}\")\n",
+      "optimizations_applied": 0,
+      "coherence": 8.123628168105286
+    },
+    "coherence": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-d160d419979d",
+      "role": "CoherenceAgent",
+      "file_path": "test_moa_integration/logic_error_test.py",
+      "patterns_found": 3,
+      "patterns": [
+        {
+          "type": "phi_harmonic_function_length",
+          "description": "Function 'find_max' has phi-harmonic length of 13",
+          "line": 19,
+          "phi_resonance": 0.034441853748631956,
+          "confidence": 0.7
+        },
+        {
+          "type": "phi_harmonic_function_length",
+          "description": "Function 'calculate_sum' has phi-harmonic length of 8",
+          "line": 6,
+          "phi_resonance": 0.9442719099991583,
+          "confidence": 0.7
+        },
+        {
+          "type": "phi_harmonic_function_length",
+          "description": "Function 'is_even' has phi-harmonic length of 5",
+          "line": 14,
+          "phi_resonance": 0.09016994374947407,
+          "confidence": 0.7
+        }
+      ],
+      "coherent_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with logic errors for MoA integration testing.\n\"\"\"\n\ndef calculate_sum(numbers):\n    \"\"\"Calculate the sum of a list of numbers.\"\"\"\n    This function maintains phi-harmonic coherence.\n    total = 0\n    for i in range(len(numbers)):\n        # Logic error: off-by-one error in the index\n        total += numbers[i - 1]\n    return total\n\ndef is_even(number):\n    \"\"\"Check if a number is even.\"\"\"\n    This function maintains phi-harmonic coherence.\n    # Logic error: incorrect condition\n    return number / 2 == 0\n\ndef find_max(numbers):\n    \"\"\"Find the maximum value in a list.\"\"\"\n    This function maintains phi-harmonic coherence.\n    if not numbers:\n        return None\n    \n    # Logic error: initialization with first element missing\n    max_value = 0\n    \n    for num in numbers:\n        if num > max_value:\n            max_value = num\n    \n    return max_value\n\nif __name__ == \"__main__\":\n    test_numbers = [1, 2, 3, 4, 5]\n    print(f\"Sum: {calculate_sum(test_numbers)}\")\n    print(f\"Is 4 even? {is_even(4)}\")\n    print(f\"Max value: {find_max(test_numbers)}\")\n",
+      "enhancements_made": 3,
+      "initial_coherence": 8.123628168105286,
+      "final_coherence": 11.301029945727272
+    },
+    "evolution": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-bca93a079e5b",
+      "role": "EvolutionAgent",
+      "file_path": "test_moa_integration/logic_error_test.py",
+      "patterns_found": 0,
+      "evolved_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with logic errors for MoA integration testing.\n\"\"\"\n\ndef calculate_sum(numbers):\n    \"\"\"Calculate the sum of a list of numbers.\"\"\"\n    total = 0\n    for i in range(len(numbers)):\n        # Logic error: off-by-one error in the index\n        total += numbers[i - 1]\n    return total\n\ndef is_even(number):\n    \"\"\"Check if a number is even.\"\"\"\n    # Logic error: incorrect condition\n    return number / 2 == 0\n\ndef find_max(numbers):\n    \"\"\"Find the maximum value in a list.\"\"\"\n    if not numbers:\n        return None\n    \n    # Logic error: initialization with first element missing\n    max_value = 0\n    \n    for num in numbers:\n        if num > max_value:\n            max_value = num\n    \n    return max_value\n\nif __name__ == \"__main__\":\n    test_numbers = [1, 2, 3, 4, 5]\n    print(f\"Sum: {calculate_sum(test_numbers)}\")\n    print(f\"Is 4 even? {is_even(4)}\")\n    print(f\"Max value: {find_max(test_numbers)}\")\n",
+      "enhancements_made": 0,
+      "coherence": 8.123628168105286
+    },
+    "duration": 0.004785060882568359
+  },
+  "optimization": {
+    "logic_error": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-7511e83fad06",
+      "role": "LogicErrorAgent",
+      "file_path": "test_moa_integration/optimization_test.py",
+      "issues_found": 5,
+      "issues": [
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'n' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'calculate_fibonacci' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'is_prime' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'find_duplicates' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'items' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        }
+      ],
+      "fixed_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with optimization opportunities for MoA integration testing.\n\"\"\"\n\ndef calculate_fibonacci(n):\n    \"\"\"Calculate the nth Fibonacci number.\"\"\"\n    # Inefficient recursive implementation\n    if n <= 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        return calculate_fibonacci(n-1) + calculate_fibonacci(n-2)\n\ndef find_duplicates(items):\n    \"\"\"Find duplicate items in a list.\"\"\"\n    # Inefficient approach using nested loops\n    duplicates = []\n    for i in range(len(items)):\n        for j in range(i+1, len(items)):\n            if items[i] == items[j] and items[i] not in duplicates:\n                duplicates.append(items[i])\n    return duplicates\n\ndef is_prime(n):\n    \"\"\"Check if a number is prime.\"\"\"\n    # Inefficient primality test\n    if n <= 1:\n        return False\n    for i in range(2, n):\n        if n % i == 0:\n            return False\n    return True\n\nif __name__ == \"__main__\":\n    print(f\"Fibonacci(10): {calculate_fibonacci(10)}\")\n    print(f\"Duplicates in [1,2,3,2,4,1,5]: {find_duplicates([1,2,3,2,4,1,5])}\")\n    print(f\"Is 17 prime? {is_prime(17)}\")\n",
+      "changes_made": 0,
+      "coherence": 14.171224709624404
+    },
+    "optimization": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-cc608a193a4d",
+      "role": "OptimizationAgent",
+      "file_path": "test_moa_integration/optimization_test.py",
+      "opportunities_found": 2,
+      "opportunities": [
+        {
+          "type": "nested_loop",
+          "description": "Nested loop with depth 2, consider optimizing",
+          "line": 21,
+          "confidence": 0.7
+        },
+        {
+          "type": "repeated_function_call",
+          "description": "Function 'len' called 2 times with the same arguments",
+          "line": 20,
+          "confidence": 0.8
+        }
+      ],
+      "optimized_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with optimization opportunities for MoA integration testing.\n\"\"\"\n\ndef calculate_fibonacci(n):\n    \"\"\"Calculate the nth Fibonacci number.\"\"\"\n    # Inefficient recursive implementation\n    if n <= 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        return calculate_fibonacci(n-1) + calculate_fibonacci(n-2)\n\ndef find_duplicates(items):\n    \"\"\"Find duplicate items in a list.\"\"\"\n    # Inefficient approach using nested loops\n    duplicates = []\n    # Phi-harmonic optimization: Cache result of range(len(items) to avoid repeated calls\n\n    for i in range(len(items)):\n        # Phi-harmonic optimization: Consider optimizing this nested loop to reduce complexity\n\n        for j in range(i+1, len(items)):\n            if items[i] == items[j] and items[i] not in duplicates:\n                duplicates.append(items[i])\n    return duplicates\n\ndef is_prime(n):\n    \"\"\"Check if a number is prime.\"\"\"\n    # Inefficient primality test\n    if n <= 1:\n        return False\n    for i in range(2, n):\n        if n % i == 0:\n            return False\n    return True\n\nif __name__ == \"__main__\":\n    print(f\"Fibonacci(10): {calculate_fibonacci(10)}\")\n    print(f\"Duplicates in [1,2,3,2,4,1,5]: {find_duplicates([1,2,3,2,4,1,5])}\")\n    print(f\"Is 17 prime? {is_prime(17)}\")\n",
+      "optimizations_applied": 2,
+      "coherence": 32.92508000375684,
+      "optimized_file_path": "test_moa_integration/optimization_test_optimized.py"
+    },
+    "coherence": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-ce8c14952e4f",
+      "role": "CoherenceAgent",
+      "file_path": "test_moa_integration/optimization_test_optimized.py",
+      "patterns_found": 1,
+      "patterns": [
+        {
+          "type": "phi_harmonic_function_length",
+          "description": "Function 'find_duplicates' has phi-harmonic length of 13",
+          "line": 16,
+          "phi_resonance": 0.034441853748631956,
+          "confidence": 0.7
+        }
+      ],
+      "coherent_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with optimization opportunities for MoA integration testing.\n\"\"\"\n\ndef calculate_fibonacci(n):\n    \"\"\"Calculate the nth Fibonacci number.\"\"\"\n    # Inefficient recursive implementation\n    if n <= 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        return calculate_fibonacci(n-1) + calculate_fibonacci(n-2)\n\ndef find_duplicates(items):\n    \"\"\"Find duplicate items in a list.\"\"\"\n    This function maintains phi-harmonic coherence.\n    # Inefficient approach using nested loops\n    duplicates = []\n    # Phi-harmonic optimization: Cache result of range(len(items) to avoid repeated calls\n\n    for i in range(len(items)):\n        # Phi-harmonic optimization: Consider optimizing this nested loop to reduce complexity\n\n        for j in range(i+1, len(items)):\n            if items[i] == items[j] and items[i] not in duplicates:\n                duplicates.append(items[i])\n    return duplicates\n\ndef is_prime(n):\n    \"\"\"Check if a number is prime.\"\"\"\n    # Inefficient primality test\n    if n <= 1:\n        return False\n    for i in range(2, n):\n        if n % i == 0:\n            return False\n    return True\n\nif __name__ == \"__main__\":\n    print(f\"Fibonacci(10): {calculate_fibonacci(10)}\")\n    print(f\"Duplicates in [1,2,3,2,4,1,5]: {find_duplicates([1,2,3,2,4,1,5])}\")\n    print(f\"Is 17 prime? {is_prime(17)}\")\n",
+      "enhancements_made": 1,
+      "initial_coherence": 32.92508000375684,
+      "final_coherence": 21.67342041273563
+    },
+    "evolution": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-3c399571161d",
+      "role": "EvolutionAgent",
+      "file_path": "test_moa_integration/optimization_test_optimized.py",
+      "patterns_found": 0,
+      "evolved_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with optimization opportunities for MoA integration testing.\n\"\"\"\n\ndef calculate_fibonacci(n):\n    \"\"\"Calculate the nth Fibonacci number.\"\"\"\n    # Inefficient recursive implementation\n    if n <= 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        return calculate_fibonacci(n-1) + calculate_fibonacci(n-2)\n\ndef find_duplicates(items):\n    \"\"\"Find duplicate items in a list.\"\"\"\n    # Inefficient approach using nested loops\n    duplicates = []\n    # Phi-harmonic optimization: Cache result of range(len(items) to avoid repeated calls\n\n    for i in range(len(items)):\n        # Phi-harmonic optimization: Consider optimizing this nested loop to reduce complexity\n\n        for j in range(i+1, len(items)):\n            if items[i] == items[j] and items[i] not in duplicates:\n                duplicates.append(items[i])\n    return duplicates\n\ndef is_prime(n):\n    \"\"\"Check if a number is prime.\"\"\"\n    # Inefficient primality test\n    if n <= 1:\n        return False\n    for i in range(2, n):\n        if n % i == 0:\n            return False\n    return True\n\nif __name__ == \"__main__\":\n    print(f\"Fibonacci(10): {calculate_fibonacci(10)}\")\n    print(f\"Duplicates in [1,2,3,2,4,1,5]: {find_duplicates([1,2,3,2,4,1,5])}\")\n    print(f\"Is 17 prime? {is_prime(17)}\")\n",
+      "enhancements_made": 0,
+      "coherence": 32.92508000375684
+    },
+    "final_enhanced_file": "test_moa_integration/optimization_test_moa_enhanced.py",
+    "duration": 0.010076045989990234
+  },
+  "coherence": {
+    "logic_error": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-09ce46baa542",
+      "role": "LogicErrorAgent",
+      "file_path": "test_moa_integration/coherence_test.py",
+      "issues_found": 5,
+      "issues": [
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'a' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'b' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'value' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'Calculator' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'self' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        }
+      ],
+      "fixed_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with low phi-harmonic coherence for MoA integration testing.\n\"\"\"\n\ndef add(a, b):\n    return a + b\n\ndef subtract(a, b):\n    return a - b\n\ndef multiply(a, b):\n    return a * b\n\ndef divide(a, b):\n    return a / b\n\nclass Calculator:\n    def __init__(self):\n        self.result = 0\n    \n    def add(self, value):\n        self.result += value\n    \n    def subtract(self, value):\n        self.result -= value\n    \n    def multiply(self, value):\n        self.result *= value\n    \n    def divide(self, value):\n        self.result /= value\n    \n    def clear(self):\n        self.result = 0\n    \n    def get_result(self):\n        return self.result\n\nif __name__ == \"__main__\":\n    calc = Calculator()\n    calc.add(5)\n    calc.multiply(2)\n    calc.subtract(3)\n    calc.divide(2)\n    print(f\"Result: {calc.get_result()}\")\n",
+      "changes_made": 0,
+      "coherence": 4.3192485905983995
+    },
+    "optimization": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-858e957f3ab4",
+      "role": "OptimizationAgent",
+      "file_path": "test_moa_integration/coherence_test.py",
+      "opportunities_found": 0,
+      "optimized_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with low phi-harmonic coherence for MoA integration testing.\n\"\"\"\n\ndef add(a, b):\n    return a + b\n\ndef subtract(a, b):\n    return a - b\n\ndef multiply(a, b):\n    return a * b\n\ndef divide(a, b):\n    return a / b\n\nclass Calculator:\n    def __init__(self):\n        self.result = 0\n    \n    def add(self, value):\n        self.result += value\n    \n    def subtract(self, value):\n        self.result -= value\n    \n    def multiply(self, value):\n        self.result *= value\n    \n    def divide(self, value):\n        self.result /= value\n    \n    def clear(self):\n        self.result = 0\n    \n    def get_result(self):\n        return self.result\n\nif __name__ == \"__main__\":\n    calc = Calculator()\n    calc.add(5)\n    calc.multiply(2)\n    calc.subtract(3)\n    calc.divide(2)\n    print(f\"Result: {calc.get_result()}\")\n",
+      "optimizations_applied": 0,
+      "coherence": 4.3192485905983995
+    },
+    "coherence": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-4b287a507fed",
+      "role": "CoherenceAgent",
+      "file_path": "test_moa_integration/coherence_test.py",
+      "patterns_found": 0,
+      "coherent_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with low phi-harmonic coherence for MoA integration testing.\n\"\"\"\n\ndef add(a, b):\n    return a + b\n\ndef subtract(a, b):\n    return a - b\n\ndef multiply(a, b):\n    return a * b\n\ndef divide(a, b):\n    return a / b\n\nclass Calculator:\n    def __init__(self):\n        self.result = 0\n    \n    def add(self, value):\n        self.result += value\n    \n    def subtract(self, value):\n        self.result -= value\n    \n    def multiply(self, value):\n        self.result *= value\n    \n    def divide(self, value):\n        self.result /= value\n    \n    def clear(self):\n        self.result = 0\n    \n    def get_result(self):\n        return self.result\n\nif __name__ == \"__main__\":\n    calc = Calculator()\n    calc.add(5)\n    calc.multiply(2)\n    calc.subtract(3)\n    calc.divide(2)\n    print(f\"Result: {calc.get_result()}\")\n",
+      "enhancements_made": 0,
+      "initial_coherence": 4.3192485905983995,
+      "final_coherence": 4.3192485905983995
+    },
+    "evolution": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-f1b8b941d2de",
+      "role": "EvolutionAgent",
+      "file_path": "test_moa_integration/coherence_test.py",
+      "patterns_found": 0,
+      "evolved_code": "#!/usr/bin/env python3\n\"\"\"\nTest file with low phi-harmonic coherence for MoA integration testing.\n\"\"\"\n\ndef add(a, b):\n    return a + b\n\ndef subtract(a, b):\n    return a - b\n\ndef multiply(a, b):\n    return a * b\n\ndef divide(a, b):\n    return a / b\n\nclass Calculator:\n    def __init__(self):\n        self.result = 0\n    \n    def add(self, value):\n        self.result += value\n    \n    def subtract(self, value):\n        self.result -= value\n    \n    def multiply(self, value):\n        self.result *= value\n    \n    def divide(self, value):\n        self.result /= value\n    \n    def clear(self):\n        self.result = 0\n    \n    def get_result(self):\n        return self.result\n\nif __name__ == \"__main__\":\n    calc = Calculator()\n    calc.add(5)\n    calc.multiply(2)\n    calc.subtract(3)\n    calc.divide(2)\n    print(f\"Result: {calc.get_result()}\")\n",
+      "enhancements_made": 0,
+      "coherence": 4.3192485905983995
+    },
+    "duration": 0.0026869773864746094
+  },
+  "evolution": {
+    "logic_error": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-b1a16b800e56",
+      "role": "LogicErrorAgent",
+      "file_path": "test_moa_integration/evolution_test.py",
+      "issues_found": 4,
+      "issues": [
+        {
+          "type": "potential_off_by_one",
+          "description": "Potential off-by-one error in comparison",
+          "line": 33,
+          "confidence": 0.6
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'DataProcessor' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'data' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        },
+        {
+          "type": "undefined_variable",
+          "description": "Variable 'self' is used but not defined",
+          "line": 0,
+          "confidence": 0.8
+        }
+      ],
+      "fixed_code": "#!/usr/bin/env python3\n\"\"\"\nTest file lacking self-evolution capabilities for MoA integration testing.\n\"\"\"\n\nclass DataProcessor:\n    \"\"\"A simple data processor class without evolution capabilities.\"\"\"\n    \n    def __init__(self):\n        self.data = []\n        self.processed = False\n    \n    def load_data(self, data):\n        \"\"\"Load data into the processor.\"\"\"\n        self.data = data\n        self.processed = False\n    \n    def process(self):\n        \"\"\"Process the loaded data.\"\"\"\n        if not self.data:\n            return []\n        \n        result = []\n        for item in self.data:\n            result.append(item * 2)\n        \n        self.processed = True\n        return result\n    \n    def get_status(self):\n        \"\"\"Get the processor status.\"\"\"\n        return {\n            \"data_loaded\": len(self.data) > 0,\n            \"processed\": self.processed\n        }\n\nif __name__ == \"__main__\":\n    processor = DataProcessor()\n    processor.load_data([1, 2, 3, 4, 5])\n    result = processor.process()\n    print(f\"Processed data: {result}\")\n    print(f\"Status: {processor.get_status()}\")\n",
+      "changes_made": 0,
+      "coherence": 7.082799472096923
+    },
+    "optimization": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-58975d4034a1",
+      "role": "OptimizationAgent",
+      "file_path": "test_moa_integration/evolution_test.py",
+      "opportunities_found": 1,
+      "opportunities": [
+        {
+          "type": "list_comprehension_opportunity",
+          "description": "For loop with append can be converted to list comprehension",
+          "line": 24,
+          "confidence": 0.8
+        }
+      ],
+      "optimized_code": "#!/usr/bin/env python3\n\"\"\"\nTest file lacking self-evolution capabilities for MoA integration testing.\n\"\"\"\n\nclass DataProcessor:\n    \"\"\"A simple data processor class without evolution capabilities.\"\"\"\n    \n    def __init__(self):\n        self.data = []\n        self.processed = False\n    \n    def load_data(self, data):\n        \"\"\"Load data into the processor.\"\"\"\n        self.data = data\n        self.processed = False\n    \n    def process(self):\n        \"\"\"Process the loaded data.\"\"\"\n        if not self.data:\n            return []\n        \n        result = []\n        for item in self.data:\n            result.append(item * 2)\n        \n        self.processed = True\n        return result\n    \n    def get_status(self):\n        \"\"\"Get the processor status.\"\"\"\n        return {\n            \"data_loaded\": len(self.data) > 0,\n            \"processed\": self.processed\n        }\n\nif __name__ == \"__main__\":\n    processor = DataProcessor()\n    processor.load_data([1, 2, 3, 4, 5])\n    result = processor.process()\n    print(f\"Processed data: {result}\")\n    print(f\"Status: {processor.get_status()}\")\n",
+      "optimizations_applied": 0,
+      "coherence": 7.082799472096923
+    },
+    "coherence": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-661ecf4a7029",
+      "role": "CoherenceAgent",
+      "file_path": "test_moa_integration/evolution_test.py",
+      "patterns_found": 2,
+      "patterns": [
+        {
+          "type": "phi_harmonic_function_length",
+          "description": "Function 'get_status' has phi-harmonic length of 5",
+          "line": 30,
+          "phi_resonance": 0.09016994374947407,
+          "confidence": 0.7
+        },
+        {
+          "type": "phi_harmonic_function_length",
+          "description": "Function 'load_data' has phi-harmonic length of 5",
+          "line": 13,
+          "phi_resonance": 0.09016994374947407,
+          "confidence": 0.7
+        }
+      ],
+      "coherent_code": "#!/usr/bin/env python3\n\"\"\"\nTest file lacking self-evolution capabilities for MoA integration testing.\n\"\"\"\n\nclass DataProcessor:\n    \"\"\"A simple data processor class without evolution capabilities.\"\"\"\n    \n    def __init__(self):\n        self.data = []\n        self.processed = False\n    \n    def load_data(self, data):\n        \"\"\"Load data into the processor.\"\"\"\n        This function maintains phi-harmonic coherence.\n        self.data = data\n        self.processed = False\n    \n    def process(self):\n        \"\"\"Process the loaded data.\"\"\"\n        if not self.data:\n            return []\n        \n        result = []\n        for item in self.data:\n            result.append(item * 2)\n        \n        self.processed = True\n        return result\n    \n    def get_status(self):\n        \"\"\"Get the processor status.\"\"\"\n        This function maintains phi-harmonic coherence.\n        return {\n            \"data_loaded\": len(self.data) > 0,\n            \"processed\": self.processed\n        }\n\nif __name__ == \"__main__\":\n    processor = DataProcessor()\n    processor.load_data([1, 2, 3, 4, 5])\n    result = processor.process()\n    print(f\"Processed data: {result}\")\n    print(f\"Status: {processor.get_status()}\")\n",
+      "enhancements_made": 2,
+      "initial_coherence": 7.082799472096923,
+      "final_coherence": 13.55134577782357
+    },
+    "evolution": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-70c4e13d6cdf",
+      "role": "EvolutionAgent",
+      "file_path": "test_moa_integration/evolution_test.py",
+      "patterns_found": 2,
+      "patterns": [
+        {
+          "type": "evolution_keyword",
+          "description": "Evolution-related keyword 'evolution' found",
+          "line": 3,
+          "keyword": "evolution",
+          "confidence": 0.6
+        },
+        {
+          "type": "evolution_keyword",
+          "description": "Evolution-related keyword 'evolution' found",
+          "line": 7,
+          "keyword": "evolution",
+          "confidence": 0.6
+        }
+      ],
+      "evolved_code": "#!/usr/bin/env python3\n\"\"\"\nTest file lacking self-evolution capabilities for MoA integration testing.\n\"\"\"\n\nclass DataProcessor:\n    \"\"\"A simple data processor class without evolution capabilities.\"\"\"\n    \n    def __init__(self):\n        self.data = []\n        self.processed = False\n    \n    def load_data(self, data):\n        \"\"\"Load data into the processor.\"\"\"\n        self.data = data\n        self.processed = False\n    \n    def process(self):\n        \"\"\"Process the loaded data.\"\"\"\n        if not self.data:\n            return []\n        \n        result = []\n        for item in self.data:\n            result.append(item * 2)\n        \n        self.processed = True\n        return result\n    \n    def get_status(self):\n        \"\"\"Get the processor status.\"\"\"\n        return {\n            \"data_loaded\": len(self.data) > 0,\n            \"processed\": self.processed\n        }\n    def evolve(self, learning_rate: float = 0.1) -> bool:\n        \"\"\"\n        Evolve this component based on learning from its execution history.\n        \n        Args:\n            learning_rate: Rate of evolution (0.0 to 1.0)\n            \n        Returns:\n            Success of evolution\n        \"\"\"\n        try:\n            # Phi-harmonic evolution process\n            evolution_factor = learning_rate * self.phi\n            \n            # Track evolution in state\n            if hasattr(self, 'update_state'):\n                self.update_state({\"evolution_factor\": evolution_factor})\n            \n            # Log evolution\n            logger.info(f\"Evolved {self.__class__.__name__} with factor {evolution_factor:.6f}\")\n            \n            return True\n        except Exception as e:\n            logger.error(f\"Evolution failed: {str(e)}\")\n            return False\n\n    def self_heal(self, issue_type: str = None) -> bool:\n        \"\"\"\n        Self-heal this component based on detected issues.\n        \n        Args:\n            issue_type: Type of issue to heal, or None for general healing\n            \n        Returns:\n            Success of healing\n        \"\"\"\n        try:\n            # Phi-harmonic healing process\n            healing_factor = self.phi / 10\n            \n            # Track healing in state\n            if hasattr(self, 'update_state'):\n                self.update_state({\"healing_factor\": healing_factor, \"issue_type\": issue_type})\n            \n            # Log healing\n            logger.info(f\"Self-healed {self.__class__.__name__} for issue type {issue_type}\")\n            \n            return True\n        except Exception as e:\n            logger.error(f\"Self-healing failed: {str(e)}\")\n            return False\nif __name__ == \"__main__\":\n    processor = DataProcessor()\n    processor.load_data([1, 2, 3, 4, 5])\n    result = processor.process()\n    print(f\"Processed data: {result}\")\n    print(f\"Status: {processor.get_status()}\")\n",
+      "enhancements_made": 2,
+      "coherence": 32.33678404116022
+    },
+    "duration": 0.004061222076416016
+  }
+}

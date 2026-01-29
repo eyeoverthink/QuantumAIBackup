@@ -1,0 +1,3114 @@
+{
+  "epoch": 501,
+  "base_multiple": 10,
+  "resonance": 0.08826397896334606,
+  "complexity": 0.9270509831248424,
+  "mutation_rate": 0.01,
+  "current_results": {
+    "0": 0,
+    "1": 10,
+    "2": 20,
+    "3": 30,
+    "4": 40,
+    "5": 50,
+    "6": 60,
+    "7": 70,
+    "8": 80,
+    "9": 90,
+    "10": 100,
+    "11": 110,
+    "12": 120,
+    "13": 130,
+    "14": 140,
+    "15": 150,
+    "16": 160,
+    "17": 170,
+    "18": 180,
+    "19": 190,
+    "20": 200
+  },
+  "errors": [
+    {
+      "epoch": 412,
+      "location": 14,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 415,
+      "error_value": 142
+    },
+    {
+      "epoch": 422,
+      "location": 5,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 422,
+      "error_value": 48
+    },
+    {
+      "epoch": 425,
+      "location": 16,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 425,
+      "error_value": 158
+    },
+    {
+      "epoch": 433,
+      "location": 6,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 434,
+      "error_value": 59
+    },
+    {
+      "epoch": 436,
+      "location": 2,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 438,
+      "error_value": 21
+    },
+    {
+      "epoch": 445,
+      "location": 3,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 445,
+      "error_value": 31
+    },
+    {
+      "epoch": 451,
+      "location": 7,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 452,
+      "error_value": 68
+    },
+    {
+      "epoch": 461,
+      "location": 17,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 461,
+      "error_value": 169
+    },
+    {
+      "epoch": 479,
+      "location": 14,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 480,
+      "error_value": 141
+    },
+    {
+      "epoch": 485,
+      "location": 4,
+      "introduced": true,
+      "corrected": true,
+      "correction_epoch": 489,
+      "error_value": 41
+    }
+  ],
+  "evolution_history": [
+    {
+      "epoch": 1,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.42705098312484235,
+      "mutation_rate": 0.06180339887498948
+    },
+    {
+      "epoch": 2,
+      "resonance": 0.30901699437494745,
+      "complexity": 0.30901699437494745,
+      "mutation_rate": 0.038196601125010506
+    },
+    {
+      "epoch": 3,
+      "resonance": 0.5000000000000001,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.023606797749978963
+    },
+    {
+      "epoch": 4,
+      "resonance": 0.8090169943749477,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01458980337503154
+    },
+    {
+      "epoch": 5,
+      "resonance": 0.3090169943749479,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 6,
+      "resonance": 0.5000000000000008,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 7,
+      "resonance": 0.8090169943749487,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 8,
+      "resonance": 0.30901699437494945,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 9,
+      "resonance": 0.5000000000000033,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 10,
+      "resonance": 0.8090169943749529,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 11,
+      "resonance": 0.30901699437495633,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 12,
+      "resonance": 0.5000000000000144,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 13,
+      "resonance": 0.8090169943749708,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 14,
+      "resonance": 0.3090169943749852,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 15,
+      "resonance": 0.5000000000000612,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 16,
+      "resonance": 0.8090169943750465,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 17,
+      "resonance": 0.30901699437510777,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 18,
+      "resonance": 0.5000000000002595,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 19,
+      "resonance": 0.8090169943753672,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 20,
+      "resonance": 0.3090169943756267,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 21,
+      "resonance": 0.5000000000010991,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 22,
+      "resonance": 0.8090169943767259,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 23,
+      "resonance": 0.30901699437782515,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 24,
+      "resonance": 0.5000000000046563,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 25,
+      "resonance": 0.8090169943824814,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 26,
+      "resonance": 0.3090169943871377,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 27,
+      "resonance": 0.5000000000197243,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 28,
+      "resonance": 0.8090169944068621,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 29,
+      "resonance": 0.3090169944265866,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 30,
+      "resonance": 0.5000000000835539,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 31,
+      "resonance": 0.8090169945101405,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 32,
+      "resonance": 0.30901699459369447,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 33,
+      "resonance": 0.5000000003539402,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 34,
+      "resonance": 0.8090169949476348,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 35,
+      "resonance": 0.3090169953015751,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 36,
+      "resonance": 0.5000000014993151,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 37,
+      "resonance": 0.8090169968008902,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 38,
+      "resonance": 0.30901699830020535,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 39,
+      "resonance": 0.5000000063512008,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 40,
+      "resonance": 0.8090170046514062,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 41,
+      "resonance": 0.30901701100260714,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 42,
+      "resonance": 0.5000000269041186,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 43,
+      "resonance": 0.8090170379067257,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 44,
+      "resonance": 0.30901706481084434,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 45,
+      "resonance": 0.5000001139676753,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 46,
+      "resonance": 0.8090171787785198,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 47,
+      "resonance": 0.30901729274619516,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 48,
+      "resonance": 0.5000004827748201,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 49,
+      "resonance": 0.8090177755210153,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 50,
+      "resonance": 0.3090182582958354,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 51,
+      "resonance": 0.5000020450669559,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 52,
+      "resonance": 0.8090203033627914,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 53,
+      "resonance": 0.3090223484297474,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 54,
+      "resonance": 0.500008663042644,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 55,
+      "resonance": 0.8090310114723914,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 56,
+      "resonance": 0.30903967451503545,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 57,
+      "resonance": 0.5000366972375321,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 58,
+      "resonance": 0.8090763717525676,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 59,
+      "resonance": 0.3091130689900998,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 60,
+      "resonance": 0.5001554519927727,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 61,
+      "resonance": 0.8092685209828725,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 62,
+      "resonance": 0.30942397297564517,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 63,
+      "resonance": 0.5006585052086229,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 64,
+      "resonance": 0.8100824781842682,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 65,
+      "resonance": 0.31074098339289113,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 66,
+      "resonance": 0.5027894728272645,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 67,
+      "resonance": 0.8135304562201556,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 68,
+      "resonance": 0.3163199290474201,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 69,
+      "resonance": 0.511816396517681,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 70,
+      "resonance": 0.8281363255651012,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 71,
+      "resonance": 0.33995272208278227,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 72,
+      "resonance": 0.5500550588979887,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 73,
+      "resonance": 0.8900077809807709,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 74,
+      "resonance": 0.4400628398787596,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 75,
+      "resonance": 0.7120366321096357,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 76,
+      "resonance": 0.15209947198839546,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 77,
+      "resonance": 0.24610211534813642,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 78,
+      "resonance": 0.3982015873365319,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 79,
+      "resonance": 0.6443037026846683,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 80,
+      "resonance": 0.04250529002120018,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 81,
+      "resonance": 0.06877500395597363,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 82,
+      "resonance": 0.11128029397717382,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 83,
+      "resonance": 0.18005529793314745,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 84,
+      "resonance": 0.29133559191032127,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 85,
+      "resonance": 0.4713908898434687,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 86,
+      "resonance": 0.76272648175379,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 87,
+      "resonance": 0.23411737159725865,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 88,
+      "resonance": 0.3788098646011538,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 89,
+      "resonance": 0.6129272361984125,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 90,
+      "resonance": 0.9917371007995663,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 91,
+      "resonance": 0.604664336997979,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 92,
+      "resonance": 0.9783674490476505,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 93,
+      "resonance": 0.5830317860456296,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 94,
+      "resonance": 0.9433652463433853,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 95,
+      "resonance": 0.5263970323890148,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 96,
+      "resonance": 0.8517282899825053,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 97,
+      "resonance": 0.3781253223715202,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 98,
+      "resonance": 0.6118196236041307,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 99,
+      "resonance": 0.9899449459756509,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 100,
+      "resonance": 0.6017645695797815,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 101,
+      "resonance": 0.9736755268055376,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 102,
+      "resonance": 0.5754400963853192,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 103,
+      "resonance": 0.931081634440962,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 104,
+      "resonance": 0.5065217308262813,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 105,
+      "resonance": 0.8195693765173485,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 106,
+      "resonance": 0.3260911073436299,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 107,
+      "resonance": 0.5276264951110836,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 108,
+      "resonance": 0.8537176024547135,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 109,
+      "resonance": 0.3813440975657971,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 110,
+      "resonance": 0.6170277112706158,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 111,
+      "resonance": 0.9983718088364131,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 112,
+      "resonance": 0.615399520107029,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 113,
+      "resonance": 0.9957373401935473,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 114,
+      "resonance": 0.6111368603005765,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 115,
+      "resonance": 0.988840211744229,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 116,
+      "resonance": 0.5999770720448054,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 117,
+      "resonance": 0.9707832950391396,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 118,
+      "resonance": 0.5707603670839452,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 119,
+      "resonance": 0.92350967337319,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 120,
+      "resonance": 0.4942700404571352,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 121,
+      "resonance": 0.7997457250804304,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 122,
+      "resonance": 0.2940157655375657,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 123,
+      "resonance": 0.4757275018681013,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 124,
+      "resonance": 0.769743267405667,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 125,
+      "resonance": 0.24547076927376832,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 126,
+      "resonance": 0.3971800479295405,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 127,
+      "resonance": 0.6426508172033089,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 128,
+      "resonance": 0.03983086513284939,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 129,
+      "resonance": 0.06444769358626341,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 130,
+      "resonance": 0.1042785587191128,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 131,
+      "resonance": 0.16872625230537622,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 132,
+      "resonance": 0.27300481102448904,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 133,
+      "resonance": 0.4417310633298653,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 134,
+      "resonance": 0.7147358743543544,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 135,
+      "resonance": 0.15646693768421982,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 136,
+      "resonance": 0.25316882328867946,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 137,
+      "resonance": 0.40963576097289933,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 138,
+      "resonance": 0.6628045842615788,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 139,
+      "resonance": 0.07244034523447818,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 140,
+      "resonance": 0.11721094074616216,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 141,
+      "resonance": 0.18965128598064035,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 142,
+      "resonance": 0.3068622267268025,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 143,
+      "resonance": 0.4965135127074429,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 144,
+      "resonance": 0.8033757394342455,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 145,
+      "resonance": 0.2998892521416885,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 146,
+      "resonance": 0.4852310028260392,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 147,
+      "resonance": 0.7851202549677277,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 148,
+      "resonance": 0.270351257793767,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 149,
+      "resonance": 0.43743752401159997,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 150,
+      "resonance": 0.707788781805367,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 151,
+      "resonance": 0.14522630581696694,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 152,
+      "resonance": 0.2349810988724391,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 153,
+      "resonance": 0.38020740468940606,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 154,
+      "resonance": 0.6151885035618452,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 155,
+      "resonance": 0.9953959082512512,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 156,
+      "resonance": 0.6105844118130965,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 157,
+      "resonance": 0.987946331314453,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 158,
+      "resonance": 0.5985307431275495,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 159,
+      "resonance": 0.9684430856921077,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 160,
+      "resonance": 0.5669738288196573,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 161,
+      "resonance": 0.9173829257618702,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 162,
+      "resonance": 0.4843567545815275,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 163,
+      "resonance": 0.7837056915935029,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 164,
+      "resonance": 0.2680624461750305,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 165,
+      "resonance": 0.4337341490186386,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 166,
+      "resonance": 0.7017965951936691,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 167,
+      "resonance": 0.1355307442123077,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 168,
+      "resonance": 0.21929335065608196,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 169,
+      "resonance": 0.3548240948683897,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 170,
+      "resonance": 0.5741174455244716,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 171,
+      "resonance": 0.9289415403928614,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 172,
+      "resonance": 0.5030589859173331,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 173,
+      "resonance": 0.8139665375602997,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 174,
+      "resonance": 0.3170255234776329,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 175,
+      "resonance": 0.5129580722880378,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 176,
+      "resonance": 0.8299835957656707,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 177,
+      "resonance": 0.3429416680537085,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 178,
+      "resonance": 0.5548912750694844,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 179,
+      "resonance": 0.8978329431231931,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 180,
+      "resonance": 0.4527242181926776,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 181,
+      "resonance": 0.7325231725659759,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 182,
+      "resonance": 0.1852473907586536,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 183,
+      "resonance": 0.2997365745747347,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 184,
+      "resonance": 0.4849839653333883,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 185,
+      "resonance": 0.784720539908123,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 186,
+      "resonance": 0.26970450524151124,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 187,
+      "resonance": 0.43639105639973935,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 188,
+      "resonance": 0.7060955616412506,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 189,
+      "resonance": 0.14248661804099005,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 190,
+      "resonance": 0.23054819093234588,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 191,
+      "resonance": 0.37303480897333596,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 192,
+      "resonance": 0.6035829999056819,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 193,
+      "resonance": 0.9766178088790178,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 194,
+      "resonance": 0.5802008087846997,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 195,
+      "resonance": 0.9387846289138227,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 196,
+      "resonance": 0.5189854376985226,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 197,
+      "resonance": 0.8397360778624505,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 198,
+      "resonance": 0.3587215155609731,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 199,
+      "resonance": 0.5804236046735288,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 200,
+      "resonance": 0.939145120234502,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 201,
+      "resonance": 0.519568724908031,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 202,
+      "resonance": 0.8406798563926382,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 203,
+      "resonance": 0.3602485813006693,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 204,
+      "resonance": 0.5828944489434127,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 205,
+      "resonance": 0.943143030244082,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 206,
+      "resonance": 0.5260374791874947,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 207,
+      "resonance": 0.8511465206816818,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 208,
+      "resonance": 0.3771839998691766,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 209,
+      "resonance": 0.6102965318009637,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 210,
+      "resonance": 0.9874805316701403,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 211,
+      "resonance": 0.5977770634711039,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 212,
+      "resonance": 0.9672236063913494,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 213,
+      "resonance": 0.5650006698624535,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 214,
+      "resonance": 0.9141902875039081,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 215,
+      "resonance": 0.4791909573663615,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 216,
+      "resonance": 0.7753472561203748,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 217,
+      "resonance": 0.25453821348673644,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 218,
+      "resonance": 0.41185148085721646,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 219,
+      "resonance": 0.6663896943439529,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 220,
+      "resonance": 0.07824117520116936,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 221,
+      "resonance": 0.1265968807952274,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 222,
+      "resonance": 0.20483805599639676,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 223,
+      "resonance": 0.33143493679162417,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 224,
+      "resonance": 0.536272992788021,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 225,
+      "resonance": 0.8677079295796453,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 226,
+      "resonance": 0.40398092236766625,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 227,
+      "resonance": 0.6536548631974166,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 228,
+      "resonance": 0.057635785565082864,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 229,
+      "resonance": 0.09325666001260464,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 230,
+      "resonance": 0.15089244557768752,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 231,
+      "resonance": 0.24414910559029218,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 232,
+      "resonance": 0.39504155116797973,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 233,
+      "resonance": 0.6391906567582719,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 234,
+      "resonance": 0.03423220792625159,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 235,
+      "resonance": 0.05538887593462863,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 236,
+      "resonance": 0.08962108386088022,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 237,
+      "resonance": 0.14500995979550885,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 238,
+      "resonance": 0.23463104365638907,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 239,
+      "resonance": 0.37964100345189794,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 240,
+      "resonance": 0.6142720471082871,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 241,
+      "resonance": 0.9939130505601851,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 242,
+      "resonance": 0.6081850976684722,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 243,
+      "resonance": 0.9840641594787625,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 244,
+      "resonance": 0.5922492571472346,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 245,
+      "resonance": 0.9582794278761023,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 246,
+      "resonance": 0.5505286850233371,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 247,
+      "resonance": 0.8907741241495446,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 248,
+      "resonance": 0.44130280917288167,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 249,
+      "resonance": 0.7140429445725315,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 250,
+      "resonance": 0.15534575374541326,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 251,
+      "resonance": 0.25135470956804995,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 252,
+      "resonance": 0.4067004633134632,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 253,
+      "resonance": 0.6580551728815132,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 254,
+      "resonance": 0.06475563619497637,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 255,
+      "resonance": 0.10477682032659469,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 256,
+      "resonance": 0.16953245652157106,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 257,
+      "resonance": 0.27430927684816575,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 258,
+      "resonance": 0.4438417333697368,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 259,
+      "resonance": 0.7181510102179026,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 260,
+      "resonance": 0.1619927435876396,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 261,
+      "resonance": 0.2621097650556475,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 262,
+      "resonance": 0.42410250864328713,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 263,
+      "resonance": 0.6862122736989347,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 264,
+      "resonance": 0.11031478234222192,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 265,
+      "resonance": 0.1784930672912618,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 266,
+      "resonance": 0.2888078496334837,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 267,
+      "resonance": 0.4673009169247455,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 268,
+      "resonance": 0.7561087665582292,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 269,
+      "resonance": 0.22340968348297485,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 270,
+      "resonance": 0.3614844612913093,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 271,
+      "resonance": 0.5848941447742841,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 272,
+      "resonance": 0.9463786060655934,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 273,
+      "resonance": 0.5312727508398776,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 274,
+      "resonance": 0.8596173681555762,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 275,
+      "resonance": 0.3908901189954539,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 276,
+      "resonance": 0.6324734984011353,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 277,
+      "resonance": 0.02336361739658921,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 278,
+      "resonance": 0.03780312704782968,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 279,
+      "resonance": 0.06116674444441889,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 280,
+      "resonance": 0.09896987149224858,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 281,
+      "resonance": 0.16013661593666748,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 282,
+      "resonance": 0.25910648742891607,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 283,
+      "resonance": 0.41924310336558357,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 284,
+      "resonance": 0.6783495907944996,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 285,
+      "resonance": 0.09759269416008332,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 286,
+      "resonance": 0.1579082962046882,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 287,
+      "resonance": 0.25550099036477153,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 288,
+      "resonance": 0.41340928656945974,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 289,
+      "resonance": 0.6689102769342313,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 290,
+      "resonance": 0.08231956350369107,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 291,
+      "resonance": 0.13319585168802753,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 292,
+      "resonance": 0.2155154151917186,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 293,
+      "resonance": 0.34871126687974613,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 294,
+      "resonance": 0.5642266820714648,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 295,
+      "resonance": 0.9129379489512109,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 296,
+      "resonance": 0.4771646310226758,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 297,
+      "resonance": 0.772068591223992,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 298,
+      "resonance": 0.24923322224666777,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 299,
+      "resonance": 0.4032678247207649,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 300,
+      "resonance": 0.6525010469674327,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 301,
+      "resonance": 0.05576887168819766,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 302,
+      "resonance": 0.09023592990573555,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 303,
+      "resonance": 0.14600480159393323,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 304,
+      "resonance": 0.2362407314996688,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 305,
+      "resonance": 0.38224553309360204,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 306,
+      "resonance": 0.6184862645932708,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 307,
+      "resonance": 0.0007317976868728149,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 308,
+      "resonance": 0.0011840735302487673,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 309,
+      "resonance": 0.0019158712171215824,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 310,
+      "resonance": 0.00309994474737035,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 311,
+      "resonance": 0.005015815964491932,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 312,
+      "resonance": 0.008115760711862282,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 313,
+      "resonance": 0.013131576676354215,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 314,
+      "resonance": 0.0212473373882165,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 315,
+      "resonance": 0.03437891406457071,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 316,
+      "resonance": 0.05562625145278721,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 317,
+      "resonance": 0.09000516551735793,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 318,
+      "resonance": 0.14563141697014514,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 319,
+      "resonance": 0.23563658248750308,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 320,
+      "resonance": 0.3812679994576482,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 321,
+      "resonance": 0.6169045819451513,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 322,
+      "resonance": 0.9981725814027995,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 323,
+      "resonance": 0.6150771633479508,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 324,
+      "resonance": 0.9952157560008555,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 325,
+      "resonance": 0.6102929193488065,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 326,
+      "resonance": 0.9874746865997672,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 327,
+      "resonance": 0.5977676059485737,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 328,
+      "resonance": 0.9672083037984461,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 329,
+      "resonance": 0.5649759097470199,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 330,
+      "resonance": 0.9141502247955713,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 331,
+      "resonance": 0.47912613454259123,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 332,
+      "resonance": 0.7752423705882677,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 333,
+      "resonance": 0.25436850513085907,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 334,
+      "resonance": 0.411576886969232,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 335,
+      "resonance": 0.6659453921000911,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 336,
+      "resonance": 0.07752227906932307,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 337,
+      "resonance": 0.1254336824195193,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 338,
+      "resonance": 0.20295596148884237,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 339,
+      "resonance": 0.3283896439083617,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 340,
+      "resonance": 0.5313456053972041,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 341,
+      "resonance": 0.8597352493055659,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 342,
+      "resonance": 0.39108085470277,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 343,
+      "resonance": 0.632782115258441,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 344,
+      "resonance": 0.023862969961210956,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 345,
+      "resonance": 0.038611096469757085,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 346,
+      "resonance": 0.06247406643096804,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 347,
+      "resonance": 0.10108516290072513,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 348,
+      "resonance": 0.16355922933169317,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 349,
+      "resonance": 0.2646443922324183,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 350,
+      "resonance": 0.4282036215641115,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 351,
+      "resonance": 0.6928480137965298,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 352,
+      "resonance": 0.12105163536064145,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 353,
+      "resonance": 0.19586566040727652,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 354,
+      "resonance": 0.316917295767918,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 355,
+      "resonance": 0.5127829561751945,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 356,
+      "resonance": 0.8297002519431126,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 357,
+      "resonance": 0.3424832081183071,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 358,
+      "resonance": 0.5541494713115248,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 359,
+      "resonance": 0.8966326794298319,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 360,
+      "resonance": 0.45078215074135675,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 361,
+      "resonance": 0.7293808414212939,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 362,
+      "resonance": 0.18016299216265064,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 363,
+      "resonance": 0.2915098448340497,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 364,
+      "resonance": 0.4716728369967004,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 365,
+      "resonance": 0.7631826818307501,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 366,
+      "resonance": 0.2348555188274506,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 367,
+      "resonance": 0.3800042119083059,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 368,
+      "resonance": 0.6148597307357565,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 369,
+      "resonance": 0.9948639426440624,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 370,
+      "resonance": 0.609723673379819,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 371,
+      "resonance": 0.9865536272739867,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 372,
+      "resonance": 0.5962773006538058,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 373,
+      "resonance": 0.9647969391778977,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 374,
+      "resonance": 0.5610742398317035,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 375,
+      "resonance": 0.9078371902597063,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 376,
+      "resonance": 0.4689114300914099,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 377,
+      "resonance": 0.7587146316012214,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 378,
+      "resonance": 0.22762606169263133,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 379,
+      "resonance": 0.3683067045439579,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 380,
+      "resonance": 0.5959327662365893,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 381,
+      "resonance": 0.9642394707805473,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 382,
+      "resonance": 0.5601722370171367,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 383,
+      "resonance": 0.9063777190477892,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 384,
+      "resonance": 0.466549956064926,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 385,
+      "resonance": 0.7548936863628204,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 386,
+      "resonance": 0.2214436424277464,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 387,
+      "resonance": 0.35830334004067194,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 388,
+      "resonance": 0.5797469824684184,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 389,
+      "resonance": 0.9380503225090904,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 390,
+      "resonance": 0.5177973049775089,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 391,
+      "resonance": 0.8378136387367044,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 392,
+      "resonance": 0.3556109437142134,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 393,
+      "resonance": 0.5753905937010231,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 394,
+      "resonance": 0.9310015374152365,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 395,
+      "resonance": 0.5063921311162596,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 396,
+      "resonance": 0.8193596797816013,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 397,
+      "resonance": 0.325751810897861,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 398,
+      "resonance": 0.5270775019295675,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 399,
+      "resonance": 0.8528293128274285,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 400,
+      "resonance": 0.37990681475699595,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 401,
+      "resonance": 0.6147021388345296,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 402,
+      "resonance": 0.9946089535915257,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 403,
+      "resonance": 0.6093110924260554,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 404,
+      "resonance": 0.9858860572676863,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 405,
+      "resonance": 0.5951971496937418,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 406,
+      "resonance": 0.9630492182115333,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 407,
+      "resonance": 0.5582463679052752,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 408,
+      "resonance": 0.9032615973669137,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 409,
+      "resonance": 0.46150796527218896,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 410,
+      "resonance": 0.7467355738892079,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 411,
+      "resonance": 0.20824353916139682,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 412,
+      "resonance": 0.33694512430070983,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 413,
+      "resonance": 0.5451886634621067,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 414,
+      "resonance": 0.8821337877628166,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 415,
+      "resonance": 0.4273224512249234,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 416,
+      "resonance": 0.6914222502378452,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 417,
+      "resonance": 0.11874470146276872,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 418,
+      "resonance": 0.19213296295071916,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 419,
+      "resonance": 0.3108776644134879,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 420,
+      "resonance": 0.5030106273642071,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 421,
+      "resonance": 0.8138882917776951,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 422,
+      "resonance": 0.31689891914190227,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 423,
+      "resonance": 0.5127532221697025,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 424,
+      "resonance": 0.8296521413116048,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 425,
+      "resonance": 0.34240536348130735,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 426,
+      "resonance": 0.5540235160430174,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 427,
+      "resonance": 0.8964288795243248,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 428,
+      "resonance": 0.4504523955673423,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 429,
+      "resonance": 0.7288472863417723,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 430,
+      "resonance": 0.1792996819091146,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 431,
+      "resonance": 0.2901129795009921,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 432,
+      "resonance": 0.4694126614101067,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 433,
+      "resonance": 0.7595256409110988,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 434,
+      "resonance": 0.2289383023212055,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 435,
+      "resonance": 0.37042995448240945,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 436,
+      "resonance": 0.5993682568036149,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 437,
+      "resonance": 0.9697982112860244,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 438,
+      "resonance": 0.5691664680896393,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 439,
+      "resonance": 0.9209306906257689,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 440,
+      "resonance": 0.4900971587154084,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 441,
+      "resonance": 0.7929938605912825,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 442,
+      "resonance": 0.2830910193066909,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 443,
+      "resonance": 0.45805089114807856,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 444,
+      "resonance": 0.7411419104547695,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 445,
+      "resonance": 0.19919280160284814,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 446,
+      "resonance": 0.3223007233077228,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 447,
+      "resonance": 0.521493524910571,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 448,
+      "resonance": 0.8437942482182939,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 449,
+      "resonance": 0.36528777312886485,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 450,
+      "resonance": 0.5910480325972639,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 451,
+      "resonance": 0.9563358057261289,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 452,
+      "resonance": 0.5473838383233929,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 453,
+      "resonance": 0.885685655299627,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 454,
+      "resonance": 0.43306949362301994,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 455,
+      "resonance": 0.7007211601727521,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 456,
+      "resonance": 0.13379065379577204,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 457,
+      "resonance": 0.2164778252186293,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 458,
+      "resonance": 0.35026847901440133,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 459,
+      "resonance": 0.5667463042330306,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 460,
+      "resonance": 0.917014783247432,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 461,
+      "resonance": 0.48376108748046276,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 462,
+      "resonance": 0.782741881978,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 463,
+      "resonance": 0.26650296945846286,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 464,
+      "resonance": 0.43121086268656805,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 465,
+      "resonance": 0.6977138321450309,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 466,
+      "resonance": 0.12892469483159896,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 467,
+      "resonance": 0.20860453822673503,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 468,
+      "resonance": 0.337529233058334,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 469,
+      "resonance": 0.546133771285069,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 470,
+      "resonance": 0.8836630043434031,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 471,
+      "resonance": 0.4297967756284722,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 472,
+      "resonance": 0.6954257912219804,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 473,
+      "resonance": 0.12522256685045274,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 474,
+      "resonance": 0.20261436932253843,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 475,
+      "resonance": 0.3278369361729912,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 476,
+      "resonance": 0.5304513054955297,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 477,
+      "resonance": 0.8582882416685209,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 478,
+      "resonance": 0.3887395471640507,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 479,
+      "resonance": 0.6289938000826768,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 480,
+      "resonance": 0.017733347246727593,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 481,
+      "resonance": 0.028693158579509614,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 482,
+      "resonance": 0.04642650582623721,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 483,
+      "resonance": 0.07511966440574683,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 484,
+      "resonance": 0.12154617023198404,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 485,
+      "resonance": 0.19666583463773088,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 486,
+      "resonance": 0.31821200486971496,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 487,
+      "resonance": 0.5148778395074459,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 488,
+      "resonance": 0.8330898443771609,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 489,
+      "resonance": 0.34796768388460686,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 490,
+      "resonance": 0.563023539511873,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 491,
+      "resonance": 0.91099122339648,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 492,
+      "resonance": 0.4740147629083531,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 493,
+      "resonance": 0.7669719975549383,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 494,
+      "resonance": 0.24098676046329137,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 495,
+      "resonance": 0.3899247692683348,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 496,
+      "resonance": 0.6309115297316262,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 497,
+      "resonance": 0.02083629899996109,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 498,
+      "resonance": 0.03371383998169249,
+      "complexity": 0.1180339887498949,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 499,
+      "resonance": 0.054550138981653576,
+      "complexity": 0.8090169943749475,
+      "mutation_rate": 0.01
+    },
+    {
+      "epoch": 500,
+      "resonance": 0.08826397896334606,
+      "complexity": 0.9270509831248424,
+      "mutation_rate": 0.01
+    }
+  ]
+}

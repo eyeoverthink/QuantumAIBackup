@@ -1,0 +1,14 @@
+{
+  "task_id": "hanoi-high-8disks-1b94e5db",
+  "configuration": "phi_optimized_hanoi_8",
+  "timestamp": 1751572720,
+  "execution_time_seconds": 0.04061293601989746,
+  "success": false,
+  "iterations": 510,
+  "moves": 510,
+  "optimal_moves": 255,
+  "resonance": 0.3439046938708873,
+  "phi_resonance_factor": 0.1973342624463726,
+  "move_efficiency": 2.0,
+  "dimension": 34
+}

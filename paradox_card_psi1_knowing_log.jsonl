@@ -1,0 +1,2 @@
+{"node": "psi1", "event": "user_knowing_card", "message": {"card": ["ace", "diamonds"]}, "timestamp": 1745308285}
+{"node": "psi2", "event": "system_revealed_card", "message": {"card": ["6", "Hearts"]}, "timestamp": 1745308286}

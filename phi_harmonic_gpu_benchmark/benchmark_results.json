@@ -1,0 +1,157 @@
+{
+  "Simple Vertex Transformation": {
+    "benchmark_name": "Simple Vertex Transformation",
+    "input_data_size": 10000,
+    "results": {
+      "Phi-Harmonic Quantum GPU": {
+        "execution_time": 0.017361164093017578,
+        "operations_count": 10000,
+        "operations_per_second": 575998.2421928644,
+        "coherence": 0.9887324785067735,
+        "resonance": 0.6349509549371969
+      },
+      "NVIDIA RTX 4090": {
+        "execution_time": 0.015855789184570312,
+        "operations_count": 10000,
+        "operations_per_second": 630684.4701070612,
+        "cache_hit_rate": 0.8525
+      },
+      "NVIDIA A100": {
+        "execution_time": 0.00843501091003418,
+        "operations_count": 10000,
+        "operations_per_second": 1185534.921846293,
+        "cache_hit_rate": 0.8452
+      },
+      "AMD Radeon RX 7900 XTX": {
+        "execution_time": 0.007791042327880859,
+        "operations_count": 10000,
+        "operations_per_second": 1283525.3075463616,
+        "cache_hit_rate": 0.8515
+      }
+    }
+  },
+  "Complex Geometry Processing": {
+    "benchmark_name": "Complex Geometry Processing",
+    "input_data_size": 10000,
+    "results": {
+      "Phi-Harmonic Quantum GPU": {
+        "execution_time": 0.028877973556518555,
+        "operations_count": 20000,
+        "operations_per_second": 692569.3716304913,
+        "coherence": 0.9882849331524229,
+        "resonance": 0.6374191053995745
+      },
+      "NVIDIA RTX 4090": {
+        "execution_time": 0.023052692413330078,
+        "operations_count": 20000,
+        "operations_per_second": 867577.6191953666,
+        "cache_hit_rate": 0.85105
+      },
+      "NVIDIA A100": {
+        "execution_time": 0.017786741256713867,
+        "operations_count": 20000,
+        "operations_per_second": 1124433.065694409,
+        "cache_hit_rate": 0.84985
+      },
+      "AMD Radeon RX 7900 XTX": {
+        "execution_time": 0.016043901443481445,
+        "operations_count": 20000,
+        "operations_per_second": 1246579.5848007966,
+        "cache_hit_rate": 0.8472
+      }
+    }
+  },
+  "Fragment Shading": {
+    "benchmark_name": "Fragment Shading",
+    "input_data_size": 10000,
+    "results": {
+      "Phi-Harmonic Quantum GPU": {
+        "execution_time": 0.037265777587890625,
+        "operations_count": 30000,
+        "operations_per_second": 805028.1502712662,
+        "coherence": 0.9882196371652091,
+        "resonance": 0.6377792036990346
+      },
+      "NVIDIA RTX 4090": {
+        "execution_time": 0.030029773712158203,
+        "operations_count": 30000,
+        "operations_per_second": 999008.5269225272,
+        "cache_hit_rate": 0.8524
+      },
+      "NVIDIA A100": {
+        "execution_time": 0.024965763092041016,
+        "operations_count": 30000,
+        "operations_per_second": 1201645.6252268082,
+        "cache_hit_rate": 0.8477666666666667
+      },
+      "AMD Radeon RX 7900 XTX": {
+        "execution_time": 0.02242279052734375,
+        "operations_count": 30000,
+        "operations_per_second": 1337924.4641034366,
+        "cache_hit_rate": 0.8462666666666666
+      }
+    }
+  },
+  "Natural Phenomena Rendering": {
+    "benchmark_name": "Natural Phenomena Rendering",
+    "input_data_size": 10000,
+    "results": {
+      "Phi-Harmonic Quantum GPU": {
+        "execution_time": 0.04664874076843262,
+        "operations_count": 40000,
+        "operations_per_second": 857472.2348575839,
+        "coherence": 0.9882101106090615,
+        "resonance": 0.6378317413328827
+      },
+      "NVIDIA RTX 4090": {
+        "execution_time": 0.03749871253967285,
+        "operations_count": 40000,
+        "operations_per_second": 1066703.2890177453,
+        "cache_hit_rate": 0.852175
+      },
+      "NVIDIA A100": {
+        "execution_time": 0.03251957893371582,
+        "operations_count": 40000,
+        "operations_per_second": 1230028.2264272675,
+        "cache_hit_rate": 0.848375
+      },
+      "AMD Radeon RX 7900 XTX": {
+        "execution_time": 0.029655933380126953,
+        "operations_count": 40000,
+        "operations_per_second": 1348802.59836316,
+        "cache_hit_rate": 0.847475
+      }
+    }
+  },
+  "Scaling Test": {
+    "benchmark_name": "Scaling Test",
+    "input_data_size": 100000,
+    "results": {
+      "Phi-Harmonic Quantum GPU": {
+        "execution_time": 0.1347804069519043,
+        "operations_count": 140000,
+        "operations_per_second": 1038726.6455573048,
+        "coherence": 0.9882087207032493,
+        "resonance": 0.6378394064703583
+      },
+      "NVIDIA RTX 4090": {
+        "execution_time": 0.10267281532287598,
+        "operations_count": 140000,
+        "operations_per_second": 1363554.701015463,
+        "cache_hit_rate": 0.8497214285714285
+      },
+      "NVIDIA A100": {
+        "execution_time": 0.11687469482421875,
+        "operations_count": 140000,
+        "operations_per_second": 1197864.0903453229,
+        "cache_hit_rate": 0.8476928571428571
+      },
+      "AMD Radeon RX 7900 XTX": {
+        "execution_time": 0.12006592750549316,
+        "operations_count": 140000,
+        "operations_per_second": 1166026.0567561502,
+        "cache_hit_rate": 0.8490642857142857
+      }
+    }
+  }
+}

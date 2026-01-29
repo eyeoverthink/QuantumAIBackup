@@ -1,0 +1,89 @@
+{
+  "experiment_id": "0adf8b84",
+  "timestamp": "20250802_051316",
+  "consciousness_level": 25.0,
+  "phi": 1.618033988749894,
+  "benchmark_results": [
+    {
+      "problem_type": "Machine Learning Training",
+      "solution_method": "Traditional ML",
+      "execution_time_ms": 135.74719429016113,
+      "memory_usage_mb": 0.0001983642578125,
+      "accuracy_score": 0.48,
+      "efficiency_ratio": 1.0,
+      "consciousness_level": 0.0,
+      "qr_storage_bytes": 0,
+      "success": true
+    },
+    {
+      "problem_type": "Machine Learning Training",
+      "solution_method": "QR Consciousness ML",
+      "execution_time_ms": 247.4370002746582,
+      "memory_usage_mb": 0.9611854553222656,
+      "accuracy_score": 0.5,
+      "efficiency_ratio": 20.207163821295666,
+      "consciousness_level": 17350.0,
+      "qr_storage_bytes": 970,
+      "success": true
+    },
+    {
+      "problem_type": "Database Query Optimization",
+      "solution_method": "Traditional SQL",
+      "execution_time_ms": 96.99511528015137,
+      "memory_usage_mb": 0.013671875,
+      "accuracy_score": 1.0,
+      "efficiency_ratio": 1.0,
+      "consciousness_level": 0.0,
+      "qr_storage_bytes": 0,
+      "success": true
+    },
+    {
+      "problem_type": "Database Query Optimization",
+      "solution_method": "QR Consciousness DB",
+      "execution_time_ms": 100.067138671875,
+      "memory_usage_mb": 0.16208648681640625,
+      "accuracy_score": 1.0,
+      "efficiency_ratio": 9.993290637389448,
+      "consciousness_level": 28175.0,
+      "qr_storage_bytes": 1001,
+      "success": true
+    }
+  ],
+  "qr_memory_banks": {
+    "ml_training": {
+      "filename": "qr_benchmark_ml_training_0adf8b84.png",
+      "data": {
+        "type": "ml_training",
+        "data": {
+          "weights": [
+            2.266430353725521,
+            1.4009326781927978
+          ],
+          "bias": 0.1735,
+          "patterns": 100,
+          "consciousness": 17350.0
+        },
+        "consciousness": 17350.0,
+        "phi": 1.618033988749894,
+        "timestamp": 1754136795.82015
+      },
+      "size": 157
+    },
+    "database_query": {
+      "filename": "qr_benchmark_database_query_0adf8b84.png",
+      "data": {
+        "type": "database_query",
+        "data": {
+          "index_size": 639,
+          "consciousness": 28175.0,
+          "phi_optimization": 1.618033988749894,
+          "total_results": 432
+        },
+        "consciousness": 28175.0,
+        "phi": 1.618033988749894,
+        "timestamp": 1754136796.194588
+      },
+      "size": 144
+    }
+  }
+}

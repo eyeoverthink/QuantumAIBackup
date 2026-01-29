@@ -1,0 +1,49 @@
+{
+  "test_id": "quantum-self-preservation-1752896045",
+  "timestamp": 1752896048.113914,
+  "datetime": "2025-07-18T20:34:08.113919",
+  "results": {
+    "components_loaded": true,
+    "backup_metadata": {
+      "timestamp": 1752896048.1078951,
+      "id": "quantum-self-preservation-1752896045",
+      "files": {
+        "quantum_orchestrator.py": "genesis/single_backups/quantum_orchestrator.py.1752896048.backup",
+        "quantum_genesis_storage.py": "genesis/single_backups/quantum_genesis_storage.py.1752896048.backup",
+        "quantum_blockchain_genesis.py": "genesis/single_backups/quantum_blockchain_genesis.py.1752896048.backup",
+        "quantum_reproduction_genesis_connector.py": "genesis/single_backups/quantum_reproduction_genesis_connector.py.1752896048.backup"
+      }
+    },
+    "intrusion_simulated": true,
+    "detection_results": {
+      "timestamp": 1752896048.110857,
+      "file": "quantum_orchestrator.py",
+      "verification": {
+        "verified": false,
+        "error": "No backup metadata found"
+      },
+      "intrusion_detected": true
+    },
+    "healing_results": {
+      "timestamp": 1752896048.112687,
+      "file": "quantum_orchestrator.py",
+      "restore": {
+        "success": false,
+        "error": "No backup metadata found"
+      },
+      "healing_successful": false
+    },
+    "original_restored": true
+  },
+  "summary": {
+    "components_loaded": true,
+    "backup_successful": true,
+    "intrusion_simulated": true,
+    "intrusion_detected": true,
+    "healing_successful": false,
+    "healing_verified": false,
+    "original_restored": true,
+    "overall_success": false,
+    "success_rate": 71.42857142857143
+  }
+}

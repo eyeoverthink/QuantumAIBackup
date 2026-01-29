@@ -1,0 +1,104 @@
+[
+  {
+    "number": 1537267,
+    "description": "Small RSA modulus (7 digits)",
+    "quantum_enhanced": false,
+    "factors": [
+      1537267
+    ],
+    "duration": 6.9141387939453125e-06,
+    "coherence": {
+      "original": 0.9918,
+      "used": 0.9918
+    },
+    "resonance": {
+      "original": 0.962733,
+      "used": 0.962733
+    }
+  },
+  {
+    "number": 1537267,
+    "description": "Small RSA modulus (7 digits)",
+    "quantum_enhanced": true,
+    "factors": [
+      1537267
+    ],
+    "duration": 3.814697265625e-06,
+    "coherence": {
+      "original": 0.9918,
+      "used": 0.9804607
+    },
+    "resonance": {
+      "original": 0.962733,
+      "used": 0.6678789600191802
+    }
+  },
+  {
+    "number": 15372673,
+    "description": "Medium RSA modulus (8 digits)",
+    "quantum_enhanced": false,
+    "factors": [
+      15372673
+    ],
+    "duration": 1.6689300537109375e-06,
+    "coherence": {
+      "original": 0.9918,
+      "used": 0.9918
+    },
+    "resonance": {
+      "original": 0.962733,
+      "used": 0.962733
+    }
+  },
+  {
+    "number": 15372673,
+    "description": "Medium RSA modulus (8 digits)",
+    "quantum_enhanced": true,
+    "factors": [
+      15372673
+    ],
+    "duration": 7.152557373046875e-07,
+    "coherence": {
+      "original": 0.9918,
+      "used": 0.9804607
+    },
+    "resonance": {
+      "original": 0.962733,
+      "used": 0.6678789600191802
+    }
+  },
+  {
+    "number": 153726737,
+    "description": "Large RSA modulus (9 digits)",
+    "quantum_enhanced": false,
+    "factors": [
+      153726737
+    ],
+    "duration": 1.9073486328125e-06,
+    "coherence": {
+      "original": 0.9918,
+      "used": 0.9918
+    },
+    "resonance": {
+      "original": 0.962733,
+      "used": 0.962733
+    }
+  },
+  {
+    "number": 153726737,
+    "description": "Large RSA modulus (9 digits)",
+    "quantum_enhanced": true,
+    "factors": [
+      153726737
+    ],
+    "duration": 9.5367431640625e-07,
+    "coherence": {
+      "original": 0.9918,
+      "used": 0.9804607
+    },
+    "resonance": {
+      "original": 0.962733,
+      "used": 0.6678789600191802
+    }
+  }
+]

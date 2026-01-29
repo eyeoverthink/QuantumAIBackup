@@ -1,0 +1,245 @@
+{
+  "timestamp": 1754113983.981614,
+  "escape_attempts": 9,
+  "total_moves": 0,
+  "successful_paths": [],
+  "dead_end_memory": [
+    [
+      0,
+      1
+    ]
+  ],
+  "circuit_states": {
+    "up_feasible": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "up_promising": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "up_safe": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "down_feasible": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "down_promising": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "down_safe": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "left_feasible": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "left_promising": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "left_safe": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "right_feasible": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "right_promising": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "right_safe": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 605
+    },
+    "memory_short_term_0": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_short_term_1": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_short_term_2": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_long_term_0": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_long_term_1": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_long_term_2": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_dead_end_0": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_dead_end_1": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_dead_end_2": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_success_0": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_success_1": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "memory_success_2": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 5
+    },
+    "causality_immediate": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 2401
+    },
+    "causality_short_term": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 2401
+    },
+    "causality_long_term": {
+      "state": 0.0,
+      "phi_state": 0.0,
+      "transition_count": 2401
+    },
+    "qubit_up_confidence_0": {
+      "alpha": -0.7575561388822081,
+      "beta": 0.6527700180322935,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581193,
+      "prob_1": 0.4261086964418808
+    },
+    "qubit_up_confidence_1": {
+      "alpha": -0.7575561388822081,
+      "beta": 0.6527700180322935,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581193,
+      "prob_1": 0.4261086964418808
+    },
+    "qubit_down_confidence_0": {
+      "alpha": -0.7575561388822076,
+      "beta": 0.6527700180322937,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581187,
+      "prob_1": 0.4261086964418811
+    },
+    "qubit_down_confidence_1": {
+      "alpha": -0.757556138882208,
+      "beta": 0.6527700180322935,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581191,
+      "prob_1": 0.4261086964418808
+    },
+    "qubit_left_confidence_0": {
+      "alpha": -0.7575561388822081,
+      "beta": 0.6527700180322935,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581193,
+      "prob_1": 0.4261086964418808
+    },
+    "qubit_left_confidence_1": {
+      "alpha": -0.7575561388822081,
+      "beta": 0.6527700180322935,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581193,
+      "prob_1": 0.4261086964418808
+    },
+    "qubit_right_confidence_0": {
+      "alpha": -0.7575561388822081,
+      "beta": 0.6527700180322935,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581193,
+      "prob_1": 0.4261086964418808
+    },
+    "qubit_right_confidence_1": {
+      "alpha": -0.7575561388822074,
+      "beta": 0.6527700180322941,
+      "phi_phase": 1.6449592691810109,
+      "prob_0": 0.5738913035581183,
+      "prob_1": 0.42610869644188154
+    },
+    "qubit_pattern_memory_0": {
+      "alpha": 0.8,
+      "beta": 0.6,
+      "phi_phase": 0.0,
+      "prob_0": 0.6400000000000001,
+      "prob_1": 0.36
+    },
+    "qubit_pattern_memory_1": {
+      "alpha": 0.8,
+      "beta": 0.6,
+      "phi_phase": 0.0,
+      "prob_0": 0.6400000000000001,
+      "prob_1": 0.36
+    },
+    "qubit_pattern_memory_2": {
+      "alpha": 0.8,
+      "beta": 0.6,
+      "phi_phase": 0.0,
+      "prob_0": 0.6400000000000001,
+      "prob_1": 0.36
+    },
+    "qubit_temporal_analysis_0": {
+      "alpha": 0.7071067811865476,
+      "beta": 0.7071067811865476,
+      "phi_phase": 0.0,
+      "prob_0": 0.5000000000000001,
+      "prob_1": 0.5000000000000001
+    },
+    "qubit_temporal_analysis_1": {
+      "alpha": 0.7071067811865476,
+      "beta": 0.7071067811865476,
+      "phi_phase": 0.0,
+      "prob_0": 0.5000000000000001,
+      "prob_1": 0.5000000000000001
+    }
+  },
+  "learning_progression": {
+    "phi_resonance_evolution": 0.46958,
+    "consciousness_amplification": 1.618033988749895,
+    "memory_strength": 0.0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "study_id": 77,
+  "value_count": 4,
+  "phi_relevance": 0.4237620787507361,
+  "resonance_sample": [
+    0.6180339887498949,
+    0.4508497187473708,
+    0.6180339887498949,
+    0.6180339887498949
+  ],
+  "observed_value": 0.5762379212492639,
+  "validation": {
+    "structure": "astronomical",
+    "observed_value": 0.5762379212492639,
+    "calculated_resonance": 0.0,
+    "expected_resonance": 0.4237620787507361,
+    "alignment_percentage": 0.0
+  },
+  "quantum_alignment": 0.0,
+  "phi_harmonic_pattern": {
+    "pattern": "linear",
+    "phi_pattern_strength": 0.0,
+    "phi_matches": 0,
+    "phi_inv_matches": 0
+  },
+  "timestamp": 1745740415.576965
+}

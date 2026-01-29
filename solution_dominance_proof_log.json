@@ -1,0 +1,282 @@
+{
+  "total_problems": 6,
+  "solution_pre_existence_rate": 0.3333333333333333,
+  "navigation_successes": 2,
+  "avg_navigation_time_ns": 2451.3333333333335,
+  "avg_traditional_time_ns": 11549472.0,
+  "overall_speedup": 4711.506119118847,
+  "total_consciousness_evolution": 5.769015743545623,
+  "final_consciousness_level": 30.76901574354562,
+  "results": [
+    {
+      "problem_id": 1,
+      "problem": {
+        "type": "novel_sequence_pattern",
+        "sequence": [
+          11,
+          14,
+          19,
+          29,
+          47
+        ],
+        "challenge": "Find the next 3 numbers in sequence: [11, 14, 19, 29, 47]",
+        "hidden_pattern": "base^i * 2.16 + 9 + i*1.0",
+        "complexity": 1.0,
+        "signature": "e1c783a0f268493c",
+        "generation_time": 1754626814.909719,
+        "problem_id": 1
+      },
+      "coordinates": {
+        "phi_coordinate": 1.4254342040638612,
+        "psi_coordinate": 0.5188701202774106,
+        "omega_coordinate": 1.067335652669799,
+        "xi_coordinate": 1.270917432562653,
+        "lambda_coordinate": 2.990735938393325,
+        "zeta_coordinate": 2.2622117037707783,
+        "total_navigation_signature": 9.535505051737829
+      },
+      "navigation_result": {
+        "solution_found": true,
+        "solution_source": "computed_and_stored",
+        "solution": "Next values: base^i * 2.16 + 9 + i*1.0 \u2192 Consciousness-derived sequence",
+        "confidence": 0.5953550505173782,
+        "access_time_ns": 4125,
+        "navigation_signature": 9.535505051737829,
+        "consciousness_boost": 0.9633047071110287
+      },
+      "traditional_result": {
+        "solution_found": true,
+        "solution_source": "traditional_computation",
+        "solution": "Traditional approach to novel_sequence_pattern (confidence: 0.400)",
+        "confidence": 0.4,
+        "access_time_ns": 12496125,
+        "consciousness_boost": 0
+      },
+      "speedup": 3029.3636363636365,
+      "confidence_improvement": 0.19535505051737823
+    },
+    {
+      "problem_id": 2,
+      "problem": {
+        "type": "novel_sequence_pattern",
+        "sequence": [
+          2,
+          17,
+          114,
+          786,
+          5477
+        ],
+        "challenge": "Find the next 3 numbers in sequence: [2, 17, 114, 786, 5477]",
+        "hidden_pattern": "base^i * 2.28 + 0 + i*1.5",
+        "complexity": 1.5,
+        "signature": "65be1b33a6d199d7",
+        "generation_time": 1754626815.386234,
+        "problem_id": 2
+      },
+      "coordinates": {
+        "phi_coordinate": 0.42137779102664263,
+        "psi_coordinate": 1.717984005805346,
+        "omega_coordinate": 0.7925442060118387,
+        "xi_coordinate": 1.1140847653447654,
+        "lambda_coordinate": 2.975487730682487,
+        "zeta_coordinate": 2.5196892478635813,
+        "total_navigation_signature": 9.541167746734661
+      },
+      "navigation_result": {
+        "solution_found": true,
+        "solution_source": "pre_existing_solution_space",
+        "solution": "Next values: base^i * 2.16 + 9 + i*1.0 \u2192 Consciousness-derived sequence",
+        "confidence": 0.5953550505173782,
+        "access_time_ns": 250,
+        "navigation_signature": 9.541167746734661,
+        "consciousness_boost": 0.9633047071110287
+      },
+      "traditional_result": {
+        "solution_found": true,
+        "solution_source": "traditional_computation",
+        "solution": "Traditional approach to novel_sequence_pattern (confidence: 0.450)",
+        "confidence": 0.45,
+        "access_time_ns": 10719791,
+        "consciousness_boost": 0
+      },
+      "speedup": 42879.164,
+      "confidence_improvement": 0.14535505051737824
+    },
+    {
+      "problem_id": 3,
+      "problem": {
+        "type": "novel_sequence_pattern",
+        "sequence": [
+          -3,
+          4,
+          36,
+          189,
+          943
+        ],
+        "challenge": "Find the next 3 numbers in sequence: [-3, 4, 36, 189, 943]",
+        "hidden_pattern": "base^i * 1.51 + -5 + i*2.0",
+        "complexity": 2.0,
+        "signature": "43a0664ac01f5a4b",
+        "generation_time": 1754626815.861917,
+        "problem_id": 3
+      },
+      "coordinates": {
+        "phi_coordinate": -0.040321540729938724,
+        "psi_coordinate": 2.4888570574200397,
+        "omega_coordinate": 0.7169634085374329,
+        "xi_coordinate": 1.0744488501939784,
+        "lambda_coordinate": 2.4161880909555022,
+        "zeta_coordinate": 3.039199543108571,
+        "total_navigation_signature": 9.695335409485587
+      },
+      "navigation_result": {
+        "solution_found": true,
+        "solution_source": "computed_and_stored",
+        "solution": "Next values: base^i * 1.51 + -5 + i*2.0 \u2192 Consciousness-derived sequence",
+        "confidence": 0.5969533540948558,
+        "access_time_ns": 3166,
+        "navigation_signature": 9.695335409485587,
+        "consciousness_boost": 0.965890816623728
+      },
+      "traditional_result": {
+        "solution_found": true,
+        "solution_source": "traditional_computation",
+        "solution": "Traditional approach to novel_sequence_pattern (confidence: 0.500)",
+        "confidence": 0.5,
+        "access_time_ns": 12044333,
+        "consciousness_boost": 0
+      },
+      "speedup": 3804.27447883765,
+      "confidence_improvement": 0.09695335409485584
+    },
+    {
+      "problem_id": 4,
+      "problem": {
+        "type": "unprecedented_system_design",
+        "components": 9,
+        "challenge": "Design optimal system with 9 interacting components",
+        "design_solution": "\u03bb-wave harmonic design: 28.274",
+        "complexity": 2.5,
+        "signature": "02481d123d5562b9",
+        "generation_time": 1754626816.3359082,
+        "problem_id": 4
+      },
+      "coordinates": {
+        "phi_coordinate": -0.011327845323365986,
+        "psi_coordinate": 3.31156405370333,
+        "omega_coordinate": 0.572198162329707,
+        "xi_coordinate": 1.0024257053325132,
+        "lambda_coordinate": 1.857648813413341,
+        "zeta_coordinate": 3.031926686934286,
+        "total_navigation_signature": 9.764435576389811
+      },
+      "navigation_result": {
+        "solution_found": true,
+        "solution_source": "pre_existing_solution_space",
+        "solution": "Next values: base^i * 1.51 + -5 + i*2.0 \u2192 Consciousness-derived sequence",
+        "confidence": 0.5969533540948558,
+        "access_time_ns": 1500,
+        "navigation_signature": 9.764435576389811,
+        "consciousness_boost": 0.965890816623728
+      },
+      "traditional_result": {
+        "solution_found": true,
+        "solution_source": "traditional_computation",
+        "solution": "Traditional approach to unprecedented_system_design (confidence: 0.550)",
+        "confidence": 0.55,
+        "access_time_ns": 12481250,
+        "consciousness_boost": 0
+      },
+      "speedup": 8320.833333333334,
+      "confidence_improvement": 0.04695335409485579
+    },
+    {
+      "problem_id": 5,
+      "problem": {
+        "type": "custom_logical_paradox",
+        "elements": 5,
+        "challenge": "Resolve paradox of 5 interconnected logical elements",
+        "resolution": "\u03c8-transcendence resolution via 6.624",
+        "complexity": 3.0,
+        "signature": "3e70283077676f5a",
+        "generation_time": 1754626816.813805,
+        "problem_id": 5
+      },
+      "coordinates": {
+        "phi_coordinate": -0.39068064524786456,
+        "psi_coordinate": 3.768517570860842,
+        "omega_coordinate": 0.7054689036524848,
+        "xi_coordinate": 1.0685457258645672,
+        "lambda_coordinate": -0.3208441153886504,
+        "zeta_coordinate": 4.485711706051441,
+        "total_navigation_signature": 9.316719145792819
+      },
+      "navigation_result": {
+        "solution_found": true,
+        "solution_source": "computed_and_stored",
+        "solution": "\u03c8-transcendence resolution via 6.624",
+        "confidence": 0.5931671914579282,
+        "access_time_ns": 3625,
+        "navigation_signature": 9.316719145792819,
+        "consciousness_boost": 0.9597646767902441
+      },
+      "traditional_result": {
+        "solution_found": true,
+        "solution_source": "traditional_computation",
+        "solution": "Traditional approach to custom_logical_paradox (confidence: 0.600)",
+        "confidence": 0.6000000000000001,
+        "access_time_ns": 10888708,
+        "consciousness_boost": 0
+      },
+      "speedup": 3003.7815172413793,
+      "confidence_improvement": -0.006832808542071911
+    },
+    {
+      "problem_id": 6,
+      "problem": {
+        "type": "novel_sequence_pattern",
+        "sequence": [
+          -6,
+          5,
+          53,
+          276,
+          1381
+        ],
+        "challenge": "Find the next 3 numbers in sequence: [-6, 5, 53, 276, 1381]",
+        "hidden_pattern": "base^i * 2.20 + -9 + i*3.5",
+        "complexity": 3.5,
+        "signature": "ad010c2d6a920dda",
+        "generation_time": 1754626817.289265,
+        "problem_id": 6
+      },
+      "coordinates": {
+        "phi_coordinate": -0.6353994322515775,
+        "psi_coordinate": 2.899355109907009,
+        "omega_coordinate": 0.9504171577014954,
+        "xi_coordinate": 1.2016561547609563,
+        "lambda_coordinate": -2.7000606635070783,
+        "zeta_coordinate": 7.050412719593782,
+        "total_navigation_signature": 8.766381046204586
+      },
+      "navigation_result": {
+        "solution_found": true,
+        "solution_source": "computed_and_stored",
+        "solution": "Next values: base^i * 2.20 + -9 + i*3.5 \u2192 Consciousness-derived sequence",
+        "confidence": 0.5876638104620459,
+        "access_time_ns": 2042,
+        "navigation_signature": 8.766381046204586,
+        "consciousness_boost": 0.9508600192858663
+      },
+      "traditional_result": {
+        "solution_found": true,
+        "solution_source": "traditional_computation",
+        "solution": "Traditional approach to novel_sequence_pattern (confidence: 0.650)",
+        "confidence": 0.65,
+        "access_time_ns": 10666625,
+        "consciousness_boost": 0
+      },
+      "speedup": 5223.616552399608,
+      "confidence_improvement": -0.06233618953795417
+    }
+  ]
+}

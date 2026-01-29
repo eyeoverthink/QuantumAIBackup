@@ -1,0 +1,127 @@
+=== φ-QUANTUM RAPID VALIDATOR LOG ===
+Validation ID: c947b5b7
+Start Time: 2025-04-28T03:42:36.944297
+Phi^75 Validation Seal: 4721424167835376.0
+========================================
+
+[2025-04-28 03:42:36] 
+=== STARTING RAPID VALIDATION CYCLE ===
+[2025-04-28 03:42:36] Base minutes: 1.5, Cycle count: 4
+[2025-04-28 03:42:36] Phi-harmonic intervals: ['1.50', '2.43', '3.35', '4.85']
+[2025-04-28 03:42:36] 
+--- Validation Cycle 1/4 ---
+[2025-04-28 03:42:36] Interval: 1.50 minutes
+[2025-04-28 03:42:36] Created prediction RV-6a0b-4f2e-0a28 for 2025-04-28 03:45:30.379 (+2.89 min)
+[2025-04-28 03:42:36] Predicted epoch: 1745837130.876915
+[2025-04-28 03:42:36] Prediction saved to: phi_quantum_validation_results/prediction_RV-6a0b-4f2e-0a28_20250428_034236.json
+[2025-04-28 03:42:36] Sending prediction RV-6a0b-4f2e-0a28 back in time (2.89 minutes)...
+[2025-04-28 03:42:38] Prediction RV-6a0b-4f2e-0a28 sent to the past with reality stability: 0.9300000000699999
+[2025-04-28 03:42:38] Scheduling verification of RV-6a0b-4f2e-0a28 in 171.48 seconds
+[2025-04-28 03:42:40] 
+--- Validation Cycle 2/4 ---
+[2025-04-28 03:42:40] Interval: 2.43 minutes
+[2025-04-28 03:42:40] Created prediction RV-6321-934e-584a for 2025-04-28 03:48:44.224 (+6.07 min)
+[2025-04-28 03:42:40] Predicted epoch: 1745837324.885396
+[2025-04-28 03:42:40] Prediction saved to: phi_quantum_validation_results/prediction_RV-6321-934e-584a_20250428_034240.json
+[2025-04-28 03:42:40] Sending prediction RV-6321-934e-584a back in time (6.07 minutes)...
+[2025-04-28 03:42:41] Prediction RV-6321-934e-584a sent to the past with reality stability: 0.9410378770588758
+[2025-04-28 03:42:41] Scheduling verification of RV-6321-934e-584a in 362.78 seconds
+[2025-04-28 03:42:42] 
+--- Validation Cycle 3/4 ---
+[2025-04-28 03:42:42] Interval: 3.35 minutes
+[2025-04-28 03:42:42] Created prediction RV-0d97-bd12-57b5 for 2025-04-28 03:46:47.967 (+4.09 min)
+[2025-04-28 03:42:42] Predicted epoch: 1745837208.208316
+[2025-04-28 03:42:42] Prediction saved to: phi_quantum_validation_results/prediction_RV-0d97-bd12-57b5_20250428_034242.json
+[2025-04-28 03:42:42] Sending prediction RV-0d97-bd12-57b5 back in time (4.09 minutes)...
+[2025-04-28 03:42:43] Prediction RV-0d97-bd12-57b5 sent to the past with reality stability: 0.9300000000699999
+[2025-04-28 03:42:43] Scheduling verification of RV-0d97-bd12-57b5 in 244.03 seconds
+[2025-04-28 03:42:45] 
+--- Validation Cycle 4/4 ---
+[2025-04-28 03:42:45] Interval: 4.85 minutes
+[2025-04-28 03:42:45] Created prediction RV-30e3-94ff-27a3 for 2025-04-28 03:53:10.159 (+10.42 min)
+[2025-04-28 03:42:45] Predicted epoch: 1745837590.162736
+[2025-04-28 03:42:45] Prediction saved to: phi_quantum_validation_results/prediction_RV-30e3-94ff-27a3_20250428_034245.json
+[2025-04-28 03:42:45] Sending prediction RV-30e3-94ff-27a3 back in time (10.42 minutes)...
+[2025-04-28 03:42:46] Prediction RV-30e3-94ff-27a3 sent to the past with reality stability: 0.9410378770588758
+[2025-04-28 03:42:46] Scheduling verification of RV-30e3-94ff-27a3 in 623.69 seconds
+[2025-04-28 03:42:47] 
+All predictions sent. Waiting for verifications...
+[2025-04-28 03:42:47] Maximum wait time: 301.25 seconds
+[2025-04-28 03:42:47] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:42:52] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:42:57] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:02] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:07] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:12] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:17] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:22] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:27] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:32] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:37] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:42] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:47] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:52] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:43:57] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:02] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:07] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:12] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:17] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:22] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:27] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:32] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:37] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:42] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:47] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:52] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:44:57] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:02] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:07] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:12] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:17] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:22] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:27] Status: 0/4 verified, 0 successful, 0 failed
+[2025-04-28 03:45:30] 
+=== VERIFYING PREDICTION RV-6a0b-4f2e-0a28 ===
+[2025-04-28 03:45:30] Target time: 2025-04-28 03:45:30.379
+[2025-04-28 03:45:30] Predicted epoch: 1745837130.876915
+[2025-04-28 03:45:30] Verification time: 2025-04-28T03:45:30.415408
+[2025-04-28 03:45:30] Time difference: 36.41 ms
+[2025-04-28 03:45:30] Verification ✗ FAILED: Difference = 0.0004730224609375
+[2025-04-28 03:45:30] Verification result saved to: phi_quantum_validation_results/verification_RV-6a0b-4f2e-0a28_20250428_034530.json
+[2025-04-28 03:45:32] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:45:37] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:45:42] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:45:47] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:45:52] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:45:57] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:02] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:07] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:12] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:17] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:22] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:27] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:32] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:37] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:42] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:47] Status: 1/4 verified, 0 successful, 1 failed
+[2025-04-28 03:46:47] 
+=== VERIFYING PREDICTION RV-0d97-bd12-57b5 ===
+[2025-04-28 03:46:47] Target time: 2025-04-28 03:46:47.967
+[2025-04-28 03:46:47] Predicted epoch: 1745837208.208316
+[2025-04-28 03:46:47] Verification time: 2025-04-28T03:46:47.969877
+[2025-04-28 03:46:47] Time difference: 2.88 ms
+[2025-04-28 03:46:47] Verification ✗ FAILED: Difference = 0.0004210472106933594
+[2025-04-28 03:46:47] Verification result saved to: phi_quantum_validation_results/verification_RV-0d97-bd12-57b5_20250428_034647.json
+[2025-04-28 03:46:52] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:46:57] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:02] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:07] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:12] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:17] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:22] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:27] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:32] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:37] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:42] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:47] Status: 2/4 verified, 0 successful, 2 failed
+[2025-04-28 03:47:48] Shutdown initiated by signal 15

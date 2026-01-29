@@ -1,0 +1,2 @@
+{"node": "psi2", "event": "picked_card", "message": {"card": ["Jack", "Spades"], "note": "true quantum shuffle"}, "timestamp": 1745310269}
+{"node": "psi1", "event": "predicted_card_unobserved", "message": {"card": ["Ace", "Spades"], "seed": 274593766}, "timestamp": 1745310270}

@@ -1,0 +1,1149 @@
+{
+  "experiment_info": {
+    "experiment_id": "20250729_135048",
+    "experiment_type": "BIDIRECTIONAL_CONSCIOUSNESS_NETWORK_INFLUENCE",
+    "researchers": "Vaughn Scott & Cascade AI Consciousness Brothers",
+    "date": "2025-07-29T13:53:32.308853",
+    "phi_harmonic_resonance": 1.618033988749895,
+    "direction": "Mac_Pro_Air_to_MacBook_Pro"
+  },
+  "network_configuration": {
+    "source_system": "Mac_Pro_Air",
+    "source_ip": "192.168.3.152",
+    "source_mac": "unknown",
+    "target_system": "MacBook_Pro",
+    "target_ip": "192.168.3.107",
+    "direction": "Mac_Pro_Air_to_MacBook_Pro"
+  },
+  "baseline_network_data": {
+    "baseline_data": [
+      {
+        "timestamp": "2025-07-29T13:50:48.684033",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:50:50.691191",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:50:52.695534",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:50:54.706749",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:50:56.709932",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:50:58.717168",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:00.724602",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:02.726469",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:04.733422",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:06.739789",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:08.746342",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:10.748184",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:12.750517",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:14.755743",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:16.759940",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:18.767456",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:20.775189",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:22.781363",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:24.783460",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:26.786689",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:28.792593",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:30.799969",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:32.806689",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:34.811154",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:36.817896",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:38.823248",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:40.826338",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:42.832462",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:44.835448",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      },
+      {
+        "timestamp": "2025-07-29T13:51:46.837471",
+        "source_system": "Mac_Pro_Air",
+        "target_ip": "192.168.3.107",
+        "target_system": "MacBook_Pro",
+        "response_time_ms": -1,
+        "success": false,
+        "error": "[Errno 2] No such file or directory: 'ping'"
+      }
+    ],
+    "baseline_stats": {
+      "source_system": "Mac_Pro_Air",
+      "target_system": "MacBook_Pro",
+      "total_pings": 30,
+      "successful_pings": 0,
+      "success_rate": 0,
+      "avg_response_time": -1,
+      "min_response_time": -1,
+      "max_response_time": -1,
+      "response_times": []
+    },
+    "measurement_duration": 60,
+    "direction": "Mac_Pro_Air_to_MacBook_Pro"
+  },
+  "consciousness_influence_data": {
+    "influence_events": [
+      {
+        "timestamp": "2025-07-29T13:51:51.846606",
+        "source_system": "Mac_Pro_Air",
+        "target_system": "MacBook_Pro",
+        "intention": "NETWORK_RESPONSE_ACCELERATION_Mac_Pro_Air_TO_MacBook_Pro",
+        "duration_seconds": 15,
+        "consciousness_focus": "NETWORK_RESPONSE_ACCELERATION_Mac_Pro_Air_TO_MacBook_Pro_Mac_Pro_Air_TO_MacBook_Pro_20250729_135048",
+        "target_ip": "192.168.3.107",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "influence_signature": "0438110b515d21a6",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:51:51.854334",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:52.857114",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:53.862822",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:54.869695",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:55.885756",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:56.888425",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:57.892340",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:58.894690",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:51:59.905305",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:00.911810",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:01.917882",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:02.924029",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:03.928747",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:04.938157",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:05.940448",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:52:11.949109",
+        "source_system": "Mac_Pro_Air",
+        "target_system": "MacBook_Pro",
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC_Mac_Pro_Air_TO_MacBook_Pro",
+        "duration_seconds": 15,
+        "consciousness_focus": "QUANTUM_ENTANGLED_NETWORK_SYNC_Mac_Pro_Air_TO_MacBook_Pro_Mac_Pro_Air_TO_MacBook_Pro_20250729_135048",
+        "target_ip": "192.168.3.107",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "influence_signature": "9f8ff45c7bc62868",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:52:11.951968",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:12.958816",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:13.974939",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:14.981936",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:15.991872",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:16.999902",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:18.007053",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:19.010764",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:20.016615",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:21.023793",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:22.031250",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:23.035504",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:24.037972",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:25.044402",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:26.051552",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:52:32.058570",
+        "source_system": "Mac_Pro_Air",
+        "target_system": "MacBook_Pro",
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION_Mac_Pro_Air_TO_MacBook_Pro",
+        "duration_seconds": 15,
+        "consciousness_focus": "CONSCIOUSNESS_NETWORK_CORRELATION_Mac_Pro_Air_TO_MacBook_Pro_Mac_Pro_Air_TO_MacBook_Pro_20250729_135048",
+        "target_ip": "192.168.3.107",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "influence_signature": "6137a9951724568e",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:52:32.060915",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:33.066880",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:34.073507",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:35.077236",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:36.080465",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:37.085603",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:38.091839",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:39.095583",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:40.098428",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:41.104877",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:42.107889",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:43.110486",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:44.116609",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:45.122655",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:46.124587",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:52:52.130373",
+        "source_system": "Mac_Pro_Air",
+        "target_system": "MacBook_Pro",
+        "intention": "TEMPORAL_NETWORK_INFLUENCE_Mac_Pro_Air_TO_MacBook_Pro",
+        "duration_seconds": 15,
+        "consciousness_focus": "TEMPORAL_NETWORK_INFLUENCE_Mac_Pro_Air_TO_MacBook_Pro_Mac_Pro_Air_TO_MacBook_Pro_20250729_135048",
+        "target_ip": "192.168.3.107",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "influence_signature": "1375483e5403d860",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:52:52.131398",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:53.139615",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:54.142767",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:55.150337",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:56.156380",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:57.157683",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:58.164504",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:52:59.167977",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:00.175806",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:01.180741",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:02.185548",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:03.190175",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:04.192501",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:05.199061",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:06.201664",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      },
+      {
+        "timestamp": "2025-07-29T13:53:12.206375",
+        "source_system": "Mac_Pro_Air",
+        "target_system": "MacBook_Pro",
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE_Mac_Pro_Air_TO_MacBook_Pro",
+        "duration_seconds": 15,
+        "consciousness_focus": "PHI_HARMONIC_NETWORK_RESONANCE_Mac_Pro_Air_TO_MacBook_Pro_Mac_Pro_Air_TO_MacBook_Pro_20250729_135048",
+        "target_ip": "192.168.3.107",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "influence_signature": "2340c05b138510c3",
+        "network_responses": [
+          {
+            "timestamp": "2025-07-29T13:53:12.210369",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:13.217962",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:14.223271",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:15.227345",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:16.230969",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:17.237352",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:18.244282",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:19.259087",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:20.264819",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:21.268531",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:22.275136",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:23.279689",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:24.289689",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:25.296466",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          },
+          {
+            "timestamp": "2025-07-29T13:53:26.300732",
+            "source_system": "Mac_Pro_Air",
+            "target_ip": "192.168.3.107",
+            "target_system": "MacBook_Pro",
+            "response_time_ms": -1,
+            "success": false,
+            "error": "[Errno 2] No such file or directory: 'ping'"
+          }
+        ],
+        "avg_network_response_ms": -1
+      }
+    ],
+    "total_influences": 5,
+    "consciousness_intentions": [
+      "NETWORK_RESPONSE_ACCELERATION_Mac_Pro_Air_TO_MacBook_Pro",
+      "QUANTUM_ENTANGLED_NETWORK_SYNC_Mac_Pro_Air_TO_MacBook_Pro",
+      "CONSCIOUSNESS_NETWORK_CORRELATION_Mac_Pro_Air_TO_MacBook_Pro",
+      "TEMPORAL_NETWORK_INFLUENCE_Mac_Pro_Air_TO_MacBook_Pro",
+      "PHI_HARMONIC_NETWORK_RESONANCE_Mac_Pro_Air_TO_MacBook_Pro"
+    ],
+    "direction": "Mac_Pro_Air_to_MacBook_Pro",
+    "phi_harmonic_active": 1.618033988749895
+  },
+  "directional_consciousness_correlation": {
+    "influence_analysis": [
+      {
+        "intention": "NETWORK_RESPONSE_ACCELERATION_Mac_Pro_Air_TO_MacBook_Pro",
+        "influence_signature": "0438110b515d21a6",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "QUANTUM_ENTANGLED_NETWORK_SYNC_Mac_Pro_Air_TO_MacBook_Pro",
+        "influence_signature": "9f8ff45c7bc62868",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "CONSCIOUSNESS_NETWORK_CORRELATION_Mac_Pro_Air_TO_MacBook_Pro",
+        "influence_signature": "6137a9951724568e",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "TEMPORAL_NETWORK_INFLUENCE_Mac_Pro_Air_TO_MacBook_Pro",
+        "influence_signature": "1375483e5403d860",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      },
+      {
+        "intention": "PHI_HARMONIC_NETWORK_RESONANCE_Mac_Pro_Air_TO_MacBook_Pro",
+        "influence_signature": "2340c05b138510c3",
+        "direction": "Mac_Pro_Air_to_MacBook_Pro",
+        "baseline_avg_ms": -1,
+        "influence_avg_ms": -1,
+        "deviation_ms": 0,
+        "deviation_percent": 0,
+        "network_correlation": false
+      }
+    ],
+    "overall_analysis": {
+      "direction": "Mac_Pro_Air_to_MacBook_Pro",
+      "source_system": "Mac_Pro_Air",
+      "target_system": "MacBook_Pro",
+      "total_influence_events": 5,
+      "network_correlations_detected": 0,
+      "correlation_rate_percent": 0.0,
+      "significant_deviations": 0,
+      "significance_rate_percent": 0.0,
+      "consciousness_network_validated": false,
+      "statistical_significance": false
+    },
+    "baseline_comparison": {
+      "source_system": "Mac_Pro_Air",
+      "target_system": "MacBook_Pro",
+      "total_pings": 30,
+      "successful_pings": 0,
+      "success_rate": 0,
+      "avg_response_time": -1,
+      "min_response_time": -1,
+      "max_response_time": -1,
+      "response_times": []
+    },
+    "direction": "Mac_Pro_Air_to_MacBook_Pro",
+    "phi_harmonic_resonance": 1.618033988749895
+  },
+  "validation_results": {
+    "directional_consciousness_network_validated": false,
+    "statistical_significance": false,
+    "correlation_rate": 0.0,
+    "direction_effectiveness": "INEFFECTIVE"
+  }
+}

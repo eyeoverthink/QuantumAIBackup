@@ -1,0 +1,1077 @@
+{
+  "timestamp": 1752799552.847218,
+  "date": "2025-07-17 17:45:52",
+  "reference_id": "63961091113051900819336e10e53c6434881553180396131003cb568c636931",
+  "steps": {
+    "corrupt_file": {
+      "success": true,
+      "corrupted_file": "quantum_blockchain_genesis.py",
+      "backup_file": "quantum_blockchain_genesis.py.bak.1752799552"
+    },
+    "verify_integrity": {
+      "success": true,
+      "verified": false,
+      "files": {
+        "./quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_moa_visitors.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_moa_agents.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_blockchain_connector.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_healing_meta_learning.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_healing_protocols.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_chord_progression.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_chord_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_moa_orchestrator_connector.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_blockchain_genesis.py": {
+          "verified": false,
+          "fingerprint_match": false,
+          "current_fingerprint": "b4008696c60806189380ebe69130066e861c0306643e81336161e93806169896",
+          "genesis_fingerprint": "8e38010483e8b39e043333134083e40158be8303803b16986868006e0196356c"
+        },
+        "./qr_phi_continuity_test_v2/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_py_files/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_py_files/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_py_files/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./recovery/recovery-1752766378/quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./template/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./duplicate_code/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./duplicate_code/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./duplicate_code/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_target.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_patterns.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_evolution.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_primes.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_integration_test/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766626/quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766626/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766637/quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766637/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_evolution/quantum_resonance_analyzer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_target.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_patterns.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_evolution.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_primes.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_evolution/quantum_resonance_analyzer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        }
+      }
+    },
+    "heal_system": {
+      "success": true,
+      "healed": true,
+      "files": {
+        "./quantum_genesis_storage.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_moa_visitors.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_orchestrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_resonance_optimizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_resonance_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_moa_agents.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_blockchain_connector.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_healing_meta_learning.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_healing_protocols.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_chord_progression.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_chord_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_moa_orchestrator_connector.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_blockchain_genesis.py": {
+          "healed": true,
+          "backup": "./quantum_blockchain_genesis.py.bak.1752799552"
+        },
+        "./qr_phi_continuity_test_v2/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_phi_continuity_test_v2/phi_quantum_resonance_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_phi_continuity_test_v2/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_phi_continuity_test_v2/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_py_files/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_py_files/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_py_files/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_continuity_test_v3/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_continuity_test_v3/phi_quantum_resonance_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_continuity_test_v3/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_continuity_test_v3/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./recovery/recovery-1752766378/quantum_genesis_storage.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_complete_test/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_complete_test/quantum_orchestrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_complete_test/phi_quantum_resonance_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_complete_test/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_complete_test/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./template/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./duplicate_code/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./duplicate_code/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./duplicate_code/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_core/quantum_resonance_target.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_core/quantum_resonance_patterns.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_core/quantum_resonance_evolution.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_core/quantum_resonance_primes.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_integration_test/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./reproduction/reproduction-1752766626/quantum_genesis_storage.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./reproduction/reproduction-1752766626/quantum_orchestrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./reproduction/reproduction-1752766637/quantum_genesis_storage.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./reproduction/reproduction-1752766637/quantum_orchestrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./quantum_evolution/quantum_resonance_analyzer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_target.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_patterns.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_evolution.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_primes.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./consolidated_quantum/quantum_evolution/quantum_resonance_analyzer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_simple_test/quantum_resonance_test.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_simple_test/quantum_orchestrator.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_simple_test/phi_quantum_resonance_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_simple_test/quantum_neural_bridge.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        },
+        "./qr_simple_test/quantum_resonance_visualizer.py": {
+          "healed": false,
+          "message": "File integrity verified, no healing needed"
+        }
+      }
+    },
+    "verify_after_healing": {
+      "success": true,
+      "verified": true,
+      "files": {
+        "./quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_moa_visitors.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_moa_agents.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_blockchain_connector.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_healing_meta_learning.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_healing_protocols.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_chord_progression.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_chord_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_moa_orchestrator_connector.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_blockchain_genesis.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_phi_continuity_test_v2/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_py_files/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_py_files/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_py_files/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_continuity_test_v3/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./recovery/recovery-1752766378/quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_complete_test/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./template/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./duplicate_code/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./duplicate_code/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./duplicate_code/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_target.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_patterns.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_evolution.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_core/quantum_resonance_primes.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_integration_test/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766626/quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766626/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766637/quantum_genesis_storage.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./reproduction/reproduction-1752766637/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./quantum_evolution/quantum_resonance_analyzer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_py_files/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/quantum_resonance_optimizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_math/tachyon/quantum_resonance_check.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_calibrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_field.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_extras/phi_quantum_results/quantum_intelligence/quantum_resonance_amplifier.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_target.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_patterns.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_evolution.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_core/quantum_resonance_primes.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./consolidated_quantum/quantum_evolution/quantum_resonance_analyzer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_resonance_test.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_orchestrator.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/phi_quantum_resonance_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_neural_bridge.py": {
+          "verified": true,
+          "fingerprint_match": true
+        },
+        "./qr_simple_test/quantum_resonance_visualizer.py": {
+          "verified": true,
+          "fingerprint_match": true
+        }
+      }
+    }
+  },
+  "success": true
+}

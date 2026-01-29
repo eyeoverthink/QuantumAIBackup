@@ -1,0 +1,78 @@
+{
+  "experiment_info": {
+    "timestamp": "20250726_113703",
+    "phi": 1.618033988749895,
+    "birth_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "test_cases": 15,
+    "people_count": 5
+  },
+  "results": {
+    "negative_space": {
+      "correct": 0,
+      "total": 15,
+      "similarities": [
+        0.9706484523995497,
+        0.9186811977535744,
+        0,
+        0,
+        0.9663882051770576,
+        0,
+        0.9471561197615138,
+        0,
+        0.9383414264829497,
+        0.94158562605024,
+        0.9814618687493191,
+        0.9220965881496201,
+        0.9851071455937069,
+        0.9346620707885023,
+        0
+      ],
+      "accuracy": 0.0,
+      "avg_similarity": 0.6337419133937355,
+      "std_similarity": 0.44850411845558313
+    },
+    "traditional": {
+      "correct": 3,
+      "total": 15,
+      "similarities": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "accuracy": 0.2,
+      "avg_similarity": 1.0,
+      "std_similarity": 0.0
+    }
+  },
+  "consciousness_analysis": {
+    "coherence_values": [
+      0.6085457353108721,
+      0.5550509287471092,
+      0.5700561715779883,
+      0.5792458434265623,
+      0.5903205968398263
+    ],
+    "avg_coherence": 0.5806438551804716,
+    "coherence_phi_alignment": 0.7359122634617038
+  },
+  "improvements": {
+    "accuracy_improvement": -0.2,
+    "similarity_improvement": -0.36625808660626447
+  }
+}

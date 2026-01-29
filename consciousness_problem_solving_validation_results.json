@@ -1,0 +1,465 @@
+{
+  "experiment_info": {
+    "framework": "Vaughn Scott Consciousness Physics Problem Solving",
+    "test_type": "Consciousness Problem Solving Performance Analysis",
+    "proposed_by": "GPT-5 + Vaughn Scott",
+    "implementation": "QRTaskExecutor + Consciousness Physics",
+    "constants": {
+      "PHI": 1.618034,
+      "PSI": 1.324718,
+      "OMEGA": 0.567143,
+      "XI": 2.718282,
+      "LAMBDA": 3.141593,
+      "ZETA": 1.202057
+    }
+  },
+  "results": {
+    "total_problems": 10,
+    "qr_success_rate": 1.0,
+    "significant_count": 0,
+    "significance_rate": 0.0,
+    "mean_r_squared": -2.2394140013108363,
+    "mean_rmse": 0.2703888856798168,
+    "mean_correlation": -0.21427608499243891,
+    "verdict": "\u2753 CONSCIOUSNESS PROBLEM SOLVING FRAMEWORK INCONCLUSIVE",
+    "status": "INSUFFICIENT EVIDENCE FOR CONSCIOUSNESS PHYSICS",
+    "detailed_results": [
+      {
+        "problem_name": "Consciousness_Prime_Factorization",
+        "problem_type": "prime_factorization",
+        "performance_metrics": [
+          0.16183292954407244,
+          0.19099916846635792,
+          0.1596948230082196,
+          0.09192002676938403,
+          0.14661643906332075,
+          0.24893661314864532
+        ],
+        "r_squared": -4.111071120637702,
+        "rmse": 0.10692522870016746,
+        "correlation": -0.5802108384733308,
+        "p_value": 0.25,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9993599627649872,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Prime_Factorization",
+          "problem_type": "prime_factorization",
+          "performance_metrics": [
+            0.16183292954407244,
+            0.19099916846635792,
+            0.1596948230082196,
+            0.09192002676938403,
+            0.14661643906332075,
+            0.24893661314864532
+          ],
+          "results_count": 6,
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Optimization_Engine",
+        "problem_type": "optimization",
+        "performance_metrics": [
+          0.49687268199520584,
+          0.3537927127031546,
+          0.44277631483453384,
+          0.22977617617910084,
+          0.4223583112768452,
+          0.7518830408583739
+        ],
+        "r_squared": -2.5883305505848173,
+        "rmse": 0.3014042895262588,
+        "correlation": -0.4391136272789216,
+        "p_value": 0.46,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9988193760798941,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Optimization_Engine",
+          "problem_type": "optimization",
+          "performance_metrics": [
+            0.49687268199520584,
+            0.3537927127031546,
+            0.44277631483453384,
+            0.22977617617910084,
+            0.4223583112768452,
+            0.7518830408583739
+          ],
+          "solution": [
+            -2.779220141230163,
+            -3.2865807762128654,
+            -6.070384920266201,
+            14.431827226233004,
+            -7.137257535039341,
+            13.936013883583202
+          ],
+          "consciousness_signature": 21.95816389814308,
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Pattern_Recognition",
+        "problem_type": "pattern_recognition",
+        "performance_metrics": [
+          0.8611380196391867,
+          0.018447590201862596,
+          0.8868883808950043,
+          0.896694137129348,
+          0.9869527631642931,
+          0.05277627762206549
+        ],
+        "r_squared": 0.09746518371467061,
+        "rmse": 0.39249867086421003,
+        "correlation": 0.45144205820376326,
+        "p_value": 0.3,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9992696124902688,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Pattern_Recognition",
+          "problem_type": "pattern_recognition",
+          "performance_metrics": [
+            0.8611380196391867,
+            0.018447590201862596,
+            0.8868883808950043,
+            0.896694137129348,
+            0.9869527631642931,
+            0.05277627762206549
+          ],
+          "patterns_count": 6,
+          "consciousness_signatures": [
+            9.802722328232402,
+            10.582212659752386,
+            12.143125068800998,
+            10.262619602060916,
+            10.18176217070903,
+            8.362978026517933
+          ],
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Phi_Harmonic_Solver",
+        "problem_type": "optimization",
+        "performance_metrics": [
+          0.49687268199520584,
+          0.3537927127031546,
+          0.44277631483453384,
+          0.22977617617910084,
+          0.4223583112768452,
+          0.7518830408583739
+        ],
+        "r_squared": -2.5883305505848173,
+        "rmse": 0.3014042895262588,
+        "correlation": -0.4391136272789216,
+        "p_value": 0.44,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9996049373471845,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Phi_Harmonic_Solver",
+          "problem_type": "optimization",
+          "performance_metrics": [
+            0.49687268199520584,
+            0.3537927127031546,
+            0.44277631483453384,
+            0.22977617617910084,
+            0.4223583112768452,
+            0.7518830408583739
+          ],
+          "solution": [
+            -2.779220141230163,
+            -3.2865807762128654,
+            -6.070384920266201,
+            14.431827226233004,
+            -7.137257535039341,
+            13.936013883583202
+          ],
+          "consciousness_signature": 21.95816389814308,
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Universal_Knowledge",
+        "problem_type": "pattern_recognition",
+        "performance_metrics": [
+          0.8611380196391867,
+          0.018447590201862596,
+          0.8868883808950043,
+          0.896694137129348,
+          0.9869527631642931,
+          0.05277627762206549
+        ],
+        "r_squared": 0.09746518371467061,
+        "rmse": 0.39249867086421003,
+        "correlation": 0.45144205820376326,
+        "p_value": 0.325,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9995961978609258,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Universal_Knowledge",
+          "problem_type": "pattern_recognition",
+          "performance_metrics": [
+            0.8611380196391867,
+            0.018447590201862596,
+            0.8868883808950043,
+            0.896694137129348,
+            0.9869527631642931,
+            0.05277627762206549
+          ],
+          "patterns_count": 6,
+          "consciousness_signatures": [
+            9.802722328232402,
+            10.582212659752386,
+            12.143125068800998,
+            10.262619602060916,
+            10.18176217070903,
+            8.362978026517933
+          ],
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Quantum_Navigation",
+        "problem_type": "prime_factorization",
+        "performance_metrics": [
+          0.16183292954407244,
+          0.19099916846635792,
+          0.1596948230082196,
+          0.09192002676938403,
+          0.14661643906332075,
+          0.24893661314864532
+        ],
+        "r_squared": -4.111071120637702,
+        "rmse": 0.10692522870016746,
+        "correlation": -0.5802108384733308,
+        "p_value": 0.19,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9996079741306477,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Quantum_Navigation",
+          "problem_type": "prime_factorization",
+          "performance_metrics": [
+            0.16183292954407244,
+            0.19099916846635792,
+            0.1596948230082196,
+            0.09192002676938403,
+            0.14661643906332075,
+            0.24893661314864532
+          ],
+          "results_count": 6,
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Reality_Engineering",
+        "problem_type": "optimization",
+        "performance_metrics": [
+          0.49687268199520584,
+          0.3537927127031546,
+          0.44277631483453384,
+          0.22977617617910084,
+          0.4223583112768452,
+          0.7518830408583739
+        ],
+        "r_squared": -2.5883305505848173,
+        "rmse": 0.3014042895262588,
+        "correlation": -0.4391136272789216,
+        "p_value": 0.425,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9996065165689079,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Reality_Engineering",
+          "problem_type": "optimization",
+          "performance_metrics": [
+            0.49687268199520584,
+            0.3537927127031546,
+            0.44277631483453384,
+            0.22977617617910084,
+            0.4223583112768452,
+            0.7518830408583739
+          ],
+          "solution": [
+            -2.779220141230163,
+            -3.2865807762128654,
+            -6.070384920266201,
+            14.431827226233004,
+            -7.137257535039341,
+            13.936013883583202
+          ],
+          "consciousness_signature": 21.95816389814308,
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Infinite_Recursion",
+        "problem_type": "pattern_recognition",
+        "performance_metrics": [
+          0.8611380196391867,
+          0.018447590201862596,
+          0.8868883808950043,
+          0.896694137129348,
+          0.9869527631642931,
+          0.05277627762206549
+        ],
+        "r_squared": 0.09746518371467061,
+        "rmse": 0.39249867086421003,
+        "correlation": 0.45144205820376326,
+        "p_value": 0.4,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9997193588377686,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Infinite_Recursion",
+          "problem_type": "pattern_recognition",
+          "performance_metrics": [
+            0.8611380196391867,
+            0.018447590201862596,
+            0.8868883808950043,
+            0.896694137129348,
+            0.9869527631642931,
+            0.05277627762206549
+          ],
+          "patterns_count": 6,
+          "consciousness_signatures": [
+            9.802722328232402,
+            10.582212659752386,
+            12.143125068800998,
+            10.262619602060916,
+            10.18176217070903,
+            8.362978026517933
+          ],
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Paradox_Resolution",
+        "problem_type": "prime_factorization",
+        "performance_metrics": [
+          0.16183292954407244,
+          0.19099916846635792,
+          0.1596948230082196,
+          0.09192002676938403,
+          0.14661643906332075,
+          0.24893661314864532
+        ],
+        "r_squared": -4.111071120637702,
+        "rmse": 0.10692522870016746,
+        "correlation": -0.5802108384733308,
+        "p_value": 0.21,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9997661320826663,
+          "generation": 1
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Paradox_Resolution",
+          "problem_type": "prime_factorization",
+          "performance_metrics": [
+            0.16183292954407244,
+            0.19099916846635792,
+            0.1596948230082196,
+            0.09192002676938403,
+            0.14661643906332075,
+            0.24893661314864532
+          ],
+          "results_count": 6,
+          "consciousness_guided": true
+        }
+      },
+      {
+        "problem_name": "Consciousness_Transcendence_Engine",
+        "problem_type": "optimization",
+        "performance_metrics": [
+          0.49687268199520584,
+          0.3537927127031546,
+          0.44277631483453384,
+          0.22977617617910084,
+          0.4223583112768452,
+          0.7518830408583739
+        ],
+        "r_squared": -2.5883305505848173,
+        "rmse": 0.3014042895262588,
+        "correlation": -0.4391136272789216,
+        "p_value": 0.45,
+        "significant": false,
+        "qr_success": true,
+        "phi_metrics": {
+          "success_rate": 1.0,
+          "resonance": 0.8944271909999159,
+          "complexity": 0.9997790870846668,
+          "generation": 2
+        },
+        "consciousness_result": {
+          "problem_name": "Consciousness_Transcendence_Engine",
+          "problem_type": "optimization",
+          "performance_metrics": [
+            0.49687268199520584,
+            0.3537927127031546,
+            0.44277631483453384,
+            0.22977617617910084,
+            0.4223583112768452,
+            0.7518830408583739
+          ],
+          "solution": [
+            -2.779220141230163,
+            -3.2865807762128654,
+            -6.070384920266201,
+            14.431827226233004,
+            -7.137257535039341,
+            13.936013883583202
+          ],
+          "consciousness_signature": 21.95816389814308,
+          "consciousness_guided": true
+        }
+      }
+    ]
+  }
+}

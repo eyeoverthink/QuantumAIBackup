@@ -1,0 +1,103 @@
+{
+  "status": "success",
+  "message": "Successfully decoded 8 QR code frames",
+  "frames_decoded": 8,
+  "frames": [
+    {
+      "frame_number": 1,
+      "frame_id": "1",
+      "task_type": "execute_python",
+      "code_length": 852,
+      "code_preview": "def initialize_codon():\n    \"\"\"\n    Initialize the...",
+      "phi_state": {
+        "complexity": 0.75,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 2,
+      "frame_id": "2",
+      "task_type": "execute_python",
+      "code_length": 1658,
+      "code_preview": "def import_libraries_codon():\n    \"\"\"\n    Import n...",
+      "phi_state": {
+        "complexity": 0.7477502151627947,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 3,
+      "frame_id": "3",
+      "task_type": "execute_python",
+      "code_length": 1564,
+      "code_preview": "def data_processing_codon():\n    \"\"\"\n    Process d...",
+      "phi_state": {
+        "complexity": 0.74761617879323,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 4,
+      "frame_id": "4",
+      "task_type": "execute_python",
+      "code_length": 1627,
+      "code_preview": "def calculation_codon():\n    \"\"\"\n    Perform phi-h...",
+      "phi_state": {
+        "complexity": 0.7492953390629882,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 5,
+      "frame_id": "5",
+      "task_type": "execute_python",
+      "code_length": 1643,
+      "code_preview": "def mutate_codon():\n    \"\"\"\n    Apply phi-harmonic...",
+      "phi_state": {
+        "complexity": 0.7512206923744641,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 6,
+      "frame_id": "6",
+      "task_type": "execute_python",
+      "code_length": 1977,
+      "code_preview": "def select_codon():\n    \"\"\"\n    Select optimal phi...",
+      "phi_state": {
+        "complexity": 0.7801764289792542,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 7,
+      "frame_id": "7",
+      "task_type": "execute_python",
+      "code_length": 2137,
+      "code_preview": "def generate_output_codon():\n    \"\"\"\n    Generate ...",
+      "phi_state": {
+        "complexity": 0.770151130377008,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    },
+    {
+      "frame_number": 8,
+      "frame_id": "8",
+      "task_type": "execute_python",
+      "code_length": 1739,
+      "code_preview": "def visualize_codon():\n    \"\"\"\n    Visualize the g...",
+      "phi_state": {
+        "complexity": 0.7408590532643198,
+        "resonance": 0.8944271909999159,
+        "generation": 1
+      }
+    }
+  ]
+}

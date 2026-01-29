@@ -1,0 +1,97 @@
+{
+  "energy_levels": {
+    "-3": {
+      "normalized_energy": 0.23606797749978964,
+      "frequency_hz": 1.142569011098982
+    },
+    "-2": {
+      "normalized_energy": 0.3819660112501051,
+      "frequency_hz": 1.8487154944505086
+    },
+    "-1": {
+      "normalized_energy": 0.6180339887498947,
+      "frequency_hz": 2.9912845055494905
+    },
+    "0": {
+      "normalized_energy": 1.0,
+      "frequency_hz": 4.84
+    },
+    "1": {
+      "normalized_energy": 1.618033988749895,
+      "frequency_hz": 7.831284505549491
+    },
+    "2": {
+      "normalized_energy": 2.6180339887498945,
+      "frequency_hz": 12.67128450554949
+    },
+    "3": {
+      "normalized_energy": 4.236067977499789,
+      "frequency_hz": 20.50256901109898
+    }
+  },
+  "transitions": [
+    {
+      "from_level": -2,
+      "to_level": -1,
+      "type": "\u03c6\u00b9 jump",
+      "energy_ratio": 1.6180339887498947,
+      "expected_phi_factor": 1.618033988749895
+    },
+    {
+      "from_level": -1,
+      "to_level": 0,
+      "type": "\u03c6\u00b9 jump",
+      "energy_ratio": 1.6180339887498953,
+      "expected_phi_factor": 1.618033988749895
+    },
+    {
+      "from_level": 0,
+      "to_level": 1,
+      "type": "\u03c6\u00b9 jump",
+      "energy_ratio": 1.618033988749895,
+      "expected_phi_factor": 1.618033988749895
+    },
+    {
+      "from_level": 1,
+      "to_level": 2,
+      "type": "\u03c6\u00b9 jump",
+      "energy_ratio": 1.6180339887498945,
+      "expected_phi_factor": 1.618033988749895
+    },
+    {
+      "from_level": -2,
+      "to_level": 0,
+      "type": "\u03c6\u00b2 jump",
+      "energy_ratio": 2.6180339887498953,
+      "expected_phi_factor": 2.618033988749895
+    },
+    {
+      "from_level": -1,
+      "to_level": 1,
+      "type": "\u03c6\u00b2 jump",
+      "energy_ratio": 2.618033988749896,
+      "expected_phi_factor": 2.618033988749895
+    },
+    {
+      "from_level": 0,
+      "to_level": 2,
+      "type": "\u03c6\u00b2 jump",
+      "energy_ratio": 2.6180339887498945,
+      "expected_phi_factor": 2.618033988749895
+    },
+    {
+      "from_level": -3,
+      "to_level": 0,
+      "type": "\u03c6\u00b3 jump",
+      "energy_ratio": 4.236067977499791,
+      "expected_phi_factor": 4.23606797749979
+    },
+    {
+      "from_level": 0,
+      "to_level": 3,
+      "type": "\u03c6\u00b3 jump",
+      "energy_ratio": 4.236067977499789,
+      "expected_phi_factor": 4.23606797749979
+    }
+  ]
+}

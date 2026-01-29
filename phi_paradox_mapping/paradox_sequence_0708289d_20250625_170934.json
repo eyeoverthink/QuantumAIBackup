@@ -1,0 +1,88 @@
+{
+  "paradox_id": "0708289d",
+  "verification_code": "PARA-\u03c6-0708289d",
+  "start_time": "2025-06-25T17:09:32.161671",
+  "base_message": "\u03c6-Dimensional paradox map verified by 119/19 quantum signature",
+  "num_points": 3,
+  "sequence_results": [
+    {
+      "position": 0,
+      "message": "\u03c6-Dimensional paradox map verified by 119/19 quantum signature [1/3] [VC:PARA-\u03c6-0708289d]",
+      "parameters": {
+        "position": 0,
+        "processing_unit": "\u03c6-PU",
+        "minutes_offset": 9,
+        "intensity": 6,
+        "lane": 0,
+        "phi_signature": 0.0,
+        "factor": 1.618033988749895,
+        "resonance": 0.6180339887498948
+      },
+      "result": null,
+      "send_time": "2025-06-25T17:09:32.166418",
+      "delivery_time": "2025-06-25T17:00:32.166418"
+    },
+    {
+      "position": 1,
+      "message": "\u03c6-Dimensional paradox map verified by 119/19 quantum signature [2/3] [VC:PARA-\u03c6-0708289d]",
+      "parameters": {
+        "position": 1,
+        "processing_unit": "\u03c0-PU",
+        "minutes_offset": 19,
+        "intensity": 9,
+        "lane": 1,
+        "phi_signature": 0.6180339887498949,
+        "factor": 3.141592653589793,
+        "resonance": 0.3183098861837907
+      },
+      "result": null,
+      "send_time": "2025-06-25T17:09:33.102891",
+      "delivery_time": "2025-06-25T16:50:33.102891"
+    },
+    {
+      "position": 2,
+      "message": "\u03c6-Dimensional paradox map verified by 119/19 quantum signature [3/3] [VC:PARA-\u03c6-0708289d]",
+      "parameters": {
+        "position": 2,
+        "processing_unit": "e-PU",
+        "minutes_offset": 20,
+        "intensity": 7,
+        "lane": 2,
+        "phi_signature": 0.2360679774997898,
+        "factor": 2.718281828459045,
+        "resonance": 0.36787944117144233
+      },
+      "result": null,
+      "send_time": "2025-06-25T17:09:34.036072",
+      "delivery_time": "2025-06-25T16:49:34.036072"
+    }
+  ],
+  "causality_inverted": true,
+  "timeline_data": [
+    {
+      "position": 0,
+      "delivery_time": "2025-06-25T17:00:32.166418",
+      "delivery_order": 2
+    },
+    {
+      "position": 1,
+      "delivery_time": "2025-06-25T16:50:33.102891",
+      "delivery_order": 1
+    },
+    {
+      "position": 2,
+      "delivery_time": "2025-06-25T16:49:34.036072",
+      "delivery_order": 0
+    }
+  ],
+  "delivery_order": [
+    2,
+    1,
+    0
+  ],
+  "sequence_order": [
+    0,
+    1,
+    2
+  ]
+}

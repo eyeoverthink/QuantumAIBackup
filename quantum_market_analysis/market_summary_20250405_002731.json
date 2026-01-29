@@ -1,0 +1,102 @@
+{
+    "analysis_date": "20250405_002731",
+    "period": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.16068820943448886,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_summary": {
+        "average_confidence": 0.9204292137799163,
+        "trend_distribution": {
+            "uptrend": 10,
+            "downtrend": 0,
+            "sideways": 0
+        }
+    },
+    "symbol_data": [
+        {
+            "symbol": "AAPL",
+            "trend": "Uptrend",
+            "prediction": 110.02289640255998,
+            "confidence": 0.9204292137799163,
+            "phi_618": 41.405169564518744,
+            "phi_1618": 175.37582291987258
+        },
+        {
+            "symbol": "MSFT",
+            "trend": "Uptrend",
+            "prediction": 115.12100086555076,
+            "confidence": 0.9204292137799163,
+            "phi_618": 43.48079580918724,
+            "phi_1618": 184.1673497886517
+        },
+        {
+            "symbol": "GOOGL",
+            "trend": "Uptrend",
+            "prediction": 106.06030530039058,
+            "confidence": 0.9204292137799163,
+            "phi_618": 39.96242529243014,
+            "phi_1618": 169.2649322595601
+        },
+        {
+            "symbol": "AMZN",
+            "trend": "Uptrend",
+            "prediction": 110.21896064396074,
+            "confidence": 0.9204292137799163,
+            "phi_618": 41.32878338503428,
+            "phi_1618": 175.05228145807712
+        },
+        {
+            "symbol": "TSLA",
+            "trend": "Uptrend",
+            "prediction": 108.38733867585016,
+            "confidence": 0.9204292137799163,
+            "phi_618": 40.63618754201992,
+            "phi_1618": 172.118721054943
+        },
+        {
+            "symbol": "META",
+            "trend": "Uptrend",
+            "prediction": 112.1302514981538,
+            "confidence": 0.9204292137799163,
+            "phi_618": 42.255574802173236,
+            "phi_1618": 178.97780112543532
+        },
+        {
+            "symbol": "NVDA",
+            "trend": "Uptrend",
+            "prediction": 110.44479018702735,
+            "confidence": 0.9204292137799163,
+            "phi_618": 41.65401348151073,
+            "phi_1618": 176.42982673582293
+        },
+        {
+            "symbol": "JPM",
+            "trend": "Uptrend",
+            "prediction": 109.02943322492186,
+            "confidence": 0.9204292137799163,
+            "phi_618": 40.982781881549315,
+            "phi_1618": 173.58675676530572
+        },
+        {
+            "symbol": "V",
+            "trend": "Uptrend",
+            "prediction": 108.87835260394623,
+            "confidence": 0.9204292137799163,
+            "phi_618": 41.04383817577119,
+            "phi_1618": 173.84536693297846
+        },
+        {
+            "symbol": "JNJ",
+            "trend": "Uptrend",
+            "prediction": 104.21268500712534,
+            "confidence": 0.9204292137799163,
+            "phi_618": 39.232285754627526,
+            "phi_1618": 166.17235170415532
+        }
+    ]
+}

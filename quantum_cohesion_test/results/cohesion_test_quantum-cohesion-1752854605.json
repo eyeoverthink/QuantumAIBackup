@@ -1,0 +1,122 @@
+{
+  "genesis_storage": {
+    "success": true,
+    "backup_paths": [
+      "genesis/single_backups/phi_harmonic_test.py.1752854605.backup",
+      "genesis/single_backups/logic_error_test.py.1752854605.backup",
+      "genesis/single_backups/syntax_error_test.py.1752854605.backup",
+      "genesis/single_backups/blockchain_test.py.1752854605.backup"
+    ],
+    "backup_metadata": {
+      "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-0fc1836093a9",
+      "timestamp": 1752854605.856079,
+      "datetime": "2025-07-18T09:03:25.856079",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-ae03c738cd28",
+      "phi_coherence": 0.36932381,
+      "files": [
+        {
+          "original_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-0fc1836093a9/phi_harmonic_test.py.encrypted",
+          "hash": "2b09d99f5aba81d65dc4411b76074e3bd6f164160ca7d0a3a20f0385de769857",
+          "size": 600
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-0fc1836093a9/logic_error_test.py.encrypted",
+          "hash": "cc6d4dc92534e28c547af0a83b7bc972af178489a2ae0ff6095227a1df2d04a8",
+          "size": 397
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/syntax_error_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-0fc1836093a9/syntax_error_test.py.encrypted",
+          "hash": "aa850ff73fb03959ecf6206756080f3b8036ddfd75eda656017f6d13b6c7aa72",
+          "size": 252
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/blockchain_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-0fc1836093a9/blockchain_test.py.encrypted",
+          "hash": "99963c67f92b8f9baa3e9bb3d0eb392aed9e970124226f375c59efa518979413",
+          "size": 555
+        }
+      ],
+      "user_metadata": {
+        "test_id": "quantum-cohesion-1752854605",
+        "timestamp": 1752854605.856077,
+        "phi_resonance": 0.6119351387023926
+      }
+    },
+    "blockchain_success": true,
+    "recovery_success": true
+  },
+  "orchestrator_healing": {
+    "success": false,
+    "healing_result": null,
+    "unclosed_paren_fixed": false,
+    "missing_colon_fixed": false,
+    "healed_file": "quantum_cohesion_test/temp/healed_syntax.py"
+  },
+  "moa_integration": {
+    "success": false,
+    "moa_result": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-fb72d45aa7db",
+      "role": "EvolutionAgent",
+      "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+      "patterns_found": 0,
+      "evolved_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    \"\"\"Increment a number by 1.\"\"\"\n    # Logic error: returns x instead of x+1\n    return x\n\ndef sum_even_numbers(numbers):\n    \"\"\"Sum all even numbers in a list.\"\"\"\n    total = 0\n    for num in numbers:\n        # Logic error: checks if num is odd instead of even\n        if num % 2 == 1:\n            total += num\n    return total\n",
+      "enhancements_made": 0,
+      "coherence": 1.3319627183585132
+    },
+    "agents_initialized": false,
+    "agents_count": 0
+  },
+  "chord_progression": {
+    "success": true,
+    "phi_resonance": 0.8541019662496856,
+    "visualization_path": "quantum_cohesion_test/results/chord_progression.png",
+    "visualization_success": true
+  },
+  "resonance_optimization": {
+    "success": true,
+    "optimization_result": {
+      "file_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+      "optimized_file_path": "quantum_cohesion_test/temp/phi_harmonic_test_optimized.py",
+      "resonance_before": {
+        "char_count": 600,
+        "line_count": 27,
+        "token_count": 69,
+        "phi_ratio": 13.73408863888655,
+        "phi_resonance": 0.22222222222222143,
+        "dimensional_resonances": [
+          0.0698607717382167,
+          0.7377255214267713,
+          0.020579996476207896,
+          0.9344662916631634,
+          0.4945474828723917,
+          0.7151670202651559,
+          0.6099033699941145
+        ],
+        "overall_resonance": 0.5117500649194316
+      },
+      "resonance_after": {
+        "char_count": 826,
+        "line_count": 33,
+        "token_count": 98,
+        "phi_ratio": 15.469578021436762,
+        "phi_resonance": 0.030303030303031164,
+        "dimensional_resonances": [
+          0.6377150480348295,
+          0.9999207011598656,
+          0.0948822412223933,
+          0.9305376121747813,
+          0.5145134660496637,
+          0.8541402742182385,
+          0.9564665668451084
+        ],
+        "overall_resonance": 0.7125965585292686
+      },
+      "optimization_delta": 0.20084649360983697,
+      "fragments": [
+        {
+          "value": 1.618034,
+          "resonance": 0.6180340069529473,
+          "is_harmonic": 

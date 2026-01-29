@@ -1,0 +1,67 @@
+{
+  "standard": [
+    {
+      "name": "Small RSA modulus (7 digits)",
+      "number": 1537267,
+      "factors": [
+        1537267
+      ],
+      "duration": 5.0067901611328125e-06,
+      "coherence": 0.9918,
+      "resonance": 0.962733
+    },
+    {
+      "name": "Medium RSA modulus (8 digits)",
+      "number": 15372673,
+      "factors": [
+        15372673
+      ],
+      "duration": 1.6689300537109375e-06,
+      "coherence": 0.9918,
+      "resonance": 0.962733
+    },
+    {
+      "name": "Large RSA modulus (9 digits)",
+      "number": 153726737,
+      "factors": [
+        153726737
+      ],
+      "duration": 1.9073486328125e-06,
+      "coherence": 0.9918,
+      "resonance": 0.962733
+    }
+  ],
+  "enhanced": [
+    {
+      "name": "Small RSA modulus (7 digits)",
+      "number": 1537267,
+      "factors": [
+        1537267
+      ],
+      "duration": 3.0994415283203125e-06,
+      "coherence": 0.9804607,
+      "resonance": 0.6678789600191802
+    },
+    {
+      "name": "Medium RSA modulus (8 digits)",
+      "number": 15372673,
+      "factors": [
+        15372673
+      ],
+      "duration": 9.5367431640625e-07,
+      "coherence": 0.9804607,
+      "resonance": 0.6678789600191802
+    },
+    {
+      "name": "Large RSA modulus (9 digits)",
+      "number": 153726737,
+      "factors": [
+        153726737
+      ],
+      "duration": 1.1920928955078125e-06,
+      "coherence": 0.9804607,
+      "resonance": 0.6678789600191802
+    }
+  ],
+  "timestamp": "20250411_213028"
+}

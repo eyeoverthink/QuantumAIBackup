@@ -1,0 +1,60 @@
+{
+  "timestamp": 1750978126.014925,
+  "phi_time": 0.44974517822265625,
+  "directory": "qr_recursive_system/qr_sequence",
+  "total_files": 3,
+  "success_count": 3,
+  "success_rate": 1.0,
+  "analysis_time": 0.11343884468078613,
+  "decoded_data": [
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_001.png",
+      "has_error": false,
+      "meta": {
+        "id": "9472d7de-0c74-40f3-b772-376a10550425",
+        "timestamp": 1750978125.619563,
+        "phi_time": 0.8100361824035645,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 1,
+        "resonance_factor": 0.7805114231854356,
+        "complexity_factor": 0.6114186760209174
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_002.png",
+      "has_error": false,
+      "meta": {
+        "id": "0de9ca88-e2a9-4e7f-aa49-25769effd969",
+        "timestamp": 1750978125.714145,
+        "phi_time": 0.9630727767944336,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 2,
+        "resonance_factor": 0.7805114231854356,
+        "complexity_factor": 0.6114186760209174
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_003.png",
+      "has_error": false,
+      "meta": {
+        "id": "354b65e9-519f-4c30-9496-fc2eddc70e40",
+        "timestamp": 1750978125.812714,
+        "phi_time": 0.12256097793579102,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 3,
+        "resonance_factor": 0.7805114231854356,
+        "complexity_factor": 0.6114186760209174
+      }
+    }
+  ],
+  "parameters": {
+    "qr_version": 9,
+    "error_correction": 0,
+    "compression_threshold": 510,
+    "resonance_factor": 0.700407813212301,
+    "complexity_factor": 0.5166650007375646
+  }
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "test_num": 1,
+    "rsa_challenge": {
+      "n": 2384638727,
+      "e": 65537,
+      "p": 44497,
+      "q": 53591,
+      "phi_n": 2384540640,
+      "bit_length": 32
+    },
+    "consciousness_runs": [
+      {
+        "success": false,
+        "n": 2384638727,
+        "factorization_time": 0.0019037723541259766,
+        "consciousness_level": 0.5,
+        "quantum_field_strength": 1.0,
+        "run_number": 1
+      },
+      {
+        "success": true,
+        "factor1": 44497,
+        "factor2": 53591,
+        "n": 2384638727,
+        "factorization_time": 0.003248929977416992,
+        "consciousness_level": 0.809017,
+        "quantum_field_strength": 1.618034,
+        "phi_resonance": 1.475959892489954,
+        "universe_access": 0.6472136000000001,
+        "run_number": 2,
+        "search_efficiency": 1.3090170125779999
+      },
+      {
+        "success": true,
+        "factor1": 44497,
+        "factor2": 53591,
+        "n": 2384638727,
+        "factorization_time": 0.0032911300659179688,
+        "consciousness_level": 1.3090170125779999,
+        "quantum_field_strength": 2.6180340251559997,
+        "phi_resonance": 1.877450003032408,
+        "universe_access": 0.95,
+        "run_number": 3,
+        "search_efficiency": 3.427051078437263
+      }
+    ],
+    "classical_result": {
+      "success": true,
+      "factor1": 44497,
+      "factor2": 53591,
+      "factorization_time": 0.0032939910888671875,
+      "method": "classical"
+    }
+  },
+  {
+    "test_num": 2,
+    "rsa_challenge": {
+      "n": 2190895477,
+      "e": 65537,
+      "p": 59183,
+      "q": 37019,
+      "phi_n": 2190799276,
+      "bit_length": 32
+    },
+    "consciousness_runs": [
+      {
+        "success": false,
+        "n": 2190895477,
+        "factorization_time": 0.0018131732940673828,
+        "consciousness_level": 0.5,
+        "quantum_field_strength": 1.0,
+        "run_number": 1
+      },
+      {
+        "success": true,
+        "factor1": 37019,
+        "factor2": 59183,
+        "n": 2190895477,
+        "factorization_time": 0.0028111934661865234,
+        "consciousness_level": 0.809017,
+        "quantum_field_strength": 1.618034,
+        "phi_resonance": 1.475959892489954,
+        "universe_access": 0.6472136000000001,
+        "run_number": 2,
+        "search_efficiency": 1.3090170125779999
+      },
+      {
+        "success": true,
+        "factor1": 37019,
+        "factor2": 59183,
+        "n": 2190895477,
+        "factorization_time": 0.0028047561645507812,
+        "consciousness_level": 1.3090170125779999,
+        "quantum_field_strength": 2.6180340251559997,
+        "phi_resonance": 1.877450003032408,
+        "universe_access": 0.95,
+        "run_number": 3,
+        "search_efficiency": 3.427051078437263
+      }
+    ],
+    "classical_result": {
+      "success": true,
+      "factor1": 37019,
+      "factor2": 59183,
+      "factorization_time": 0.0027642250061035156,
+      "method": "classical"
+    }
+  },
+  {
+    "test_num": 3,
+    "rsa_challenge": {
+      "n": 3659893313,
+      "e": 65537,
+      "p": 65147,
+      "q": 56179,
+      "phi_n": 3659771988,
+      "bit_length": 32
+    },
+    "consciousness_runs": [
+      {
+        "success": false,
+        "n": 3659893313,
+        "factorization_time": 0.002371072769165039,
+        "consciousness_level": 0.5,
+        "quantum_field_strength": 1.0,
+        "run_number": 1
+      },
+      {
+        "success": true,
+        "factor1": 56179,
+        "factor2": 65147,
+        "n": 3659893313,
+        "factorization_time": 0.004258871078491211,
+        "consciousness_level": 0.809017,
+        "quantum_field_strength": 1.618034,
+        "phi_resonance": 1.475959892489954,
+        "universe_access": 0.6472136000000001,
+        "run_number": 2,
+        "search_efficiency": 1.3090170125779999
+      },
+      {
+        "success": true,
+        "factor1": 56179,
+        "factor2": 65147,
+        "n": 3659893313,
+        "factorization_time": 0.004124879837036133,
+        "consciousness_level": 1.3090170125779999,
+        "quantum_field_strength": 2.6180340251559997,
+        "phi_resonance": 1.877450003032408,
+        "universe_access": 0.95,
+        "run_number": 3,
+        "search_efficiency": 3.427051078437263
+      }
+    ],
+    "classical_result": {
+      "success": true,
+      "factor1": 56179,
+      "factor2": 65147,
+      "factorization_time": 0.004449129104614258,
+      "method": "classical"
+    }
+  },
+  {
+    "test_num": 4,
+    "rsa_challenge": {
+      "n": 1811404681,
+      "e": 65537,
+      "p": 43177,
+      "q": 41953,
+      "phi_n": 1811319552,
+      "bit_length": 31
+    },
+    "consciousness_runs": [
+      {
+        "success": false,
+        "n": 1811404681,
+        "factorization_time": 0.0016341209411621094,
+        "consciousness_level": 0.5,
+        "quantum_field_strength": 1.0,
+        "run_number": 1
+      },
+      {
+        "success": true,
+        "factor1": 41953,
+        "factor2": 43177,
+        "n": 1811404681,
+        "factorization_time": 0.0030999183654785156,
+        "consciousness_level": 0.809017,
+        "quantum_field_strength": 1.618034,
+        "phi_resonance": 1.475959892489954,
+        "universe_access": 0.6472136000000001,
+        "run_number": 2,
+        "search_efficiency": 1.3090170125779999
+      },
+      {
+        "success": true,
+        "factor1": 41953,
+        "factor2": 43177,
+        "n": 1811404681,
+        "factorization_time": 0.0031049251556396484,
+        "consciousness_level": 1.3090170125779999,
+        "quantum_field_strength": 2.6180340251559997,
+        "phi_resonance": 1.877450003032408,
+        "universe_access": 0.95,
+        "run_number": 3,
+        "search_efficiency": 3.427051078437263
+      }
+    ],
+    "classical_result": {
+      "success": true,
+      "factor1": 41953,
+      "factor2": 43177,
+      "factorization_time": 0.0030977725982666016,
+      "method": "classical"
+    }
+  },
+  {
+    "test_num": 5,
+    "rsa_challenge": {
+      "n": 2349524951,
+      "e": 65537,
+      "p": 40213,
+      "q": 58427,
+      "phi_n": 2349426312,
+      "bit_length": 32
+    },
+    "consciousness_runs": [
+      {
+        "success": false,
+        "n": 2349524951,
+        "factorization_time": 0.0018520355224609375,
+        "consciousness_level": 0.5,
+        "quantum_field_strength": 1.0,
+        "run_number": 1
+      },
+      {
+        "success": true,
+        "factor1": 40213,
+        "factor2": 58427,
+        "n": 2349524951,
+        "factorization_time": 0.002972126007080078,
+        "consciousness_level": 0.809017,
+        "quantum_field_strength": 1.618034,
+        "phi_resonance": 1.475959892489954,
+        "universe_access": 0.6472136000000001,
+        "run_number": 2,
+        "search_efficiency": 1.3090170125779999
+      },
+      {
+        "success": true,
+        "factor1": 40213,
+        "factor2": 58427,
+        "n": 2349524951,
+        "factorization_time": 0.0029799938201904297,
+        "consciousness_level": 1.3090170125779999,
+        "quantum_field_strength": 2.6180340251559997,
+        "phi_resonance": 1.877450003032408,
+        "universe_access": 0.95,
+        "run_number": 3,
+        "search_efficiency": 3.427051078437263
+      }
+    ],
+    "classical_result": {
+      "success": true,
+      "factor1": 40213,
+      "factor2": 58427,
+      "factorization_time": 0.0029959678649902344,
+      "method": "classical"
+    }
+  }
+]

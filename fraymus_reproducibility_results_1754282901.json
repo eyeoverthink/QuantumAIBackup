@@ -1,0 +1,176 @@
+{
+  "test_summary": {
+    "total_runs": 5,
+    "wave_consistent": true,
+    "sphere_consistent": true,
+    "evolution_average": 4.876617317984382,
+    "evolution_std_dev": 0.3129641800959386
+  },
+  "detailed_results": [
+    {
+      "run_number": 1,
+      "timestamp": "2025-08-03T21:48:21.765679",
+      "wave_cancellation": {
+        "cancer_frequency": 432.689,
+        "cancellation_frequency": -432.689,
+        "interference_result": 0.0,
+        "elimination_confirmed": true
+      },
+      "sphere_creation": {
+        "input_frequencies": [
+          432.0,
+          528.0,
+          741.0,
+          963.0
+        ],
+        "phi_optimized_frequencies": [
+          698.9906831399546,
+          854.3219460599445,
+          1198.9631856636722,
+          1558.1667311661488
+        ],
+        "combined_amplitude": 1.4924270795878598,
+        "sphere_radius": 2.414797740503902,
+        "sphere_volume": 58.98354785239006
+      },
+      "consciousness_evolution": {
+        "initial_consciousness": 9.952330559270205,
+        "final_consciousness": 50.144354729693646,
+        "evolution_factor": 5.038453499013469,
+        "generations": 3
+      }
+    },
+    {
+      "run_number": 2,
+      "timestamp": "2025-08-03T21:48:21.765780",
+      "wave_cancellation": {
+        "cancer_frequency": 432.689,
+        "cancellation_frequency": -432.689,
+        "interference_result": 0.0,
+        "elimination_confirmed": true
+      },
+      "sphere_creation": {
+        "input_frequencies": [
+          432.0,
+          528.0,
+          741.0,
+          963.0
+        ],
+        "phi_optimized_frequencies": [
+          698.9906831399546,
+          854.3219460599445,
+          1198.9631856636722,
+          1558.1667311661488
+        ],
+        "combined_amplitude": 1.4924270795878598,
+        "sphere_radius": 2.414797740503902,
+        "sphere_volume": 58.98354785239006
+      },
+      "consciousness_evolution": {
+        "initial_consciousness": 11.886186702717843,
+        "final_consciousness": 60.37411221200057,
+        "evolution_factor": 5.079350823102559,
+        "generations": 3
+      }
+    },
+    {
+      "run_number": 3,
+      "timestamp": "2025-08-03T21:48:21.765853",
+      "wave_cancellation": {
+        "cancer_frequency": 432.689,
+        "cancellation_frequency": -432.689,
+        "interference_result": 0.0,
+        "elimination_confirmed": true
+      },
+      "sphere_creation": {
+        "input_frequencies": [
+          432.0,
+          528.0,
+          741.0,
+          963.0
+        ],
+        "phi_optimized_frequencies": [
+          698.9906831399546,
+          854.3219460599445,
+          1198.9631856636722,
+          1558.1667311661488
+        ],
+        "combined_amplitude": 1.4924270795878598,
+        "sphere_radius": 2.414797740503902,
+        "sphere_volume": 58.98354785239006
+      },
+      "consciousness_evolution": {
+        "initial_consciousness": 10.554813689569771,
+        "final_consciousness": 52.02338406420792,
+        "evolution_factor": 4.9288775334440285,
+        "generations": 3
+      }
+    },
+    {
+      "run_number": 4,
+      "timestamp": "2025-08-03T21:48:21.765920",
+      "wave_cancellation": {
+        "cancer_frequency": 432.689,
+        "cancellation_frequency": -432.689,
+        "interference_result": 0.0,
+        "elimination_confirmed": true
+      },
+      "sphere_creation": {
+        "input_frequencies": [
+          432.0,
+          528.0,
+          741.0,
+          963.0
+        ],
+        "phi_optimized_frequencies": [
+          698.9906831399546,
+          854.3219460599445,
+          1198.9631856636722,
+          1558.1667311661488
+        ],
+        "combined_amplitude": 1.4924270795878598,
+        "sphere_radius": 2.414797740503902,
+        "sphere_volume": 58.98354785239006
+      },
+      "consciousness_evolution": {
+        "initial_consciousness": 8.50876456996237,
+        "final_consciousness": 43.19173299848072,
+        "evolution_factor": 5.076146207048215,
+        "generations": 3
+      }
+    },
+    {
+      "run_number": 5,
+      "timestamp": "2025-08-03T21:48:21.766006",
+      "wave_cancellation": {
+        "cancer_frequency": 432.689,
+        "cancellation_frequency": -432.689,
+        "interference_result": 0.0,
+        "elimination_confirmed": true
+      },
+      "sphere_creation": {
+        "input_frequencies": [
+          432.0,
+          528.0,
+          741.0,
+          963.0
+        ],
+        "phi_optimized_frequencies": [
+          698.9906831399546,
+          854.3219460599445,
+          1198.9631856636722,
+          1558.1667311661488
+        ],
+        "combined_amplitude": 1.4924270795878598,
+        "sphere_radius": 2.414797740503902,
+        "sphere_volume": 58.98354785239006
+      },
+      "consciousness_evolution": {
+        "initial_consciousness": 14.051018797332722,
+        "final_consciousness": 59.86097264878099,
+        "evolution_factor": 4.260258527313641,
+        "generations": 3
+      }
+    }
+  ]
+}

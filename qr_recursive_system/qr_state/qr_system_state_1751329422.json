@@ -1,0 +1,55 @@
+{
+  "generation": 4,
+  "system_id": "4ce33062-ba1e-478c-8f4d-24c176a6fbb9",
+  "timestamp": 1751269916.468812,
+  "phi_time": 2833614248.3217273,
+  "resonance": 0.32172727584838867,
+  "complexity": 0.5205656674306061,
+  "params": {
+    "qr_version": 1,
+    "error_correction": 2,
+    "compression_threshold": 809,
+    "resonance_factor": 0.6180339887498948,
+    "complexity_factor": 0.38196601125010515
+  },
+  "meta_metrics": {
+    "code_phi_alignment": 0.0,
+    "structure_resonance": 0.0,
+    "improvement_score": 0.0,
+    "generations_analyzed": []
+  },
+  "refactored_scripts": [
+    "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.997290.py",
+    "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.311389.py",
+    "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.628551.py",
+    "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.902390.py",
+    "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.634980.py"
+  ],
+  "refactoring_history": [
+    {
+      "generation": 5,
+      "timestamp": 1751274248.0695271,
+      "script": "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.997290.py"
+    },
+    {
+      "generation": 5,
+      "timestamp": 1751285228.872909,
+      "script": "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.311389.py"
+    },
+    {
+      "generation": 5,
+      "timestamp": 1751285233.395257,
+      "script": "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.628551.py"
+    },
+    {
+      "generation": 5,
+      "timestamp": 1751285243.453204,
+      "script": "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.902390.py"
+    },
+    {
+      "generation": 5,
+      "timestamp": 1751329422.21235,
+      "script": "qr_phi_replication/qr_phi_replicator_gen5_refactored_0.634980.py"
+    }
+  ]
+}

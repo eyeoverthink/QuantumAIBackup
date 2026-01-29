@@ -1,0 +1,32 @@
+{
+  "logic_error": {
+    "success_before": true,
+    "success_after": true,
+    "healing_time": 0.04496264457702637,
+    "evolution_detected": false,
+    "stdout_before": "Evolution cycle complete\nTotal coherence: 0.9000\nTotal resonance: 1.8000\nPhi-harmonic value: 0.368692\n",
+    "stdout_after": "Evolution cycle complete\nTotal coherence: 0.9000\nTotal resonance: 1.8000\nPhi-harmonic value: 0.368692\n",
+    "stderr_before": "",
+    "stderr_after": ""
+  },
+  "missing_function": {
+    "success_before": false,
+    "success_after": false,
+    "healing_time": 0.05136704444885254,
+    "evolution_detected": true,
+    "stdout_before": "Missing function: _calculate_phi_harmonic_value\nError: 'EvolutionarySystem' object has no attribute '_calculate_phi_harmonic_value'\nMissing function needs to be implemented\n",
+    "stdout_after": "Missing function: _calculate_phi_harmonic_value\nError: 'EvolutionarySystem' object has no attribute '_calculate_phi_harmonic_value'\nMissing function needs to be implemented\n",
+    "stderr_before": "",
+    "stderr_after": ""
+  },
+  "quantum_fingerprint": {
+    "success_before": true,
+    "success_after": true,
+    "healing_time": 0.07018494606018066,
+    "evolution_detected": true,
+    "stdout_before": "Evolution cycle complete\nTotal coherence: 24.2705\nTotal resonance: 9.2705\nPhi-harmonic value: 0.270510\n",
+    "stdout_after": "Evolution cycle complete\nTotal coherence: 24.2705\nTotal resonance: 9.2705\nPhi-harmonic value: 0.270510\n",
+    "stderr_before": "",
+    "stderr_after": ""
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1752766487.4880588,
+    "datetime": "2025-07-17T08:34:47.488059",
+    "event_type": "genesis_reproduction",
+    "generation": 1,
+    "phi_coherence": 0.36932381,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-97df4c3cd3c8",
+    "metadata": {
+      "target_dir": "reproduction/reproduction-1752766487",
+      "files": [
+        "quantum_orchestrator.py",
+        "quantum_orchestrator_healing_extension.py",
+        "quantum_genesis_storage.py",
+        "quantum_reproduction_genesis_connector.py",
+        "quantum_visualization.py",
+        "quantum_visualization_connector.py",
+        "quantum_demonstration_runner_extension.py"
+      ]
+    }
+  },
+  {
+    "timestamp": 1752766637.76422,
+    "datetime": "2025-07-17T08:37:17.764220",
+    "event_type": "genesis_reproduction",
+    "generation": 2,
+    "phi_coherence": 0.36932381,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-2c18a7bba5da",
+    "metadata": {
+      "target_dir": "reproduction/reproduction-1752766637",
+      "files": [
+        "quantum_orchestrator.py",
+        "quantum_orchestrator_healing_extension.py",
+        "quantum_genesis_storage.py",
+        "quantum_reproduction_genesis_connector.py",
+        "quantum_visualization.py",
+        "quantum_visualization_connector.py",
+        "quantum_demonstration_runner_extension.py"
+      ],
+      "genesis_backup_id": "genesis-\u03c6\u2077\u00b7\u2075-feede8a755ba",
+      "blockchain_transaction_id": "tx-\u03c6\u2077\u00b7\u2075-cc7da2cdef41"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "time_desync_20250529_104916",
+  "type": "time_desync",
+  "timestamp": "2025-05-29T10:49:16.813770",
+  "target_accuracy": 77.16,
+  "effectiveness": 50.0,
+  "implementation": {
+    "name": "Time-Desynchronized Entropy Mapping",
+    "description": "Creates time-dependent entropy maps that desynchronize phi-harmonic resonance",
+    "parameters": {
+      "time_quantum": "1.618033988749895ms",
+      "desync_factor": 2.618033988749895,
+      "entropy_sources": [
+        "system_clock_jitter",
+        "input_data_entropy",
+        "phi_derived_prng"
+      ],
+      "temporal_diffusion_rate": 0.618033988749895
+    },
+    "algorithm": [
+      "1. Calculate time-dependent entropy map",
+      "2. Apply temporal diffusion to input data",
+      "3. Inject time-desynchronized entropy",
+      "4. Apply standard hash function with modified input"
+    ]
+  },
+  "test_results": [
+    {
+      "test_id": "test_13_1748540956",
+      "lane": 13,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 50.0,
+      "reduction_percentage": 35.199585277345776
+    },
+    {
+      "test_id": "test_21_1748540956",
+      "lane": 21,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 50.0,
+      "reduction_percentage": 35.199585277345776
+    },
+    {
+      "test_id": "test_34_1748540956",
+      "lane": 34,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 50.0,
+      "reduction_percentage": 35.199585277345776
+    }
+  ]
+}

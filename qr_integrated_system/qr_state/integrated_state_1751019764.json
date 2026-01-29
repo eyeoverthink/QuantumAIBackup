@@ -1,0 +1,49 @@
+{
+  "id": "69492f74-0f35-4380-aef2-311b45aabe75",
+  "creation_time": 1751019752.083002,
+  "phi_time": 0.8427119255065918,
+  "cycle_count": 2,
+  "last_improvement_time": 1751019752.124099,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751019753.9106529,
+      "phi_time": 0.7999129295349121,
+      "execution_time": 1.7865417003631592,
+      "qr_paths": [
+        "qr_integrated_system/qr_sequence/qr_frame_001.png"
+      ],
+      "analysis_results": {
+        "success_rate": 0.0,
+        "total_files": 8,
+        "success_count": 0
+      },
+      "execution_results": [],
+      "response_paths": [],
+      "phi_resonance_score": 0.74462233975035
+    }
+  ],
+  "config": {
+    "base_dir": "qr_integrated_system",
+    "genome_path": "qr_genome.json",
+    "sequence_dir": "qr_sequence",
+    "response_dir": "qr_responses",
+    "analysis_dir": "qr_analysis",
+    "state_dir": "qr_state",
+    "verbose": true,
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 10,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751019764.563416,
+  "optimizer_score": 0.8084264390807961,
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 0,
+    "compression_threshold": 532,
+    "resonance_factor": 0.6241308907525509,
+    "complexity_factor": 0.5951095692194278
+  }
+}

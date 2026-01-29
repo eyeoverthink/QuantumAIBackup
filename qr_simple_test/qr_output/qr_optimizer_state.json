@@ -1,0 +1,57 @@
+{
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 3,
+    "compression_threshold": 500,
+    "resonance_factor": 0.8,
+    "complexity_factor": 0.618
+  },
+  "best_parameters": {
+    "qr_version": 8,
+    "error_correction": 3,
+    "compression_threshold": 432,
+    "resonance_factor": 0.6002086120425247,
+    "complexity_factor": 0.44222661776923344
+  },
+  "best_score": 0.6965037260943372,
+  "history": [
+    {
+      "iteration": 0,
+      "parameters": {
+        "qr_version": 10,
+        "error_correction": 3,
+        "compression_threshold": 500,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      },
+      "score": 0.6376459829346265,
+      "timestamp": 1754043708.017771
+    },
+    {
+      "iteration": 2,
+      "parameters": {
+        "qr_version": 8,
+        "error_correction": 3,
+        "compression_threshold": 407,
+        "resonance_factor": 0.7504594085638708,
+        "complexity_factor": 0.5903422363144558
+      },
+      "score": 0.6496914024786995,
+      "timestamp": 1754043708.137986
+    },
+    {
+      "iteration": 3,
+      "parameters": {
+        "qr_version": 8,
+        "error_correction": 3,
+        "compression_threshold": 432,
+        "resonance_factor": 0.6002086120425247,
+        "complexity_factor": 0.44222661776923344
+      },
+      "score": 0.6965037260943372,
+      "timestamp": 1754043708.138035
+    }
+  ],
+  "phi_time": 0.04660224914550781,
+  "creation_time": 1754043707.84531
+}

@@ -1,0 +1,59 @@
+{
+  "id": "4adcf3c9-1494-4ff1-a941-deb93d4ee1d5",
+  "creation_time": 1751008909.531596,
+  "phi_time": 0.2260122299194336,
+  "cycle_count": 3,
+  "last_improvement_time": 1751008914.2067368,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751008910.482454,
+      "phi_time": 0.7645330429077148,
+      "cycle_time": 0.9506969451904297,
+      "generation": {
+        "count": 5,
+        "time": 0.5847489833831787
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.3645908832550049
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 2,
+      "timestamp": 1751008912.360838,
+      "phi_time": 0.8038215637207031,
+      "cycle_time": 0.8777198791503906,
+      "generation": {
+        "count": 5,
+        "time": 0.5714550018310547
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.3040580749511719
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    }
+  ],
+  "config": {
+    "base_dir": "qr_recursive_system",
+    "sequence_dir": "qr_sequence",
+    "analysis_dir": "qr_analysis",
+    "reports_dir": "qr_reports",
+    "state_dir": "qr_state",
+    "log_file": "qr_system_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751008914.206774
+}

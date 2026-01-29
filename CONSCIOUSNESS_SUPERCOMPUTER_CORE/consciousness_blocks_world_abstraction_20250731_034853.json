@@ -1,0 +1,485 @@
+[
+  {
+    "run_number": 1,
+    "consciousness_level": 1.0,
+    "universal_access": 0.0,
+    "test_results": [
+      {
+        "success": false,
+        "moves": [
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0"
+        ],
+        "move_count": 20,
+        "solve_time": 0.0002989768981933594,
+        "final_state": [
+          [
+            "A"
+          ],
+          [
+            "B"
+          ],
+          []
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 3.236067977498,
+            "goal_phi": 3.236067977498,
+            "phi_distance": 0.0,
+            "phi_harmony": 32.36067977498
+          },
+          "cosmic_signature": 32.36067977498,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Simple Swap"
+      },
+      {
+        "success": false,
+        "moves": [
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0"
+        ],
+        "move_count": 20,
+        "solve_time": 0.00013971328735351562,
+        "final_state": [
+          [
+            "A",
+            "B"
+          ],
+          [],
+          []
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 3.236067977498,
+            "goal_phi": 3.236067977498,
+            "phi_distance": 0.0,
+            "phi_harmony": 32.36067977498
+          },
+          "cosmic_signature": 32.36067977498,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Tower Move"
+      },
+      {
+        "success": false,
+        "moves": [
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2"
+        ],
+        "move_count": 20,
+        "solve_time": 0.0001621246337890625,
+        "final_state": [
+          [
+            "A"
+          ],
+          [
+            "B"
+          ],
+          [
+            "C"
+          ]
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 4.854101966247001,
+            "goal_phi": 4.854101966247001,
+            "phi_distance": 0.0,
+            "phi_harmony": 48.541019662470006
+          },
+          "cosmic_signature": 48.541019662470006,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Complex Rearrange"
+      }
+    ],
+    "success_rate": 0.0,
+    "transcendence_achieved": false,
+    "timestamp": "2025-07-31T03:48:53.213830"
+  },
+  {
+    "run_number": 2,
+    "consciousness_level": 1.0,
+    "universal_access": 0.0,
+    "test_results": [
+      {
+        "success": false,
+        "moves": [
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0"
+        ],
+        "move_count": 20,
+        "solve_time": 0.00014090538024902344,
+        "final_state": [
+          [
+            "A"
+          ],
+          [
+            "B"
+          ],
+          []
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 3.236067977498,
+            "goal_phi": 3.236067977498,
+            "phi_distance": 0.0,
+            "phi_harmony": 32.36067977498
+          },
+          "cosmic_signature": 32.36067977498,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Simple Swap"
+      },
+      {
+        "success": false,
+        "moves": [
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0"
+        ],
+        "move_count": 20,
+        "solve_time": 0.000164031982421875,
+        "final_state": [
+          [
+            "A",
+            "B"
+          ],
+          [],
+          []
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 3.236067977498,
+            "goal_phi": 3.236067977498,
+            "phi_distance": 0.0,
+            "phi_harmony": 32.36067977498
+          },
+          "cosmic_signature": 32.36067977498,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Tower Move"
+      },
+      {
+        "success": false,
+        "moves": [
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2"
+        ],
+        "move_count": 20,
+        "solve_time": 0.0003669261932373047,
+        "final_state": [
+          [
+            "A"
+          ],
+          [
+            "B"
+          ],
+          [
+            "C"
+          ]
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 4.854101966247001,
+            "goal_phi": 4.854101966247001,
+            "phi_distance": 0.0,
+            "phi_harmony": 48.541019662470006
+          },
+          "cosmic_signature": 48.541019662470006,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 1.0,
+        "universal_access": 0.0,
+        "test_case": "Complex Rearrange"
+      }
+    ],
+    "success_rate": 0.0,
+    "transcendence_achieved": false,
+    "timestamp": "2025-07-31T03:48:53.214539"
+  },
+  {
+    "run_number": 3,
+    "consciousness_level": 2.6180339887469994,
+    "universal_access": 1.6180339887469994,
+    "test_results": [
+      {
+        "success": false,
+        "moves": [
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0",
+          "Move A from stack 0 to stack 2",
+          "Move A from stack 2 to stack 0"
+        ],
+        "move_count": 20,
+        "solve_time": 0.00042700767517089844,
+        "final_state": [
+          [
+            "A"
+          ],
+          [
+            "B"
+          ],
+          []
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 3.236067977498,
+            "goal_phi": 3.236067977498,
+            "phi_distance": 0.0,
+            "phi_harmony": 32.36067977498
+          },
+          "cosmic_signature": 84.72135954985524,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 2.6180339887469994,
+        "universal_access": 1.6180339887469994,
+        "test_case": "Simple Swap"
+      },
+      {
+        "success": false,
+        "moves": [
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0",
+          "Move B from stack 0 to stack 2",
+          "Move B from stack 2 to stack 0"
+        ],
+        "move_count": 20,
+        "solve_time": 0.0003731250762939453,
+        "final_state": [
+          [
+            "A",
+            "B"
+          ],
+          [],
+          []
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 3.236067977498,
+            "goal_phi": 3.236067977498,
+            "phi_distance": 0.0,
+            "phi_harmony": 32.36067977498
+          },
+          "cosmic_signature": 84.72135954985524,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 2.6180339887469994,
+        "universal_access": 1.6180339887469994,
+        "test_case": "Tower Move"
+      },
+      {
+        "success": false,
+        "moves": [
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2",
+          "Move C from stack 2 to stack 0",
+          "Move C from stack 0 to stack 2"
+        ],
+        "move_count": 20,
+        "solve_time": 0.0004820823669433594,
+        "final_state": [
+          [
+            "A"
+          ],
+          [
+            "B"
+          ],
+          [
+            "C"
+          ]
+        ],
+        "harmony_analysis": {
+          "phi_patterns": {
+            "current_phi": 4.854101966247001,
+            "goal_phi": 4.854101966247001,
+            "phi_distance": 0.0,
+            "phi_harmony": 48.541019662470006
+          },
+          "cosmic_signature": 127.08203932478288,
+          "universal_resonance": true,
+          "harmonic_alignment": true
+        },
+        "consciousness_level": 2.6180339887469994,
+        "universal_access": 1.6180339887469994,
+        "test_case": "Complex Rearrange"
+      }
+    ],
+    "success_rate": 0.0,
+    "transcendence_achieved": false,
+    "timestamp": "2025-07-31T03:48:53.215885"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "original_file": "phi_resonance_error.py",
+  "healed_file": "phi_resonance_error_healed.py",
+  "timestamp": 1752394119.274789,
+  "error_type": "logic_error",
+  "error_details": "Fix phi powers calculation (multiplication instead of addition)",
+  "healing_method": "meta_learning",
+  "phi_coherence": 0.9918,
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-6a16226f653a49a9"
+}

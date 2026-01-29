@@ -1,0 +1,39 @@
+{
+  "reference_id": "5166401033e1e641c693338be538c9516c868b8611e6164501389331116195ee",
+  "data": {
+    "node_id": "test-node-0-51699586-2fbc-4bfb-aab9-1f36c88d1701",
+    "coherence": 3.693238,
+    "capabilities": [
+      "reasoning"
+    ],
+    "metadata": {
+      "capabilities": [
+        "reasoning"
+      ],
+      "phi_resonance": 0.618034
+    },
+    "registration_timestamp": "2025-07-22T11:10:09.030327"
+  },
+  "metadata": {
+    "node_type": "test_node",
+    "node_id": "test-node-0-51699586-2fbc-4bfb-aab9-1f36c88d1701",
+    "timestamp": "2025-07-22T11:10:09.030329",
+    "phi_resonance": 0.0,
+    "storage_node_id": "2c296884-fe3d-4d4f-8475-07c7fcb688ca",
+    "node_data": {
+      "node_id": "test-node-0-51699586-2fbc-4bfb-aab9-1f36c88d1701",
+      "coherence": 3.693238,
+      "capabilities": [
+        "reasoning"
+      ],
+      "metadata": {
+        "capabilities": [
+          "reasoning"
+        ],
+        "phi_resonance": 0.618034
+      },
+      "registration_timestamp": "2025-07-22T11:10:09.030327"
+    }
+  },
+  "cache_timestamp": "2025-07-22T11:10:09.031352"
+}

@@ -1,0 +1,327 @@
+{
+  "random_generation": {
+    "adapter": {
+      "distribution": {
+        "mean": 0.3619329906441458,
+        "std_dev": 0.2499809851385407,
+        "min": 0.11299973004214578,
+        "max": 0.6129661100421457,
+        "entropy": 0.9999872751037899,
+        "phi_resonance": 0.5856198805121257
+      },
+      "uniformity": {
+        "ks_test": {
+          "statistic": 0.3891002699578542,
+          "pvalue": 0.0,
+          "uniform": false
+        },
+        "chi2_test": {
+          "statistic": 40000.882,
+          "pvalue": 0.0,
+          "uniform": false
+        },
+        "autocorrelation": {
+          "lag1": 0.19068488191731606,
+          "lag2": -0.219023187097022,
+          "lag3": -0.007518617920419957,
+          "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter_autocorrelation.png"
+        }
+      },
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter_distribution.png"
+    },
+    "quantum": {
+      "distribution": {
+        "mean": 0.5029593417825636,
+        "std_dev": 0.2887878209763203,
+        "min": 3.6855674580438464e-05,
+        "max": 0.9996919988161652,
+        "entropy": 7.981626860226327,
+        "phi_resonance": 0.8138053099634631
+      },
+      "uniformity": {
+        "ks_test": {
+          "statistic": 0.009436701625558097,
+          "pvalue": 0.33324845676122417,
+          "uniform": true
+        },
+        "chi2_test": {
+          "statistic": 14.544,
+          "pvalue": 0.10424738688768576,
+          "uniform": true
+        },
+        "autocorrelation": {
+          "lag1": 0.010933459423522987,
+          "lag2": -0.009209232723669176,
+          "lag3": 0.00250300873401132,
+          "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum_autocorrelation.png"
+        }
+      },
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum_distribution.png"
+    },
+    "phi_harmonic": {
+      "distribution": {
+        "mean": 0.021441519882999582,
+        "std_dev": 0.450031417174566,
+        "min": -0.9813996806635615,
+        "max": 1.5106036622287302,
+        "entropy": 7.511597577761342,
+        "phi_resonance": 0.03469310794115
+      },
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/phi_harmonic_distribution.png"
+    },
+    "epoch_tests": {
+      "adapter": {
+        "epochs": 3,
+        "sample_size": 1000,
+        "epoch_results": [
+          {
+            "epoch": 1,
+            "sample_size": 1000,
+            "distribution": {
+              "mean": 0.3354847691421458,
+              "std_dev": 0.24846618880575466,
+              "min": 0.11299973004214578,
+              "max": 0.6129661100421457,
+              "entropy": 0.9912540068818299,
+              "phi_resonance": 0.5428257591799038
+            },
+            "uniformity": {
+              "ks_test": {
+                "statistic": 0.44200026995785424,
+                "pvalue": 1.8060389740999318e-178,
+                "uniform": false
+              },
+              "chi2_test": {
+                "statistic": 4060.5,
+                "pvalue": 0.0,
+                "uniform": false
+              },
+              "autocorrelation": {
+                "lag1": 0.1547605020751088,
+                "lag2": -0.2531877720417047,
+                "lag3": -0.03129496912642979,
+                "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter epoch 1_autocorrelation.png"
+              }
+            },
+            "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter_epoch_1_distribution.png",
+            "quantum_state": {
+              "coherence": 0.9918,
+              "resonance": 0.618034,
+              "phi_alignment": 0.999561,
+              "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-b77206"
+            }
+          },
+          {
+            "epoch": 2,
+            "sample_size": 1000,
+            "distribution": {
+              "mean": 0.37998177696214586,
+              "std_dev": 0.2494045591924684,
+              "min": 0.11299973004214578,
+              "max": 0.6129661100421457,
+              "entropy": 0.9966619134434995,
+              "phi_resonance": 0.6148234302303338
+            },
+            "uniformity": {
+              "ks_test": {
+                "statistic": 0.38703388995785426,
+                "pvalue": 2.4341661748373648e-135,
+                "uniform": false
+              },
+              "chi2_test": {
+                "statistic": 4023.12,
+                "pvalue": 0.0,
+                "uniform": false
+              },
+              "autocorrelation": {
+                "lag1": 0.20130219736059538,
+                "lag2": -0.21964890453456765,
+                "lag3": -0.029775554162447135,
+                "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter epoch 2_autocorrelation.png"
+              }
+            },
+            "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter_epoch_2_distribution.png",
+            "quantum_state": {
+              "coherence": 0.9918,
+              "resonance": 0.618034,
+              "phi_alignment": 0.999561,
+              "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-b77206"
+            }
+          },
+          {
+            "epoch": 3,
+            "sample_size": 1000,
+            "distribution": {
+              "mean": 0.3399844665621458,
+              "std_dev": 0.2489230130383777,
+              "min": 0.11299973004214578,
+              "max": 0.6129661100421457,
+              "entropy": 0.9938858722012331,
+              "phi_resonance": 0.5501064225445541
+            },
+            "uniformity": {
+              "ks_test": {
+                "statistic": 0.43300026995785423,
+                "pvalue": 6.150480729478662e-171,
+                "uniform": false
+              },
+              "chi2_test": {
+                "statistic": 4042.3199999999997,
+                "pvalue": 0.0,
+                "uniform": false
+              },
+              "autocorrelation": {
+                "lag1": 0.13952447112359,
+                "lag2": -0.24271930419066937,
+                "lag3": -0.003704748995497984,
+                "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter epoch 3_autocorrelation.png"
+              }
+            },
+            "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter_epoch_3_distribution.png",
+            "quantum_state": {
+              "coherence": 0.9918,
+              "resonance": 0.618034,
+              "phi_alignment": 0.999561,
+              "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-b77206"
+            }
+          }
+        ],
+        "consistency": {
+          "mean_variation": 0.020000043947281304,
+          "std_dev_variation": 0.00038313241991255644,
+          "entropy_variation": 0.0022080301280651736,
+          "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/adapter_epoch_consistency.png"
+        }
+      },
+      "quantum": {
+        "epochs": 3,
+        "sample_size": 1000,
+        "epoch_results": [
+          {
+            "epoch": 1,
+            "sample_size": 1000,
+            "distribution": {
+              "mean": 0.4982204798537857,
+              "std_dev": 0.29335265200337024,
+              "min": 0.00012718802563389385,
+              "max": 0.9990473298280598,
+              "entropy": 7.8035019428444805,
+              "phi_resonance": 0.8061376702947076
+            },
+            "uniformity": {
+              "ks_test": {
+                "statistic": 0.0157592956259906,
+                "pvalue": 0.9616670946830255,
+                "uniform": true
+              },
+              "chi2_test": {
+                "statistic": 6.219999999999999,
+                "pvalue": 0.7177138135936834,
+                "uniform": true
+              },
+              "autocorrelation": {
+                "lag1": -0.026175676704453615,
+                "lag2": 0.012390290688700427,
+                "lag3": -0.01121486229833771,
+                "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum epoch 1_autocorrelation.png"
+              }
+            },
+            "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum_epoch_1_distribution.png",
+            "quantum_state": {
+              "entropy": 4.875,
+              "phi_resonance": 0.3935387456887764,
+              "sequence_coherence": 1.6180339884440784,
+              "numbers_generated": 41000
+            }
+          },
+          {
+            "epoch": 2,
+            "sample_size": 1000,
+            "distribution": {
+              "mean": 0.4989312501977361,
+              "std_dev": 0.2906605099685889,
+              "min": 0.0011175703938290857,
+              "max": 0.9967608756752435,
+              "entropy": 7.789439247858645,
+              "phi_resonance": 0.8072877208694148
+            },
+            "uniformity": {
+              "ks_test": {
+                "statistic": 0.021492740692211354,
+                "pvalue": 0.7362948239254284,
+                "uniform": true
+              },
+              "chi2_test": {
+                "statistic": 5.76,
+                "pvalue": 0.7636774376565855,
+                "uniform": true
+              },
+              "autocorrelation": {
+                "lag1": -0.009748461954441155,
+                "lag2": 0.005202530309241884,
+                "lag3": -0.012750654179115115,
+                "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum epoch 2_autocorrelation.png"
+              }
+            },
+            "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum_epoch_2_distribution.png",
+            "quantum_state": {
+              "entropy": 5.0,
+              "phi_resonance": 0.4275274955836246,
+              "sequence_coherence": 1.6180339883164816,
+              "numbers_generated": 42000
+            }
+          },
+          {
+            "epoch": 3,
+            "sample_size": 1000,
+            "distribution": {
+              "mean": 0.4867638388089207,
+              "std_dev": 0.2863210117364903,
+              "min": 0.0009953885702101099,
+              "max": 0.9993738200466995,
+              "entropy": 7.817524522471483,
+              "phi_resonance": 0.7876004356872089
+            },
+            "uniformity": {
+              "ks_test": {
+                "statistic": 0.03497351209109123,
+                "pvalue": 0.169112571174154,
+                "uniform": true
+              },
+              "chi2_test": {
+                "statistic": 5.7,
+                "pvalue": 0.7695274038865488,
+                "uniform": true
+              },
+              "autocorrelation": {
+                "lag1": -0.01939465699034888,
+                "lag2": 0.018915645039155868,
+                "lag3": 0.002038278526663294,
+                "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum epoch 3_autocorrelation.png"
+              }
+            },
+            "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum_epoch_3_distribution.png",
+            "quantum_state": {
+              "entropy": 4.9375,
+              "phi_resonance": 0.4615162454784728,
+              "sequence_coherence": 1.6180339883830537,
+              "numbers_generated": 43000
+            }
+          }
+        ],
+        "consistency": {
+          "mean_variation": 0.005575798083557176,
+          "std_dev_variation": 0.0028967959020773705,
+          "entropy_variation": 0.011465769246562329,
+          "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_true_quantum_benchmark/results/visualizations/quantum_epoch_consistency.png"
+        }
+      }
+    }
+  },
+  "hyper_dimensional": {},
+  "distribution_analysis": {},
+  "practical_applications": {},
+  "comparative_analysis": {},
+  "summary": {},
+  "timestamp": 1745117692.9528
+}

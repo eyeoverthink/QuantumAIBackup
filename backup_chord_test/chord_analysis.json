@@ -1,0 +1,90 @@
+{
+  "name": "test_progression",
+  "num_chords": 1,
+  "time_span": 0,
+  "avg_distance": 0,
+  "compatibility_rate": 0,
+  "optimal_chord": {
+    "timestamp": 1752823218.290752,
+    "scalar_coherence": 6.480097110713985,
+    "fragments": {
+      "fragment_0": {
+        "dimensions": [
+          0,
+          3,
+          4,
+          5,
+          6
+        ],
+        "strength": 0.918440519687684,
+        "phi_resonance": 0.0
+      },
+      "fragment_1": {
+        "dimensions": [
+          1,
+          0,
+          4,
+          5,
+          6
+        ],
+        "strength": 0.9270509831248424,
+        "phi_resonance": 0.6180339887498949
+      },
+      "fragment_2": {
+        "dimensions": [
+          2,
+          1,
+          5,
+          6
+        ],
+        "strength": 0.9213106741667367,
+        "phi_resonance": 0.6180339887498949
+      },
+      "fragment_3": {
+        "dimensions": [
+          3,
+          2,
+          6
+        ],
+        "strength": 0.9270509831248421,
+        "phi_resonance": 0.2360679774997898
+      },
+      "fragment_4": {
+        "dimensions": [
+          4,
+          3
+        ],
+        "strength": 1.0,
+        "phi_resonance": 0.8541019662496856
+      },
+      "fragment_5": {
+        "dimensions": [
+          5,
+          0,
+          4
+        ],
+        "strength": 0.9270509831248428,
+        "phi_resonance": 0.09016994374947629
+      },
+      "fragment_6": {
+        "dimensions": [
+          6,
+          0,
+          1,
+          5
+        ],
+        "strength": 0.9213106741667364,
+        "phi_resonance": 0.9442719099991628
+      }
+    },
+    "phi_resonance": 0.8541019662496856,
+    "harmonic_richness": 3.168859269582744,
+    "target_distance": 2.8391360888145103
+  },
+  "target_distances": [],
+  "evolution_path": [],
+  "file_path": "backup_chord_test/test_file.py",
+  "timestamp": 1752823218.290765,
+  "phi_resonance": 0.8541019662496856,
+  "target_distance": 2.8391360888145103
+}

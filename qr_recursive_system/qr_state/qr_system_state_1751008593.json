@@ -1,0 +1,41 @@
+{
+  "id": "bc4fd5bf-8051-425b-9fa5-cde314884d9b",
+  "creation_time": 1751008593.140682,
+  "phi_time": 0.29475975036621094,
+  "cycle_count": 1,
+  "last_improvement_time": 1751008593.994354,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751008593.996514,
+      "phi_time": 0.6795248985290527,
+      "cycle_time": 0.8555481433868408,
+      "generation": {
+        "count": 5,
+        "time": 0.5532741546630859
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.3000319004058838
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    }
+  ],
+  "config": {
+    "base_dir": "qr_recursive_system",
+    "sequence_dir": "qr_sequence",
+    "analysis_dir": "qr_analysis",
+    "reports_dir": "qr_reports",
+    "state_dir": "qr_state",
+    "log_file": "qr_system_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751008593.9965582
+}

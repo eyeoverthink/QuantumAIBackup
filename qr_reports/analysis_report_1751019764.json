@@ -1,0 +1,184 @@
+{
+  "timestamp": 1751019764.562061,
+  "phi_time": 0.034253597259521484,
+  "directory": "qr_integrated_system/qr_sequence",
+  "total_files": 26,
+  "success_count": 4,
+  "success_rate": 0.15384615384615385,
+  "analysis_time": 4.05063009262085,
+  "decoded_data": [
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_001.png",
+      "has_error": false,
+      "meta": {
+        "id": "cd679ae2-5355-476d-9c73-125fa37adf9c",
+        "timestamp": 1751019754.9135292,
+        "phi_time": 0.42260074615478516,
+        "version": "1.0.0",
+        "compressed": true,
+        "frame_id": 1,
+        "resonance_factor": 0.7271261666403009,
+        "complexity_factor": 0.5295630612047346
+      }
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_002.png",
+      "has_error": false,
+      "meta": {
+        "id": "7df67c2d-2b4a-4d36-988c-6e9722bb1127",
+        "timestamp": 1751019755.059305,
+        "phi_time": 0.6584711074829102,
+        "version": "1.0.0",
+        "compressed": true,
+        "frame_id": 2,
+        "resonance_factor": 0.7271261666403009,
+        "complexity_factor": 0.5295630612047346
+      }
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_003.png",
+      "has_error": false,
+      "meta": {
+        "id": "5d60cab2-368c-430c-93eb-af488d5cad77",
+        "timestamp": 1751019755.2335758,
+        "phi_time": 0.9404473304748535,
+        "version": "1.0.0",
+        "compressed": true,
+        "frame_id": 3,
+        "resonance_factor": 0.7271261666403009,
+        "complexity_factor": 0.5295630612047346
+      }
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_004.png",
+      "has_error": false,
+      "meta": {
+        "id": "a32db5a0-d46a-455b-b4d7-6ea6a782c3da",
+        "timestamp": 1751019755.407119,
+        "phi_time": 0.22124624252319336,
+        "version": "1.0.0",
+        "compressed": true,
+        "frame_id": 4,
+        "resonance_factor": 0.7271261666403009,
+        "complexity_factor": 0.5295630612047346
+      }
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_005.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_006.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_007.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_008.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_009.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_010.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_011.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_012.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_013.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_014.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_015.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_016.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_017.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_018.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_019.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_020.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_021.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_022.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_023.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_024.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_025.png",
+      "has_error": true,
+      "meta": {}
+    },
+    {
+      "image_path": "qr_integrated_system/qr_sequence/qr_frame_026.png",
+      "has_error": true,
+      "meta": {}
+    }
+  ],
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 0,
+    "compression_threshold": 560,
+    "resonance_factor": 0.7271261666403009,
+    "complexity_factor": 0.5295630612047346
+  }
+}

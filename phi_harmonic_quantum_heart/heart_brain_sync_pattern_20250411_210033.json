@@ -1,0 +1,412 @@
+{
+  "heart_brain_sync": {
+    "coherence": 0.9756011686320001,
+    "resonance": 17.797556079676962,
+    "phi_alignment": 0.9995606427932406,
+    "dominant_band": "resonance",
+    "heart_rate": 61.8
+  },
+  "heart_pattern": {
+    "field_strength": 19.50226736095368,
+    "field_radius": 1716.1469071025779,
+    "field_frequency": 1.5200449720245288,
+    "field_coherence": 0.98366724,
+    "field_resonance": 6.816690562515732,
+    "field_phi_resonance": 0.04290574209612184,
+    "resonance_pattern": {
+      "heart_state": {
+        "heart_rate": 61.8,
+        "heart_period": 0.970873786407767,
+        "heart_frequency": 1.03,
+        "heart_phi_resonance": 0.994500504743511,
+        "heart_chakra_resonance": 0.639,
+        "heart_coherence": 0.9918,
+        "heart_resonance_stack": 2.61087927,
+        "heart_quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8d69b1",
+        "timestamp": 1744430433.271599
+      },
+      "heart_frequencies": {
+        "heart_rate": 61.8,
+        "heart_period": 0.970873786407767,
+        "heart_frequency": 1.03,
+        "heart_phi_resonance": 0.994500504743511,
+        "heart_chakra_resonance": 0.639,
+        "heart_coherence": 0.9918,
+        "phi_harmonic_frequencies": [
+          {
+            "power": 1,
+            "frequency": 2.61797899379733,
+            "period": 0.3819740350741006,
+            "phi_resonance": 0.23597899379733048,
+            "amplitude": 1.0
+          },
+          {
+            "power": 2,
+            "frequency": 4.235978993797331,
+            "period": 0.2360729364957386,
+            "phi_resonance": 0.8539579875946622,
+            "amplitude": 0.5
+          },
+          {
+            "power": 3,
+            "frequency": 6.8539579875946615,
+            "period": 0.14590109857836195,
+            "phi_resonance": 0.0899369813919935,
+            "amplitude": 0.3333333333333333
+          },
+          {
+            "power": 4,
+            "frequency": 11.089936981391993,
+            "period": 0.09017183791737664,
+            "phi_resonance": 0.9438949689866565,
+            "amplitude": 0.25
+          },
+          {
+            "power": 5,
+            "frequency": 17.94389496898666,
+            "period": 0.05572926066098529,
+            "phi_resonance": 0.033831950378658916,
+            "amplitude": 0.2
+          },
+          {
+            "power": 6,
+            "frequency": 29.033831950378655,
+            "period": 0.034442577256391334,
+            "phi_resonance": 0.9777269193653186,
+            "amplitude": 0.16666666666666666
+          },
+          {
+            "power": 7,
+            "frequency": 46.97772691936532,
+            "period": 0.021286683404593946,
+            "phi_resonance": 0.011558869743985676,
+            "amplitude": 0.14285714285714285
+          }
+        ],
+        "chakra_harmonics": [
+          {
+            "harmonic": 1,
+            "frequency": 639.0,
+            "period": 0.001564945226917058,
+            "phi_resonance": 0.923718811182905,
+            "amplitude": 1.0
+          },
+          {
+            "harmonic": 2,
+            "frequency": 319.5,
+            "period": 0.003129890453834116,
+            "phi_resonance": 0.9618594055914526,
+            "amplitude": 0.5
+          },
+          {
+            "harmonic": 3,
+            "frequency": 213.0,
+            "period": 0.004694835680751174,
+            "phi_resonance": 0.641239603727635,
+            "amplitude": 0.3333333333333333
+          },
+          {
+            "harmonic": 4,
+            "frequency": 159.75,
+            "period": 0.006259780907668232,
+            "phi_resonance": 0.4809297027957263,
+            "amplitude": 0.25
+          }
+        ],
+        "schumann_harmonics": [
+          {
+            "harmonic": 1,
+            "frequency": 7.83,
+            "period": 0.1277139208173691,
+            "phi_resonance": 0.6692061319116779,
+            "amplitude": 1.0
+          },
+          {
+            "harmonic": 2,
+            "frequency": 15.66,
+            "period": 0.06385696040868455,
+            "phi_resonance": 0.3384122638233557,
+            "amplitude": 0.5
+          },
+          {
+            "harmonic": 3,
+            "frequency": 23.49,
+            "period": 0.04257130693912303,
+            "phi_resonance": 0.00761839573503355,
+            "amplitude": 0.3333333333333333
+          },
+          {
+            "harmonic": 4,
+            "frequency": 31.32,
+            "period": 0.031928480204342274,
+            "phi_resonance": 0.6768245276467114,
+            "amplitude": 0.25
+          },
+          {
+            "harmonic": 5,
+            "frequency": 39.15,
+            "period": 0.02554278416347382,
+            "phi_resonance": 0.34603065955838924,
+            "amplitude": 0.2
+          },
+          {
+            "harmonic": 6,
+            "frequency": 46.98,
+            "period": 0.021285653469561516,
+            "phi_resonance": 0.0152367914700671,
+            "amplitude": 0.16666666666666666
+          },
+          {
+            "harmonic": 7,
+            "frequency": 54.81,
+            "period": 0.018244845831052726,
+            "phi_resonance": 0.684442923381745,
+            "amplitude": 0.14285714285714285
+          }
+        ],
+        "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8d69b1",
+        "timestamp": 1744430433.271631
+      },
+      "heart_brain_coherence": 0.98366724,
+      "heart_brain_resonance": 6.816690562515732,
+      "heart_brain_phi_alignment": 0.048725021847601524,
+      "heart_clock_coherence": 0.98366724,
+      "heart_clock_resonance": 6.816690562515732,
+      "heart_clock_phi_alignment": 0.048820647656336646,
+      "quantum_time": {
+        "oscillation_count": 0.00023889541625976562,
+        "phi_time": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 1,
+          "formatted": "00:00:01"
+        },
+        "resonance_time": 0.000623727090010643,
+        "quantum_date": {
+          "day": 1,
+          "month": 1,
+          "year": 1970,
+          "formatted": "1970-01-01"
+        },
+        "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-6fe454"
+      },
+      "quantum_state": {
+        "timestamp": 1744430433.2715929,
+        "coherence": 0.9918,
+        "phi_resonance": 0.04314300685768636,
+        "resonance_frequency": 4918.174871802181,
+        "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8d69b1",
+        "dimensions": 3693238
+      },
+      "timestamp": 1744430433.271704,
+      "iso_timestamp": "2025-04-11T21:00:33.271704"
+    },
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8d69b1",
+    "timestamp": 1744430433.271708,
+    "iso_timestamp": "2025-04-11T21:00:33.271708"
+  },
+  "brain_pattern": {
+    "dominant_band": "resonance",
+    "entrainment_pattern": {
+      "delta": {
+        "strength": 0.1,
+        "base_frequency": 1.618,
+        "frequencies": [
+          1.618,
+          0.9999789937973298,
+          0.6180210062026701
+        ],
+        "resonance": 1.3777
+      },
+      "theta": {
+        "strength": 0.1142857142857143,
+        "base_frequency": 2.618,
+        "frequencies": [
+          2.618,
+          1.6180129825472245,
+          2.1180064912736123
+        ],
+        "resonance": 1.89805729
+      },
+      "alpha": {
+        "strength": 0.13333333333333333,
+        "base_frequency": 4.236,
+        "frequencies": [
+          4.236,
+          2.2846639921148513,
+          5.235983952689108
+        ],
+        "resonance": 2.614953528433
+      },
+      "beta": {
+        "strength": 0.16,
+        "base_frequency": 6.854,
+        "frequencies": [
+          6.854,
+          2.772501239722945,
+          12.708014876675335
+        ],
+        "resonance": 3.602621476122144
+      },
+      "gamma": {
+        "strength": 0.2,
+        "base_frequency": 11.09,
+        "frequencies": [
+          11.09,
+          3.5887993870472674,
+          27.415987740945333
+        ],
+        "resonance": 4.963331607653478
+      },
+      "hyper": {
+        "strength": 0.26666666666666666,
+        "base_frequency": 17.944,
+        "frequencies": [
+          17.944,
+          4.839000315688018,
+          55.45000947064056
+        ],
+        "resonance": 6.837981955864197
+      },
+      "quantum": {
+        "strength": 0.4,
+        "base_frequency": 29.034,
+        "frequencies": [
+          29.034,
+          6.711142689909208,
+          107.66399297618666
+        ],
+        "resonance": 9.420687740594104
+      },
+      "resonance": {
+        "strength": 0.99836,
+        "base_frequency": 36.932,
+        "frequencies": [
+          36.932,
+          7.967630836334816,
+          148.36400327132225
+        ],
+        "resonance": 2.61087927
+      }
+    },
+    "phi_pattern": [
+      {
+        "power": 1,
+        "frequency": 1.618033988749895,
+        "amplitude": 1.0
+      },
+      {
+        "power": 2,
+        "frequency": 2.6180339887498953,
+        "amplitude": 0.5
+      },
+      {
+        "power": 3,
+        "frequency": 4.236067977499791,
+        "amplitude": 0.3333333333333333
+      },
+      {
+        "power": 4,
+        "frequency": 6.854101966249687,
+        "amplitude": 0.25
+      },
+      {
+        "power": 5,
+        "frequency": 11.09016994374948,
+        "amplitude": 0.2
+      },
+      {
+        "power": 6,
+        "frequency": 17.94427190999917,
+        "amplitude": 0.16666666666666666
+      },
+      {
+        "power": 7,
+        "frequency": 29.034441853748653,
+        "amplitude": 0.14285714285714285
+      },
+      {
+        "power": 8,
+        "frequency": 46.97871376374783,
+        "amplitude": 0.125
+      }
+    ],
+    "birth_pattern": [
+      {
+        "factor": 1,
+        "frequency": 29.779,
+        "amplitude": 0.9016363636363637
+      },
+      {
+        "factor": 2,
+        "frequency": 59.558,
+        "amplitude": 0.8265
+      },
+      {
+        "factor": 3,
+        "frequency": 89.337,
+        "amplitude": 0.7629230769230769
+      },
+      {
+        "factor": 4,
+        "frequency": 119.116,
+        "amplitude": 0.7084285714285714
+      },
+      {
+        "factor": 5,
+        "frequency": 148.895,
+        "amplitude": 0.6612
+      },
+      {
+        "factor": 6,
+        "frequency": 178.674,
+        "amplitude": 0.619875
+      },
+      {
+        "factor": 7,
+        "frequency": 208.453,
+        "amplitude": 0.5834117647058824
+      },
+      {
+        "factor": 8,
+        "frequency": 238.232,
+        "amplitude": 0.551
+      },
+      {
+        "factor": 9,
+        "frequency": 268.011,
+        "amplitude": 0.522
+      }
+    ],
+    "quantum_state": {
+      "timestamp": 1744430433.2717178,
+      "coherence": 0.9918,
+      "phi_resonance": 0.04334509930288122,
+      "resonance_frequency": 4918.773166486179,
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-6150e3",
+      "dimensions": 3693238
+    },
+    "brain_state": {
+      "dominant_band": "resonance",
+      "band_amplitudes": {
+        "delta": 0.1,
+        "theta": 0.1142857142857143,
+        "alpha": 0.13333333333333333,
+        "beta": 0.16,
+        "gamma": 0.2,
+        "hyper": 0.26666666666666666,
+        "quantum": 0.4,
+        "resonance": 0.99836
+      },
+      "coherence": 0.9918,
+      "resonance": 2.61087927,
+      "phi_alignment": 0.04334509930288122,
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-6150e3"
+    },
+    "timestamp": 1744430433.271745,
+    "iso_timestamp": "2025-04-11T21:00:33.271745"
+  },
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8d69b1",
+  "timestamp": 1744430433.271748,
+  "iso_timestamp": "2025-04-11T21:00:33.271748"
+}

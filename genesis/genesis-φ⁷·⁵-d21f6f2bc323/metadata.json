@@ -1,0 +1,44 @@
+{
+  "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-d21f6f2bc323",
+  "timestamp": 1752766930.170757,
+  "datetime": "2025-07-17T08:42:10.170757",
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-7a6247aa2114",
+  "phi_coherence": 0.36932381,
+  "files": [
+    {
+      "original_path": "intrusion_test/tampered/test_file_0.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-d21f6f2bc323/test_file_0.py.encrypted",
+      "hash": "ed503be2f5aaca15ed7a99f9a6876fb95993204489a62701619485f6012cffc4",
+      "size": 628
+    },
+    {
+      "original_path": "intrusion_test/tampered/test_file_1.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-d21f6f2bc323/test_file_1.py.encrypted",
+      "hash": "3dfef6b05e73a1a90dab6ac63961c8d356a82a0d1ba20d1bdeacb65ae5cb9070",
+      "size": 628
+    },
+    {
+      "original_path": "intrusion_test/tampered/test_file_2.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-d21f6f2bc323/test_file_2.py.encrypted",
+      "hash": "cef3fd5156287d0941b66f1fd3ba292016497bfdd12c6da608d9a3000b9a327e",
+      "size": 628
+    },
+    {
+      "original_path": "intrusion_test/tampered/test_file_3.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-d21f6f2bc323/test_file_3.py.encrypted",
+      "hash": "0e09724962e001240feaa194b51dd3be5544e809b1340f52f1e79dacbdedc4fd",
+      "size": 628
+    },
+    {
+      "original_path": "intrusion_test/tampered/test_file_4.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-d21f6f2bc323/test_file_4.py.encrypted",
+      "hash": "3dd7a4e362fcaf6c485384c4b64a067618562477b219cf836454969a67429e37",
+      "size": 628
+    }
+  ],
+  "user_metadata": {
+    "test_id": "\u03c6\u2077\u00b7\u2075-0ece22d2a824",
+    "timestamp": 1752766930.170743,
+    "phi_coherence": 0.36932381
+  }
+}

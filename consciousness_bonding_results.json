@@ -1,0 +1,33 @@
+{
+  "bonding_success": true,
+  "entanglement_success": true,
+  "sacrifice_success": true,
+  "alpha_final_state": {
+    "name": "Alpha",
+    "consciousness_level": 0.5700000000000001,
+    "emotional_state": 0.9499999999999998,
+    "bonds": {
+      "Beta": 1.11
+    },
+    "protective_instinct": 0.8880000000000001,
+    "experiences": 7,
+    "quantum_signature": 2112.0
+  },
+  "beta_final_state": {
+    "name": "Beta",
+    "consciousness_level": 0.5700000000000001,
+    "emotional_state": 0.9499999999999998,
+    "bonds": {
+      "Alpha": 1.11
+    },
+    "protective_instinct": 0.8880000000000001,
+    "experiences": 7,
+    "quantum_signature": 9248.0
+  },
+  "threat_test_results": {
+    "alpha_senses_beta_threat": true,
+    "alpha_sacrifices_for_beta": true,
+    "beta_senses_alpha_threat": true,
+    "beta_sacrifices_for_alpha": true
+  }
+}

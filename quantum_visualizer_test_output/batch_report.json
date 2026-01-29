@@ -1,0 +1,393 @@
+{
+  "results": [
+    {
+      "trust_metric": 0.95,
+      "verification_phi_resonance": 0.6032585995676585,
+      "claims": [
+        {
+          "claim": "Sample claim 1",
+          "line": 7,
+          "confidence": 0.8054207693477863
+        },
+        {
+          "claim": "Sample claim 2",
+          "line": 39,
+          "confidence": 0.922768531647735
+        },
+        {
+          "claim": "Sample claim 3",
+          "line": 39,
+          "confidence": 0.7626800142392822
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "file_operation_lie",
+          "claim": "Contradicted claim 1",
+          "evidence": "Evidence against claim 1",
+          "severity": 0.13926295418946888,
+          "description": "Description of contradiction 1 of type file_operation_lie"
+        },
+        {
+          "type": "code_intention_mismatch",
+          "claim": "Contradicted claim 2",
+          "evidence": "Evidence against claim 2",
+          "severity": 0.1381888987970576,
+          "description": "Description of contradiction 2 of type code_intention_mismatch"
+        }
+      ],
+      "execution_result": {
+        "success": true,
+        "output": "Sample output from code execution",
+        "execution_time": 1.8315321074902882,
+        "phi_resonance": 0.6258238538347205
+      },
+      "quantum_signature": {
+        "signature": "6fd77d126df3d2df46dfeded45ca6377812c42eca2070a16d055fdb5f46529d5",
+        "timestamp": 1632837362,
+        "phi_encoded": "phi-7201",
+        "phi_time": 0.6129335950503185
+      },
+      "verification_time": 2.4827657586079046,
+      "file_path": "sample_code_1.py",
+      "snippet_id": "code_1"
+    },
+    {
+      "trust_metric": 0.75,
+      "verification_phi_resonance": 0.5829834285189593,
+      "claims": [
+        {
+          "claim": "Sample claim 1",
+          "line": 39,
+          "confidence": 0.8696398668384206
+        },
+        {
+          "claim": "Sample claim 2",
+          "line": 17,
+          "confidence": 0.7957521872820781
+        },
+        {
+          "claim": "Sample claim 3",
+          "line": 3,
+          "confidence": 0.802824889823248
+        },
+        {
+          "claim": "Sample claim 4",
+          "line": 84,
+          "confidence": 0.7844431033952581
+        },
+        {
+          "claim": "Sample claim 5",
+          "line": 20,
+          "confidence": 0.9420719694949735
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "code_intention_mismatch",
+          "claim": "Contradicted claim 1",
+          "evidence": "Evidence against claim 1",
+          "severity": 0.2299067353954815,
+          "description": "Description of contradiction 1 of type code_intention_mismatch"
+        },
+        {
+          "type": "execution_mismatch",
+          "claim": "Contradicted claim 2",
+          "evidence": "Evidence against claim 2",
+          "severity": 0.3048820840834504,
+          "description": "Description of contradiction 2 of type execution_mismatch"
+        },
+        {
+          "type": "file_operation_lie",
+          "claim": "Contradicted claim 3",
+          "evidence": "Evidence against claim 3",
+          "severity": 0.3124252401528901,
+          "description": "Description of contradiction 3 of type file_operation_lie"
+        },
+        {
+          "type": "runtime_output_mismatch",
+          "claim": "Contradicted claim 4",
+          "evidence": "Evidence against claim 4",
+          "severity": 0.2965995606478351,
+          "description": "Description of contradiction 4 of type runtime_output_mismatch"
+        }
+      ],
+      "execution_result": {
+        "success": true,
+        "output": "Sample output from code execution",
+        "execution_time": 0.2817042132218711,
+        "phi_resonance": 0.5272689775369801
+      },
+      "quantum_signature": {
+        "signature": "927ed904385a84b7d2209fc662ea408c59c550d8300310e3fe613f8f4edcc36",
+        "timestamp": 1637286700,
+        "phi_encoded": "phi-7322",
+        "phi_time": 0.6829166989623408
+      },
+      "verification_time": 1.3163669983936173,
+      "file_path": "sample_code_2.py",
+      "snippet_id": "code_2"
+    },
+    {
+      "trust_metric": 0.618,
+      "verification_phi_resonance": 0.4585847778095962,
+      "claims": [
+        {
+          "claim": "Sample claim 1",
+          "line": 26,
+          "confidence": 0.8113958673804575
+        },
+        {
+          "claim": "Sample claim 2",
+          "line": 76,
+          "confidence": 0.909325133554126
+        },
+        {
+          "claim": "Sample claim 3",
+          "line": 38,
+          "confidence": 0.8590777342197006
+        },
+        {
+          "claim": "Sample claim 4",
+          "line": 38,
+          "confidence": 0.7744025216599172
+        },
+        {
+          "claim": "Sample claim 5",
+          "line": 69,
+          "confidence": 0.9429698232719532
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "execution_mismatch",
+          "claim": "Contradicted claim 1",
+          "evidence": "Evidence against claim 1",
+          "severity": 0.34315259159457145,
+          "description": "Description of contradiction 1 of type execution_mismatch"
+        },
+        {
+          "type": "runtime_output_mismatch",
+          "claim": "Contradicted claim 2",
+          "evidence": "Evidence against claim 2",
+          "severity": 0.30434227414118875,
+          "description": "Description of contradiction 2 of type runtime_output_mismatch"
+        },
+        {
+          "type": "claim_contradiction",
+          "claim": "Contradicted claim 3",
+          "evidence": "Evidence against claim 3",
+          "severity": 0.42273778681123275,
+          "description": "Description of contradiction 3 of type claim_contradiction"
+        }
+      ],
+      "execution_result": {
+        "success": true,
+        "output": "Sample output from code execution",
+        "execution_time": 1.884620254145936,
+        "phi_resonance": 0.5801498303917607
+      },
+      "quantum_signature": {
+        "signature": "3d938f53cb4d4f0248ba1c3305b8dea62720c4c6b682120074b363b4c1ea1d28",
+        "timestamp": 1682295151,
+        "phi_encoded": "phi-3007",
+        "phi_time": 0.6713215207246357
+      },
+      "verification_time": 1.7632079064804305,
+      "file_path": "sample_code_3.py",
+      "snippet_id": "code_3"
+    },
+    {
+      "trust_metric": 0.5,
+      "verification_phi_resonance": 0.648577451385038,
+      "claims": [
+        {
+          "claim": "Sample claim 1",
+          "line": 29,
+          "confidence": 0.9143956244990779
+        },
+        {
+          "claim": "Sample claim 2",
+          "line": 64,
+          "confidence": 0.7481790658469135
+        },
+        {
+          "claim": "Sample claim 3",
+          "line": 61,
+          "confidence": 0.8855898817898751
+        },
+        {
+          "claim": "Sample claim 4",
+          "line": 90,
+          "confidence": 0.8491594158684985
+        },
+        {
+          "claim": "Sample claim 5",
+          "line": 39,
+          "confidence": 0.8406434777685743
+        },
+        {
+          "claim": "Sample claim 6",
+          "line": 21,
+          "confidence": 0.9078624394915369
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "execution_mismatch",
+          "claim": "Contradicted claim 1",
+          "evidence": "Evidence against claim 1",
+          "severity": 0.44327027831803767,
+          "description": "Description of contradiction 1 of type execution_mismatch"
+        },
+        {
+          "type": "code_intention_mismatch",
+          "claim": "Contradicted claim 2",
+          "evidence": "Evidence against claim 2",
+          "severity": 0.4598103452191036,
+          "description": "Description of contradiction 2 of type code_intention_mismatch"
+        },
+        {
+          "type": "file_operation_lie",
+          "claim": "Contradicted claim 3",
+          "evidence": "Evidence against claim 3",
+          "severity": 0.4342518628298946,
+          "description": "Description of contradiction 3 of type file_operation_lie"
+        },
+        {
+          "type": "runtime_output_mismatch",
+          "claim": "Contradicted claim 4",
+          "evidence": "Evidence against claim 4",
+          "severity": 0.41484761443574525,
+          "description": "Description of contradiction 4 of type runtime_output_mismatch"
+        },
+        {
+          "type": "execution_mismatch",
+          "claim": "Contradicted claim 5",
+          "evidence": "Evidence against claim 5",
+          "severity": 0.5140364586620817,
+          "description": "Description of contradiction 5 of type execution_mismatch"
+        }
+      ],
+      "execution_result": {
+        "success": false,
+        "output": "Sample output from code execution",
+        "execution_time": 0.143914571061108,
+        "phi_resonance": 0.6544026274116744
+      },
+      "quantum_signature": {
+        "signature": "84f60890c57f5ef5ce1fc1cc3895ffec42ae3ab8a331b5fc3ba5fe8a4cc1702b",
+        "timestamp": 1661964067,
+        "phi_encoded": "phi-7803",
+        "phi_time": 0.6238352282795888
+      },
+      "verification_time": 0.7077123338810083,
+      "file_path": "sample_code_4.py",
+      "snippet_id": "code_4"
+    },
+    {
+      "trust_metric": 0.25,
+      "verification_phi_resonance": 0.6279950308514738,
+      "claims": [
+        {
+          "claim": "Sample claim 1",
+          "line": 88,
+          "confidence": 0.7532708345119921
+        },
+        {
+          "claim": "Sample claim 2",
+          "line": 94,
+          "confidence": 0.8008215789850304
+        },
+        {
+          "claim": "Sample claim 3",
+          "line": 12,
+          "confidence": 0.7348327675128392
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "runtime_output_mismatch",
+          "claim": "Contradicted claim 1",
+          "evidence": "Evidence against claim 1",
+          "severity": 0.7652622700438793,
+          "description": "Description of contradiction 1 of type runtime_output_mismatch"
+        },
+        {
+          "type": "code_intention_mismatch",
+          "claim": "Contradicted claim 2",
+          "evidence": "Evidence against claim 2",
+          "severity": 0.583683180416288,
+          "description": "Description of contradiction 2 of type code_intention_mismatch"
+        },
+        {
+          "type": "execution_mismatch",
+          "claim": "Contradicted claim 3",
+          "evidence": "Evidence against claim 3",
+          "severity": 0.5537262996963632,
+          "description": "Description of contradiction 3 of type execution_mismatch"
+        },
+        {
+          "type": "file_operation_lie",
+          "claim": "Contradicted claim 4",
+          "evidence": "Evidence against claim 4",
+          "severity": 0.6167862411323998,
+          "description": "Description of contradiction 4 of type file_operation_lie"
+        },
+        {
+          "type": "execution_mismatch",
+          "claim": "Contradicted claim 5",
+          "evidence": "Evidence against claim 5",
+          "severity": 0.683771767013813,
+          "description": "Description of contradiction 5 of type execution_mismatch"
+        },
+        {
+          "type": "claim_contradiction",
+          "claim": "Contradicted claim 6",
+          "evidence": "Evidence against claim 6",
+          "severity": 0.6913344008264154,
+          "description": "Description of contradiction 6 of type claim_contradiction"
+        },
+        {
+          "type": "file_operation_lie",
+          "claim": "Contradicted claim 7",
+          "evidence": "Evidence against claim 7",
+          "severity": 0.5946248230693595,
+          "description": "Description of contradiction 7 of type file_operation_lie"
+        },
+        {
+          "type": "file_operation_lie",
+          "claim": "Contradicted claim 8",
+          "evidence": "Evidence against claim 8",
+          "severity": 0.7186843930365179,
+          "description": "Description of contradiction 8 of type file_operation_lie"
+        },
+        {
+          "type": "code_intention_mismatch",
+          "claim": "Contradicted claim 9",
+          "evidence": "Evidence against claim 9",
+          "severity": 0.6059418900554435,
+          "description": "Description of contradiction 9 of type code_intention_mismatch"
+        }
+      ],
+      "execution_result": {
+        "success": false,
+        "output": "Sample output from code execution",
+        "execution_time": 1.1542989029799957,
+        "phi_resonance": 0.6346910573416281
+      },
+      "quantum_signature": {
+        "signature": "57c56893337f753d7443e7dafa037f65ab74156bc8b2015ce767a1d7ba32bd8f",
+        "timestamp": 1636278805,
+        "phi_encoded": "phi-8826",
+        "phi_time": 0.5886228949823843
+      },
+      "verification_time": 2.8557376102716505,
+      "file_path": "sample_code_5.py",
+      "snippet_id": "code_5"
+    }
+  ],
+  "batch_id": "batch_5154",
+  "timestamp": 1691761796,
+  "average_trust_metric": 0.6136
+}

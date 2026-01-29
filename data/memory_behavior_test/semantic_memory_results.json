@@ -1,0 +1,82 @@
+{
+  "semantic_results": [
+    {
+      "concept_id": "quantum",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.497609"
+    },
+    {
+      "concept_id": "phi",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.497736"
+    },
+    {
+      "concept_id": "coherence",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.497844"
+    },
+    {
+      "concept_id": "computation",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.497941"
+    },
+    {
+      "concept_id": "harmony",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.498037"
+    },
+    {
+      "concept_id": "recursion",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.498960"
+    },
+    {
+      "concept_id": "resonance",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.499189"
+    },
+    {
+      "concept_id": "optimization",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.499424"
+    },
+    {
+      "concept_id": "balance",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.502548"
+    },
+    {
+      "concept_id": "stability",
+      "semantic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.502688"
+    }
+  ],
+  "semantic_network": {
+    "n_concepts": 10,
+    "avg_coherence": 0.0,
+    "phi_ratio": 0.0,
+    "network_density": 0.3333333333333333,
+    "phi_density_ratio": 0.5393446666666666,
+    "phi_coherence_product": 0.0
+  }
+}

@@ -1,0 +1,1210 @@
+{
+  "messages": [
+    {
+      "message_id": "MSG-5f1bdcb7",
+      "target_marker_id": "CI-1e95153c-1",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 1 was placed",
+      "send_time": "2025-04-28 04:54:32.436884",
+      "target_time": "2025-04-28 04:54:05.620747",
+      "received_time": "2025-04-28 04:54:30.342106",
+      "phi_signature": 9.295599332609921
+    },
+    {
+      "message_id": "MSG-e4620b0d",
+      "target_marker_id": "CI-921229f7-1",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 1 was placed",
+      "send_time": "2025-04-28 05:05:20.450693",
+      "target_time": "2025-04-28 05:04:53.642955",
+      "received_time": "2025-04-28 05:05:18.364314",
+      "phi_signature": 18.204746208727535
+    },
+    {
+      "message_id": "MSG-fd130cba",
+      "target_marker_id": "CI-921229f7-2",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 2 was placed",
+      "send_time": "2025-04-28 05:05:22.092033",
+      "target_time": "2025-04-28 05:04:58.643018",
+      "received_time": "2025-04-28 05:05:23.364377",
+      "phi_signature": 0.3793427861717942
+    },
+    {
+      "message_id": "MSG-13a3bde4",
+      "target_marker_id": "CI-8f7ccfb0-1",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 1 was placed",
+      "send_time": "2025-04-28 05:08:16.509566",
+      "target_time": "2025-04-28 05:07:49.739791",
+      "received_time": "2025-04-28 05:08:14.461150",
+      "phi_signature": 11.69785078400028
+    },
+    {
+      "message_id": "MSG-e581f39d",
+      "target_marker_id": "CI-8f7ccfb0-2",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 2 was placed",
+      "send_time": "2025-04-28 05:08:18.090662",
+      "target_time": "2025-04-28 05:07:54.739914",
+      "received_time": "2025-04-28 05:08:19.461273",
+      "phi_signature": 16.69797365160571
+    },
+    {
+      "message_id": "MSG-681a2573",
+      "target_marker_id": "CI-8f7ccfb0-3",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 3 was placed",
+      "send_time": "2025-04-28 05:08:19.223986",
+      "target_time": "2025-04-28 05:07:59.739943",
+      "received_time": "2025-04-28 05:08:24.461302",
+      "phi_signature": 21.69800250941004
+    },
+    {
+      "message_id": "MSG-28de5a19",
+      "target_marker_id": "CI-8f7ccfb0-4",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 4 was placed",
+      "send_time": "2025-04-28 05:08:20.360280",
+      "target_time": "2025-04-28 05:08:04.739961",
+      "received_time": "2025-04-28 05:08:29.461320",
+      "phi_signature": 3.8725542922155274
+    },
+    {
+      "message_id": "MSG-92ad5f6e",
+      "target_marker_id": "CI-8f7ccfb0-5",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 5 was placed",
+      "send_time": "2025-04-28 05:08:21.494996",
+      "target_time": "2025-04-28 05:08:09.739977",
+      "received_time": "2025-04-28 05:08:34.461336",
+      "phi_signature": 8.872570183150735
+    },
+    {
+      "message_id": "MSG-5b9cd0e8",
+      "target_marker_id": "CI-aa58d899-1",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 1 was placed",
+      "send_time": "2025-04-28 05:08:32.168999",
+      "target_time": "2025-04-28 05:08:05.188845",
+      "received_time": "2025-04-28 05:08:29.910204",
+      "phi_signature": 4.321438125632492
+    },
+    {
+      "message_id": "MSG-fafd78d2",
+      "target_marker_id": "CI-aa58d899-2",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 2 was placed",
+      "send_time": "2025-04-28 05:08:33.622257",
+      "target_time": "2025-04-28 05:08:10.188931",
+      "received_time": "2025-04-28 05:08:34.910290",
+      "phi_signature": 9.321524155541566
+    },
+    {
+      "message_id": "MSG-48b05af3",
+      "target_marker_id": "CI-aa58d899-3",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 3 was placed",
+      "send_time": "2025-04-28 05:08:34.795329",
+      "target_time": "2025-04-28 05:08:15.188954",
+      "received_time": "2025-04-28 05:08:39.910313",
+      "phi_signature": 14.321547119314474
+    },
+    {
+      "message_id": "MSG-31270650",
+      "target_marker_id": "CI-aa58d899-4",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 4 was placed",
+      "send_time": "2025-04-28 05:08:35.988275",
+      "target_time": "2025-04-28 05:08:20.188970",
+      "received_time": "2025-04-28 05:08:44.910329",
+      "phi_signature": 19.321563010249683
+    },
+    {
+      "message_id": "MSG-7abefaef",
+      "target_marker_id": "CI-aa58d899-5",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 5 was placed",
+      "send_time": "2025-04-28 05:08:37.142828",
+      "target_time": "2025-04-28 05:08:25.188991",
+      "received_time": "2025-04-28 05:08:49.910350",
+      "phi_signature": 1.4961177400708796
+    },
+    {
+      "message_id": "MSG-a3cf44aa",
+      "target_marker_id": "CI-939a28be-1",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 1 was placed",
+      "send_time": "2025-04-28 05:46:20.981478",
+      "target_time": "2025-04-28 05:45:53.498765",
+      "received_time": "2025-04-28 05:46:18.220124",
+      "phi_signature": 12.91017829432417
+    },
+    {
+      "message_id": "MSG-b9f83039",
+      "target_marker_id": "CI-939a28be-2",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 2 was placed",
+      "send_time": "2025-04-28 05:46:22.513064",
+      "target_time": "2025-04-28 05:45:58.498849",
+      "received_time": "2025-04-28 05:46:23.220208",
+      "phi_signature": 17.910261966620677
+    },
+    {
+      "message_id": "MSG-2194182d",
+      "target_marker_id": "CI-939a28be-3",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 3 was placed",
+      "send_time": "2025-04-28 05:46:23.669967",
+      "target_time": "2025-04-28 05:46:03.498872",
+      "received_time": "2025-04-28 05:46:28.220231",
+      "phi_signature": 0.08481846465130025
+    },
+    {
+      "message_id": "MSG-8b149ad4",
+      "target_marker_id": "CI-939a28be-4",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 4 was placed",
+      "send_time": "2025-04-28 05:46:24.824542",
+      "target_time": "2025-04-28 05:46:08.498888",
+      "received_time": "2025-04-28 05:46:33.220247",
+      "phi_signature": 5.084834650288078
+    },
+    {
+      "message_id": "MSG-563cb76f",
+      "target_marker_id": "CI-939a28be-5",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 5 was placed",
+      "send_time": "2025-04-28 05:46:25.976772",
+      "target_time": "2025-04-28 05:46:13.498904",
+      "received_time": "2025-04-28 05:46:38.220263",
+      "phi_signature": 10.084850835924858
+    },
+    {
+      "message_id": "MSG-8ab63e3c",
+      "target_marker_id": "CI-939a28be-6",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 6 was placed",
+      "send_time": "2025-04-28 05:46:27.134832",
+      "target_time": "2025-04-28 05:46:18.499383",
+      "received_time": "2025-04-28 05:46:43.220742",
+      "phi_signature": 15.085329703027899
+    },
+    {
+      "message_id": "MSG-62465d7f",
+      "target_marker_id": "CI-939a28be-7",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 7 was placed",
+      "send_time": "2025-04-28 05:46:28.313912",
+      "target_time": "2025-04-28 05:46:23.499534",
+      "received_time": "2025-04-28 05:46:48.220893",
+      "phi_signature": 20.085480567282563
+    },
+    {
+      "message_id": "MSG-513c99ec",
+      "target_marker_id": "CI-939a28be-8",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 8 was placed",
+      "send_time": "2025-04-28 05:46:29.511018",
+      "target_time": "2025-04-28 05:46:28.499579",
+      "received_time": "2025-04-28 05:46:53.220938",
+      "phi_signature": 2.2600591679310025
+    },
+    {
+      "message_id": "MSG-563e33be",
+      "target_marker_id": "CI-939a28be-9",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 9 was placed",
+      "send_time": "2025-04-28 05:46:30.759061",
+      "target_time": "2025-04-28 05:46:33.499600",
+      "received_time": "2025-04-28 05:46:58.220959",
+      "phi_signature": 7.260080068792915
+    },
+    {
+      "message_id": "MSG-1c080da8",
+      "target_marker_id": "CI-939a28be-10",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 10 was placed",
+      "send_time": "2025-04-28 05:46:31.950580",
+      "target_time": "2025-04-28 05:46:38.499618",
+      "received_time": "2025-04-28 05:47:03.220977",
+      "phi_signature": 12.260098022639118
+    },
+    {
+      "message_id": "MSG-5b14638d",
+      "target_marker_id": "CI-939a28be-11",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 11 was placed",
+      "send_time": "2025-04-28 05:46:33.134825",
+      "target_time": "2025-04-28 05:46:43.499678",
+      "received_time": "2025-04-28 05:47:08.221037",
+      "phi_signature": 17.260158118809958
+    },
+    {
+      "message_id": "MSG-89647544",
+      "target_marker_id": "CI-939a28be-12",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 12 was placed",
+      "send_time": "2025-04-28 05:46:34.356854",
+      "target_time": "2025-04-28 05:46:48.499702",
+      "received_time": "2025-04-28 05:47:13.221061",
+      "phi_signature": 22.260182261389147
+    },
+    {
+      "message_id": "MSG-c168d66d",
+      "target_marker_id": "CI-939a28be-13",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 13 was placed",
+      "send_time": "2025-04-28 05:46:35.515424",
+      "target_time": "2025-04-28 05:46:53.499723",
+      "received_time": "2025-04-28 05:47:18.221082",
+      "phi_signature": 4.434736696508775
+    },
+    {
+      "message_id": "MSG-023720b2",
+      "target_marker_id": "CI-939a28be-14",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 14 was placed",
+      "send_time": "2025-04-28 05:46:36.679563",
+      "target_time": "2025-04-28 05:46:58.499741",
+      "received_time": "2025-04-28 05:47:23.221100",
+      "phi_signature": 9.434754650354979
+    },
+    {
+      "message_id": "MSG-a0577821",
+      "target_marker_id": "CI-939a28be-15",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 15 was placed",
+      "send_time": "2025-04-28 05:46:37.839105",
+      "target_time": "2025-04-28 05:47:03.499762",
+      "received_time": "2025-04-28 05:47:28.221121",
+      "phi_signature": 14.434775551216891
+    },
+    {
+      "message_id": "MSG-86db1286",
+      "target_marker_id": "CI-939a28be-16",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 16 was placed",
+      "send_time": "2025-04-28 05:46:38.983383",
+      "target_time": "2025-04-28 05:47:08.499778",
+      "received_time": "2025-04-28 05:47:33.221137",
+      "phi_signature": 19.43479173685367
+    },
+    {
+      "message_id": "MSG-172ad7c7",
+      "target_marker_id": "CI-939a28be-17",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 17 was placed",
+      "send_time": "2025-04-28 05:46:40.147571",
+      "target_time": "2025-04-28 05:47:13.499793",
+      "received_time": "2025-04-28 05:47:38.221152",
+      "phi_signature": 1.6093402779418788
+    },
+    {
+      "message_id": "MSG-7e192659",
+      "target_marker_id": "CI-939a28be-18",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 18 was placed",
+      "send_time": "2025-04-28 05:46:41.316061",
+      "target_time": "2025-04-28 05:47:18.499807",
+      "received_time": "2025-04-28 05:47:43.221166",
+      "phi_signature": 6.609354105966091
+    },
+    {
+      "message_id": "MSG-9440e63f",
+      "target_marker_id": "CI-939a28be-19",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 19 was placed",
+      "send_time": "2025-04-28 05:46:42.468456",
+      "target_time": "2025-04-28 05:47:23.499822",
+      "received_time": "2025-04-28 05:47:48.221181",
+      "phi_signature": 11.609369112796585
+    },
+    {
+      "message_id": "MSG-d77a28df",
+      "target_marker_id": "CI-939a28be-20",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 20 was placed",
+      "send_time": "2025-04-28 05:46:43.627881",
+      "target_time": "2025-04-28 05:47:28.499838",
+      "received_time": "2025-04-28 05:47:53.221197",
+      "phi_signature": 16.609385298433363
+    },
+    {
+      "message_id": "MSG-a99455f1",
+      "target_marker_id": "CI-939a28be-21",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 21 was placed",
+      "send_time": "2025-04-28 05:46:44.810835",
+      "target_time": "2025-04-28 05:47:33.499852",
+      "received_time": "2025-04-28 05:47:58.221211",
+      "phi_signature": 21.609399421159146
+    },
+    {
+      "message_id": "MSG-b6641e13",
+      "target_marker_id": "CI-7cc492bf-1",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 1 was placed",
+      "send_time": "2025-04-28 05:51:42.279617",
+      "target_time": "2025-04-28 05:51:15.365271",
+      "received_time": "2025-04-28 05:51:40.086630",
+      "phi_signature": 15.220153439330357
+    },
+    {
+      "message_id": "MSG-238b5ea4",
+      "target_marker_id": "CI-7cc492bf-2",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 2 was placed",
+      "send_time": "2025-04-28 05:51:43.770612",
+      "target_time": "2025-04-28 05:51:20.365334",
+      "received_time": "2025-04-28 05:51:45.086693",
+      "phi_signature": 20.220216482516904
+    },
+    {
+      "message_id": "MSG-fc934f4c",
+      "target_marker_id": "CI-7cc492bf-3",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 3 was placed",
+      "send_time": "2025-04-28 05:51:44.941206",
+      "target_time": "2025-04-28 05:51:25.365353",
+      "received_time": "2025-04-28 05:51:50.086712",
+      "phi_signature": 2.394769149427105
+    },
+    {
+      "message_id": "MSG-b6c871f7",
+      "target_marker_id": "CI-7cc492bf-4",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 4 was placed",
+      "send_time": "2025-04-28 05:51:46.119865",
+      "target_time": "2025-04-28 05:51:30.365371",
+      "received_time": "2025-04-28 05:51:55.086730",
+      "phi_signature": 7.394787103273309
+    },
+    {
+      "message_id": "MSG-d90415d5",
+      "target_marker_id": "CI-7cc492bf-5",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 5 was placed",
+      "send_time": "2025-04-28 05:51:47.285195",
+      "target_time": "2025-04-28 05:51:35.366049",
+      "received_time": "2025-04-28 05:52:00.087408",
+      "phi_signature": 12.395464893936687
+    },
+    {
+      "message_id": "MSG-ccc8a306",
+      "target_marker_id": "CI-7cc492bf-6",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 6 was placed",
+      "send_time": "2025-04-28 05:51:48.434695",
+      "target_time": "2025-04-28 05:51:40.366077",
+      "received_time": "2025-04-28 05:52:05.087436",
+      "phi_signature": 17.39549316233787
+    },
+    {
+      "message_id": "MSG-696fff11",
+      "target_marker_id": "CI-7cc492bf-7",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 7 was placed",
+      "send_time": "2025-04-28 05:51:49.587592",
+      "target_time": "2025-04-28 05:51:45.366094",
+      "received_time": "2025-04-28 05:52:10.087453",
+      "phi_signature": 22.395509937377792
+    },
+    {
+      "message_id": "MSG-3f9a0ba4",
+      "target_marker_id": "CI-7cc492bf-8",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 8 was placed",
+      "send_time": "2025-04-28 05:51:50.756318",
+      "target_time": "2025-04-28 05:51:50.366111",
+      "received_time": "2025-04-28 05:52:15.087470",
+      "phi_signature": 4.570060541376996
+    },
+    {
+      "message_id": "MSG-f01a61dc",
+      "target_marker_id": "CI-7cc492bf-9",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 9 was placed",
+      "send_time": "2025-04-28 05:51:51.907131",
+      "target_time": "2025-04-28 05:51:55.366127",
+      "received_time": "2025-04-28 05:52:20.087486",
+      "phi_signature": 9.570076432312204
+    },
+    {
+      "message_id": "MSG-9e089b55",
+      "target_marker_id": "CI-7cc492bf-10",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 10 was placed",
+      "send_time": "2025-04-28 05:51:53.060576",
+      "target_time": "2025-04-28 05:52:00.366141",
+      "received_time": "2025-04-28 05:52:25.087500",
+      "phi_signature": 14.570090555037986
+    },
+    {
+      "message_id": "MSG-f4a65dbd",
+      "target_marker_id": "CI-7cc492bf-11",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 11 was placed",
+      "send_time": "2025-04-28 05:51:54.229205",
+      "target_time": "2025-04-28 05:52:05.366158",
+      "received_time": "2025-04-28 05:52:30.087517",
+      "phi_signature": 19.570107624779478
+    },
+    {
+      "message_id": "MSG-b3b712f3",
+      "target_marker_id": "CI-7cc492bf-12",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 12 was placed",
+      "send_time": "2025-04-28 05:51:55.409860",
+      "target_time": "2025-04-28 05:52:10.366670",
+      "received_time": "2025-04-28 05:52:35.088029",
+      "phi_signature": 1.7451530327161713
+    },
+    {
+      "message_id": "MSG-0f264ce6",
+      "target_marker_id": "CI-7cc492bf-13",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 13 was placed",
+      "send_time": "2025-04-28 05:51:56.582858",
+      "target_time": "2025-04-28 05:52:15.366690",
+      "received_time": "2025-04-28 05:52:40.088049",
+      "phi_signature": 6.745173344174942
+    },
+    {
+      "message_id": "MSG-ea143c34",
+      "target_marker_id": "CI-7cc492bf-14",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 14 was placed",
+      "send_time": "2025-04-28 05:51:57.749732",
+      "target_time": "2025-04-28 05:52:20.366704",
+      "received_time": "2025-04-28 05:52:45.088063",
+      "phi_signature": 11.745187172199154
+    },
+    {
+      "message_id": "MSG-b481292f",
+      "target_marker_id": "CI-7cc492bf-15",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 15 was placed",
+      "send_time": "2025-04-28 05:51:58.920970",
+      "target_time": "2025-04-28 05:52:25.366725",
+      "received_time": "2025-04-28 05:52:50.088084",
+      "phi_signature": 16.745208367762636
+    },
+    {
+      "message_id": "MSG-cf843d63",
+      "target_marker_id": "CI-7cc492bf-16",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 16 was placed",
+      "send_time": "2025-04-28 05:52:00.099555",
+      "target_time": "2025-04-28 05:52:30.366740",
+      "received_time": "2025-04-28 05:52:55.088099",
+      "phi_signature": 21.74522337459313
+    },
+    {
+      "message_id": "MSG-3ee1c564",
+      "target_marker_id": "CI-7cc492bf-17",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 17 was placed",
+      "send_time": "2025-04-28 05:52:01.272907",
+      "target_time": "2025-04-28 05:52:35.366766",
+      "received_time": "2025-04-28 05:53:00.088125",
+      "phi_signature": 3.919782819639463
+    },
+    {
+      "message_id": "MSG-d65a62d8",
+      "target_marker_id": "CI-7cc492bf-18",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 18 was placed",
+      "send_time": "2025-04-28 05:52:02.449500",
+      "target_time": "2025-04-28 05:52:40.366787",
+      "received_time": "2025-04-28 05:53:05.088146",
+      "phi_signature": 8.919803720501376
+    },
+    {
+      "message_id": "MSG-e50e261e",
+      "target_marker_id": "CI-7cc492bf-19",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 19 was placed",
+      "send_time": "2025-04-28 05:52:04.133435",
+      "target_time": "2025-04-28 05:52:45.366802",
+      "received_time": "2025-04-28 05:53:10.088161",
+      "phi_signature": 13.91981872733187
+    },
+    {
+      "message_id": "MSG-393cb63e",
+      "target_marker_id": "CI-7cc492bf-20",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 20 was placed",
+      "send_time": "2025-04-28 05:52:05.305009",
+      "target_time": "2025-04-28 05:52:50.366818",
+      "received_time": "2025-04-28 05:53:15.088177",
+      "phi_signature": 18.91983461826708
+    },
+    {
+      "message_id": "MSG-73ee4498",
+      "target_marker_id": "CI-7cc492bf-21",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 21 was placed",
+      "send_time": "2025-04-28 05:52:06.469220",
+      "target_time": "2025-04-28 05:52:55.366832",
+      "received_time": "2025-04-28 05:53:20.088191",
+      "phi_signature": 1.094381980549004
+    },
+    {
+      "message_id": "MSG-75c2b1db",
+      "target_marker_id": "CI-7cc492bf-22",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 22 was placed",
+      "send_time": "2025-04-28 05:52:07.628534",
+      "target_time": "2025-04-28 05:53:00.366852",
+      "received_time": "2025-04-28 05:53:25.088211",
+      "phi_signature": 6.094402292007775
+    },
+    {
+      "message_id": "MSG-6ec4ae2a",
+      "target_marker_id": "CI-7cc492bf-23",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 23 was placed",
+      "send_time": "2025-04-28 05:52:08.788154",
+      "target_time": "2025-04-28 05:53:05.366866",
+      "received_time": "2025-04-28 05:53:30.088225",
+      "phi_signature": 11.094416120031987
+    },
+    {
+      "message_id": "MSG-583f750c",
+      "target_marker_id": "CI-7cc492bf-24",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 24 was placed",
+      "send_time": "2025-04-28 05:52:09.980749",
+      "target_time": "2025-04-28 05:53:10.366884",
+      "received_time": "2025-04-28 05:53:35.088243",
+      "phi_signature": 16.094434368579762
+    },
+    {
+      "message_id": "MSG-5c8f7002",
+      "target_marker_id": "CI-7cc492bf-25",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 25 was placed",
+      "send_time": "2025-04-28 05:52:11.153353",
+      "target_time": "2025-04-28 05:53:15.366899",
+      "received_time": "2025-04-28 05:53:40.088258",
+      "phi_signature": 21.094449080708685
+    },
+    {
+      "message_id": "MSG-8130bb5e",
+      "target_marker_id": "CI-7cc492bf-26",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 26 was placed",
+      "send_time": "2025-04-28 05:52:12.312631",
+      "target_time": "2025-04-28 05:53:20.366915",
+      "received_time": "2025-04-28 05:53:45.088274",
+      "phi_signature": 3.268998800603178
+    },
+    {
+      "message_id": "MSG-23e83e4a",
+      "target_marker_id": "CI-7cc492bf-27",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 27 was placed",
+      "send_time": "2025-04-28 05:52:13.471827",
+      "target_time": "2025-04-28 05:53:25.366970",
+      "received_time": "2025-04-28 05:53:50.088329",
+      "phi_signature": 8.26905359214574
+    },
+    {
+      "message_id": "MSG-d0cdeb93",
+      "target_marker_id": "CI-7cc492bf-28",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 28 was placed",
+      "send_time": "2025-04-28 05:52:14.615174",
+      "target_time": "2025-04-28 05:53:30.366988",
+      "received_time": "2025-04-28 05:53:55.088347",
+      "phi_signature": 13.269071840693515
+    },
+    {
+      "message_id": "MSG-ef38c6a7",
+      "target_marker_id": "CI-7cc492bf-29",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 29 was placed",
+      "send_time": "2025-04-28 05:52:15.788920",
+      "target_time": "2025-04-28 05:53:35.367004",
+      "received_time": "2025-04-28 05:54:00.088363",
+      "phi_signature": 18.269087731628723
+    },
+    {
+      "message_id": "MSG-2aa9bacf",
+      "target_marker_id": "CI-7cc492bf-30",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 30 was placed",
+      "send_time": "2025-04-28 05:52:17.053762",
+      "target_time": "2025-04-28 05:53:40.367022",
+      "received_time": "2025-04-28 05:54:05.088381",
+      "phi_signature": 0.44363921973264003
+    },
+    {
+      "message_id": "MSG-91ad2004",
+      "target_marker_id": "CI-7cc492bf-31",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 31 was placed",
+      "send_time": "2025-04-28 05:52:18.208464",
+      "target_time": "2025-04-28 05:53:45.367038",
+      "received_time": "2025-04-28 05:54:10.088397",
+      "phi_signature": 5.443655110667848
+    },
+    {
+      "message_id": "MSG-bade0754",
+      "target_marker_id": "CI-7cc492bf-32",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 32 was placed",
+      "send_time": "2025-04-28 05:52:19.369323",
+      "target_time": "2025-04-28 05:53:50.367052",
+      "received_time": "2025-04-28 05:54:15.088411",
+      "phi_signature": 10.44366923339363
+    },
+    {
+      "message_id": "MSG-1cadc9f3",
+      "target_marker_id": "CI-7cc492bf-33",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 33 was placed",
+      "send_time": "2025-04-28 05:52:20.531566",
+      "target_time": "2025-04-28 05:53:55.367067",
+      "received_time": "2025-04-28 05:54:20.088426",
+      "phi_signature": 15.443684240224124
+    },
+    {
+      "message_id": "MSG-2a3f38de",
+      "target_marker_id": "CI-7cc492bf-34",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 34 was placed",
+      "send_time": "2025-04-28 05:52:21.677734",
+      "target_time": "2025-04-28 05:54:00.367081",
+      "received_time": "2025-04-28 05:54:25.088440",
+      "phi_signature": 20.443698362949906
+    },
+    {
+      "message_id": "MSG-d2904d78",
+      "target_marker_id": "CI-7cc492bf-35",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 35 was placed",
+      "send_time": "2025-04-28 05:52:22.857323",
+      "target_time": "2025-04-28 05:54:05.367096",
+      "received_time": "2025-04-28 05:54:30.088455",
+      "phi_signature": 2.618246904038117
+    },
+    {
+      "message_id": "MSG-10f9a193",
+      "target_marker_id": "CI-7cc492bf-36",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 36 was placed",
+      "send_time": "2025-04-28 05:52:24.502157",
+      "target_time": "2025-04-28 05:54:10.367111",
+      "received_time": "2025-04-28 05:54:35.088470",
+      "phi_signature": 7.618261910868612
+    },
+    {
+      "message_id": "MSG-ea264385",
+      "target_marker_id": "CI-7cc492bf-37",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 37 was placed",
+      "send_time": "2025-04-28 05:52:25.662047",
+      "target_time": "2025-04-28 05:54:15.367125",
+      "received_time": "2025-04-28 05:54:40.088484",
+      "phi_signature": 12.618275738892823
+    },
+    {
+      "message_id": "MSG-ab7acf09",
+      "target_marker_id": "CI-7cc492bf-38",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 38 was placed",
+      "send_time": "2025-04-28 05:52:26.836431",
+      "target_time": "2025-04-28 05:54:20.367140",
+      "received_time": "2025-04-28 05:54:45.088499",
+      "phi_signature": 17.618290745723318
+    },
+    {
+      "message_id": "MSG-73ea8f1c",
+      "target_marker_id": "CI-7cc492bf-39",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 39 was placed",
+      "send_time": "2025-04-28 05:52:28.008398",
+      "target_time": "2025-04-28 05:54:25.367154",
+      "received_time": "2025-04-28 05:54:50.088513",
+      "phi_signature": 22.6183048684491
+    },
+    {
+      "message_id": "MSG-f5d757b8",
+      "target_marker_id": "CI-7cc492bf-40",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 40 was placed",
+      "send_time": "2025-04-28 05:52:29.157992",
+      "target_time": "2025-04-28 05:54:30.367169",
+      "received_time": "2025-04-28 05:54:55.088528",
+      "phi_signature": 4.79285340953731
+    },
+    {
+      "message_id": "MSG-7cb4212f",
+      "target_marker_id": "CI-7cc492bf-41",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 41 was placed",
+      "send_time": "2025-04-28 05:52:30.330823",
+      "target_time": "2025-04-28 05:54:35.367182",
+      "received_time": "2025-04-28 05:55:00.088541",
+      "phi_signature": 9.792866353456809
+    },
+    {
+      "message_id": "MSG-dbb9cfe4",
+      "target_marker_id": "CI-7cc492bf-42",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 42 was placed",
+      "send_time": "2025-04-28 05:52:31.503943",
+      "target_time": "2025-04-28 05:54:40.367196",
+      "received_time": "2025-04-28 05:55:05.088555",
+      "phi_signature": 14.79288018148102
+    },
+    {
+      "message_id": "MSG-851fc904",
+      "target_marker_id": "CI-7cc492bf-43",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 43 was placed",
+      "send_time": "2025-04-28 05:52:32.673717",
+      "target_time": "2025-04-28 05:54:45.367211",
+      "received_time": "2025-04-28 05:55:10.088570",
+      "phi_signature": 19.792895483013087
+    },
+    {
+      "message_id": "MSG-9735e251",
+      "target_marker_id": "CI-7cc492bf-44",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 44 was placed",
+      "send_time": "2025-04-28 05:52:33.847003",
+      "target_time": "2025-04-28 05:54:50.367225",
+      "received_time": "2025-04-28 05:55:15.088584",
+      "phi_signature": 1.9674428452950123
+    },
+    {
+      "message_id": "MSG-a01536f4",
+      "target_marker_id": "CI-7cc492bf-45",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 45 was placed",
+      "send_time": "2025-04-28 05:52:35.015170",
+      "target_time": "2025-04-28 05:54:55.367238",
+      "received_time": "2025-04-28 05:55:20.088597",
+      "phi_signature": 6.967455789214511
+    },
+    {
+      "message_id": "MSG-05570925",
+      "target_marker_id": "CI-7cc492bf-46",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 46 was placed",
+      "send_time": "2025-04-28 05:52:36.189029",
+      "target_time": "2025-04-28 05:55:00.367256",
+      "received_time": "2025-04-28 05:55:25.088615",
+      "phi_signature": 11.967474037762285
+    },
+    {
+      "message_id": "MSG-1af06d8b",
+      "target_marker_id": "CI-7cc492bf-47",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 47 was placed",
+      "send_time": "2025-04-28 05:52:37.368527",
+      "target_time": "2025-04-28 05:55:05.367271",
+      "received_time": "2025-04-28 05:55:30.088630",
+      "phi_signature": 16.96748904459278
+    },
+    {
+      "message_id": "MSG-aa1d6926",
+      "target_marker_id": "CI-7cc492bf-48",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 48 was placed",
+      "send_time": "2025-04-28 05:52:38.523009",
+      "target_time": "2025-04-28 05:55:10.367285",
+      "received_time": "2025-04-28 05:55:35.088644",
+      "phi_signature": 21.967502872616993
+    },
+    {
+      "message_id": "MSG-1077c6fd",
+      "target_marker_id": "CI-7cc492bf-49",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 49 was placed",
+      "send_time": "2025-04-28 05:52:39.746875",
+      "target_time": "2025-04-28 05:55:15.367305",
+      "received_time": "2025-04-28 05:55:40.088664",
+      "phi_signature": 4.142056423631907
+    },
+    {
+      "message_id": "MSG-1bda5f21",
+      "target_marker_id": "CI-7cc492bf-50",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 50 was placed",
+      "send_time": "2025-04-28 05:52:40.916331",
+      "target_time": "2025-04-28 05:55:20.367319",
+      "received_time": "2025-04-28 05:55:45.088678",
+      "phi_signature": 9.142070546357688
+    },
+    {
+      "message_id": "MSG-98296106",
+      "target_marker_id": "CI-7cc492bf-51",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 51 was placed",
+      "send_time": "2025-04-28 05:52:42.088619",
+      "target_time": "2025-04-28 05:55:25.367332",
+      "received_time": "2025-04-28 05:55:50.088691",
+      "phi_signature": 14.142083490277187
+    },
+    {
+      "message_id": "MSG-9f80065a",
+      "target_marker_id": "CI-7cc492bf-52",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 52 was placed",
+      "send_time": "2025-04-28 05:52:43.271734",
+      "target_time": "2025-04-28 05:55:30.367348",
+      "received_time": "2025-04-28 05:55:55.088707",
+      "phi_signature": 19.142099381212397
+    },
+    {
+      "message_id": "MSG-5cd0b1a7",
+      "target_marker_id": "CI-7cc492bf-53",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 53 was placed",
+      "send_time": "2025-04-28 05:52:44.417791",
+      "target_time": "2025-04-28 05:55:35.367363",
+      "received_time": "2025-04-28 05:56:00.088722",
+      "phi_signature": 1.3166479223006047
+    },
+    {
+      "message_id": "MSG-12b9afcb",
+      "target_marker_id": "CI-7cc492bf-54",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 54 was placed",
+      "send_time": "2025-04-28 05:52:45.591563",
+      "target_time": "2025-04-28 05:55:40.367378",
+      "received_time": "2025-04-28 05:56:05.088737",
+      "phi_signature": 6.316663223832671
+    },
+    {
+      "message_id": "MSG-d84b5458",
+      "target_marker_id": "CI-7cc492bf-55",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 55 was placed",
+      "send_time": "2025-04-28 05:52:46.745274",
+      "target_time": "2025-04-28 05:55:45.367392",
+      "received_time": "2025-04-28 05:56:10.088751",
+      "phi_signature": 11.316677051856882
+    },
+    {
+      "message_id": "MSG-83f1f115",
+      "target_marker_id": "CI-7cc492bf-56",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 56 was placed",
+      "send_time": "2025-04-28 05:52:47.908357",
+      "target_time": "2025-04-28 05:55:50.367408",
+      "received_time": "2025-04-28 05:56:15.088767",
+      "phi_signature": 16.31669294279209
+    },
+    {
+      "message_id": "MSG-c6218d7d",
+      "target_marker_id": "CI-7cc492bf-57",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 57 was placed",
+      "send_time": "2025-04-28 05:52:49.075784",
+      "target_time": "2025-04-28 05:55:55.367424",
+      "received_time": "2025-04-28 05:56:20.088783",
+      "phi_signature": 21.316708833727297
+    },
+    {
+      "message_id": "MSG-75a6ade8",
+      "target_marker_id": "CI-7cc492bf-58",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 58 was placed",
+      "send_time": "2025-04-28 05:52:50.251289",
+      "target_time": "2025-04-28 05:56:00.367437",
+      "received_time": "2025-04-28 05:56:25.088796",
+      "phi_signature": 3.4912556066060816
+    },
+    {
+      "message_id": "MSG-f04d32fd",
+      "target_marker_id": "CI-7cc492bf-59",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 59 was placed",
+      "send_time": "2025-04-28 05:52:51.430419",
+      "target_time": "2025-04-28 05:56:05.367452",
+      "received_time": "2025-04-28 05:56:30.088811",
+      "phi_signature": 8.491270613436576
+    },
+    {
+      "message_id": "MSG-c0c1d11a",
+      "target_marker_id": "CI-7cc492bf-60",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 60 was placed",
+      "send_time": "2025-04-28 05:52:52.588844",
+      "target_time": "2025-04-28 05:56:10.367467",
+      "received_time": "2025-04-28 05:56:35.088826",
+      "phi_signature": 13.491285620267071
+    },
+    {
+      "message_id": "MSG-48ab5c24",
+      "target_marker_id": "CI-7cc492bf-61",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 61 was placed",
+      "send_time": "2025-04-28 05:52:53.741144",
+      "target_time": "2025-04-28 05:56:15.367479",
+      "received_time": "2025-04-28 05:56:40.088838",
+      "phi_signature": 18.491297385380285
+    },
+    {
+      "message_id": "MSG-ca8b6491",
+      "target_marker_id": "CI-7cc492bf-62",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 62 was placed",
+      "send_time": "2025-04-28 05:52:54.912202",
+      "target_time": "2025-04-28 05:56:20.367492",
+      "received_time": "2025-04-28 05:56:45.088851",
+      "phi_signature": 0.665844158259071
+    },
+    {
+      "message_id": "MSG-6ffb2f18",
+      "target_marker_id": "CI-7cc492bf-63",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 63 was placed",
+      "send_time": "2025-04-28 05:52:56.069071",
+      "target_time": "2025-04-28 05:56:25.367507",
+      "received_time": "2025-04-28 05:56:50.088866",
+      "phi_signature": 5.665859165089566
+    },
+    {
+      "message_id": "MSG-d709ef4f",
+      "target_marker_id": "CI-7cc492bf-64",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 64 was placed",
+      "send_time": "2025-04-28 05:52:57.233078",
+      "target_time": "2025-04-28 05:56:30.367520",
+      "received_time": "2025-04-28 05:56:55.088879",
+      "phi_signature": 10.665872109009065
+    },
+    {
+      "message_id": "MSG-8cfee68b",
+      "target_marker_id": "CI-7cc492bf-65",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 65 was placed",
+      "send_time": "2025-04-28 05:52:58.392956",
+      "target_time": "2025-04-28 05:56:35.367534",
+      "received_time": "2025-04-28 05:57:00.088893",
+      "phi_signature": 15.665885937033277
+    },
+    {
+      "message_id": "MSG-30c64697",
+      "target_marker_id": "CI-7cc492bf-66",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 66 was placed",
+      "send_time": "2025-04-28 05:52:59.542794",
+      "target_time": "2025-04-28 05:56:40.367560",
+      "received_time": "2025-04-28 05:57:05.088919",
+      "phi_signature": 20.665912142523464
+    },
+    {
+      "message_id": "MSG-44822189",
+      "target_marker_id": "CI-7cc492bf-67",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 67 was placed",
+      "send_time": "2025-04-28 05:53:00.704950",
+      "target_time": "2025-04-28 05:56:45.367575",
+      "received_time": "2025-04-28 05:57:10.088934",
+      "phi_signature": 2.8404606836116737
+    },
+    {
+      "message_id": "MSG-9651a7ef",
+      "target_marker_id": "CI-7cc492bf-68",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 68 was placed",
+      "send_time": "2025-04-28 05:53:01.915156",
+      "target_time": "2025-04-28 05:56:50.367589",
+      "received_time": "2025-04-28 05:57:15.088948",
+      "phi_signature": 7.840474806337456
+    },
+    {
+      "message_id": "MSG-ebcf9efb",
+      "target_marker_id": "CI-7cc492bf-69",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 69 was placed",
+      "send_time": "2025-04-28 05:53:03.079679",
+      "target_time": "2025-04-28 05:56:55.367604",
+      "received_time": "2025-04-28 05:57:20.088963",
+      "phi_signature": 12.84048951846638
+    },
+    {
+      "message_id": "MSG-be5a7d4c",
+      "target_marker_id": "CI-7cc492bf-70",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 70 was placed",
+      "send_time": "2025-04-28 05:53:04.259938",
+      "target_time": "2025-04-28 05:57:00.367617",
+      "received_time": "2025-04-28 05:57:25.088976",
+      "phi_signature": 17.840502462385878
+    },
+    {
+      "message_id": "MSG-8563bc92",
+      "target_marker_id": "CI-7cc492bf-71",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 71 was placed",
+      "send_time": "2025-04-28 05:53:05.427645",
+      "target_time": "2025-04-28 05:57:05.367630",
+      "received_time": "2025-04-28 05:57:30.088989",
+      "phi_signature": 0.015048940563092496
+    },
+    {
+      "message_id": "MSG-07ea4722",
+      "target_marker_id": "CI-7cc492bf-72",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 72 was placed",
+      "send_time": "2025-04-28 05:53:06.586073",
+      "target_time": "2025-04-28 05:57:10.367645",
+      "received_time": "2025-04-28 05:57:35.089004",
+      "phi_signature": 5.015063947393587
+    },
+    {
+      "message_id": "MSG-3ac590e6",
+      "target_marker_id": "CI-7cc492bf-73",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 73 was placed",
+      "send_time": "2025-04-28 05:53:07.750351",
+      "target_time": "2025-04-28 05:57:15.367657",
+      "received_time": "2025-04-28 05:57:40.089016",
+      "phi_signature": 10.015076301909945
+    },
+    {
+      "message_id": "MSG-de313602",
+      "target_marker_id": "CI-7cc492bf-74",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 74 was placed",
+      "send_time": "2025-04-28 05:53:08.911874",
+      "target_time": "2025-04-28 05:57:20.367670",
+      "received_time": "2025-04-28 05:57:45.089029",
+      "phi_signature": 15.015088951127872
+    },
+    {
+      "message_id": "MSG-05282fbe",
+      "target_marker_id": "CI-7cc492bf-75",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 75 was placed",
+      "send_time": "2025-04-28 05:53:10.097026",
+      "target_time": "2025-04-28 05:57:25.367685",
+      "received_time": "2025-04-28 05:57:50.089044",
+      "phi_signature": 20.015103957958367
+    },
+    {
+      "message_id": "MSG-33d0ce69",
+      "target_marker_id": "CI-7cc492bf-76",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 76 was placed",
+      "send_time": "2025-04-28 05:53:11.250932",
+      "target_time": "2025-04-28 05:57:30.367698",
+      "received_time": "2025-04-28 05:57:55.089057",
+      "phi_signature": 2.189650730837152
+    },
+    {
+      "message_id": "MSG-90ef00d5",
+      "target_marker_id": "CI-7cc492bf-77",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 77 was placed",
+      "send_time": "2025-04-28 05:53:12.415870",
+      "target_time": "2025-04-28 05:57:35.367910",
+      "received_time": "2025-04-28 05:58:00.089269",
+      "phi_signature": 7.189862598316987
+    },
+    {
+      "message_id": "MSG-287fe1da",
+      "target_marker_id": "CI-7cc492bf-78",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 78 was placed",
+      "send_time": "2025-04-28 05:53:13.577387",
+      "target_time": "2025-04-28 05:57:40.367926",
+      "received_time": "2025-04-28 05:58:05.089285",
+      "phi_signature": 12.189878783953766
+    },
+    {
+      "message_id": "MSG-2be2e28f",
+      "target_marker_id": "CI-7cc492bf-79",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 79 was placed",
+      "send_time": "2025-04-28 05:53:15.256084",
+      "target_time": "2025-04-28 05:57:45.367941",
+      "received_time": "2025-04-28 05:58:10.089300",
+      "phi_signature": 17.18989379078426
+    },
+    {
+      "message_id": "MSG-52a7e05d",
+      "target_marker_id": "CI-7cc492bf-80",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 80 was placed",
+      "send_time": "2025-04-28 05:53:16.426385",
+      "target_time": "2025-04-28 05:57:50.367954",
+      "received_time": "2025-04-28 05:58:15.089313",
+      "phi_signature": 22.18990644000219
+    },
+    {
+      "message_id": "MSG-c00d5a3c",
+      "target_marker_id": "CI-7cc492bf-81",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 81 was placed",
+      "send_time": "2025-04-28 05:53:17.592551",
+      "target_time": "2025-04-28 05:57:55.367968",
+      "received_time": "2025-04-28 05:58:20.089327",
+      "phi_signature": 4.3644540969856855
+    },
+    {
+      "message_id": "MSG-8974a4dd",
+      "target_marker_id": "CI-7cc492bf-82",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 82 was placed",
+      "send_time": "2025-04-28 05:53:18.757537",
+      "target_time": "2025-04-28 05:58:00.367981",
+      "received_time": "2025-04-28 05:58:25.089340",
+      "phi_signature": 9.364467335606754
+    },
+    {
+      "message_id": "MSG-db1ce98c",
+      "target_marker_id": "CI-7cc492bf-83",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 83 was placed",
+      "send_time": "2025-04-28 05:53:19.921678",
+      "target_time": "2025-04-28 05:58:05.367996",
+      "received_time": "2025-04-28 05:58:30.089355",
+      "phi_signature": 14.36448234243725
+    },
+    {
+      "message_id": "MSG-36beaace",
+      "target_marker_id": "CI-7cc492bf-84",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 84 was placed",
+      "send_time": "2025-04-28 05:53:21.084476",
+      "target_time": "2025-04-28 05:58:10.368010",
+      "received_time": "2025-04-28 05:58:35.089369",
+      "phi_signature": 19.36449617046146
+    },
+    {
+      "message_id": "MSG-77fc6e26",
+      "target_marker_id": "CI-7cc492bf-85",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 85 was placed",
+      "send_time": "2025-04-28 05:53:22.232015",
+      "target_time": "2025-04-28 05:58:15.368023",
+      "received_time": "2025-04-28 05:58:40.089382",
+      "phi_signature": 1.5390426486386748
+    },
+    {
+      "message_id": "MSG-3490d4d8",
+      "target_marker_id": "CI-7cc492bf-86",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 86 was placed",
+      "send_time": "2025-04-28 05:53:23.405439",
+      "target_time": "2025-04-28 05:58:20.368036",
+      "received_time": "2025-04-28 05:58:45.089395",
+      "phi_signature": 6.5390555925581735
+    },
+    {
+      "message_id": "MSG-03769056",
+      "target_marker_id": "CI-7cc492bf-87",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 87 was placed",
+      "send_time": "2025-04-28 05:53:24.600941",
+      "target_time": "2025-04-28 05:58:25.368051",
+      "received_time": "2025-04-28 05:58:50.089410",
+      "phi_signature": 11.539070599388669
+    },
+    {
+      "message_id": "MSG-3ce50666",
+      "target_marker_id": "CI-7cc492bf-88",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 88 was placed",
+      "send_time": "2025-04-28 05:53:25.775455",
+      "target_time": "2025-04-28 05:58:30.368064",
+      "received_time": "2025-04-28 05:58:55.089423",
+      "phi_signature": 16.539083838009738
+    },
+    {
+      "message_id": "MSG-1c638975",
+      "target_marker_id": "CI-7cc492bf-89",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 89 was placed",
+      "send_time": "2025-04-28 05:53:26.964495",
+      "target_time": "2025-04-28 05:58:35.368081",
+      "received_time": "2025-04-28 05:59:00.089440",
+      "phi_signature": 21.53910061304966
+    },
+    {
+      "message_id": "MSG-066e02b7",
+      "target_marker_id": "CI-7cc492bf-90",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 90 was placed",
+      "send_time": "2025-04-28 05:53:28.138265",
+      "target_time": "2025-04-28 05:58:40.368096",
+      "received_time": "2025-04-28 05:59:05.089455",
+      "phi_signature": 3.713649154137868
+    },
+    {
+      "message_id": "MSG-7c0dd56f",
+      "target_marker_id": "CI-7cc492bf-91",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 91 was placed",
+      "send_time": "2025-04-28 05:53:29.310442",
+      "target_time": "2025-04-28 05:58:45.368109",
+      "received_time": "2025-04-28 05:59:10.089468",
+      "phi_signature": 8.713662392758938
+    },
+    {
+      "message_id": "MSG-e8f66423",
+      "target_marker_id": "CI-7cc492bf-92",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 92 was placed",
+      "send_time": "2025-04-28 05:53:30.496156",
+      "target_time": "2025-04-28 05:58:50.368123",
+      "received_time": "2025-04-28 05:59:15.089482",
+      "phi_signature": 13.71367622078315
+    },
+    {
+      "message_id": "MSG-f80d9248",
+      "target_marker_id": "CI-7cc492bf-93",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 93 was placed",
+      "send_time": "2025-04-28 05:53:31.664405",
+      "target_time": "2025-04-28 05:58:55.368136",
+      "received_time": "2025-04-28 05:59:20.089495",
+      "phi_signature": 18.713689164702647
+    },
+    {
+      "message_id": "MSG-bca3902d",
+      "target_marker_id": "CI-7cc492bf-94",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 94 was placed",
+      "send_time": "2025-04-28 05:53:32.840875",
+      "target_time": "2025-04-28 05:59:00.368151",
+      "received_time": "2025-04-28 05:59:25.089510",
+      "phi_signature": 0.8882377057908577
+    },
+    {
+      "message_id": "MSG-b263baff",
+      "target_marker_id": "CI-7cc492bf-95",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 95 was placed",
+      "send_time": "2025-04-28 05:53:34.019742",
+      "target_time": "2025-04-28 05:59:05.368164",
+      "received_time": "2025-04-28 05:59:30.089523",
+      "phi_signature": 5.888250649710357
+    },
+    {
+      "message_id": "MSG-5b90eec7",
+      "target_marker_id": "CI-7cc492bf-96",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 96 was placed",
+      "send_time": "2025-04-28 05:53:35.184348",
+      "target_time": "2025-04-28 05:59:10.368178",
+      "received_time": "2025-04-28 05:59:35.089537",
+      "phi_signature": 10.88826477243614
+    },
+    {
+      "message_id": "MSG-5c010f90",
+      "target_marker_id": "CI-7cc492bf-97",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 97 was placed",
+      "send_time": "2025-04-28 05:53:36.347201",
+      "target_time": "2025-04-28 05:59:15.368191",
+      "received_time": "2025-04-28 05:59:40.089550",
+      "phi_signature": 15.888277716355638
+    },
+    {
+      "message_id": "MSG-6f270179",
+      "target_marker_id": "CI-7cc492bf-98",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 98 was placed",
+      "send_time": "2025-04-28 05:53:37.524724",
+      "target_time": "2025-04-28 05:59:20.368206",
+      "received_time": "2025-04-28 05:59:45.089565",
+      "phi_signature": 20.888292723186133
+    },
+    {
+      "message_id": "MSG-8d1eb9a2",
+      "target_marker_id": "CI-7cc492bf-99",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 99 was placed",
+      "send_time": "2025-04-28 05:53:38.680296",
+      "target_time": "2025-04-28 05:59:25.368219",
+      "received_time": "2025-04-28 05:59:50.089578",
+      "phi_signature": 3.0628392013633463
+    },
+    {
+      "message_id": "MSG-750541d3",
+      "target_marker_id": "CI-7cc492bf-100",
+      "content": "CAUSALITY INVERSION PROOF: This message arrived BEFORE marker 100 was placed",
+      "send_time": "2025-04-28 05:53:39.854401",
+      "target_time": "2025-04-28 05:59:30.368233",
+      "received_time": "2025-04-28 05:59:55.089592",
+      "phi_signature": 8.06285332408913
+    }
+  ]
+}

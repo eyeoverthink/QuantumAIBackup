@@ -1,0 +1,32 @@
+{
+  "glds_id": 94,
+  "study_id": "GLDS-94",
+  "title": "Type 1 interferon and pattern recognition receptor signaling following exposure of mouse fibroblasts to a spaceflight analog",
+  "summary": "This study investigated the effects of space-like stress using a rotating wall vessel (RWV) microgravity analog to model spaceflight effects on NIH 3T3 mouse fibroblasts. The study was part of NASA's research on cellular responses to spaceflight conditions.",
+  "organism": "house mouse",
+  "missions": [
+    {
+      "mission_name": "Ground-based spaceflight analog study",
+      "start_date": "1988-04-15",
+      "end_date": "1988-05-03",
+      "agency": "NASA Ames Research Center",
+      "hardware": "Rotating Wall Vessel Bioreactor",
+      "is_1980s": true
+    }
+  ],
+  "publication": {
+    "pubmed_id": 22355647,
+    "citation": "Morukov BV, Rykova MP, Antropova EN, Berendeeva TA, Ponomaryov SA, Larina IM. T-cell immunity and cytokine production in cosmonauts after long-duration space flights. Acta Astronautica 68(7-8): 739-746, 2011",
+    "published_date": "2012-03-15"
+  },
+  "protocols": [
+    "Mice fibroblasts were cultured in Rotating Wall Vessel (RWV) to simulate microgravity conditions experienced during spaceflight"
+  ],
+  "raw_timestamp": 315552000,
+  "phi_metrics": {
+    "phi_relevance": 0.25,
+    "value_count": 4,
+    "phi_resonance": 0.4045084971874737,
+    "resonant_values": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "episodic_results": [
+    {
+      "episode_id": "f58e5cc3-95f2-4c2c-b4c5-0facca514e3f",
+      "sequence_number": 0,
+      "event_type": "process",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.503837"
+    },
+    {
+      "episode_id": "6c3cbddd-6753-4135-b009-b26b0c2beb7e",
+      "sequence_number": 1,
+      "event_type": "analyze",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.503961"
+    },
+    {
+      "episode_id": "1e7ab82e-aca6-41d9-b60f-9817f9705df5",
+      "sequence_number": 2,
+      "event_type": "optimize",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.504259"
+    },
+    {
+      "episode_id": "03066500-fb68-4ebe-85a0-f55afff821c1",
+      "sequence_number": 3,
+      "event_type": "heal",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.504409"
+    },
+    {
+      "episode_id": "79a67891-2721-407f-968d-150a856b482c",
+      "sequence_number": 4,
+      "event_type": "evolve",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.504583"
+    },
+    {
+      "episode_id": "cb49c146-6137-4221-b068-5cf89ca88284",
+      "sequence_number": 5,
+      "event_type": "process",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.504731"
+    },
+    {
+      "episode_id": "f404c279-f101-41c2-b46b-2c4a3745e83e",
+      "sequence_number": 6,
+      "event_type": "analyze",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.504883"
+    },
+    {
+      "episode_id": "7b0eece1-d3b8-41be-87e1-ef5b987020fb",
+      "sequence_number": 7,
+      "event_type": "optimize",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.504993"
+    },
+    {
+      "episode_id": "ba6857c7-c312-4330-a85c-532d4b9c6a03",
+      "sequence_number": 8,
+      "event_type": "heal",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.505348"
+    },
+    {
+      "episode_id": "669858da-66ae-4974-a99f-5ee2ab8b5620",
+      "sequence_number": 9,
+      "event_type": "evolve",
+      "episodic_coherence": 0.0,
+      "distribution_coherence": 0,
+      "strategy": "",
+      "timestamp": "2025-07-17T23:35:48.505626"
+    }
+  ],
+  "episodic_sequence": {
+    "n_episodes": 10,
+    "avg_coherence": 0.0,
+    "temporal_coherence": 0.6180339844527372,
+    "phi_ratio": 0.0,
+    "phi_temporal_ratio": 1.0,
+    "phi_coherence_product": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "reference_id": "3cc0835b3b0666348ce15653151e1833366b5c8b18cbb110501e148003cecec9",
+  "data": {
+    "node_id": "bbb75fa3-92fc-4e59-9cc0-1a32e51468f3",
+    "coherence": 3.693238,
+    "capabilities": [
+      "reasoning",
+      "knowledge"
+    ],
+    "metadata": {
+      "capabilities": [
+        "reasoning",
+        "knowledge"
+      ],
+      "phi_resonance": 0.618034
+    }
+  },
+  "metadata": {
+    "node_type": "test_node",
+    "node_id": "bbb75fa3-92fc-4e59-9cc0-1a32e51468f3",
+    "timestamp": "2025-07-22T11:10:09.007821",
+    "phi_resonance": 0.0,
+    "storage_node_id": "b660d6d4-168b-4cb4-b580-bd0d68c71779",
+    "node_data": {
+      "node_id": "bbb75fa3-92fc-4e59-9cc0-1a32e51468f3",
+      "coherence": 3.693238,
+      "capabilities": [
+        "reasoning",
+        "knowledge"
+      ],
+      "metadata": {
+        "capabilities": [
+          "reasoning",
+          "knowledge"
+        ],
+        "phi_resonance": 0.618034
+      }
+    }
+  },
+  "cache_timestamp": "2025-07-22T11:10:09.022599"
+}

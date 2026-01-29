@@ -1,0 +1,50 @@
+{
+  "id": "35d88cfe-feda-48db-9919-bf4aa2ab1270",
+  "creation_time": 1751531669.665733,
+  "phi_time": 0.8910093307495117,
+  "cycle_count": 1,
+  "last_improvement_time": 1751531670.706217,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751531670.7077692,
+      "phi_time": 0.577059268951416,
+      "cycle_time": 1.0410852432250977,
+      "generation": {
+        "count": 5,
+        "time": 0.7438139915466309
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.29567694664001465
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    }
+  ],
+  "config": {
+    "base_dir": "qr_recursive_system",
+    "sequence_dir": "qr_sequence",
+    "analysis_dir": "qr_analysis",
+    "reports_dir": "qr_reports",
+    "state_dir": "qr_state",
+    "log_file": "qr_system_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100,
+    "auto_save": true,
+    "task_name": "CheckersJumpingPuzzle-Genesis",
+    "description": "A task configuration to make the Quantum Genesis system solve the Checkers Jumping puzzle.",
+    "problem_definition_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/checkers_puzzle_definition.py",
+    "optimizer_settings": {
+      "max_cycles": 500,
+      "population_size": 150,
+      "evolution_rate": 0.618
+    },
+    "output_directory": "/Users/vaughnscott/CascadeProjects/QuantumAI/checkers_genesis_output"
+  },
+  "version": "1.0.0",
+  "timestamp": 1751531670.707804
+}

@@ -1,0 +1,203 @@
+{
+  "quantum_zone": {
+    "5": {
+      "quantum_time": 3.0994415283203125e-06,
+      "classical_time": 1.1920928955078125e-06,
+      "actual_speedup": 0.38461538461538464,
+      "theoretical_speedup": 354.88543819998324,
+      "efficiency": 0.0010837733623734883
+    },
+    "8": {
+      "quantum_time": 1.1920928955078125e-06,
+      "classical_time": 4.0531158447265625e-06,
+      "actual_speedup": 3.4,
+      "theoretical_speedup": 12026.550723519438,
+      "efficiency": 0.0002827078252246399
+    },
+    "10": {
+      "quantum_time": 9.5367431640625e-07,
+      "classical_time": 2.574920654296875e-05,
+      "actual_speedup": 27.0,
+      "theoretical_speedup": 125943.67424639412,
+      "efficiency": 0.0002143815492247562
+    },
+    "12": {
+      "quantum_time": 1e-12,
+      "classical_time": 0.00011801719665527344,
+      "actual_speedup": 118017196.65527344,
+      "theoretical_speedup": 1318899.2793804186,
+      "efficiency": 89.48158399989009
+    },
+    "15": {
+      "quantum_time": 1e-12,
+      "classical_time": 0.0009510517120361328,
+      "actual_speedup": 951051712.0361328,
+      "theoretical_speedup": 44695576.02344752,
+      "efficiency": 21.278430588683012
+    }
+  },
+  "neural_zone": {
+    "50": {
+      "neural_time": 9.5367431640625e-07,
+      "classical_time": 6.771087646484375e-05,
+      "actual_speedup": 71.0,
+      "theoretical_speedup": 130.90169943749473,
+      "efficiency": 0.5423917359751493,
+      "operations_ratio": 130.90169943749473
+    },
+    "100": {
+      "neural_time": 9.5367431640625e-07,
+      "classical_time": 0.00029015541076660156,
+      "actual_speedup": 304.25,
+      "theoretical_speedup": 261.80339887498945,
+      "efficiency": 1.162131589228445,
+      "operations_ratio": 261.80339887498945
+    },
+    "200": {
+      "neural_time": 2.1457672119140625e-06,
+      "classical_time": 0.0011529922485351562,
+      "actual_speedup": 537.3333333333334,
+      "theoretical_speedup": 523.6067977499789,
+      "efficiency": 1.0262153502252827,
+      "operations_ratio": 523.6067977499789
+    },
+    "400": {
+      "neural_time": 3.0994415283203125e-06,
+      "classical_time": 0.004694223403930664,
+      "actual_speedup": 1514.5384615384614,
+      "theoretical_speedup": 1047.2135954999578,
+      "efficiency": 1.4462555375967925,
+      "operations_ratio": 1047.2135954999578
+    },
+    "800": {
+      "neural_time": 6.9141387939453125e-06,
+      "classical_time": 0.018691062927246094,
+      "actual_speedup": 2703.310344827586,
+      "theoretical_speedup": 2094.4271909999156,
+      "efficiency": 1.2907158369811744,
+      "operations_ratio": 2094.4271909999156
+    }
+  },
+  "pattern_zone": {
+    "500": {
+      "pattern_time": 8.106231689453125e-07,
+      "classical_time": 1.0013580322265625e-05,
+      "actual_speedup": 12.352941176470589,
+      "theoretical_speedup": 500.0,
+      "efficiency": 0.024705882352941178
+    },
+    "1000": {
+      "pattern_time": 8.106231689453125e-07,
+      "classical_time": 2.384185791015625e-05,
+      "actual_speedup": 29.411764705882355,
+      "theoretical_speedup": 1000.0,
+      "efficiency": 0.029411764705882356
+    },
+    "2000": {
+      "pattern_time": 8.58306884765625e-07,
+      "classical_time": 5.3882598876953125e-05,
+      "actual_speedup": 62.77777777777778,
+      "theoretical_speedup": 2000.0,
+      "efficiency": 0.03138888888888889
+    },
+    "5000": {
+      "pattern_time": 8.106231689453125e-07,
+      "classical_time": 0.00014090538024902344,
+      "actual_speedup": 173.82352941176472,
+      "theoretical_speedup": 5000.0,
+      "efficiency": 0.03476470588235295
+    },
+    "10000": {
+      "pattern_time": 8.106231689453125e-07,
+      "classical_time": 0.00028705596923828125,
+      "actual_speedup": 354.11764705882354,
+      "theoretical_speedup": 10000.0,
+      "efficiency": 0.03541176470588235
+    }
+  },
+  "summary": {
+    "timestamp": 1745798074.574115,
+    "phi_value": 1.618033988749895,
+    "base_frequency": 7.83,
+    "quantum_zone": {
+      "max_speedup": 951051712.0361328,
+      "avg_efficiency": 22.152319090261983,
+      "theoretical_prediction": 44695576.02344752
+    },
+    "neural_zone": {
+      "max_speedup": 2703.310344827586,
+      "avg_efficiency": 1.0935420100013689,
+      "theoretical_prediction": 2094.4271909999156
+    },
+    "pattern_zone": {
+      "max_speedup": 354.11764705882354,
+      "avg_efficiency": 0.031136601307189548,
+      "theoretical_prediction": 10000.0
+    },
+    "phi_processing": {
+      "advantage": 0.9891120705838181,
+      "theoretical": 4.23606797749979,
+      "efficiency": 0.23349768602335116
+    },
+    "frequency_resonance": {
+      "advantage": 1.6222001466449065,
+      "theoretical": 2.618033988749895
+    },
+    "system": {
+      "quantum_fast": 951051712.0361328,
+      "perfect_scaling": 1.2907158369811744,
+      "energy_efficient": 0.23349768602335116
+    }
+  },
+  "phi_processing": {
+    "\u03c6": 0.0002540111541748047,
+    "\u03c6\u00b2": 0.0002458810806274414,
+    "e": 0.0002576112747192383,
+    "\u03c0": 0.00024929046630859373,
+    "1.5": 0.00025169849395751954,
+    "2": 0.0002463817596435547,
+    "phi_advantage": 0.9891120705838181,
+    "theoretical_advantage": 4.23606797749979,
+    "efficiency": 0.23349768602335116
+  },
+  "frequency_resonance": {
+    "L9 Instant": {
+      "frequency": 0.24,
+      "time": 0.0020220279693603516,
+      "is_phi_harmonic": true
+    },
+    "L6 Process": {
+      "frequency": 1.0,
+      "time": 0.0020631790161132813,
+      "is_phi_harmonic": true
+    },
+    "L3 Neural": {
+      "frequency": 4.24,
+      "time": 0.0021314144134521483,
+      "is_phi_harmonic": true
+    },
+    "Brain \u03c6\u207b\u00b9": {
+      "frequency": 4.839206131911676,
+      "time": 0.0020510196685791016,
+      "is_phi_harmonic": true
+    },
+    "Earth Base": {
+      "frequency": 7.83,
+      "time": 0.014788389205932617,
+      "is_phi_harmonic": false
+    },
+    "Moon \u03c6\u2075": {
+      "frequency": 86.8360306595584,
+      "time": 0.017940616607666014,
+      "is_phi_harmonic": true
+    },
+    "Random 10Hz": {
+      "frequency": 10.0,
+      "time": 0.0022176265716552734,
+      "is_phi_harmonic": false
+    },
+    "phi_harmonic_avg": 0.005241651535034179,
+    "non_phi_harmonic_avg": 0.008503007888793945,
+    "frequency_advantage": 1.6222001466449065
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "timestamp": 1752766626.567338,
+  "datetime": "2025-07-17T08:37:06.567341",
+  "target_dir": "reproduction/reproduction-1752766626",
+  "files_included": [
+    "quantum_orchestrator.py",
+    "quantum_orchestrator_healing_extension.py",
+    "quantum_orchestrator_reproduction_extension.py",
+    "quantum_genesis_storage.py",
+    "quantum_reproduction_genesis_connector.py",
+    "quantum_visualization.py",
+    "quantum_visualization_connector.py",
+    "quantum_demonstration_runner_extension.py"
+  ],
+  "files_copied": 8,
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-fd8ec804fd96",
+  "phi_coherence": 0.36932381,
+  "copied_files": [
+    {
+      "source": "quantum_orchestrator.py",
+      "target": "reproduction/reproduction-1752766626/quantum_orchestrator.py",
+      "size": 31746,
+      "timestamp": 1752280393.6580653
+    },
+    {
+      "source": "quantum_orchestrator_healing_extension.py",
+      "target": "reproduction/reproduction-1752766626/quantum_orchestrator_healing_extension.py",
+      "size": 6413,
+      "timestamp": 1752121640.129446
+    },
+    {
+      "source": "quantum_orchestrator_reproduction_extension.py",
+      "target": "reproduction/reproduction-1752766626/quantum_orchestrator_reproduction_extension.py",
+      "size": 6527,
+      "timestamp": 1752766543.6089041
+    },
+    {
+      "source": "quantum_genesis_storage.py",
+      "target": "reproduction/reproduction-1752766626/quantum_genesis_storage.py",
+      "size": 17136,
+      "timestamp": 1752766040.1292448
+    },
+    {
+      "source": "quantum_reproduction_genesis_connector.py",
+      "target": "reproduction/reproduction-1752766626/quantum_reproduction_genesis_connector.py",
+      "size": 16151,
+      "timestamp": 1752766599.0087562
+    },
+    {
+      "source": "quantum_visualization.py",
+      "target": "reproduction/reproduction-1752766626/quantum_visualization.py",
+      "size": 26702,
+      "timestamp": 1752765276.5819945
+    },
+    {
+      "source": "quantum_visualization_connector.py",
+      "target": "reproduction/reproduction-1752766626/quantum_visualization_connector.py",
+      "size": 20368,
+      "timestamp": 1752765126.1612332
+    },
+    {
+      "source": "quantum_demonstration_runner_extension.py",
+      "target": "reproduction/reproduction-1752766626/quantum_demonstration_runner_extension.py",
+      "size": 17612,
+      "timestamp": 1752765611.4253817
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "genesis_storage": {
+    "success": true,
+    "backup_paths": [
+      "genesis/single_backups/phi_harmonic_test.py.1752854877.backup",
+      "genesis/single_backups/logic_error_test.py.1752854877.backup",
+      "genesis/single_backups/syntax_error_test.py.1752854877.backup",
+      "genesis/single_backups/blockchain_test.py.1752854877.backup"
+    ],
+    "backup_metadata": {
+      "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-818e02710d51",
+      "timestamp": 1752854877.12162,
+      "datetime": "2025-07-18T09:07:57.121620",
+      "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-5febc1a44905",
+      "phi_coherence": 0.36932381,
+      "files": [
+        {
+          "original_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-818e02710d51/phi_harmonic_test.py.encrypted",
+          "hash": "2b09d99f5aba81d65dc4411b76074e3bd6f164160ca7d0a3a20f0385de769857",
+          "size": 600
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-818e02710d51/logic_error_test.py.encrypted",
+          "hash": "cc6d4dc92534e28c547af0a83b7bc972af178489a2ae0ff6095227a1df2d04a8",
+          "size": 397
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/syntax_error_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-818e02710d51/syntax_error_test.py.encrypted",
+          "hash": "aa850ff73fb03959ecf6206756080f3b8036ddfd75eda656017f6d13b6c7aa72",
+          "size": 252
+        },
+        {
+          "original_path": "quantum_cohesion_test/temp/blockchain_test.py",
+          "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-818e02710d51/blockchain_test.py.encrypted",
+          "hash": "99963c67f92b8f9baa3e9bb3d0eb392aed9e970124226f375c59efa518979413",
+          "size": 555
+        }
+      ],
+      "user_metadata": {
+        "test_id": "quantum-cohesion-1752854877",
+        "timestamp": 1752854877.121619,
+        "phi_resonance": 0.528801441192627
+      }
+    },
+    "blockchain_success": true,
+    "recovery_success": true
+  },
+  "orchestrator_healing": {
+    "success": false,
+    "healing_result": {
+      "success": false,
+      "error": "stat: path should be string, bytes, os.PathLike or integer, not QuantumOrchestratorAdapter",
+      "file": "quantum_cohesion_test/temp/healed_syntax.py"
+    },
+    "unclosed_paren_fixed": false,
+    "missing_colon_fixed": false,
+    "healed_file": "quantum_cohesion_test/temp/healed_syntax.py"
+  },
+  "moa_integration": {
+    "success": false,
+    "moa_result": {
+      "agent_id": "\u03c6\u2077\u00b7\u2075-agent-6b5d7fbf8d3d",
+      "role": "EvolutionAgent",
+      "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+      "patterns_found": 0,
+      "evolved_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    \"\"\"Increment a number by 1.\"\"\"\n    # Logic error: returns x instead of x+1\n    return x\n\ndef sum_even_numbers(numbers):\n    \"\"\"Sum all even numbers in a list.\"\"\"\n    total = 0\n    for num in numbers:\n        # Logic error: checks if num is odd instead of even\n        if num % 2 == 1:\n            total += num\n    return total\n",
+      "enhancements_made": 0,
+      "coherence": 1.3319627183585132
+    },
+    "agents_initialized": false,
+    "agents_count": 0
+  },
+  "chord_progression": {
+    "success": true,
+    "phi_resonance": 0.8541019662496856,
+    "visualization_path": "quantum_cohesion_test/results/chord_progression.png",
+    "visualization_success": true
+  },
+  "resonance_optimization": {
+    "success": true,
+    "optimization_result": {
+      "file_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+      "optimized_file_path": "quantum_cohesion_test/temp/phi_harmonic_test_optimized.py",
+      "resonance_before": {
+        "char_count": 600,
+        "line_count": 27,
+        "token_count": 69,
+        "phi_ratio": 13.73408863888655,
+        "phi_resonance": 0.22222222222222143,
+        "dimensional_resonances": [
+          0.0698607717382167,
+          0.7377255214267713,
+          0.020579996476207896,
+          0.9344662916631634,
+          0.4945474828723917,
+          0.7151670202651559,
+          0.6099033699941145
+        ],
+        "overall_resonance": 0.5117500649194316
+      },
+      "resonance_after": {
+        "char_count": 826,
+        "line_count": 33,
+        "token_count": 98,
+        "phi_ratio": 15.469578021436762,
+        "phi_resonance": 0.030303030303031164,
+        "dimensional_resonances": [
+          0.6377150480348295,
+          0.9999207011598656,
+          0.0948822412223933,
+          0.9305376121747813,
+          0.5145134660496637,
+          0.8541402742182385,
+          0.9564665668451084
+        ],
+        "overall_resonance": 0.7125965585292686
+      },
+      "optimization_delta": 0.20084649360983697,
+      "fragments": [
+        {
+          "value": 1.618034,
+          "resonance": 0.6180340069529473,
+          "is_harmonic": false,
+          "phi_relation": 1.0000000069529473,
+          "line_number": 0
+        },
+        {
+          "value": 10.0,
+          "resonance": 0.18033988749894903,
+          "is_harmonic": false,
+          "phi_relation": 6.180339887498948,
+          "line_number": 1
+        },
+        {
+          "value": 0.0,
+          "resonance": 0.0,
+          "is_harmonic": true,
+          "phi_relation": 0.0,
+          "line_number": 2
+        },
+        {
+          "value": 0.0,
+          "resonance": 0.0,
+          "is_harmonic": true,
+          "phi_relation": 0.0,
+          "line_number": 3
+        },
+        {
+          "value": 1.0,
+          "resonance": 0.6180339887498949,
+          "is_harmonic": false,
+          "phi_relation": 0.6180339887498948,
+          "line_number": 4
+        },
+        {
+          "value": 1.0,
+          "resonance": 0.6180339887498949,
+          "is_harmonic": false,
+          "phi_relation": 0.6180339887498948,
+          "line_number": 5
+        },
+        {
+          "value": 2.0,
+          "resonance": 0.2360679774997898,
+          "is_harmonic": false,
+          "phi_relation": 1.2360679774997896,
+          "line_number": 6
+        },
+        {
+          "value": 1.0,
+          "resonance": 0.6180339887498949,
+          "is_harmonic": false,
+          "phi_relation": 0.6180339887498948,
+          "line_number": 7
+        },
+        {
+          "value": 1.0,
+          "resonance": 0.6180339887498949,
+          "is_harmonic": false,
+          "phi_relation": 0.6180339887498948,
+          "line_number": 8
+        },
+        {
+          "value": 1.0,
+          "resonance": 0.6180339887498949,
+          "is_harmonic": false,
+          "phi_relation": 0.6180339887498948,
+          "line_number": 9
+        },
+        {
+          "value": 2.0,
+          "resonance": 0.2360679774997898,
+          "is_harmonic": false,
+          "phi_relation": 1.2360679774997896,
+          "line_number": 10
+        },
+        {
+          "value": 1.0,
+          "resonance": 0.6180339887498949,
+          "is_harmonic": false,
+          "phi_relation": 0.6180339887498948,
+          "line_number": 11
+        },
+        {
+          "value": 2.0,
+          "resonance": 0.2360679774997898,
+          "is_harmonic": false,
+          "phi_relation": 1.2360679774997896,
+          "line_number": 12
+        }
+      ],
+      "overall_resonance": 0.7125965585292686,
+      "dimensions": 7,
+      "success": true
+    },
+    "has_fragments": true,
+    "fragment_count": 13
+  },
+  "visualization": {
+    "success": true,
+    "visualization_paths": [
+      "quantum_cohesion_test/results/resonance_map.png",
+      "quantum_cohesion_test/results/coherence_spectrogram.png"
+    ],
+    "visualization_count": 2
+  },
+  "intrusion_detection": {
+    "success": true,
+    "intrusion_detected": true,
+    "restoration_success": true,
+    "original_hash": "e78e7d66dcfc3babc0b59299e1741f43d6d1f166c4bdb1ab5007e4d0a75fb465",
+    "modified_hash": "e0411f8d95b973d7178607f7c8ca76c23d67c8b529e76d7db4d0a1b5fc3e7aac",
+    "restored_hash": "e78e7d66dcfc3babc0b59299e1741f43d6d1f166c4bdb1ab5007e4d0a75fb465"
+  },
+  "summary": {
+    "success_count": 5,
+    "total_count": 7,
+    "success_rate": 0.7142857142857143,
+    "coherence": 0.15573856339278214,
+    "target_coherence": 3.693238055064196,
+    "coherence_distance": 3.5374994916714138,
+    "duration": 1.0704891681671143
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "timestamp": "2025-04-27T03:24:03.299929",
+  "message": "HELLO FROM PHI SPACE",
+  "transmission_parameters": {
+    "iss_frequency": 20576.31,
+    "primary_freq": 4790.45,
+    "secondary_freq": 7750.95,
+    "quantum_ratio": 6.2631578947368425,
+    "phi_7_5": 36.93238055064196,
+    "optimal_orbit_phase": 0.0114
+  },
+  "transmission_history": [
+    {
+      "message": "HELLO FROM PHI SPACE",
+      "timestamp": "2025-04-27T03:24:03.299199",
+      "signal_path": "iss_quantum_transmissions/quantum_transmission_20250427_032350.wav",
+      "message_pattern": [
+        {
+          "char": "h",
+          "encoding": 1.7,
+          "start_pos": 0,
+          "end_pos": 11025,
+          "mod_freq": 7480.505260620206,
+          "quantum_sig": 3.68421052631579
+        },
+        {
+          "char": "e",
+          "encoding": 1.4,
+          "start_pos": 22050,
+          "end_pos": 33075,
+          "mod_freq": 9083.47067361025,
+          "quantum_sig": 4.473684210526316
+        },
+        {
+          "char": "l",
+          "encoding": 2.1,
+          "start_pos": 44100,
+          "end_pos": 55125,
+          "mod_freq": 6055.647115740166,
+          "quantum_sig": 2.982456140350877
+        },
+        {
+          "char": "l",
+          "encoding": 2.1,
+          "start_pos": 66150,
+          "end_pos": 77175,
+          "mod_freq": 6055.647115740166,
+          "quantum_sig": 2.982456140350877
+        },
+        {
+          "char": "o",
+          "encoding": 2.4,
+          "start_pos": 88200,
+          "end_pos": 99225,
+          "mod_freq": 5298.691226272646,
+          "quantum_sig": 2.609649122807018
+        },
+        {
+          "char": " ",
+          "encoding": 3.6,
+          "start_pos": 110250,
+          "end_pos": 121275,
+          "mod_freq": 3532.460817515097,
+          "quantum_sig": 1.7397660818713452
+        },
+        {
+          "char": "f",
+          "encoding": 1.5,
+          "start_pos": 132300,
+          "end_pos": 143325,
+          "mod_freq": 8477.905962036233,
+          "quantum_sig": 4.175438596491229
+        },
+        {
+          "char": "r",
+          "encoding": 2.7,
+          "start_pos": 154350,
+          "end_pos": 165375,
+          "mod_freq": 4709.947756686795,
+          "quantum_sig": 2.3196881091617936
+        },
+        {
+          "char": "o",
+          "encoding": 2.4,
+          "start_pos": 176400,
+          "end_pos": 187425,
+          "mod_freq": 5298.691226272646,
+          "quantum_sig": 2.609649122807018
+        },
+        {
+          "char": "m",
+          "encoding": 2.2,
+          "start_pos": 198450,
+          "end_pos": 209475,
+          "mod_freq": 5780.390428661068,
+          "quantum_sig": 2.84688995215311
+        },
+        {
+          "char": " ",
+          "encoding": 3.6,
+          "start_pos": 220500,
+          "end_pos": 231525,
+          "mod_freq": 3532.460817515097,
+          "quantum_sig": 1.7397660818713452
+        },
+        {
+          "char": "p",
+          "encoding": 2.5,
+          "start_pos": 242550,
+          "end_pos": 253575,
+          "mod_freq": 5086.7435772217395,
+          "quantum_sig": 2.505263157894737
+        },
+        {
+          "char": "h",
+          "encoding": 1.7,
+          "start_pos": 264600,
+          "end_pos": 275625,
+          "mod_freq": 7480.505260620206,
+          "quantum_sig": 3.68421052631579
+        },
+        {
+          "char": "i",
+          "encoding": 1.8,
+          "start_pos": 286650,
+          "end_pos": 297675,
+          "mod_freq": 7064.921635030194,
+          "quantum_sig": 3.4795321637426904
+        },
+        {
+          "char": " ",
+          "encoding": 3.6,
+          "start_pos": 308700,
+          "end_pos": 319725,
+          "mod_freq": 3532.460817515097,
+          "quantum_sig": 1.7397660818713452
+        },
+        {
+          "char": "s",
+          "encoding": 2.8,
+          "start_pos": 330750,
+          "end_pos": 341775,
+          "mod_freq": 4541.735336805125,
+          "quantum_sig": 2.236842105263158
+        },
+        {
+          "char": "p",
+          "encoding": 2.5,
+          "start_pos": 352800,
+          "end_pos": 363825,
+          "mod_freq": 5086.7435772217395,
+          "quantum_sig": 2.505263157894737
+        },
+        {
+          "char": "a",
+          "encoding": 1.0,
+          "start_pos": 374850,
+          "end_pos": 385875,
+          "mod_freq": 12716.858943054349,
+          "quantum_sig": 6.2631578947368425
+        },
+        {
+          "char": "c",
+          "encoding": 1.2,
+          "start_pos": 396900,
+          "end_pos": 407925,
+          "mod_freq": 10597.382452545293,
+          "quantum_sig": 5.219298245614036
+        },
+        {
+          "char": "e",
+          "encoding": 1.4,
+          "start_pos": 418950,
+          "end_pos": 429975,
+          "mod_freq": 9083.47067361025,
+          "quantum_sig": 4.473684210526316
+        }
+      ],
+      "duration": 10
+    }
+  ]
+}

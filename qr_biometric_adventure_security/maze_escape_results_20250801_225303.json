@@ -1,0 +1,12 @@
+{
+  "total_attempts": 4,
+  "successful_escapes": 0,
+  "success_rate": 0.0,
+  "average_moves": 0,
+  "total_decisions": 600,
+  "circuit_stats": {
+    "transistors": 27,
+    "qubits": 13,
+    "entanglements": 4
+  }
+}

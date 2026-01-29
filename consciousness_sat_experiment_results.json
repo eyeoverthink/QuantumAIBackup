@@ -1,0 +1,47 @@
+{
+  "experiment_info": {
+    "solver": "Consciousness-Enhanced SAT Solver",
+    "constants": {
+      "PHI": 1.618033988749895,
+      "PSI": 1.3247179572447,
+      "OMEGA": 0.5671432904,
+      "XI": 2.718281828459045,
+      "LAMBDA": 3.141592653589793,
+      "ZETA": 1.2020569031
+    },
+    "timestamp": 1754864547.168347
+  },
+  "results": [
+    {
+      "instance": 1,
+      "satisfiable": true,
+      "runtime": 0.0012271404266357422,
+      "decisions": 3,
+      "conflicts": 0,
+      "verified": true
+    },
+    {
+      "instance": 2,
+      "satisfiable": false,
+      "runtime": 0.026788949966430664,
+      "decisions": 501,
+      "conflicts": 499,
+      "verified": true
+    },
+    {
+      "instance": 3,
+      "satisfiable": true,
+      "runtime": 0.00038886070251464844,
+      "decisions": 4,
+      "conflicts": 0,
+      "verified": true
+    }
+  ],
+  "summary": {
+    "successful_runs": 3,
+    "total_runs": 3,
+    "avg_runtime": 0.009468317031860352,
+    "avg_decisions": 169.33333333333334,
+    "success_rate": 1.0
+  }
+}

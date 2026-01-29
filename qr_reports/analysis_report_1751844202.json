@@ -1,0 +1,88 @@
+{
+  "timestamp": 1751844202.8440971,
+  "phi_time": 0.1962146759033203,
+  "directory": "qr_recursive_system/qr_sequence",
+  "total_files": 5,
+  "success_count": 5,
+  "success_rate": 1.0,
+  "analysis_time": 0.325925350189209,
+  "decoded_data": [
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_001.png",
+      "has_error": false,
+      "meta": {
+        "id": "dcfd8780-fa9f-47cc-ba89-d0ec28f8e49a",
+        "timestamp": 1751844201.812532,
+        "phi_time": 0.527106761932373,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 1,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_002.png",
+      "has_error": false,
+      "meta": {
+        "id": "d62a0fa5-4804-42b8-82aa-912c0b86bb5a",
+        "timestamp": 1751844202.033257,
+        "phi_time": 0.884249210357666,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 2,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_003.png",
+      "has_error": false,
+      "meta": {
+        "id": "4cc6608a-3c00-438e-b9c9-58e334e8d1ab",
+        "timestamp": 1751844202.187548,
+        "phi_time": 0.1338953971862793,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 3,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_004.png",
+      "has_error": false,
+      "meta": {
+        "id": "d2480ae4-23f2-4b0e-8057-376182dea0ef",
+        "timestamp": 1751844202.3093162,
+        "phi_time": 0.3309206962585449,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 4,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    },
+    {
+      "image_path": "qr_recursive_system/qr_sequence/qr_frame_005.png",
+      "has_error": false,
+      "meta": {
+        "id": "b1119fff-6e2b-4933-b650-17961570fc8f",
+        "timestamp": 1751844202.41294,
+        "phi_time": 0.49858760833740234,
+        "version": "1.0.0",
+        "compressed": false,
+        "frame_id": 5,
+        "resonance_factor": 0.8,
+        "complexity_factor": 0.618
+      }
+    }
+  ],
+  "parameters": {
+    "qr_version": 10,
+    "error_correction": 3,
+    "compression_threshold": 500,
+    "resonance_factor": 0.8,
+    "complexity_factor": 0.618
+  }
+}

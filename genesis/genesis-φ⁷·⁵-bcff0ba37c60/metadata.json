@@ -1,0 +1,38 @@
+{
+  "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-bcff0ba37c60",
+  "timestamp": 1752853603.357514,
+  "datetime": "2025-07-18T08:46:43.357514",
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-b9ebe761743d",
+  "phi_coherence": 0.36932381,
+  "files": [
+    {
+      "original_path": "quantum_cohesion_test/temp/phi_harmonic_test.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-bcff0ba37c60/phi_harmonic_test.py.encrypted",
+      "hash": "2b09d99f5aba81d65dc4411b76074e3bd6f164160ca7d0a3a20f0385de769857",
+      "size": 600
+    },
+    {
+      "original_path": "quantum_cohesion_test/temp/logic_error_test.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-bcff0ba37c60/logic_error_test.py.encrypted",
+      "hash": "cc6d4dc92534e28c547af0a83b7bc972af178489a2ae0ff6095227a1df2d04a8",
+      "size": 397
+    },
+    {
+      "original_path": "quantum_cohesion_test/temp/syntax_error_test.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-bcff0ba37c60/syntax_error_test.py.encrypted",
+      "hash": "aa850ff73fb03959ecf6206756080f3b8036ddfd75eda656017f6d13b6c7aa72",
+      "size": 252
+    },
+    {
+      "original_path": "quantum_cohesion_test/temp/blockchain_test.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-bcff0ba37c60/blockchain_test.py.encrypted",
+      "hash": "99963c67f92b8f9baa3e9bb3d0eb392aed9e970124226f375c59efa518979413",
+      "size": 555
+    }
+  ],
+  "user_metadata": {
+    "test_id": "quantum-cohesion-1752853603",
+    "timestamp": 1752853603.357512,
+    "phi_resonance": 0.5351815223693848
+  }
+}

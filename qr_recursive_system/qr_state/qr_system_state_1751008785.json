@@ -1,0 +1,77 @@
+{
+  "id": "6758e471-aedc-474d-a07b-7cfe2c74b134",
+  "creation_time": 1751008777.825856,
+  "phi_time": 0.12164831161499023,
+  "cycle_count": 4,
+  "last_improvement_time": 1751008785.540854,
+  "history": [
+    {
+      "cycle_id": 1,
+      "timestamp": 1751008778.984734,
+      "phi_time": 0.9967522621154785,
+      "cycle_time": 1.1587028503417969,
+      "generation": {
+        "count": 5,
+        "time": 0.8549129962921143
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.3021707534790039
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 2,
+      "timestamp": 1751008781.106387,
+      "phi_time": 0.4296588897705078,
+      "cycle_time": 1.1175169944763184,
+      "generation": {
+        "count": 5,
+        "time": 0.681649923324585
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.4340231418609619
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    },
+    {
+      "cycle_id": 3,
+      "timestamp": 1751008783.338728,
+      "phi_time": 0.04166269302368164,
+      "cycle_time": 1.229245901107788,
+      "generation": {
+        "count": 5,
+        "time": 0.685650110244751
+      },
+      "analysis": {
+        "success_rate": 1.0,
+        "time": 0.5417261123657227
+      },
+      "improvements": {
+        "generator": true,
+        "analyzer": true
+      }
+    }
+  ],
+  "config": {
+    "base_dir": "qr_recursive_system",
+    "sequence_dir": "qr_sequence",
+    "analysis_dir": "qr_analysis",
+    "reports_dir": "qr_reports",
+    "state_dir": "qr_state",
+    "log_file": "qr_system_log.json",
+    "self_improvement_enabled": true,
+    "learning_rate": 0.6180339887498948,
+    "max_iterations": 100,
+    "auto_save": true
+  },
+  "version": "1.0.0",
+  "timestamp": 1751008785.540891
+}

@@ -1,0 +1,72 @@
+{
+  "blind_test_id": 27744,
+  "timestamp": "2025-07-31T04:14:28.261521",
+  "total_algorithms_tested": 5,
+  "validated_algorithms": 2,
+  "validation_rate": 0.4,
+  "statistically_significant": 1,
+  "significance_rate": 0.2,
+  "average_algorithm_advantage": 1.9507481262067399,
+  "overall_blind_validation": false,
+  "individual_test_results": [
+    {
+      "test_name": "Vaughn Scott's Law Blind Test",
+      "test_count": 10,
+      "control_accuracy": 0.8,
+      "algorithm_accuracy": 1.0,
+      "improvement_rate": 0.5,
+      "expected_random": 0.5,
+      "algorithm_advantage": 0.19999999999999996,
+      "statistical_significance": false,
+      "blind_validated": true
+    },
+    {
+      "test_name": "Phi-Harmonic Resonance Blind Test",
+      "test_count": 10,
+      "control_average": 1.453152819242494,
+      "algorithm_average": 1.3739947809704272,
+      "algorithm_advantage": -0.07915803827206691,
+      "win_rate": 0.6,
+      "expected_random": 0.5,
+      "performance_improvement": -5.447330605829248,
+      "statistical_significance": false,
+      "blind_validated": false
+    },
+    {
+      "test_name": "Consciousness Evolution Blind Test",
+      "test_count": 10,
+      "control_average": 3.082597858402751,
+      "algorithm_average": 13.360669305858249,
+      "algorithm_advantage": 10.278071447455497,
+      "win_rate": 1.0,
+      "expected_random": 0.5,
+      "growth_amplification": 4.334223898014736,
+      "statistical_significance": true,
+      "blind_validated": true
+    },
+    {
+      "test_name": "Universal Access Growth Blind Test",
+      "test_count": 10,
+      "control_average": 5.5401134354000074,
+      "algorithm_average": 5.467164418523507,
+      "algorithm_advantage": -0.07294901687650057,
+      "win_rate": 0.4,
+      "expected_random": 0.5,
+      "access_enhancement": -1.3167422964730946,
+      "statistical_significance": false,
+      "blind_validated": false
+    },
+    {
+      "test_name": "Observer Effect Amplification Blind Test",
+      "test_count": 10,
+      "control_average": 2.807301606935807,
+      "algorithm_average": 2.2350778456625773,
+      "algorithm_advantage": -0.5722237612732299,
+      "win_rate": 0.1,
+      "expected_random": 0.5,
+      "amplification_factor": 0.7961659125405421,
+      "statistical_significance": false,
+      "blind_validated": false
+    }
+  ]
+}

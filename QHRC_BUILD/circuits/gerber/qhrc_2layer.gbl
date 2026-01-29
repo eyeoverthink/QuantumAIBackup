@@ -1,0 +1,17 @@
+G04 QHRC 2-Layer Bottom Copper*
+G04 Created by KiCad*
+%FSLAX46Y46*%
+%MOMM*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.Part,Single*%
+%TA.AperFunction,ComponentPad*%
+%ADD10C,0.200000*%
+%ADD11C,0.300000*%
+
+G04 Secondary Spiral Start*
+X50000000Y50000000D02*
+G75*
+G03X50000000Y50000000I-40450000J0D01*
+G03X50000000Y50000000I-39450000J0D01*
+; ... (73 turns total with φ ratio)
+M02*

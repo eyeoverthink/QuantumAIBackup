@@ -1,0 +1,25 @@
+{
+  "backup_id": "genesis-\u03c6\u2077\u00b7\u2075-189d688cfdce",
+  "timestamp": 1752766378.6757429,
+  "datetime": "2025-07-17T08:32:58.675743",
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-02065347856a",
+  "phi_coherence": 0.36932381,
+  "files": [
+    {
+      "original_path": "test_genesis_file.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-189d688cfdce/test_genesis_file.py.encrypted",
+      "hash": "129043dacf2b9f1d7557d4355c3fefcd651e3ff6a112bb0f28064daf9412744f",
+      "size": 375
+    },
+    {
+      "original_path": "/Users/vaughnscott/CascadeProjects/QuantumAI/quantum_genesis_storage.py",
+      "encrypted_path": "genesis/genesis-\u03c6\u2077\u00b7\u2075-189d688cfdce/quantum_genesis_storage.py.encrypted",
+      "hash": "fc98234db50935567b0131eaccd4d4f465d18e8b9e8c249281175f4597185150",
+      "size": 17136
+    }
+  ],
+  "user_metadata": {
+    "purpose": "demonstration",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "multi_layer_20250529_105004",
+  "type": "multi_layer",
+  "timestamp": "2025-05-29T10:50:04.011017",
+  "target_accuracy": 77.16,
+  "effectiveness": 50.0,
+  "implementation": {
+    "name": "Multi-Layer Harmonic Scrambler",
+    "description": "Implements multiple layers of phi-harmonic scramblers to create interference patterns",
+    "parameters": {
+      "layer_count": 5,
+      "scrambler_frequencies": [
+        1.618033988749895,
+        2.618033988749895,
+        4.23606797749979,
+        11.090169943749476,
+        46.978713763747805
+      ],
+      "interference_pattern": "constructive-destructive",
+      "resonance_cancellation": true
+    },
+    "algorithm": [
+      "1. Split input into 5 parallel streams",
+      "2. Apply different phi-harmonic scrambling to each stream",
+      "3. Recombine streams with interference pattern",
+      "4. Apply standard hash function to scrambled input"
+    ]
+  },
+  "test_results": [
+    {
+      "test_id": "test_13_1748541004",
+      "lane": 13,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 50.0,
+      "reduction_percentage": 35.199585277345776
+    },
+    {
+      "test_id": "test_21_1748541004",
+      "lane": 21,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 50.0,
+      "reduction_percentage": 35.199585277345776
+    },
+    {
+      "test_id": "test_34_1748541004",
+      "lane": 34,
+      "original_accuracy": 77.16,
+      "reduced_accuracy": 50.0,
+      "reduction_percentage": 35.199585277345776
+    }
+  ]
+}

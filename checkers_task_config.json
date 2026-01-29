@@ -1,0 +1,11 @@
+{
+    "task_name": "CheckersJumpingPuzzle-Genesis",
+    "description": "A task configuration to make the Quantum Genesis system solve the Checkers Jumping puzzle.",
+    "problem_definition_file": "/Users/vaughnscott/CascadeProjects/QuantumAI/checkers_puzzle_definition.py",
+    "optimizer_settings": {
+        "max_cycles": 500,
+        "population_size": 150,
+        "evolution_rate": 0.618
+    },
+    "output_directory": "/Users/vaughnscott/CascadeProjects/QuantumAI/checkers_genesis_output"
+}

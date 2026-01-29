@@ -1,0 +1,4814 @@
+{
+  "epoch": 687,
+  "resonance": 0.9270509831248424,
+  "complexity": 0.5286837175720969,
+  "mutation_rate": 0.07310635613148658,
+  "error_introduced": true,
+  "error_corrected": true,
+  "error_epoch": 23,
+  "heuristic_is_degraded": false,
+  "evolution_history": [
+    {
+      "epoch": 1,
+      "resonance": 0.42705098312484235,
+      "complexity": 0.8819660112501051,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 2,
+      "resonance": 0.30901699437494745,
+      "complexity": 0.2639320225002102,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 3,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6458980337503153,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 4,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.02786404500042039,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 5,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4098300562505255,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 6,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7917960675006306,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 7,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.17376207875073568,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 8,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5557280900008408,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 9,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9376941012509459,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 10,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.319660112501051,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 11,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7016261237511561,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 12,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.08359213500126117,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 13,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.46555814625136627,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 14,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8475241575014714,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 15,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.22949016875157646,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 16,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6114561800016816,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 17,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9934221912517867,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 18,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.37538820250189175,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 19,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7573542137519969,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 20,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.13932022500210195,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 21,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.521286236252207,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 22,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9032522475023121,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 23,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.28521825875241724,
+      "performance": 59,
+      "heuristic_degraded": true
+    },
+    {
+      "epoch": 24,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6671842700025223,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 25,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.04915028125262744,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 26,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.43111629250273253,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 27,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8130823037528376,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 28,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.19504831500294273,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 29,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5770143262530478,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 30,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9589803375031529,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 31,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.340946348753258,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 32,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7229123600033631,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 33,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.10487837125346822,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 34,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4868443825035733,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 35,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8688103937536784,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 36,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2507764050037835,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 37,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6327424162538886,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 38,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.014708427503993704,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 39,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3966744387540988,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 40,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7786404500042039,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 41,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.160606461254309,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 42,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5425724725044141,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 43,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9245384837545192,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 44,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3065044950046243,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 45,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6884705062547294,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 46,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.07043651750483448,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 47,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4524025287549396,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 48,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8343685400050447,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 49,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.21633455125514978,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 50,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5983005625052549,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 51,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.98026657375536,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 52,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.36223258500546507,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 53,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7441985962555702,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 54,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.12616460750567526,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 55,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5081306187557804,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 56,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8900966300058855,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 57,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.27206264125599056,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 58,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6540286525060957,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 59,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.03599466375620075,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 60,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.41796067500630585,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 61,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.799926686256411,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 62,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.18189269750651604,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 63,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5638587087566211,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 64,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9458247200067262,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 65,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.32779073125683134,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 66,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7097567425069364,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 67,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.09172275375704153,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 68,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.47368876500714663,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 69,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8556547762572517,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 70,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.23762078750735682,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 71,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6195867987574619,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 72,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.0015528100075670181,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 73,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3835188212576721,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 74,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7654848325077772,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 75,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1474508437578823,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 76,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5294168550079874,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 77,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9113828662580925,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 78,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2933488775081976,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 79,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6753148887583027,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 80,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.0572809000084078,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 81,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4392469112585129,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 82,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.821212922508618,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 83,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2031789337587231,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 84,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5851449450088282,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 85,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9671109562589333,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 86,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3490769675090384,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 87,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7310429787591435,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 88,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.11300899000924858,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 89,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4949750012593537,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 90,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8769410125094588,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 91,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.25890702375956387,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 92,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.640873035009669,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 93,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.022839046259774065,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 94,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.40480505750987916,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 95,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7867710687599843,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 96,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.16873708001008936,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 97,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5507030912601945,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 98,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9326691025102996,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 99,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.31463511376040465,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 100,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6966011250105097,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 101,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.07856713626061484,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 102,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.46053314751071994,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 103,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.842499158760825,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 104,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.22446517001093014,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 105,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6064311812610352,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 106,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9883971925111403,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 107,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.37036320376124543,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 108,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7523292150113505,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 109,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.13429522626145562,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 110,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5162612375115607,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 111,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8982272487616658,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 112,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.2801932600117709,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 113,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.662159271261876,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 114,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.04412528251198111,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 115,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4260912937620862,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 116,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8080573050121913,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 117,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1900233162622964,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 118,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5719893275124015,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 119,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9539553387625066,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 120,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3359213500126117,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 121,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7178873612627168,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 122,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.09985337251282189,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 123,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.481819383762927,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 124,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8637853950130321,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 125,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.24575140626313718,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 126,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6277174175132423,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 127,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.00968342876334738,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 128,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3916494400134525,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 129,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7736154512635576,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 130,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.15558146251366267,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 131,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5375474737637678,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 132,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9195134850138729,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 133,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.30147949626397796,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 134,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6834455075140831,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 135,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.06541151876418816,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 136,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.44737753001429326,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 137,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8293435412643984,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 138,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.21130955251450345,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 139,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5932755637646085,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 140,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9752415750147136,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 141,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.35720758626481874,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 142,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7391735975149238,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 143,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.12113960876502894,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 144,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.503105620015134,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 145,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8850716312652391,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 146,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.26703764251534423,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 147,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6490036537654493,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 148,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.030969665015554426,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 149,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4129356762656595,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 150,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7949016875157646,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 151,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.17686769876586972,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 152,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5588337100159748,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 153,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9407997212660799,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 154,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.322765732516185,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 155,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7047317437662901,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 156,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.0866977550163952,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 157,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4686637662665003,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 158,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8506297775166054,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 159,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2325957887667105,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 160,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6145618000168156,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 161,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9965278112669207,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 162,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3784938225170258,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 163,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7604598337671309,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 164,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.14242584501723599,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 165,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5243918562673411,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 166,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9063578675174462,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 167,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2883238787675513,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 168,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6702898900176564,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 169,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.05225590126776147,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 170,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.43422191251786657,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 171,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8161879237679717,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 172,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.19815393501807677,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 173,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5801199462681819,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 174,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.962085957518287,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 175,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.34405196876839206,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 176,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7260179800184972,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 177,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.10798399126860225,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 178,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.48995000251870735,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 179,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8719160137688124,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 180,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.25388202501891755,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 181,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6358480362690226,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 182,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.01781404751912774,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 183,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.39978005876923284,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 184,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7817460700193379,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 185,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.16371208126944303,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 186,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5456780925195481,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 187,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9276441037696532,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 188,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3096101150197583,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 189,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6915761262698634,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 190,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.07354213751996852,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 191,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4555081487700736,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 192,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8374741600201787,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 193,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.2194401712702838,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 194,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6014061825203889,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 195,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.983372193770494,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 196,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3653382050205991,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 197,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7473042162707042,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 198,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1292702275208093,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 199,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5112362387709144,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 200,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8932022500210195,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 201,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2751682612711246,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 202,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6571342725212297,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 203,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.03910028377133479,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 204,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4210662950214399,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 205,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.803032306271545,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 206,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.18499831752165008,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 207,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5669643287717552,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 208,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9489303400218603,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 209,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.33089635127196537,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 210,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7128623625220705,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 211,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.09482837377217557,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 212,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.47679438502228066,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 213,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8587603962723858,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 214,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.24072640752249086,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 215,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.622692418772596,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 216,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.0046584300227010544,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 217,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.38662444127280615,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 218,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7685904525229112,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 219,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.15055646377301635,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 220,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5325224750231214,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 221,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9144884862732265,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 222,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.29645449752333164,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 223,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6784205087734367,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 224,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.060386520023541834,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 225,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.44235253127364693,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 226,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.824318542523752,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 227,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.20628455377385713,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 228,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5882505650239622,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 229,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9702165762740673,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 230,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3521825875241724,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 231,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7341485987742775,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 232,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.11611461002438261,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 233,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4980806212744877,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 234,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8800466325245928,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 235,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.2620126437746979,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 236,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.643978655024803,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 237,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.0259446662749081,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 238,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4079106775250132,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 239,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7898766887751183,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 240,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1718427000252234,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 241,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5538087112753285,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 242,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9357747225254336,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 243,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3177407337755387,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 244,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6997067450256438,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 245,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.08167275627574888,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 246,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.463638767525854,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 247,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8456047787759591,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 248,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.22757079002606417,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 249,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6095368012761693,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 250,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9915028125262744,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 251,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.37346882377637947,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 252,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7554348350264846,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 253,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.13740084627658966,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 254,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5193668575266948,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 255,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9013328687767999,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 256,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.28329888002690495,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 257,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.66526489127701,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 258,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.04723090252711515,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 259,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.42919691377722025,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 260,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8111629250273253,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 261,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.19312893627743044,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 262,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5750949475275355,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 263,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9570609587776406,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 264,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.33902697002774573,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 265,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7209929812778508,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 266,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.10295899252795593,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 267,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.484925003778061,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 268,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8668910150281661,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 269,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.24885702627827122,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 270,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6308230375283763,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 271,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.012789048778481416,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 272,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3947550600285865,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 273,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7767210712786916,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 274,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.1586870825287967,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 275,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5406530937789018,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 276,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9226191050290069,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 277,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.304585116279112,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 278,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6865511275292171,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 279,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.0685171387793222,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 280,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4504831500294273,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 281,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8324491612795324,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 282,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2144151725296375,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 283,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5963811837797426,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 284,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9783471950298477,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 285,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3603132062799528,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 286,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7422792175300579,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 287,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.12424522878016298,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 288,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5062112400302681,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 289,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8881772512803732,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 290,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.27014326253047827,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 291,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6521092737805834,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 292,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.03407528503068846,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 293,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.41604129628079356,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 294,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7980073075308987,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 295,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.17997331878100375,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 296,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5619393300311089,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 297,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.943905341281214,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 298,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.32587135253131905,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 299,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7078373637814241,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 300,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.08980337503152924,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 301,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.47176938628163434,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 302,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8537353975317394,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 303,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.23570140878184453,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 304,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6176674200319496,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 305,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9996334312820547,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 306,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3815994425321598,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 307,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7635654537822649,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 308,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.14553146503237002,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 309,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5274974762824751,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 310,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9094634875325802,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 311,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2914294987826853,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 312,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6733955100327904,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 313,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.05536152128289551,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 314,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4373275325330006,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 315,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8192935437831057,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 316,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.2012595550332108,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 317,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5832255662833159,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 318,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.965191577533421,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 319,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3471575887835261,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 320,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7291236000336312,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 321,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.11108961128373629,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 322,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4930556225338414,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 323,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8750216337839465,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 324,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2569876450340516,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 325,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6389536562841567,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 326,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.020919667534261777,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 327,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4028856787843669,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 328,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.784851690034472,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 329,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.16681770128457707,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 330,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5487837125346822,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 331,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9307497237847873,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 332,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.31271573503489236,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 333,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6946817462849975,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 334,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.07664775753510256,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 335,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.45861376878520765,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 336,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8405797800353128,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 337,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.22254579128541785,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 338,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.604511802535523,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 339,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.986477813785628,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 340,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.36844382503573314,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 341,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7504098362858382,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 342,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.13237584753594334,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 343,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5143418587860484,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 344,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8963078700361535,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 345,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.27827388128625863,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 346,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6602398925363637,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 347,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.042205903786468824,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 348,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4241719150365739,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 349,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.806137926286679,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 350,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.18810393753678412,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 351,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5700699487868892,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 352,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9520359600369943,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 353,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3340019712870994,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 354,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7159679825372045,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 355,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.0979339937873096,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 356,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4799000050374147,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 357,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8618660162875198,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 358,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.2438320275376249,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 359,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.62579803878773,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 360,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.007764050037835091,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 361,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3897300612879402,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 362,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7716960725380453,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 363,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.15366208378815038,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 364,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5356280950382555,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 365,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9175941062883606,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 366,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2995601175384657,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 367,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6815261287885708,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 368,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.06349214003867587,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 369,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.44545815128878097,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 370,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8274241625388861,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 371,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.20939017378899116,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 372,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5913561850390963,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 373,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9733221962892014,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 374,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.35528820753930646,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 375,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7372542187894116,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 376,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.11922023003951665,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 377,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5011862412896217,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 378,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8831522525397268,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 379,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.26511826378983194,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 380,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.647084275039937,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 381,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.029050286290042138,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 382,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.41101629754014724,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 383,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7929823087902523,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 384,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.17494832004035743,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 385,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5569143312904625,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 386,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9388803425405676,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 387,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3208463537906727,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 388,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7028123650407778,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 389,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.08477837629088292,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 390,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.466744387540988,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 391,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8487103987910931,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 392,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2306764100411982,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 393,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6126424212913033,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 394,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9946084325414084,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 395,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3765744437915135,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 396,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7585404550416186,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 397,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.1405064662917237,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 398,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5224724775418288,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 399,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9044384887919339,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 400,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.286404500042039,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 401,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6683705112921441,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 402,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.050336522542249185,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 403,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4323025337923543,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 404,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8142685450424594,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 405,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.19623455629256448,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 406,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5782005675426696,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 407,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9601665787927747,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 408,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.34213259004287977,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 409,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7240986012929849,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 410,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.10606461254308996,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 411,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.48803062379319506,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 412,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8699966350433002,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 413,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.25196264629340526,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 414,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6339286575435104,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 415,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.015894668793615452,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 416,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.39786068004372055,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 417,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7798266912938256,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 418,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.16179270254393074,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 419,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5437587137940358,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 420,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9257247250441409,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 421,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.30769073629424604,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 422,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6896567475443511,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 423,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.07162275879445623,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 424,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.45358877004456133,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 425,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8355547812946664,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 426,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.21752079254477152,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 427,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5994868037948766,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 428,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9814528150449817,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 429,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3634188262950868,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 430,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7453848375451919,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 431,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.127350848795297,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 432,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5093168600454021,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 433,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8912828712955072,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 434,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2732488825456123,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 435,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6552148937957174,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 436,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.0371809050458225,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 437,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4191469162959276,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 438,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8011129275460327,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 439,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.1830789387961378,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 440,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5650449500462429,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 441,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.947010961296348,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 442,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3289769725464531,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 443,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7109429837965582,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 444,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.09290899504666328,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 445,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4748750062967684,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 446,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8568410175468735,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 447,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.23880702879697857,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 448,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6207730400470837,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 449,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.002739051297188766,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 450,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.38470506254729386,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 451,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.766671073797399,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 452,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.14863708504750406,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 453,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5306030962976092,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 454,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9125691075477143,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 455,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.29453511879781935,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 456,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6765011300479244,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 457,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.058467141298029546,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 458,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.44043315254813464,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 459,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8223991637982397,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 460,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.20436517504834484,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 461,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5863311862984499,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 462,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.968297197548555,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 463,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.35026320879866013,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 464,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7322292200487652,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 465,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.11419523129887033,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 466,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4961612425489754,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 467,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8781272537990805,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 468,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2600932650491856,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 469,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6420592762992907,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 470,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.024025287549395813,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 471,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4059912987995009,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 472,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.787957310049606,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 473,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.1699233212997111,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 474,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5518893325498162,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 475,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9338553437999213,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 476,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3158213550500264,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 477,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6977873663001315,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 478,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.07975337755023659,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 479,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4617193888003417,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 480,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8436854000504468,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 481,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.22565141130055189,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 482,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.607617422550657,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 483,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9895834338007621,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 484,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3715494450508672,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 485,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7535154563009723,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 486,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.13548146755107737,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 487,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5174474788011825,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 488,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8994134900512876,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 489,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.28137950130139266,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 490,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6633455125514978,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 491,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.04531152380160286,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 492,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.42727753505170796,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 493,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.809243546301813,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 494,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.19120955755191815,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 495,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5731755688020232,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 496,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9551415800521283,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 497,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.33710759130223344,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 498,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7190736025523385,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 499,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.10103961380244364,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 500,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.48300562505254874,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 501,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8649716363026538,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 502,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.24693764755275893,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 503,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.628903658802864,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 504,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.010869670052969127,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 505,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3928356813030742,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 506,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7748016925531793,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 507,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.15676770380328442,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 508,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5387337150533895,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 509,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9206997263034946,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 510,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3026657375535997,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 511,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6846317488037048,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 512,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.0665977600538099,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 513,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.448563771303915,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 514,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8305297825540201,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 515,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2124957938041252,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 516,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5944618050542303,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 517,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9764278163043354,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 518,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3583938275544405,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 519,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7403598388045456,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 520,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.12232585005465069,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 521,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5042918613047558,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 522,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8862578725548609,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 523,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.268223883804966,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 524,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6501898950550711,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 525,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.032155906305176174,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 526,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.41412191755528127,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 527,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7960879288053864,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 528,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.17805394005549147,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 529,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5600199513055966,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 530,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9419859625557017,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 531,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.32395197380580676,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 532,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7059179850559119,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 533,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.08788399630601695,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 534,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.46985000755612205,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 535,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8518160188062271,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 536,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.23378203005633225,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 537,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6157480413064373,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 538,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9977140525565424,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 539,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.37968006380664754,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 540,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7616460750567526,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 541,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.14361208630685773,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 542,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5255780975569628,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 543,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9075441088070679,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 544,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.289510120057173,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 545,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6714761313072781,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 546,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.05344214255738322,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 547,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4354081538074883,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 548,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8173741650575934,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 549,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1993401763076985,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 550,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5813061875578036,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 551,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9632721988079087,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 552,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3452382100580138,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 553,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7272042213081189,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 554,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.109170232558224,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 555,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4911362438083291,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 556,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8731022550584342,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 557,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2550682663085393,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 558,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6370342775586444,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 559,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.019000288808749488,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 560,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4009663000588546,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 561,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7829323113089597,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 562,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.16489832255906478,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 563,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5468643338091699,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 564,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.928830345059275,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 565,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3107963563093801,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 566,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6927623675594852,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 567,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.07472837880959027,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 568,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.45669439005969537,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 569,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8386604013098005,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 570,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.22062641255990556,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 571,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6025924238100107,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 572,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9845584350601158,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 573,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.36652444631022085,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 574,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.748490457560326,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 575,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.13045646881043105,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 576,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5124224800605361,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 577,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8943884913106412,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 578,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.27635450256074634,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 579,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6583205138108514,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 580,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.040286525060956535,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 581,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.42225253631106163,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 582,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8042185475611667,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 583,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.18618455881127183,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 584,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5681505700613769,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 585,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.950116581311482,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 586,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3320825925615871,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 587,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7140486038116922,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 588,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.09601461506179731,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 589,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4779806263119024,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 590,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8599466375620075,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 591,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2419126488121126,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 592,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6238786600622177,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 593,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.005844671312322802,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 594,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3878106825624279,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 595,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.769776693812533,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 596,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.1517427050626381,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 597,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5337087163127432,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 598,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9156747275628483,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 599,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.2976407388129534,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 600,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6796067500630585,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 601,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.06157276131316358,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 602,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4435387725632687,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 603,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8255047838133738,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 604,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.20747079506347887,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 605,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.589436806313584,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 606,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9714028175636891,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 607,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.35336882881379417,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 608,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7353348400638993,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 609,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.11730085131400436,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 610,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.49926686256410946,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 611,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.8812328738142146,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 612,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.26319888506431965,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 613,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6451648963144248,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 614,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.02713090756452985,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 615,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.40909691881463495,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 616,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.79106293006474,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 617,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.17302894131484514,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 618,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5549949525649502,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 619,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9369609638150553,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 620,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.31892697506516043,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 621,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7008929863152655,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 622,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.08285899756537063,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 623,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4648250088154757,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 624,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8467910200655808,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 625,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.22875703131568592,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 626,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.610723042565791,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 627,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.9926890538158961,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 628,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.3746550650660012,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 629,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7566210763161063,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 630,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1385870875662114,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 631,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5205530988163165,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 632,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9025191100664216,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 633,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.2844851213165267,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 634,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6664511325666318,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 635,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.048417143816736896,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 636,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.430383155066842,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 637,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8123491663169471,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 638,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.1943151775670522,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 639,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5762811888171573,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 640,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9582472000672624,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 641,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3402132113173675,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 642,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7221792225674726,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 643,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.10414523381757768,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 644,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.4861112450676828,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 645,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8680772563177879,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 646,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.25004326756789297,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 647,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6320092788179981,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 648,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.013975290068103163,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 649,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.39594130131820826,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 650,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7779073125683134,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 651,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.15987332381841846,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 652,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5418393350685236,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 653,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9238053463186287,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 654,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.30577135756873375,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 655,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.6877373688188388,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 656,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.06970338006894394,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 657,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.45166939131904904,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 658,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8336354025691541,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 659,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.21560141381925924,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 660,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.5975674250693643,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 661,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.9795334363194694,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 662,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.36149944756957453,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 663,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7434654588196796,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 664,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.12543147006978472,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 665,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5073974813198898,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 666,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.8893634925699949,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 667,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.2713295038201,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 668,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.6532955150702051,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 669,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.03526152632031021,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 670,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.4172275375704153,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 671,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.7991935488205204,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 672,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.1811595600706255,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 673,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.5631255713207306,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 674,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.9450915825708357,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 675,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.3270575938209408,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 676,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.7090236050710459,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 677,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.09098961632115099,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 678,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.4729556275712561,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 679,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.8549216388213612,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 680,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.23688765007146628,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 681,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.6188536613215714,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 682,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.0008196725716764774,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 683,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.3827856838217816,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 684,
+      "resonance": 0.1180339887498949,
+      "complexity": 0.7647516950718867,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 685,
+      "resonance": 0.8090169943749475,
+      "complexity": 0.14671770632199177,
+      "performance": 53,
+      "heuristic_degraded": false
+    },
+    {
+      "epoch": 686,
+      "resonance": 0.9270509831248424,
+      "complexity": 0.5286837175720969,
+      "performance": 53,
+      "heuristic_degraded": false
+    }
+  ]
+}

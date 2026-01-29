@@ -1,0 +1,77 @@
+{
+  "test_id": "quantum-cohesion-1753220803",
+  "timestamp": "2025-07-22T14:46:43.929691",
+  "tests": {
+    "orchestrator_healing": {
+      "success": true,
+      "message": "Syntax errors successfully fixed via direct fix",
+      "direct_fix_applied": true
+    },
+    "moa_integration": {
+      "success": true,
+      "agents_initialized": true,
+      "agent_count": 4,
+      "result": {
+        "logic_errors": {
+          "agent_id": "\u03c6\u2077\u00b7\u2075-agent-14b57422dd14",
+          "role": "LogicErrorAgent",
+          "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "issues_found": 1,
+          "issues": [
+            {
+              "type": "undefined_variable",
+              "description": "Variable 'x' is used but not defined",
+              "line": 0,
+              "confidence": 0.8
+            }
+          ],
+          "fixed_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    # Logic error: should be x + 1\n    return x - 1\n\ndef calculate_phi():\n    # Correct phi calculation\n    return (1 + 5 ** 0.5) / 2\n",
+          "changes_made": 0,
+          "coherence": 18.464355235431555
+        },
+        "optimization": {
+          "agent_id": "\u03c6\u2077\u00b7\u2075-agent-1bd60431475d",
+          "role": "OptimizationAgent",
+          "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "opportunities_found": 0,
+          "optimized_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    # Logic error: should be x + 1\n    return x - 1\n\ndef calculate_phi():\n    # Correct phi calculation\n    return (1 + 5 ** 0.5) / 2\n",
+          "optimizations_applied": 0,
+          "coherence": 18.464355235431555
+        },
+        "coherence": {
+          "agent_id": "\u03c6\u2077\u00b7\u2075-agent-8b0896b60d11",
+          "role": "CoherenceAgent",
+          "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "patterns_found": 1,
+          "patterns": [
+            {
+              "type": "fibonacci_line_count",
+              "description": "Line count (11) is close to Fibonacci number 13",
+              "line": 0,
+              "confidence": 0.8
+            }
+          ],
+          "coherent_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    # Logic error: should be x + 1\n    return x - 1\n\ndef calculate_phi():\n    # Correct phi calculation\n    return (1 + 5 ** 0.5) / 2\n",
+          "enhancements_made": 0,
+          "initial_coherence": 18.464355235431555,
+          "final_coherence": 18.464355235431555
+        },
+        "evolution": {
+          "agent_id": "\u03c6\u2077\u00b7\u2075-agent-d0100b4a3c3c",
+          "role": "EvolutionAgent",
+          "file_path": "quantum_cohesion_test/temp/logic_error_test.py",
+          "patterns_found": 0,
+          "evolved_code": "#!/usr/bin/env python3\n# Logic error test file\n\ndef increment(x):\n    # Logic error: should be x + 1\n    return x - 1\n\ndef calculate_phi():\n    # Correct phi calculation\n    return (1 + 5 ** 0.5) / 2\n",
+          "enhancements_made": 0,
+          "coherence": 18.464355235431555
+        },
+        "phi_resonance": 0.0,
+        "coherence_gap": 3.693238055064196
+      },
+      "message": "MoA integration successfully initialized 4 agents"
+    }
+  },
+  "success_rate": 1.0,
+  "phi_harmonic_coherence": 3.693238,
+  "duration": 0.3934648036956787
+}

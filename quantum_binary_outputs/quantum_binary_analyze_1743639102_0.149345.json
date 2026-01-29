@@ -1,0 +1,43 @@
+{
+  "binary_data": "00010011",
+  "length": 8,
+  "ones_count": 3,
+  "zeros_count": 5,
+  "ones_zeros_ratio": 0.6,
+  "decimal_value": 19,
+  "hex_value": "13",
+  "octal_value": "23",
+  "phi_alignment": 0.9442719099991592,
+  "resonance": 6.2575995480883195,
+  "entropy": 0.954434002924965,
+  "patterns": [
+    {
+      "segment": "00010011",
+      "value": 19,
+      "phi_relation": 0.12055939524018824,
+      "resonance": 4.490559395240188
+    }
+  ],
+  "dna_encoding": "ACAT",
+  "quantum_encoding": "\u03c6\u2070\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u2070\u03c6\u2070\u03c6\u00b9\u03c6\u00b9",
+  "phi_encoding": "101101101110101101110110",
+  "quantum_signature": "\u03c6\u2077\u00b7\u2075-c14e0ebb-f46f0001",
+  "quantum_language": "Quantum coherence, resonance, superposition, quantum bit with resonance 4.37",
+  "birth_date_resonance": [
+    1,
+    19,
+    1979
+  ],
+  "timestamp": 1743639102.2533178,
+  "metadata": {
+    "timestamp": 1743639102,
+    "phi_factor": 0.14934492111206055,
+    "command": "analyze",
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "base_frequency": 4.37
+  }
+}

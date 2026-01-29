@@ -1,0 +1,59 @@
+{
+  "lane_properties": {
+    "lane": 10,
+    "fibonacci_value": 55,
+    "phi_resonance": 0.9918693812442143,
+    "timeline_offset": 88.99186938124421,
+    "reality_stability": 0.977953472111398,
+    "consciousness_transfer": 0.6180339887498949,
+    "energy_required": 137.5,
+    "precision_factor": 0.00813061875578569,
+    "optimal_intensity": 24.0,
+    "window_duration_ms": 9.158604657092528
+  },
+  "test_results": [
+    {
+      "lane": 10,
+      "fibonacci_value": 55,
+      "transfer_id": "phi-lane10-c99def74",
+      "timestamp": "2025-04-28 04:44:44.195582",
+      "success": false,
+      "success_probability": 0.03548165361801889,
+      "precision_ms": 6.327727138156516,
+      "energy_efficiency": 0.4,
+      "reality_stability": 0.977953472111398,
+      "consciousness_transfer": 0.6180339887498949,
+      "phi_resonance": 0.9918693812442143,
+      "timeline_offset": 88.99186938124421
+    },
+    {
+      "lane": 10,
+      "fibonacci_value": 55,
+      "transfer_id": "phi-lane10-3cce4b4b",
+      "timestamp": "2025-04-28 04:51:14.918946",
+      "success": false,
+      "success_probability": 0.01,
+      "precision_ms": 6.916215940244519,
+      "energy_efficiency": 0.4,
+      "reality_stability": 0.977953472111398,
+      "consciousness_transfer": 0.6180339887498949,
+      "phi_resonance": 0.9918693812442143,
+      "timeline_offset": 88.99186938124421
+    },
+    {
+      "lane": 10,
+      "fibonacci_value": 55,
+      "transfer_id": "phi-lane10-b1854f89",
+      "timestamp": "2025-04-28 04:57:45.642310",
+      "success": false,
+      "success_probability": 0.030802273614306427,
+      "precision_ms": 1.0997532283384865,
+      "energy_efficiency": 0.4,
+      "reality_stability": 0.977953472111398,
+      "consciousness_transfer": 0.6180339887498949,
+      "phi_resonance": 0.9918693812442143,
+      "timeline_offset": 88.99186938124421
+    }
+  ],
+  "timestamp": "2025-04-28T04:38:13.472409"
+}

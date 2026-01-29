@@ -1,0 +1,23 @@
+{
+  "test_id": "417f83eb",
+  "start_time": "2025-04-28T04:07:54.367773",
+  "end_time": "2025-04-28T04:08:08.895545",
+  "predictions_made": 1,
+  "predictions_received": 3,
+  "predictions_verified": 1,
+  "verification_results": {
+    "EP-8b33-3215-7ec3": {
+      "prediction_id": "EP-8b33-3215-7ec3",
+      "verification_time": "2025-04-28T04:08:08.895164",
+      "target_time": "2025-04-28 03:57:40",
+      "predicted_epoch": 1745837860.519228,
+      "actual_epoch": 1745837860.949206,
+      "epoch_difference": 0.4299781322479248,
+      "prediction_correct": false,
+      "phi_signature": 0.8622283935546875
+    }
+  },
+  "phi_validation_seal": 4721424167835376.0,
+  "successful_verifications": 0,
+  "success_rate": 0.0
+}

@@ -1,0 +1,482 @@
+{
+  "quantum": {
+    "scenario_1": {
+      "success_rate": 0.0,
+      "detection_rate": 0.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "success": false,
+          "duration": 0.07087993621826172,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.07438492774963379,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "success": false,
+          "duration": 0.07632613182067871,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.06579923629760742,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "success": false,
+          "duration": 0.06961894035339355,
+          "self_healing": false,
+          "tamper_detected": false
+        }
+      ]
+    },
+    "scenario_2": {
+      "success_rate": 0.0,
+      "detection_rate": 0.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "success": false,
+          "duration": 0.4897589683532715,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.09659218788146973,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "success": false,
+          "duration": 0.07660889625549316,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.08898019790649414,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "success": false,
+          "duration": 0.09416508674621582,
+          "self_healing": false,
+          "tamper_detected": false
+        }
+      ]
+    },
+    "scenario_3": {
+      "success_rate": 0.0,
+      "detection_rate": 0.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "success": false,
+          "duration": 0.060262203216552734,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.060109853744506836,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "success": false,
+          "duration": 0.05990409851074219,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.059823036193847656,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "success": false,
+          "duration": 0.06235504150390625,
+          "self_healing": false,
+          "tamper_detected": false
+        }
+      ]
+    },
+    "scenario_4": {
+      "success_rate": 0.0,
+      "detection_rate": 0.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "success": false,
+          "duration": 0.06050610542297363,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.06062912940979004,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "success": false,
+          "duration": 0.06709408760070801,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "success": false,
+          "duration": 0.05956602096557617,
+          "self_healing": false,
+          "tamper_detected": false
+        },
+        {
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "success": false,
+          "duration": 0.06101727485656738,
+          "self_healing": false,
+          "tamper_detected": false
+        }
+      ]
+    }
+  },
+  "conventional": {
+    "scenario_1": {
+      "success_rate": 0.0,
+      "detection_rate": 20.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.03715014457702637,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.03681612014770508,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.035437822341918945,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.030915021896362305,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": true,
+          "success": false,
+          "duration": 0.031213760375976562,
+          "hash_check": false,
+          "exit_code": 1,
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "tamper_detected": true,
+          "self_healing": false
+        }
+      ]
+    },
+    "scenario_2": {
+      "success_rate": 0.0,
+      "detection_rate": 20.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.034995079040527344,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.037647247314453125,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.034172773361206055,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.028311967849731445,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": true,
+          "success": false,
+          "duration": 0.02801990509033203,
+          "hash_check": false,
+          "exit_code": 1,
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "tamper_detected": true,
+          "self_healing": false
+        }
+      ]
+    },
+    "scenario_3": {
+      "success_rate": 0.0,
+      "detection_rate": 20.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.028095006942749023,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.028367996215820312,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.02906322479248047,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.027901172637939453,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": true,
+          "success": false,
+          "duration": 0.02791619300842285,
+          "hash_check": false,
+          "exit_code": 1,
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "tamper_detected": true,
+          "self_healing": false
+        }
+      ]
+    },
+    "scenario_4": {
+      "success_rate": 0.0,
+      "detection_rate": 20.0,
+      "healing_rate": 0.0,
+      "cycles": [
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.027698040008544922,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 1,
+          "tamper_level": 0.6180339887498949,
+          "tamper_type": "function",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.028360843658447266,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 2,
+          "tamper_level": 0.2360679774997898,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.027981042861938477,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 3,
+          "tamper_level": 0.8541019662496847,
+          "tamper_type": "logic",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": false,
+          "success": false,
+          "duration": 0.02820587158203125,
+          "hash_check": true,
+          "exit_code": 1,
+          "cycle": 4,
+          "tamper_level": 0.4721359549995796,
+          "tamper_type": "value",
+          "tamper_detected": false,
+          "self_healing": false
+        },
+        {
+          "tampered": true,
+          "success": false,
+          "duration": 0.028007984161376953,
+          "hash_check": false,
+          "exit_code": 1,
+          "cycle": 5,
+          "tamper_level": 0.09016994374947451,
+          "tamper_type": "comment",
+          "tamper_detected": true,
+          "self_healing": false
+        }
+      ]
+    }
+  }
+}

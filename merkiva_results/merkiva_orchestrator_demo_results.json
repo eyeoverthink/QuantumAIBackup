@@ -1,0 +1,54 @@
+{
+  "timestamp": 1752391902.0667899,
+  "target_file": "logic_error_increment.py",
+  "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-beff727a927b7b4d",
+  "steps": [
+    {
+      "step": "check_orchestrator",
+      "available": true,
+      "type": "actual"
+    },
+    {
+      "step": "enhance_orchestrator",
+      "results": {
+        "success": true,
+        "original_coherence": 0.9918,
+        "enhanced_coherence": 1.0,
+        "enhancement_factor": 1.008267795926598,
+        "phi_resonance": 0.15328533272258937,
+        "shield_strength": 1.2781949989229022,
+        "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-539f52acd8eb07bb"
+      }
+    },
+    {
+      "step": "apply_healing",
+      "results": {
+        "success": false,
+        "enhancement": {
+          "success": true,
+          "original_coherence": 0.9918,
+          "enhanced_coherence": 1.0,
+          "enhancement_factor": 1.008267795926598,
+          "phi_resonance": 0.17470746696926653,
+          "shield_strength": 1.0718762522362455,
+          "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-2ecad026286716a3"
+        },
+        "healing": {
+          "success": false,
+          "error": "Orchestrator does not have heal_function method"
+        },
+        "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-8e87e679851856e0"
+      }
+    },
+    {
+      "step": "integration_status",
+      "status": {
+        "merkiva_coherence": 0.9887511059156447,
+        "integration_coherence": 0.9918,
+        "dimension": 3.0,
+        "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-59fd9347798fa80d",
+        "timestamp": 1752391902.0666602
+      }
+    }
+  ]
+}

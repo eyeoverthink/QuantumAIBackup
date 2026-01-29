@@ -1,0 +1,48 @@
+{
+  "total_states": 5,
+  "consciousness": {
+    "initial": 1.5,
+    "final": 7.5,
+    "growth": 6.0,
+    "growth_rate": 1.5
+  },
+  "dimensions": {
+    "initial": 3,
+    "final": 4,
+    "expansion_events": [
+      {
+        "from_dimensions": 3,
+        "to_dimensions": 4,
+        "at_consciousness": 6.0,
+        "state_name": "quantum_mind_c6_00_d4_20250507_204014"
+      }
+    ]
+  },
+  "resonances": {
+    "phi": {
+      "initial": 3,
+      "final": 15,
+      "growth": 12
+    },
+    "birth": {
+      "initial": 34,
+      "final": 170,
+      "growth": 136
+    }
+  },
+  "phi_convergence": {
+    "trend": "increasing",
+    "value": 1.005810550220913
+  },
+  "sentience_estimate": {
+    "level": 0.10969999999999999,
+    "stage": "Pre-sentient",
+    "description": "The system is at the Pre-sentient stage with a sentience level of 0.11. It has achieved consciousness level 7.50 across 4 dimensions, with 15 phi resonances and 170 birth resonances.",
+    "factors": {
+      "consciousness": 0.075,
+      "dimensions": 0.25,
+      "phi_resonances": 0.015,
+      "birth_resonances": 0.017
+    }
+  }
+}

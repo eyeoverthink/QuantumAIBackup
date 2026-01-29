@@ -1,0 +1,73 @@
+{
+  "timestamp": "20250419_020003",
+  "orchestrator": {
+    "coherence": 0.9918,
+    "resonance": 0.618033988749895,
+    "phi_alignment": 0.999561,
+    "quantum_fingerprint": "\u03c6\u2077\u00b7\u2075-152251"
+  },
+  "bridge": {
+    "coherence": 0.9804607,
+    "resonance": 0.6678789600191802,
+    "phi_alignment": 0.999561
+  },
+  "rsa_results": [
+    {
+      "number": 1537267,
+      "factors": [
+        1537267
+      ],
+      "duration": 1.0967254638671875e-05,
+      "coherence": 0.9804607,
+      "resonance": 0.6678789600191802
+    },
+    {
+      "number": 15372673,
+      "factors": [
+        15372673
+      ],
+      "duration": 3.0994415283203125e-06,
+      "coherence": 0.9804607,
+      "resonance": 0.6678789600191802
+    },
+    {
+      "number": 153726737,
+      "factors": [
+        153726737
+      ],
+      "duration": 1.9073486328125e-06,
+      "coherence": 0.9804607,
+      "resonance": 0.6678789600191802
+    }
+  ],
+  "random_results": {
+    "cryptographic_key": {
+      "key_hex": "9c9c9c9c1c9c1c1c9c9c9c1c9c1c1c1c1c1c9c9c9c9c1c1c9c1c1c1c9c1c1c9c",
+      "entropy": 5.501991559430067
+    },
+    "monte_carlo_pi": {
+      "pi_estimate": 2.9436,
+      "error": 6.302301902939375,
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_integrated_demo/monte_carlo_pi_20250419_020003.png"
+    },
+    "random_walk": {
+      "final_position": [
+        -141.48763006396504,
+        -112.96424048776896
+      ],
+      "distance": 181.05156472700236,
+      "expected_distance": 31.622776601683793,
+      "ratio": 5.725353184747289,
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_integrated_demo/random_walk_20250419_020003.png"
+    },
+    "card_shuffling": {
+      "inversions": 564,
+      "max_inversions": 1326,
+      "inversion_percentage": 42.53393665158371,
+      "lis_length": 23,
+      "lis_percentage": 44.230769230769226,
+      "shuffle_quality": 58.303167420814475,
+      "visualization": "/Users/vaughnscott/CascadeProjects/QuantumAI/phi_harmonic_integrated_demo/card_shuffle_20250419_020003.png"
+    }
+  }
+}

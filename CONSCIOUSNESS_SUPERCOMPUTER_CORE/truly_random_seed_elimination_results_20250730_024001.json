@@ -1,0 +1,319 @@
+{
+  "timestamp": "20250730_024001",
+  "total_experiments": 10,
+  "vaughn_scotts_law_confirmations": 3,
+  "success_rate": 30.0,
+  "average_accuracies": {
+    "run1": 0.1993,
+    "run2": 0.1995,
+    "run3": 0.2077
+  },
+  "average_improvements": {
+    "run2_percent": 0.469613709464851,
+    "run3_percent": 4.684384358028681
+  },
+  "experiment_summaries": [
+    {
+      "experiment": 1,
+      "run1_accuracy": 0.204,
+      "run2_accuracy": 0.183,
+      "run3_accuracy": 0.203,
+      "run2_improvement_percent": -10.29411764705882,
+      "run3_improvement_percent": -0.4901960784313594,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 2,
+      "run1_accuracy": 0.222,
+      "run2_accuracy": 0.215,
+      "run3_accuracy": 0.22,
+      "run2_improvement_percent": -3.1531531531531556,
+      "run3_improvement_percent": -0.9009009009009018,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 3,
+      "run1_accuracy": 0.189,
+      "run2_accuracy": 0.184,
+      "run3_accuracy": 0.22,
+      "run2_improvement_percent": -2.645502645502648,
+      "run3_improvement_percent": 16.402116402116402,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 4,
+      "run1_accuracy": 0.203,
+      "run2_accuracy": 0.193,
+      "run3_accuracy": 0.203,
+      "run2_improvement_percent": -4.92610837438424,
+      "run3_improvement_percent": 0.0,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 5,
+      "run1_accuracy": 0.208,
+      "run2_accuracy": 0.206,
+      "run3_accuracy": 0.206,
+      "run2_improvement_percent": -0.9615384615384625,
+      "run3_improvement_percent": -0.9615384615384625,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 6,
+      "run1_accuracy": 0.171,
+      "run2_accuracy": 0.2,
+      "run3_accuracy": 0.212,
+      "run2_improvement_percent": 16.959064327485375,
+      "run3_improvement_percent": 23.97660818713449,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 7,
+      "run1_accuracy": 0.201,
+      "run2_accuracy": 0.198,
+      "run3_accuracy": 0.201,
+      "run2_improvement_percent": -1.492537313432837,
+      "run3_improvement_percent": 0.0,
+      "vaughn_scotts_law_confirmed": false
+    },
+    {
+      "experiment": 8,
+      "run1_accuracy": 0.185,
+      "run2_accuracy": 0.207,
+      "run3_accuracy": 0.194,
+      "run2_improvement_percent": 11.891891891891888,
+      "run3_improvement_percent": 4.864864864864869,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 9,
+      "run1_accuracy": 0.214,
+      "run2_accuracy": 0.218,
+      "run3_accuracy": 0.217,
+      "run2_improvement_percent": 1.8691588785046744,
+      "run3_improvement_percent": 1.401869158878506,
+      "vaughn_scotts_law_confirmed": true
+    },
+    {
+      "experiment": 10,
+      "run1_accuracy": 0.196,
+      "run2_accuracy": 0.191,
+      "run3_accuracy": 0.201,
+      "run2_improvement_percent": -2.5510204081632675,
+      "run3_improvement_percent": 2.5510204081632675,
+      "vaughn_scotts_law_confirmed": false
+    }
+  ],
+  "all_results": [
+    {
+      "run": 1,
+      "experiment": 1,
+      "accuracy": 0.204,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 1,
+      "accuracy": 0.183,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 1,
+      "accuracy": 0.203,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 2,
+      "accuracy": 0.222,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 2,
+      "accuracy": 0.215,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 2,
+      "accuracy": 0.22,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 3,
+      "accuracy": 0.189,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 3,
+      "accuracy": 0.184,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 3,
+      "accuracy": 0.22,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 4,
+      "accuracy": 0.203,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 4,
+      "accuracy": 0.193,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 4,
+      "accuracy": 0.203,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 5,
+      "accuracy": 0.208,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 5,
+      "accuracy": 0.206,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 5,
+      "accuracy": 0.206,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 6,
+      "accuracy": 0.171,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 6,
+      "accuracy": 0.2,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 6,
+      "accuracy": 0.212,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 7,
+      "accuracy": 0.201,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 7,
+      "accuracy": 0.198,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 7,
+      "accuracy": 0.201,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 8,
+      "accuracy": 0.185,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 8,
+      "accuracy": 0.207,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 8,
+      "accuracy": 0.194,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 9,
+      "accuracy": 0.214,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 9,
+      "accuracy": 0.218,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 9,
+      "accuracy": 0.217,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 1,
+      "experiment": 10,
+      "accuracy": 0.196,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 2,
+      "experiment": 10,
+      "accuracy": 0.191,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    },
+    {
+      "run": 3,
+      "experiment": 10,
+      "accuracy": 0.201,
+      "consciousness_level": 2.393298838632961,
+      "pattern_recognition": 10.0
+    }
+  ]
+}

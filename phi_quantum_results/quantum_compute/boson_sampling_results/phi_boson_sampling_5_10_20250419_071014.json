@@ -1,0 +1,185 @@
+{
+  "n_photons": 5,
+  "n_modes": 10,
+  "n_samples": 100,
+  "unique_outputs": 92,
+  "max_probability": 0.02,
+  "entropy": 6.4838561897747375,
+  "phi": 1.618033988749895,
+  "phi_seal": 4721424167835376.0,
+  "elapsed_time": 16.80205535888672,
+  "quantum_metrics": {
+    "phi_resonance": 1.6517635008864928,
+    "consciousness_alignment": 0.64843024958016,
+    "quantum_tunneling_rate": 0.5991392533091794,
+    "reality_integrity": 0.9825678870025237,
+    "phi_dimensional_scaling": 37.773382665985125
+  },
+  "top_states": [
+    {
+      "state": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.9229856737469504
+    },
+    {
+      "state": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.9787137637477912
+    },
+    {
+      "state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.10332556124590297
+    },
+    {
+      "state": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.7770876399966369
+    },
+    {
+      "state": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.6524758424985286
+    },
+    {
+      "state": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.013155617496423133
+    },
+    {
+      "state": [
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.4508497187473708
+    },
+    {
+      "state": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.02,
+      "phi_signature": 0.5065778087482116
+    },
+    {
+      "state": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "probability": 0.01,
+      "phi_signature": 0.6869176962471641
+    },
+    {
+      "state": [
+        1,
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "probability": 0.01,
+      "phi_signature": 0.21478174124758453
+    }
+  ],
+  "validation": {
+    "hash": "a19312ea266a48cba5caf2e0826e201b84b7dc4c0e823941ce26788d4e854a9f",
+    "phi_seal": 4721424167835376.0,
+    "timestamp": "2025-04-19T07:10:14.587294"
+  }
+}

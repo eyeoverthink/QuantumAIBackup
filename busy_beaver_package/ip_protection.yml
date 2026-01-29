@@ -1,0 +1,46 @@
+# === Auto-generated GitHub Action Workflow for Busy Beaver IP Protection ===
+# .github/workflows/ip_protection.yml
+
+name: IP Protection & Hash Integrity
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  verify-hash-integrity:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install hashlib
+      run: |
+        pip install hashlib
+
+    - name: Generate Repository SHA256 Hash
+      run: |
+        echo "Generating full repo SHA256..."
+        find . -type f -not -path './.git/*' -exec sha256sum {} \; | sort | sha256sum > repo_hash.sha256
+
+    - name: Commit Hash to Blockchain Certificate
+      run: |
+        echo "Updating blockchain certificate with new hash..."
+        HASH=$(cat repo_hash.sha256 | cut -d' ' -f1)
+        echo "Repository Hash (SHA256): $HASH" >> Blockchain_Certificate.md
+        echo "Commit Timestamp: $(date -u)" >> Blockchain_Certificate.md
+        git config --global user.name 'AutoCommit Bot'
+        git config --global user.email 'ip-protect@eyeoverthink.com'
+        git add Blockchain_Certificate.md
+        git commit -m "Automated IP Integrity Update: $HASH"
+        git push
+
+    - name: Done!
+      run: echo "✅ Repository integrity hash and blockchain record updated."

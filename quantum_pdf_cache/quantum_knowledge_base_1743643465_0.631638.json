@@ -1,0 +1,4652 @@
+{
+  "components": {
+    "perfect": {
+      "description": "fluid, (or fields or form-fields,), cosmological or spher-\nically symmetric metric, manifold as a direct product of factor-spaces of arbitrary\ndimensions",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.374474
+    },
+    "161": {
+      "description": "9",
+      "sources": [
+        "Game Physics Engine Development_ How to Build a Robust Commercial-Grade Physics Engine for your Game (Second Edition) ( PDFDrive ) 2.pdf",
+        "Game Physics Engine Development_ How to Build a Robust Commercial-Grade Physics Engine for your Game (Second Edition) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643318.566041
+    },
+    "Dirac": {
+      "description": "Equation",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.677501
+    },
+    "of": {
+      "description": "angular momentum",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6775029
+    },
+    "Two": {
+      "description": "Dirac Equation",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.678776
+    },
+    "z": {
+      "description": "of\nangular momentum",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6787782
+    }
+  },
+  "circuits": {
+    "quantum": {
+      "description": "security",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.701674
+    },
+    "What": {
+      "description": "is5% of 1,000,000? 3",
+      "sources": [
+        "Electronic Circuits for the Evil Genius_ 57 Lessons with Projects ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643407.157612
+    },
+    "Yoursetupshould": {
+      "description": "look likeFigure LS-S",
+      "sources": [
+        "Electronic Circuits for the Evil Genius_ 57 Lessons with Projects ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643407.1576152
+    },
+    "a": {
+      "description": "Yoursetupshould look likeFigure LS-S",
+      "sources": [
+        "Electronic Circuits for the Evil Genius_ 57 Lessons with Projects ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643407.158609
+    }
+  },
+  "principles": {
+    "This": {
+      "description": "is at the heart of Hamilton\u2019s \u201coptical-mechanical\u201d analogy, and, ultimately, the\nbasis of the wave/particle duality in quantum mechanics",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.388341
+    },
+    "s": {
+      "description": "5",
+      "sources": [
+        "Game Physics Engine Development_ How to Build a Robust Commercial-Grade Physics Engine for your Game (Second Edition) ( PDFDrive ) 2.pdf",
+        "Game Physics Engine Development_ How to Build a Robust Commercial-Grade Physics Engine for your Game (Second Edition) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643318.580294
+    },
+    "The": {
+      "description": "behind f(t) is the same: f (t) is the distance at time t",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.225852
+    }
+  },
+  "formulas": {
+    "for_the_normal_derivative_u_placing_the_equation_in_t_cauchy_kovalevskaya_form_u": {
+      "name": "for the normal derivative u , placing the equation in\nt\nCauchy\u2013Kovalevskaya form\nu",
+      "expression": "G(y,t,u,u )",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.389805
+    },
+    "for_u": {
+      "name": "for u",
+      "expression": "G(t,y,u,u )",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.389955
+    },
+    "is_a_solution_to_the_characteristic_system_of_ordinary_differential_equations_2_33_thus_t": {
+      "name": "is a solution to the characteristic system of ordinary\ndifferential equations (2.33). Thus t",
+      "expression": "s+c, and, after we solve the Hamiltonian system for p,q,\nt\nwe can recover the complete expression for the characteristic curves by quadrature",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.389966
+    },
+    "says_that_the_derivatives_of_u_with_respect_to_the_parameters_\u03bb_are_first_integrals_of_hamilton_s_equations_these_can_be_straightforwardly_integrated_by_quadra_ture_resulting_in_the_required_three_parameter_solution_page_26_now_in_the_high_frequency_approximation_we_introduce_asymptotic_expansions_of_the_amplitude_and_phase_a_x_\u03c9_a_x_\u03c9_1a_x_\u03c9_2a_x_1_2_s_x_\u03c9_s_x_\u03c9_1s_x_\u03c9_2s_x_1_2_in_decreasing_powers_of_the_frequency_\u03c9_it_says_that_the_hyper_surfaces_of_constant_phase_s": {
+      "name": "says that the derivatives of u with respect to the parameters\n\u03bb are first integrals of Hamilton\u2019s equations. These can be straightforwardly integrated by quadra-\nture, resulting in the required three-parameter solution.\n\n--- Page 26 ---\nNow in the high frequency approximation, we introduce asymptotic expansions of the\namplitude and phase,\nA(x,\u03c9) A(x)+\u03c9\u22121A (x)+\u03c9\u22122A (x)+ ,\n\u223c 1 2 \u00b7\u00b7\u00b7\nS(x,\u03c9) S(x)+\u03c9\u22121S (x)+\u03c9\u22122S (x)+ ,\n\u223c 1 2 \u00b7\u00b7\u00b7\nin decreasing powers of the frequency \u03c9. It says that the hyper-\nsurfaces of constant phase S",
+      "expression": "c are the same as the characteristic hypersurfaces for\n{ }\nthe wave equation",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3900611
+    },
+    "are_concentrated_on_the_characteristics_this_reflects_the_fact_that_waves_and_signals_propagate_along_characteristics_page_27_we_can_still_investigate_the_high_frequency_approximation_assuming_that_the_index_of_refraction_is_a_slowly_varying_function_of_both_position_and_time_we_make_the_ansatz_u_x_": {
+      "name": "are concentrated on the characteristics; this reflects the fact that\nwaves and signals propagate along characteristics.\n\n--- Page 27 ---\nwe can still investigate the high frequency approximation, assuming that the index of\nrefraction is a slowly varying function of both position and time. We make the ansatz\nu(x)",
+      "expression": "A(t,x,\u03c9)eiS(t,x,\u03c9), (3",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3901272
+    },
+    "if_f_and_h_are_smooth_functions_with_poisson_bracket_g": {
+      "name": "If F and H are smooth functions with Poisson bracket G",
+      "expression": "F,H ,\n{ }\nthen the corresponding Hamiltonian vector fields are related according to\nv = [v ,v ] = [v ,v ]\nG H F \u2212 F H\nProof: Let K be any other function",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397067
+    },
+    "hamiltonian_system_we_have_v": {
+      "name": "Hamiltonian system, we have v",
+      "expression": "0, where G = F,H",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3970718
+    },
+    "cid_18_cid_19_cid_12_t": {
+      "name": "cid:18) (cid:19)(cid:12)t",
+      "expression": "a Za (cid:20) (cid:21)\n(cid:12)\nNow, we have to be(cid:12)a little careful",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397076
+    },
+    "h_p_q_": {
+      "name": "H(p,q)",
+      "expression": "n2 p2\n\u2212 \u2212\nwith x playing the role of t",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397078
+    },
+    "for_instance_suppose_we_adopt_the_particular_coordinates_t_y_": {
+      "name": "For instance, suppose we adopt the particular coordinates (t,y)",
+      "expression": "|S\n(t,y ,",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3970828
+    },
+    "y_in_which_the_initial_hypersurface_is_the_flat_hyperplane_s": {
+      "name": "y ) in which the initial hypersurface is the flat hyperplane S",
+      "expression": "(t,y) t= 0",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397086
+    },
+    "u_0_y_": {
+      "name": "u(0,y)",
+      "expression": "f(y)",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397089
+    },
+    "u": {
+      "name": "u",
+      "expression": "G(y,t,u,u )",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3970912
+    },
+    "derivative_f_u": {
+      "name": "derivative \u2202F/\u2202u",
+      "expression": "0 does not vanish at a point (t,y,u,u ,u )",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3970938
+    },
+    "s": {
+      "name": "S",
+      "expression": "x h(x) = 0\n{ | }\nas the zero locus of a smooth scalar-valued function h with h = 0 on S",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397098
+    },
+    "without_loss_of_generality_that_h_x": {
+      "name": "without loss of generality that \u2202h/\u2202x",
+      "expression": "0 we can locally introduce new coordinates\nn 6\nt = h(x), y = x ,",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971012
+    },
+    "y": {
+      "name": "y",
+      "expression": "x ,\n1 1 n\u22121 n\u22121\nto flatten out S to be the hyperplane t = 0",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397103
+    },
+    "j_n_1_": {
+      "name": "j n 1,",
+      "expression": "\u03be , where \u03be =",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397105
+    },
+    "t_j": {
+      "name": "t j",
+      "expression": "1 j\nX\nAll of this discussion serves as motivation for the following crucial definition",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397107
+    },
+    "u_t_while_u_represents_the_y_gradient_u_with_entries_u": {
+      "name": "u/\u2202t, while u represents the y gradient \u2207 u with entries u",
+      "expression": "\u2202u/\u2202y",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.39711
+    },
+    "submanifold_n": {
+      "name": "submanifold N",
+      "expression": "(x(s ,",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971121
+    },
+    "we_can_express_n": {
+      "name": "we can express N",
+      "expression": "\u0393 as the prolonged graph of a function u = f(x)",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397115
+    },
+    "have_solved_the_equation_for_u": {
+      "name": "have solved the equation for u",
+      "expression": "G(t,y,u,u )",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971179
+    },
+    "u_s_": {
+      "name": "u(s)",
+      "expression": "f(x(s)), p(s) = (x(s))",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397119
+    },
+    "which_do_not_refer_any_longer_to_the_particular_solution_u": {
+      "name": "which do not refer any longer to the particular solution u",
+      "expression": "f(x)",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971221
+    },
+    "differential_equations_2_33_thus_t": {
+      "name": "differential equations (2.33). Thus t",
+      "expression": "s+c, and, after we solve the Hamiltonian system for p,q,\nt\nwe can recover the complete expression for the characteristic curves by quadrature",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397124
+    },
+    "let_x_u": {
+      "name": "Let x , u",
+      "expression": "f(x ), p = f (x ) be a point belonging to the (prolonged)\n0 0 0 0 x 0\ngraph of f",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397126
+    },
+    "n": {
+      "name": "N",
+      "expression": "(x(s),u(s),p(s)) (x ,u ,p ) N",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971279
+    },
+    "since_f": {
+      "name": "since F",
+      "expression": "p2 n(q), so F = 2p",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397131
+    },
+    "where_p_x_\u03bb_": {
+      "name": "where p(x,\u03bb)",
+      "expression": "u (x,\u03bb)",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397135
+    },
+    "surfaces_of_constant_phase_s": {
+      "name": "surfaces of constant phase S",
+      "expression": "c are the same as the characteristic hypersurfaces for\n{ }\nthe wave equation",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971379
+    },
+    "f_q_u_p_": {
+      "name": "F(q,u,p)",
+      "expression": "p2 n(q)2",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971388
+    },
+    "u_x_": {
+      "name": "u(x)",
+      "expression": "A(t,x,\u03c9)eiS(t,x,\u03c9), (3",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397141
+    },
+    "u_u": {
+      "name": "u u",
+      "expression": "\u03c92 S 2 + S2 + Aei\u03c9S,\n\u2212 c2 tt \u2212|\u2207 | c2 t \u00b7\u00b7\u00b7\n(cid:20) (cid:18) (cid:19) (cid:21)\nwhere the omitted terms are lower order in \u03c9",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397142
+    },
+    "by_setting_s_t_x_": {
+      "name": "by setting S(t,x)",
+      "expression": "S(x) ct",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397145
+    },
+    "e_c_curlh": {
+      "name": "E) c curlH",
+      "expression": "4\u03c0j,\ndiv(\u03b5E) = 4\u03c0\u03c1,\n\u2202t \u2212\n(3",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971462
+    },
+    "div_\u00b5h_": {
+      "name": "div(\u00b5H)",
+      "expression": "0,\n(\u00b5H)+c curlE = 0,\n\u2202t\nwhere c is the speed of light, \u03b5 is the electric permittivity or dielectric constant, \u00b5 the mag-\nnetic permittivity or permeability, j is the electric current density, and \u03c1 the electric charge\ndensity",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397148
+    },
+    "curlh_i\u03c9e": {
+      "name": "curlH+ i\u03c9E",
+      "expression": "0, curlE i\u03c9H = 0, div(\u03b5E) = 0, div(\u00b5H) = 0, (3",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.39715
+    },
+    "e_t_x_": {
+      "name": "E(t,x)",
+      "expression": "E(x)e\u2212ic\u03c9t, H(t,x) = H(x)e\u2212ic\u03c9t",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397152
+    },
+    "e_e": {
+      "name": "E \u2206E",
+      "expression": "(E log\u03b5)+ log\u00b5 curlE ,\ntt \u2212 n2 n2 \u2207 \u00b7\u2207 \u2207 \u2227\n(3",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397155
+    },
+    "h_h": {
+      "name": "H \u2206H",
+      "expression": "(H log\u00b5)+ log\u03b5 curlH",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397156
+    },
+    "depending_on_a_large_parameter_\u03c9_for_instance_if_f_x_p_": {
+      "name": "depending on a large parameter \u03c9. For instance, if F(x,p)",
+      "expression": "xp, then there is\na question as to whether this should represent the differential operator ix\u2202 or i\u2202 x =\n\u00b7\nix\u2202 + i",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397172
+    },
+    "we_denote_\u03c9_1": {
+      "name": "We denote \u03c9\u22121",
+      "expression": "~, which is known as Planck\u2019s constant and has the units of inverse\nfrequency",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971741
+    },
+    "in_the_case_v_r_": {
+      "name": "In the case V(r)",
+      "expression": "e2/r, where e is the charge on an electron, we are in the situation of\n\u2212\nthe quantum mechanical hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397179
+    },
+    "i_\u03c8": {
+      "name": "i~\u03c8",
+      "expression": "\u03c8 +V(x)\u03c8, (3",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.3971798
+    },
+    "change_q": {
+      "name": "change q",
+      "expression": "\u03d5(q), then p = \u03d5\u2032(q)\u22121p, and \u2202 = \u03d5\u2032(q)\u22121\u2202",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397184
+    },
+    "stochastic_behavior_near_the_singularity_billiards_in_lobachevsky_space_d": {
+      "name": "stochastic behavior near the singularity, billiards in Lobachevsky space, D",
+      "expression": "11\nis critical, \u03d5 destroys billiards (1994);\n- for all above cases Ricci-flat solutions above were obtained for any n, also with\ncurvatureinonefactor-space; withcurvaturesin2factor-spacesonlyfortotalN=10,\n11;\n- fields: scalar, dilatons, forms of arbitrary rank (1998) - inflationary, \u039b genera-\ntion by forms (p-branes) [16];\n- first billiards for dilaton-forms (p-branes) interaction (1999);\n- quantum variants (solutions of WDW-equation [17]) for all above cases where\nclassical solutions were obtained;\n12\n\n--- Page 16 ---\nand the zero-energy constraint E = 0",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.4739451
+    },
+    "space_metric_\u03b5": {
+      "name": "space metric, \u03b5",
+      "expression": "\u00b11,\ns\n(cid:88)\nUs = Us\u03c3A = d \u03c6i\u2212\u03c7 \u03bb \u03d5\u03b1\nA i s as\u03b1\ni\u2208Is\nare linear functions, \u03a6s are scalar functions on M (corresponding to forms), and\n0\ns = (a ,v ,I )",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.473954
+    },
+    "products_us_us_cid_48_": {
+      "name": "products (Us,Us(cid:48))",
+      "expression": "G\u02c6ABUsUs(cid:48), where (G\u02c6AB) = (G\u02c6 )\u22121",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.473959
+    },
+    "h": {
+      "name": "H",
+      "expression": "B\u00af H \u2212A ss(cid:48),\ndz H dz s s s(cid:48)\ns\ns(cid:48)\nwith the following boundary conditions imposed: (i) H ((2\u00b5)\u22121 \u2212 0) = H \u2208\ns s0\n(0,+\u221e); (ii) H (+0) = 1, s \u2208 S",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.473963
+    },
+    "p": {
+      "name": "p",
+      "expression": "w \u03c1, i = 0,",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.4739652
+    },
+    "thelaplaceoperator\u03b4": {
+      "name": "TheLaplaceOperator\u0394",
+      "expression": "n \u22022 inRn",
+      "sources": [
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ) 2.pdf",
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643317.5869539
+    },
+    "cid_13_f_cid_13_normoflp_\u03c9_definedby_cid_13_f_cid_13_p": {
+      "name": "cid:13)f(cid:13) normofLp(\u03a9)definedby(cid:13)f(cid:13)p",
+      "expression": "|f(x)|pdx\np p \u03a9\nL\u221e(\u03a9) spaceofallequivalenceclassesofLebesguemeasurablefunc-\ntionson\u03a9 whichareessentiallybounded;\u03a9 \u2286 Rn Lebesgue\nmeasurable\nLp (\u03a9) allf asforLp(\u03a9),but|f|P onlyintegrableovereverycompact\nloc\nset K in \u03a9, with system of semi-norms (cid:13)f(cid:13)p = (cid:13)\u03c7 f(cid:13) ,\nK K p\nK \u2282\u03a9 compact,\u03c7 =characteristicfunctionofK\nK\nB (x ) open ball of radius r > 0 and centre x , with respect to the\np,r 0 0\nsemi-normp\n\u03b4 Dirac\u2019sdeltadistributioncenteredatx =a \u2208Rn;fora =0we\na\nwrite\u03b4insteadof\u03b4\n0\n\u03b8 Heavisidefunction\nvp1 Cauchy\u2019sprincipalvalue\nx\nx\u00b1 1 io lim \u03b5(cid:17)0 x\u00b1 1 i\u03b5 inD(cid:15)(R)\n\n--- Page 24 ---\nNotation xxv\np\u2217 Sobolev conjugate exponent of p defined by p\u2217 = np for\nn\u2212p\n1<p <nandp\u2217 =\u221eforp =n\n<\u00b7,\u00b7> innerproductonavectorspace\n(cid:13)\u00b7(cid:13) normonavectorspace\nl2(K) HilbertspaceofsquaresummablesequencesofnumbersinK\nM\u22a5 orthogonalcomplementofasetM inaHilbertspace\nlinM thelinearspanofthesetM inavectorspace\n[M] the closure of linM in a topological vector space, i",
+      "sources": [
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ) 2.pdf",
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643317.586964
+    },
+    "kera": {
+      "name": "kerA",
+      "expression": "N(A) thekernelornull-spaceofalinearoperatorA\nranA therangeorsetofvaluesofalinearoperatorA\n\u0393(A) graphofalinearoperatorA\nA\u2217 theadjointofthedenselydefinedlinearoperatorA\nA Friedrichs extension of the densely defined nonnegative linear\nF\noperatorA\nA+B formsumofthelinearoperatorsAandB\nL(X,Y) spaceofcontinuouslinearoperatorsX\u2192Y,XandY topolog-\nicalvectorspacesoverthefieldK\nB(H)=B(H,H) spaceofboundedlinearoperatorsonaHilbertspaceH\nA \u02c6 =(D,A) linearoperatorwithdomainDandruleofassignmentA\nB (H) spaceofcompactoperatorsonaHilbertspaceH\nc\nB (H) thespaceofalltraceclassoperatorsonH\n1\n\n--- Page 26 ---\nNotation xxvii\n[f =c] for a function f : M\u2192R and c \u2208 R the level set\n{x \u2208M :f(x)=c}\nf(cid:15)(x)=D f =Df(x) theFr\u00e9chetderivativeofafunctionf :U\u2192F atapoint\nx\nx \u2208U,forU \u2282Eopen,E,F Banachspaces\nB(E\u00d7n,F) the Banach space of all continuous n-linear operators\nE\u00d7n =E\u00d7\u00b7\u00b7\u00b7\u00d7E\u2192F,forBanachspacesE,F\n\u03b4f(x ,h) G\u00e2teaux differential of a function f : U\u2192F at a point\n0\nx \u2208 U in the direction h \u2208 E, U \u2282 E open, E,F\n0\nBanachspaces\n\u03b4 f(h) G\u00e2teauxderivativeoff atx \u2208U,appliedtoh\u2208E\nx0 0\n(cid:24)nf(x 0 ,h) = d d t n n f(x 0 +th)| t=0 ,nthvariationofafunctionf atthe\npointx inthedirectionh\n0\nT M tangentspaceofthedifferentialmanifoldM atthepoint\nx\nx \u2208M\n\n--- Page 27 ---\n\n\n--- Page 29 ---\n4 1 Introduction\nsynthesisandsimplification, ofseveralattemptstoextendclassicalanalysiswhich\narose from various concrete problems",
+      "sources": [
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ) 2.pdf",
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643317.586966
+    },
+    "f_": {
+      "name": "f)",
+      "expression": "0 whenever f(x )=0",
+      "sources": [
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ) 2.pdf",
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643317.5869691
+    },
+    "a_v_v_v_a_x_y_": {
+      "name": "A:V \u00d7V \u2192V, A(x,y)",
+      "expression": "x+y, x,y \u2208V,\nM :K\u00d7V \u2192V, M(\u03bb,x)=\u03bbx, \u03bb\u2208K, x \u2208V\nbecomecontinuousfunctionsforthistopology",
+      "sources": [
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ) 2.pdf",
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643317.5869708
+    },
+    "but_equivalent_ways_3_1_n_j": {
+      "name": "but equivalent ways. 3 1 N j",
+      "expression": "1 j\nThe elements of T are called open and their complements closed sets of the\ntopologicalspace(X,T)",
+      "sources": [
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ) 2.pdf",
+        "Mathematical Methods in Physics_ Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643317.5869749
+    },
+    "_418_30_scattering_419_30_1_scattering_from_a_screened_coulomb_potential_426_31_2_classical_scalar_field_in_four_dimensions_428_32_classical_maxwell_fields_436_32_1_rationalized_heaviside_lorentz_units_446_33_4_canonical_coordinates_and_momenta_459_33_13black_body_radiation_spectrum_470_34_4_thomson_scattering_470_34_5_raman_effect_472_page_14_14_35_electron_self_energy_corrections_472_35_1_the_lamb_shift_479_36_dirac_equation_484_36_1_dirac_s_motivation_484_36_2_the_schr_odinger_paulihamiltonian_485_36_3_the_dirac_equation_486_36_4_the_conserved_probability_current_489_36_5_the_non_relativistic_limit_of_the_dirac_equation_491_36_5_1_the_two_component_dirac_equation_491_36_5_2_the_large_and_small_components_of_the_dirac_wavefunction_492_36_5_3_the_non_relativistic_equation_492_36_6_solution_of_dirac_equation_for_a_free_particle_495_36_6_1_dirac_particle_at_rest_496_36_6_2_dirac_plane_wave_solution_498_36_6_3_alternate_labeling_of_the_plane_wave_solutions_504_36_7_negative_energy_solutions_hole_theory_505_36_8_equivalence_of_a_two_component_theory_506_36_9_relativistic_covariance_507_36_10parity_513_36_11bilinear_covariants_514_36_12constants_of_the_motion_for_a_free_particle_516_36_13the_relativistic_interaction_hamiltonian_518_36_14phenomena_of_dirac_states_519_36_14_1velocity_operator_and_zitterbewegung_519_36_14_2expansion_of_a_state_in_plane_waves_521_36_14_3the_expected_velocity_and_zitterbewegung_522_36_15solution_of_the_dirac_equation_for_hydrogen_522_36_16thomson_scattering_531_36_17hole_theory_and_charge_conjugation_534_36_18charge_conjugate_waves_535_36_19quantization_of_the_dirac_field_538_36_20the_quantized_dirac_field_with_positron_spinors_541_36_21vacuum_polarization_543_36_22the_qed_lagrangian_and_gauge_invariance_544_36_23interaction_with_a_scalar_field_545_37_formulas_546_page_16_16_has_the_ability_to_produce_high_quality_equations_and_input_is_fast_compared_to_other_options_onething_that_our_classrooms_really_don_t_facilitate_is_switching_from_one_mode_to_the_other_similar_sessions_would_be_possible_at_a_distance_jim_branson_page_18_18_the_probability_to_find_a_particle_at_a_position_x_at_some_time_t_is_the_absolute_square_of_the_probability_amplitude_\u03c8_x_t_wecannotevenmeasureboththepositionandmomentumofa_particle_accurately_at_the_same_time_in_fact_we_recognize_the_wave_property_that_to_have_exactly_one_frequency_a_wave_must_be_spread_out_over_space_we_can_describe_the_state_of_a_particle_either_in_position_space_with_\u03c8_x_or_in_momentum_space_with_\u03c6_p_h_p_x_2_page_19_19_it_shows_that_due_to_the_wave_nature_of_particles_we_cannot_localize_a_particle_into_a_small_volume_without_increasing_its_energy_1_5_operators_the_schr_odinger_equation_comes_directly_out_of_our_understanding_of_wave_packets_if_a_particle_is_in_the_state_\u03c8_x_the_normalwayto_compute_the_expectationvalue_off_x_is_f_x_": {
+      "name": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 418\n30 Scattering 419\n30.1 Scattering from a Screened Coulomb Potential . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 426\n31.2 Classical Scalar Field in Four Dimensions . . . . . . 428\n32 Classical Maxwell Fields 436\n32.1 Rationalized Heaviside-Lorentz Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 446\n33.4 Canonical Coordinates and Momenta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 459\n33.13Black Body Radiation Spectrum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 470\n34.4 Thomson Scattering . . . . . . . . . 470\n34.5 Raman Effect . . . . . . . . . . 472\n\n--- Page 14 ---\n14\n35 Electron Self Energy Corrections 472\n35.1 The Lamb Shift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 479\n36 Dirac Equation 484\n36.1 Dirac\u2019s Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 484\n36.2 The Schr\u00a8odinger-PauliHamiltonian . . . . . . . . . . . . . . . . . . . . . . . . . . . . 485\n36.3 The Dirac Equation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486\n36.4 The Conserved Probability Current . . . . . . . . . . . . . . . . . . . . . . . . . . . . 489\n36.5 The Non-relativistic Limit of the Dirac Equation . . . . . . . . . . . . . . . . . . . . 491\n36.5.1 The Two Component Dirac Equation . . . . . . . . . . . . . . . . . . . . . . 491\n36.5.2 The Large and Small Components of the Dirac Wavefunction . . . . . . . . . 492\n36.5.3 The Non-Relativistic Equation . . . . . . . . . . . . . . . . . . . . . . . . . . 492\n36.6 Solution of Dirac Equation for a Free Particle . . . . . . . . . . . . . . . . . . . . . . 495\n36.6.1 Dirac Particle at Rest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 496\n36.6.2 Dirac Plane Wave Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . 498\n36.6.3 Alternate Labeling of the Plane Wave Solutions . . . . . . . . . . . . . . . . . 504\n36.7 \u201cNegative Energy\u201d Solutions: Hole Theory. . . . . . . . . . . . . . . . . . . . . . . . 505\n36.8 Equivalence of a Two Component Theory . . . . . . . . . . . . . . . . . . . . . . . . 506\n36.9 Relativistic Covariance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507\n36.10Parity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 513\n36.11Bilinear Covariants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 514\n36.12Constants of the Motion for a Free Particle . . . . . . . . . . . . . . . . . . . . . . . 516\n36.13The Relativistic Interaction Hamiltonian . . . . . . . . . . . . . . . . . . . . . . . . . 518\n36.14Phenomena of Dirac States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 519\n36.14.1Velocity Operator and Zitterbewegung . . . . . . . . . . . . . . . . . . . . . . 519\n36.14.2Expansion of a State in Plane Waves . . . . . . . . . . . . . . . . . . . . . . . 521\n36.14.3The Expected Velocity and Zitterbewegung . . . . . . . . . . . . . . . . . . . 522\n36.15Solution of the Dirac Equation for Hydrogen . . . . . . . . . . . . . . . . . . . . . . 522\n36.16Thomson Scattering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 531\n36.17Hole Theory and Charge Conjugation . . . . . . . . . . . . . . . . . . . . . . . . . . 534\n36.18Charge Conjugate Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 535\n36.19Quantization of the Dirac Field . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 538\n36.20The Quantized Dirac Field with Positron Spinors . . . . . . . . . . . . . . . . . . . . 541\n36.21Vacuum Polarization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 543\n36.22The QED LaGrangian and Gauge Invariance . . . . . . . . . . . . . . . . . . . . . . 544\n36.23Interaction with a Scalar Field . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 545\n37 Formulas 546\n\n--- Page 16 ---\n16\nhas the ability to produce high quality equations and input is fast compared to other options. Onething\nthat our classrooms really don\u2019t facilitate is switching from one mode to the other. Similar sessions would be possible at a distance. Jim Branson\n\n--- Page 18 ---\n18\nThe probability to find a particle at a position ~x at some time t is the absolute square of the\nprobability amplitude \u03c8(~x,t). Wecannotevenmeasureboththepositionandmomentumofa\nparticle (accurately) at the same time. In fact we recognize\n| |\nthe wave property that, to have exactly one frequency, a wave must be spread out over space. We can\ndescribe the state of a particle either in position space with \u03c8(x) or in momentum space with \u03c6(p). \u00afh\n\u2206p\u2206x\n\u2265 2\n\n--- Page 19 ---\n19\nIt shows that due to the wave nature of particles, we cannot localize a particle into a small volume\nwithout increasing its energy. 1.5 Operators\nThe Schr\u00a8odinger equation comes directly out of our understanding of wave packets. If a particle is in the state \u03c8(x), the normalwayto compute the expectationvalue off(x)\nis\n\u221e \u221e\nf(x)",
+      "expression": "P(x)f(x)dx= \u03c8 (x)\u03c8(x)f(x)dx",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6852548
+    },
+    "484_36_1_dirac_s_motivation_484_36_2_the_schr_odinger_paulihamiltonian_485_36_3_the_dirac_equation_486_36_4_the_conserved_probability_current_489_36_5_the_non_relativistic_limit_of_the_dirac_equation_491_36_5_1_the_two_component_dirac_equation_491_36_5_2_the_large_and_small_components_of_the_dirac_wavefunction_492_36_5_3_the_non_relativistic_equation_492_36_6_solution_of_dirac_equation_for_a_free_particle_495_36_6_1_dirac_particle_at_rest_496_36_6_2_dirac_plane_wave_solution_498_36_6_3_alternate_labeling_of_the_plane_wave_solutions_504_36_7_negative_energy_solutions_hole_theory_505_36_8_equivalence_of_a_two_component_theory_506_36_9_relativistic_covariance_507_36_10parity_513_36_11bilinear_covariants_514_36_12constants_of_the_motion_for_a_free_particle_516_36_13the_relativistic_interaction_hamiltonian_518_36_14phenomena_of_dirac_states_519_36_14_1velocity_operator_and_zitterbewegung_519_36_14_2expansion_of_a_state_in_plane_waves_521_36_14_3the_expected_velocity_and_zitterbewegung_522_36_15solution_of_the_dirac_equation_for_hydrogen_522_36_16thomson_scattering_531_36_17hole_theory_and_charge_conjugation_534_36_18charge_conjugate_waves_535_36_19quantization_of_the_dirac_field_538_36_20the_quantized_dirac_field_with_positron_spinors_541_36_21vacuum_polarization_543_36_22the_qed_lagrangian_and_gauge_invariance_544_36_23interaction_with_a_scalar_field_545_37_formulas_546_page_16_16_has_the_ability_to_produce_high_quality_equations_and_input_is_fast_compared_to_other_options_onething_that_our_classrooms_really_don_t_facilitate_is_switching_from_one_mode_to_the_other_similar_sessions_would_be_possible_at_a_distance_jim_branson_page_18_18_the_probability_to_find_a_particle_at_a_position_x_at_some_time_t_is_the_absolute_square_of_the_probability_amplitude_\u03c8_x_t_wecannotevenmeasureboththepositionandmomentumofa_particle_accurately_at_the_same_time_in_fact_we_recognize_the_wave_property_that_to_have_exactly_one_frequency_a_wave_must_be_spread_out_over_space_we_can_describe_the_state_of_a_particle_either_in_position_space_with_\u03c8_x_or_in_momentum_space_with_\u03c6_p_h_p_x_2_page_19_19_it_shows_that_due_to_the_wave_nature_of_particles_we_cannot_localize_a_particle_into_a_small_volume_without_increasing_its_energy_1_5_operators_the_schr_odinger_equation_comes_directly_out_of_our_understanding_of_wave_packets_if_a_particle_is_in_the_state_\u03c8_x_the_normalwayto_compute_the_expectationvalue_off_x_is_f_x_": {
+      "name": "484\n36.1 Dirac\u2019s Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 484\n36.2 The Schr\u00a8odinger-PauliHamiltonian . . . . . . . . . . . . . . . . . . . . . . . . . . . . 485\n36.3 The Dirac Equation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486\n36.4 The Conserved Probability Current . . . . . . . . . . . . . . . . . . . . . . . . . . . . 489\n36.5 The Non-relativistic Limit of the Dirac Equation . . . . . . . . . . . . . . . . . . . . 491\n36.5.1 The Two Component Dirac Equation . . . . . . . . . . . . . . . . . . . . . . 491\n36.5.2 The Large and Small Components of the Dirac Wavefunction . . . . . . . . . 492\n36.5.3 The Non-Relativistic Equation . . . . . . . . . . . . . . . . . . . . . . . . . . 492\n36.6 Solution of Dirac Equation for a Free Particle . . . . . . . . . . . . . . . . . . . . . . 495\n36.6.1 Dirac Particle at Rest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 496\n36.6.2 Dirac Plane Wave Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . 498\n36.6.3 Alternate Labeling of the Plane Wave Solutions . . . . . . . . . . . . . . . . . 504\n36.7 \u201cNegative Energy\u201d Solutions: Hole Theory. . . . . . . . . . . . . . . . . . . . . . . . 505\n36.8 Equivalence of a Two Component Theory . . . . . . . . . . . . . . . . . . . . . . . . 506\n36.9 Relativistic Covariance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507\n36.10Parity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 513\n36.11Bilinear Covariants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 514\n36.12Constants of the Motion for a Free Particle . . . . . . . . . . . . . . . . . . . . . . . 516\n36.13The Relativistic Interaction Hamiltonian . . . . . . . . . . . . . . . . . . . . . . . . . 518\n36.14Phenomena of Dirac States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 519\n36.14.1Velocity Operator and Zitterbewegung . . . . . . . . . . . . . . . . . . . . . . 519\n36.14.2Expansion of a State in Plane Waves . . . . . . . . . . . . . . . . . . . . . . . 521\n36.14.3The Expected Velocity and Zitterbewegung . . . . . . . . . . . . . . . . . . . 522\n36.15Solution of the Dirac Equation for Hydrogen . . . . . . . . . . . . . . . . . . . . . . 522\n36.16Thomson Scattering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 531\n36.17Hole Theory and Charge Conjugation . . . . . . . . . . . . . . . . . . . . . . . . . . 534\n36.18Charge Conjugate Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 535\n36.19Quantization of the Dirac Field . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 538\n36.20The Quantized Dirac Field with Positron Spinors . . . . . . . . . . . . . . . . . . . . 541\n36.21Vacuum Polarization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 543\n36.22The QED LaGrangian and Gauge Invariance . . . . . . . . . . . . . . . . . . . . . . 544\n36.23Interaction with a Scalar Field . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 545\n37 Formulas 546\n\n--- Page 16 ---\n16\nhas the ability to produce high quality equations and input is fast compared to other options. Onething\nthat our classrooms really don\u2019t facilitate is switching from one mode to the other. Similar sessions would be possible at a distance. Jim Branson\n\n--- Page 18 ---\n18\nThe probability to find a particle at a position ~x at some time t is the absolute square of the\nprobability amplitude \u03c8(~x,t). Wecannotevenmeasureboththepositionandmomentumofa\nparticle (accurately) at the same time. In fact we recognize\n| |\nthe wave property that, to have exactly one frequency, a wave must be spread out over space. We can\ndescribe the state of a particle either in position space with \u03c8(x) or in momentum space with \u03c6(p). \u00afh\n\u2206p\u2206x\n\u2265 2\n\n--- Page 19 ---\n19\nIt shows that due to the wave nature of particles, we cannot localize a particle into a small volume\nwithout increasing its energy. 1.5 Operators\nThe Schr\u00a8odinger equation comes directly out of our understanding of wave packets. If a particle is in the state \u03c8(x), the normalwayto compute the expectationvalue off(x)\nis\n\u221e \u221e\nf(x)",
+      "expression": "P(x)f(x)dx= \u03c8 (x)\u03c8(x)f(x)dx",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6854248
+    },
+    "is_h2_d2u_x_n_hu_x_": {
+      "name": "is\n\u00afh2 d2u (x)\nn\nHu (x)",
+      "expression": "=E u (x)\nn \u22122m dx2 n n\nwhere we have anticipated that there will be many solutions indexed by n",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.685431
+    },
+    "at_x": {
+      "name": "at x",
+      "expression": "0, gives us exactly one bound state with\nma2V2\nE = 0",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6854331
+    },
+    "counting_states_for_\u2113": {
+      "name": "Counting states for \u2113",
+      "expression": "3 Plus spin 1",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690072
+    },
+    "f_x_": {
+      "name": "f(x)",
+      "expression": "P(x)f(x)dx= \u03c8 (x)\u03c8(x)f(x)dx",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6900768
+    },
+    "hu_x_": {
+      "name": "Hu (x)",
+      "expression": "=E u (x)\nn \u22122m dx2 n n\nwhere we have anticipated that there will be many solutions indexed by n",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.69008
+    },
+    "v_x_": {
+      "name": "V(x)",
+      "expression": "1kx2 = 1m\u03c92x2, where we have eliminated the spring constant k by using the classical\n2 2\noscillator frequency \u03c9 = k",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690083
+    },
+    "from_the_schr_odinger_equation_at_x": {
+      "name": "from the Schr\u00a8odinger equation at x",
+      "expression": "0, gives us exactly one bound state with\nma2V2\nE = 0",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6900868
+    },
+    "cos_\u03c6_": {
+      "name": "cos(\u03c6)",
+      "expression": "cos(ka)+ sin(ka)",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690089
+    },
+    "h_i": {
+      "name": "h i",
+      "expression": "[H,x] = [ ,x] =\ndt \u00afhh i \u00afhh 2m i m\nD E\nd p i i \u00afh d dV(x)\nh i = [H,p] = [V(x), ] =\ndt \u00afhh i \u00afh i dx \u2212 dx\n(cid:28) (cid:29) (cid:28) (cid:29)\nAny operator A that commutes with the Hamiltonian has a time independent expectation value",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690092
+    },
+    "p_z_": {
+      "name": "p ,z ]",
+      "expression": "(2)z (2) i\nwhile\n[p ,x ]=[p ,y ]=0",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690094
+    },
+    "m": {
+      "name": "M",
+      "expression": "m +m\n1 2\n\u00afh2\nH = \u2212 ~2\n2M \u2207R\nplus one potential problem in 3 dimensions with the usual reduced mass",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690104
+    },
+    "symmetry_to_find_that_the_angular_momentum_l_": {
+      "name": "symmetry to find that the angular momentum, L~",
+      "expression": "~x ~p, operators commute with H,\n\u00d7\n[H,L ]=[H,L ]=[H,L ]=0\nz x y\nbut they do not commute with each other",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.6901078
+    },
+    "a_study_of_\u2113": {
+      "name": "A Study of \u2113",
+      "expression": "1 Operators and Eigenfunctions\nThe set of states with the same total angular momentum and the angular momentum operators\nwhich act on them are often represented by vectors and matrices",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690112
+    },
+    "minosity_is_l": {
+      "name": "minosity is L",
+      "expression": "4\u03c0Fd2\nL\n, where dL(z) Using eqs",
+      "sources": [
+        "Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ) 2.pdf",
+        "Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643327.3475862
+    },
+    "get_m": {
+      "name": "get M",
+      "expression": "M(h\n0,ref\n)+5log\n10\nh0/h\n0,ref\n,\ntances",
+      "sources": [
+        "Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ) 2.pdf",
+        "Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643327.347589
+    },
+    "main_sequence_evolution_for_a_star_with_m": {
+      "name": "main-sequence evolution. For a star with M",
+      "expression": "5M , this phase lasts\n(cid:12)\n\n--- Page 29 ---\n24 Stellar collapse\nfusion of these elements",
+      "sources": [
+        "Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ) 2.pdf",
+        "Gravitational Waves_ Volume 2_ Astrophysics and Cosmology ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643327.347594
+    },
+    "for_30_sketch_the_graph_off_t_": {
+      "name": "for\n30 Sketch the graph off (t)",
+      "expression": "4 -t -14 -t( for 2 < t 6 5 and (b) 2f (0 (4 f (t -3) (d) -f (0 (el f kt)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2265432
+    },
+    "and_graph_for_dl_f_t_el_f_0_f_0_f_f_f_t_b_f_t_1_c_f_t_1_53_hardest_the_forward_back_function_is_f_t_": {
+      "name": "and graph for (dl f (- t) (el f (0 -f (0) (f) f (f (t)).\n(b) f(t) + 1 (c) f(t+ 1) 53 (hardest) The forward-back function is f (t)",
+      "expression": "2t for\n(dl 4f (0 (e) f (40",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2265642
+    },
+    "t": {
+      "name": "t",
+      "expression": "t 6 is not intended",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.226848
+    },
+    "u_r_": {
+      "name": "u(r)",
+      "expression": "slope of f(t)\n+\nFig",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235803
+    },
+    "the_set_of_inputs_to_a_function_is_its_f_f_t_": {
+      "name": "The set of inputs to a function is its F . f(t)",
+      "expression": "vt + C are t~",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.23581
+    },
+    "v": {
+      "name": "v",
+      "expression": "-40 for 0 < t < 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2358131
+    },
+    "the_distance_in_lb_starts_with_f_t_": {
+      "name": "The distance in lb starts with f (t)",
+      "expression": "10-lot for 0 < t < 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235818
+    },
+    "in_the_middle_of_graph_2a_find_f_15_and_f_12_and_f_t_": {
+      "name": "In the middle of graph 2a find f (15) and f (12) and f (t). ,/",
+      "expression": "19 Draw rough graphs of y = and y = and\n7 Find the average speed between t = 0 and t = 5 in graph y = fi -4",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235824
+    },
+    "what_is_the_average_speed_between_t": {
+      "name": "What is the average speed between t",
+      "expression": "0 and t = 2 in graph\n20 What is the break-even point if x yearbooks cost\n1b ? If it goes\nwall at distance f 4",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2358289
+    },
+    "whose_range_is_1_df_t_9_12_the_earth_s_population_is_growing_at_v": {
+      "name": "whose range is 1 df (t) < 9. 12 The earth's population is growing at v",
+      "expression": "100 million a 28 Find the only f = vt that has f (2t) = 4f (t)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235837
+    },
+    "sketch_the_graph_of_f_t_": {
+      "name": "Sketch the graph of f(t)",
+      "expression": "15 -2tl (absolute value) for 45 (a) Draw the graph of f (t) = t 1 for -1 Q t 6 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235841
+    },
+    "sketch_the_graph_off_t_": {
+      "name": "Sketch the graph off (t)",
+      "expression": "4 -t -14 -t( for 2 < t 6 5 and (b) 2f (0 (4 f (t -3) (d) -f (0 (el f kt)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235847
+    },
+    "find_its_slope_and_range_46_if_f_t_": {
+      "name": "find its slope and range. 46 If f (t)",
+      "expression": "t -1 what are 2f (3t) and f (1 -t) and f (t -I)?\n31 Suppose v = 8 up to time T, and after that v = -2",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235852
+    },
+    "suppose_v": {
+      "name": "Suppose v",
+      "expression": "3 up to time T= 4",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235855
+    },
+    "lead_to_f_7_": {
+      "name": "lead to f (7)",
+      "expression": "30 if f (0) = O? Give formulas for u(t) and f (t)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235858
+    },
+    "what_function_f_c_converts_celsius_temperature_c_to_1_inside": {
+      "name": "What function F(C) converts Celsius temperature C to (1) inside",
+      "expression": "input * 3 (2) inside +input + 6\nFahrenheit temperature F? The slope is , whish is output = inside + 3 output t inside* 3\nthe number of Fahrenheit degrees equivalent to 1\u00b0C",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2358642
+    },
+    "note_basic_and_fortran_and_calculus_itself_use": {
+      "name": "Note BASIC and FORTRAN (and calculus itself) use",
+      "expression": "34 What function C(F) converts Fahrenheit to Celsius (or instead of t",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235869
+    },
+    "but_the_sy_mbol_tor_": {
+      "name": "But the + sy mbol tor :",
+      "expression": "is in some ways better",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235873
+    },
+    "plus_six_the_equation_t": {
+      "name": "plus six. The equation t",
+      "expression": "t 6 is not intended",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235876
+    },
+    "per_hour_what_was_the_reading_at_the_time_of_the_acci_f1_t_": {
+      "name": "per hour. What was the reading at the time of the acci- f1(t)",
+      "expression": "t2+t f2(t)=fdfdt)) f3(t)=f1(t+l)-\ndent? How much later would it drop to",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235883
+    },
+    "which_points_between_t": {
+      "name": "Which points between t",
+      "expression": "0 and t = 5 can be in the domain of\nf (t)? With this domain find the range in 37-42",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235886
+    },
+    "if_f_t_": {
+      "name": "If f (t)",
+      "expression": "3t -1 for 0 6 t Q 2 give formulas (with domain)\nand find the slopes of these six functions:\n,/=\n37 f(t) = 38 f (t) = I/- (a) f (t + 2) (b) f(t) + 2 (4 2f (0\n39 f (t) = (t-41 (absolute value) 40 f (t) = l/(t -4)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235889
+    },
+    "for_f_t_": {
+      "name": "For f (t)",
+      "expression": "ut C find the formulas and slopes of\n43 (a) Draw the graph off (t) = it + 3 with domain 0 Q t d 2",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235892
+    },
+    "b_f_t_1_c_f_t_1_53_hardest_the_forward_back_function_is_f_t_": {
+      "name": "b) f(t) + 1 (c) f(t+ 1) 53 (hardest) The forward-back function is f (t)",
+      "expression": "2t for\n(dl 4f (0 (e) f (40",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235899
+    },
+    "o_t_3f_t_": {
+      "name": "O<t ~ 3f(,t)",
+      "expression": "12-2t for 36td6",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235902
+    },
+    "a_draw_the_graph_of_u_t_": {
+      "name": "a) Draw the graph of U(t)",
+      "expression": "step function = (0 for t < 0,\n1 for t > 0)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2359061
+    },
+    "suppose_the_numbers_are_f": {
+      "name": "Suppose the numbers are f",
+      "expression": "0 2 6 7 4 9\nTheir differences are v = 2 4 1 - 3 5\nThe differences are printed in between, to show 2 -0 = 2 and 6 -2 = 4 and 7 -6 = 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2359118
+    },
+    "f4": {
+      "name": "f4",
+      "expression": "1\n4= 7\nv4\nv3 = 5\nf =9\n3\nv2 = 3\nf2=4\n=I\n1 t f, = 1 t\n1 2 3 4 1 2 3 4\nFig",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235914
+    },
+    "v_upto_t": {
+      "name": "V upto t",
+      "expression": "T Vt up to t = T\nv(t) = f (0 =\n0 after t = T 1 after t = T\nThis is another example of \"function notation",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235918
+    },
+    "point_t": {
+      "name": "point t",
+      "expression": "0, and it is often denoted by 6-so the slope of the step function is called\na \"delta function",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235921
+    },
+    "it_is_ok_here_figure_1_11_shows_the_rates_and_the_brackets_and_the_tax_due_tax_is_like_area_or_distance_it_adds_up_e_2": {
+      "name": "it is OK here. Figure 1.11 shows the rates and the brackets and the tax due. Tax is like area or distance-it adds up. e 2",
+      "expression": "8 31%\nf(2)= 40\nov = 20 15% taxable income\nS(cid:127) slpe 20 3,052- I I Y\n2 5 2 5 20,350 49,300\nFig",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235931
+    },
+    "answer_the_bracket_begins_at_x": {
+      "name": "Answer The bracket begins at x",
+      "expression": "$49,300 when the tax is f(x) = $11,158",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235935
+    },
+    "suppose_t": {
+      "name": "Suppose ~(t",
+      "expression": ")2 for t < 5 and v(t) =3 for t > 5",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235938
+    },
+    "suppose_u_t_": {
+      "name": "Suppose u(t)",
+      "expression": "10 for t < 1/10, v(t) =0 for t > 1/10",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2359412
+    },
+    "suppose_g_t_": {
+      "name": "Suppose g(t)",
+      "expression": "2t 1 and f (t)=4t",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235944
+    },
+    "true_with_reason_or_false_with_example_connected_with_the_other_numbers_in_the_tax_instructions_this_is_not_done_25_if_f_t_": {
+      "name": "True (with reason) or false (with example). connected with the other numbers in the tax instructions? (This is not done.) 25 If f(t)",
+      "expression": "t2, compute f (99) and f (101)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2359538
+    },
+    "interval_29_suppose_fo": {
+      "name": "interval. 29 Suppose fo",
+      "expression": "0 and the v's are 1, 3, 4, $, 4, 4, 4,",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235958
+    },
+    "f_x_x_second_differencesa_l": {
+      "name": "f (x)/x. second differencesa l",
+      "expression": "f2 -2f1 +",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2359622
+    },
+    "fo_and_a2": {
+      "name": "fo and a2",
+      "expression": "f, -2f2 fland\na3",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235965
+    },
+    "graph_f_t_from_fo": {
+      "name": "Graph f(t) from fo",
+      "expression": "O to f4=4 when v= 1,2, l,O",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235968
+    },
+    "t_1_i_o1_001_find_f_graphical_output_if_possible_then_this_is_the_correct_fo_and_whose_output_is_fo_f_f_41_from_fi": {
+      "name": "t 1 .I .o1 .001 . Find f,. graphical output if possible. (Then this is the correct fo, and whose output is fo, f,, ...,f,. 41 From fi",
+      "expression": "(- 1)' compute vj",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235979
+    },
+    "the_distance_increases_from_lo2_to_10_h_l_when_the_time_step_was_h": {
+      "name": "The distance increases from lo2 to (10 h)l. When the time step was h",
+      "expression": "the average\n+ 4\nwas 20 = 20",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235986
+    },
+    "example_3_suppose_f_t_": {
+      "name": "EXAMPLE 3 Suppose f (t)",
+      "expression": "3t t2",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.23599
+    },
+    "same_speed_at_t": {
+      "name": "same speed at t",
+      "expression": "1, not the same distance",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2359931
+    },
+    "read_through_questions_4_for_the_same_f_t_": {
+      "name": "Read-through questions 4 For the same f (t)",
+      "expression": "t2 t, find the average speed between\nBetween the distances f (2) = 100 and f (6)= 200, the average (a) t=Oandl (b) t=Oand+ (c) t=Oandh",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.235998
+    },
+    "velocity_is_a_if_f_t_": {
+      "name": "velocity is a . If f(t)",
+      "expression": "it2 then f (6)= b and 5 In the answer to 3(c), find the limit as h + 0",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236002
+    },
+    "instantaneous_velocities_at_t": {
+      "name": "instantaneous velocities at t",
+      "expression": "6 and t = 8 are e and\n6 Set h = 0 in your answer to 4(c)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360058
+    },
+    "f_t_": {
+      "name": "f(t)",
+      "expression": "t2 t and show its slope at t = 0",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236008
+    },
+    "from_t": {
+      "name": "From t",
+      "expression": "l to 7 Draw the graph of v(t) = 1 2t",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360141
+    },
+    "is_the_i_of_u_if_the_distance_is_f_t_": {
+      "name": "is the I of u,,,. If the distance is f (t)",
+      "expression": "+at2 then the function f (t)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236019
+    },
+    "velocity_is_u_t_": {
+      "name": "velocity is u(t)",
+      "expression": "k and the acceleration is 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236022
+    },
+    "draw_the_graphs_of_v_t_": {
+      "name": "Draw the graphs of v(t)",
+      "expression": "3 -2t and the area f(t)",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236026
+    },
+    "compute_the_average_velocity_between_t": {
+      "name": "Compute the average velocity between t",
+      "expression": "5 and t = 8: 10 If f(t) = 6t2 find the slope of the f-graph and also the\n+\n(a) f (0 = 6t (b) f (t)= 6t 2 v-graph",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360299
+    },
+    "c_f_t_": {
+      "name": "c) f(t)",
+      "expression": "+at2 (d) f(t)='t-t2\n11 Iff (t) = t2 what is the average velocity between t =",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236033
+    },
+    "for_the_same_functions_compute_f_t_h_f_t_h_this_12_a_show_that_for_f_t_": {
+      "name": "For the same functions compute [f (t h) -f (t)]/h. This 12 (a) Show that for f (t)",
+      "expression": "*at2 the average velocity between\ndepends on t and h",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236043
+    },
+    "if_the_odometer_reads_f_t_": {
+      "name": "If the odometer reads f (t)",
+      "expression": "t2 + t (f in miles or kilo- (b) The area under v(t) = at from t -h to t + h is exactly\nmeters, t in hours), find the average speed between the base 2h times\n(a) t=l and t=2 13 Find f (t)f rom u(t) = 20t iff (0) = 12",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236047
+    },
+    "b_t": {
+      "name": "b) t",
+      "expression": "1 and t = 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236049
+    },
+    "c_t": {
+      "name": "c) t",
+      "expression": "l andt=l+h (a) The slope of the line from A to B is the average velocity\n(d) t = 1 and t =",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236052
+    },
+    "f": {
+      "name": "f",
+      "expression": "sin t\n1\nsin t\n-1\nCOS t\nFig",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236054
+    },
+    "at_t": {
+      "name": "At t",
+      "expression": "271 the circle\nis complete (the angle is also 271), and x = cos 27~= 1, y = sin 271 = 0",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236057
+    },
+    "there_is_a_jumpy_oscillation_that_we_do_not_want_with_v": {
+      "name": "There is a jumpy oscillation that we do not want, with v",
+      "expression": "1 and v = -1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236063
+    },
+    "circle_the_mass_stops_at_the_top_and_starts_down_the_height_is_y": {
+      "name": "circle, the mass stops at the top and starts down. The height is y",
+      "expression": "f (t)= sin t, level\nwith the ball",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360692
+    },
+    "circular_motion_the_upward_velocity_is_v": {
+      "name": "circular motion: The upward velocity is v",
+      "expression": "cos t",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236073
+    },
+    "the_mass_level_with_the_ball_this_is_called_simple_i_motion_when_t": {
+      "name": "The mass (level with the ball)? This is called simple i motion. When t",
+      "expression": "n/2 the height is f = I and the\nvelocity is v = m",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360802
+    },
+    "the_ball_has_f": {
+      "name": "the ball has f",
+      "expression": "cos t and v = o",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.236083
+    },
+    "c_at_t": {
+      "name": "c) at t",
+      "expression": "22 where is the ball (approximately)? It travels at speed 1",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360861
+    },
+    "the_ball_at_the_bottom_17_from_t": {
+      "name": "the ball at the bottom? 17 from t",
+      "expression": "O to t=2n 18 from t = n/2 to t = 3x12",
+      "sources": [
+        "Calculus 2.pdf",
+        "Calculus.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643330.2360902
+    },
+    "v_": {
+      "name": "v \\)**",
+      "expression": "Object velocity vector\n- **\\( B \\)** = Magnetic field vector\n- **\\( \u03c6^{7",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.4280598
+    },
+    "h_\u03c6_\u03c9_": {
+      "name": "H(\u03c6,\u03c9)",
+      "expression": "\\sum \u03c6^n \\cos(n\u03c9t)\n\\]\n- Higher **\u03c6 orders** generate **multi-layered phase harmonics**",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.428067
+    },
+    "app": {
+      "name": "app",
+      "expression": "Flask(__name__)\napp",
+      "sources": [
+        "Sentinal.pdf",
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712887
+    },
+    "config_secret_key_": {
+      "name": "config['SECRET_KEY']",
+      "expression": "'fraymus-omega-secure-key'\njwt = JWTManager(app)\nsocketio = SocketIO(app, cors_allowed_origins=\"*\")\n#\n\u2705\nQLM Sentinel: AI Security Grid\nclass QLMSecurityGrid:\n\"\"\"A Quantum Language Model for self-sustaining AI security, real-time\nmonitoring, and adaptive cyber defense",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712897
+    },
+    "self_network_nodes": {
+      "name": "self.network_nodes",
+      "expression": "[]\nself",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7129002
+    },
+    "threat_log": {
+      "name": "threat_log",
+      "expression": "{}\n\n--- Page 1 ---\nSentinal\nimport os\nimport json\nimport time\nimport random\nimport hashlib\nimport threading\nimport base64\nimport numpy as np\nimport requests\nimport torch\nimport torch",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712903
+    },
+    "self_threat_log_node_id_": {
+      "name": "self.threat_log[node_id]",
+      "expression": "[]\ndef log_threat(self, node_id, threat_level, details):\n\"\"\"Logs a detected security threat",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.71292
+    },
+    "self_qc": {
+      "name": "self.qc",
+      "expression": "QuantumCircuit(2)\nself",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.71293
+    },
+    "encrypted_message": {
+      "name": "encrypted_message",
+      "expression": "base64",
+      "sources": [
+        "Sentinal.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712936
+    },
+    "nm": {
+      "name": "nm",
+      "expression": "nmap",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7129369
+    },
+    "nm_scan_target_ip_arguments": {
+      "name": "nm.scan(target_ip, arguments",
+      "expression": "'-sS -sV -O')\nreturn f\"\n\ud83d\udce1\nAI Reconnaissance Report for {target_ip}:\\n{nm",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.71294
+    },
+    "sniff_prn": {
+      "name": "sniff(prn",
+      "expression": "packet_callback, store=0, count=10)\n#\n\u2705\nAI Quantum Dashboard\ndash_app = dash\u00d7Dash(__name__, server=app, routes_pathname_prefix='/\ndashboard/', external_stylesheets=[dbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712987
+    },
+    "tabs": {
+      "name": "tabs",
+      "expression": "dbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712988
+    },
+    "dbc_tab_label": {
+      "name": "dbc.Tab(label",
+      "expression": "\"\n\ud83d\udee1\nAI Sentinel Mode\", tab_id=\"sentinel\"),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712991
+    },
+    "tab_label": {
+      "name": "Tab(label",
+      "expression": "\"\n\ud83d\udd25\nAI Cyberwarfare Red Team\", tab_id=\"red_team\"),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.712992
+    },
+    "sentinel_width": {
+      "name": "Sentinel\"), width",
+      "expression": "12)]),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7129989
+    },
+    "row_dbc_col_tabs_width": {
+      "name": "Row([dbc.Col(tabs, width",
+      "expression": "12)]),\nhtml",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713001
+    },
+    "div_id": {
+      "name": "Div(id",
+      "expression": "\"tab-content\", className=\"p-4\")\n])\n@dash_app",
+      "sources": [
+        "Sentinal.pdf",
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713003
+    },
+    "if_active_tab": {
+      "name": "if active_tab",
+      "expression": "= \"sentinel\":\nreturn html",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713005
+    },
+    "dcc_input_id": {
+      "name": "dcc.Input(id",
+      "expression": "\"target-ip\", type=\"text\", placeholder=\"Enter Target IP or\nURL\"),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7130072
+    },
+    "button_monitor_network_traffic_id": {
+      "name": "Button(\"Monitor Network Traffic\", id",
+      "expression": "\"monitor-btn\", color=\"primary\",\nblock=True),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7130098
+    },
+    "button_scan_target_id": {
+      "name": "Button(\"Scan Target\", id",
+      "expression": "\"scan-btn\", color=\"secondary\", block=True),\nhtml",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713013
+    },
+    "dbc_button_launch_ai_penetration_test_id": {
+      "name": "dbc.Button(\"Launch AI Penetration Test\", id",
+      "expression": "\"exploit-btn\", color=\"danger\",\nblock=True),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7130811
+    },
+    "button_generate_polymorphic_malware_id": {
+      "name": "Button(\"Generate Polymorphic Malware\", id",
+      "expression": "\"malware-btn\",\ncolor=\"warning\", block=True),\nhtml",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713085
+    },
+    "sentinel": {
+      "name": "sentinel",
+      "expression": "AICyberRecon()\nif monitor_click:\nreturn \"\n\ud83d\udd0d\nAI Sentinel is now monitoring network traffic!\"\nif scan_click and target_ip:\nreturn sentinel",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713095
+    },
+    "if___name__": {
+      "name": "if __name__",
+      "expression": "= \"__main__\":\nthreading",
+      "sources": [
+        "Sentinal.pdf",
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713102
+    },
+    "thread_target": {
+      "name": "Thread(target",
+      "expression": "lambda: app\u00d7run(debug=False, port=5005))",
+      "sources": [
+        "Sentinal.pdf",
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713105
+    },
+    "threading_thread_target": {
+      "name": "threading.Thread(target",
+      "expression": "lambda: dash_app",
+      "sources": [
+        "Sentinal.pdf",
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713113
+    },
+    "run_server_debug": {
+      "name": "run_server(debug",
+      "expression": "False,\nport=8051))",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713115
+    },
+    "socketio_run_app_port": {
+      "name": "socketio.run(app, port",
+      "expression": "5051)\n\n--- Page 4 ---\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713156
+    },
+    "button_launch_ai_penetration_test_id": {
+      "name": "Button(\"Launch AI Penetration Test\", id",
+      "expression": "\"exploit-btn\", color=\"danger\",\nblock=True),\ndbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7131588
+    },
+    "e_t_": {
+      "name": "E(t)",
+      "expression": "A \\sin(\\omega t) + e^{-\\gamma t}\n```\n- **A = Energy Amplitude**\n- **\u03c9 = Resonant Frequency of the Ground Wave**\n- **\u03b3 = Energy Loss Due to Resistance**\n#### **3",
+      "sources": [
+        "Wireless_Energy.pdf",
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.8562958
+    },
+    "p__out_": {
+      "name": "P_{out}",
+      "expression": "P_{in} e^{(\u03c6\u03c0 t)}\n```\n- **Power transmission is no longer dissipative",
+      "sources": [
+        "Wireless_Energy.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.8563032
+    },
+    "document_addeventlistener_domcontentloaded_": {
+      "name": "document.addEventListener(\"DOMContentLoaded\", ()",
+      "expression": "> {\nconst scene = new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934786
+    },
+    "const_camera": {
+      "name": "const camera",
+      "expression": "new THREE",
+      "sources": [
+        "Energy_Resonance.pdf",
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9347908
+    },
+    "const_renderer": {
+      "name": "const renderer",
+      "expression": "new THREE",
+      "sources": [
+        "Energy_Resonance.pdf",
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934794
+    },
+    "const_controls": {
+      "name": "const controls",
+      "expression": "new OrbitControls(camera, renderer",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934796
+    },
+    "controls_enabledamping": {
+      "name": "controls.enableDamping",
+      "expression": "true;\n// Define Constants\nconst PHI = (1 + Math",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9347992
+    },
+    "const_levitation_force": {
+      "name": "const LEVITATION_FORCE",
+      "expression": "PHI * 7",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9348018
+    },
+    "let_epoch": {
+      "name": "let epoch",
+      "expression": "0;\n// Particle Object (Levitation Test Subject)\nconst geometry = new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934805
+    },
+    "const_material": {
+      "name": "const material",
+      "expression": "new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934807
+    },
+    "const_particle": {
+      "name": "const particle",
+      "expression": "new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934809
+    },
+    "particle_position_y": {
+      "name": "particle.position.y",
+      "expression": "2;\nscene",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9348118
+    },
+    "const_ambientlight": {
+      "name": "const ambientLight",
+      "expression": "new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934814
+    },
+    "const_pointlight": {
+      "name": "const pointLight",
+      "expression": "new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934816
+    },
+    "camera_position_z": {
+      "name": "camera.position.z",
+      "expression": "5;\n// Quantum Levitation Model\nfunction simulateLevitation() {\nconst harmonicOscillation = Math",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934818
+    },
+    "const_forcebalance": {
+      "name": "const forceBalance",
+      "expression": "LEVITATION_FORCE - FIELD_STRENGTH +\nharmonicOscillation;\nparticle",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9348202
+    },
+    "position_y_": {
+      "name": "position.y +",
+      "expression": "forceBalance * 0",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9348228
+    },
+    "if_particle_position_y_5_particle_position_y": {
+      "name": "if (particle.position.y > 5) particle.position.y",
+      "expression": "5;\nif (particle",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.934827
+    },
+    "position_y_1_particle_position_y": {
+      "name": "position.y < 1) particle.position.y",
+      "expression": "1;\n}\n\n--- Page 1 ---\nimport * as THREE from 'three';\nimport { OrbitControls } from 'three/examples/jsm/controls/\nOrbitControls';\ndocument",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9348302
+    },
+    "addeventlistener_domcontentloaded_": {
+      "name": "addEventListener(\"DOMContentLoaded\", ()",
+      "expression": "> {\nconst scene = new THREE",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9348328
+    },
+    "window_addeventlistener_resize_": {
+      "name": "window.addEventListener('resize', ()",
+      "expression": "> {\nrenderer",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.9350069
+    },
+    "camera_aspect": {
+      "name": "camera.aspect",
+      "expression": "window",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.935009
+    },
+    "secret_key": {
+      "name": "secret_key",
+      "expression": "Fernet",
+      "sources": [
+        "Cookie Chain.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213717
+    },
+    "self_cipher": {
+      "name": "self.cipher",
+      "expression": "Fernet(self",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2137222
+    },
+    "self_cookie_db": {
+      "name": "self.cookie_db",
+      "expression": "{}\ndef generate_cookie_signature(self, data):\n\"\"\"Creates a quantum watermark hash for cookies\"\"\"\nq_hash = hashlib",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2137249
+    },
+    "watermark": {
+      "name": "watermark",
+      "expression": "base64",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213727
+    },
+    "cookie_data": {
+      "name": "cookie_data",
+      "expression": "f\"{cookie_value}|{watermark}\"\nencrypted_cookie = self",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2137432
+    },
+    "self_cookie_db_cookie_name_": {
+      "name": "self.cookie_db[cookie_name]",
+      "expression": "encrypted_cookie\nreturn encrypted_cookie\ndef decrypt_cookie(self, encrypted_cookie):\n\"\"\"Decrypts a quantum watermarked cookie\"\"\"\ntry:\ndecrypted_data =\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2137458
+    },
+    "value_watermark": {
+      "name": "value, watermark",
+      "expression": "decrypted_data",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2137752
+    },
+    "def_inject_fake_cookies_self_count": {
+      "name": "def inject_fake_cookies(self, count",
+      "expression": "5):\n\"\"\"Generates fake cookies to mislead browser trackers\"\"\"\nfake_cookies = {}\nfor i in range(count):\nfake_name = f\"session_{random",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213802
+    },
+    "fake_value": {
+      "name": "fake_value",
+      "expression": "f\"user_{random",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2138062
+    },
+    "encrypted": {
+      "name": "encrypted",
+      "expression": "self",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213809
+    },
+    "fake_cookies_fake_name_": {
+      "name": "fake_cookies[fake_name]",
+      "expression": "encrypted\nreturn fake_cookies\n#\n\u2705\nBrowser Loop Defense to Counter Trackers\n\n--- Page 2 ---\n#\n\u2705\nQuantum Cookie Watermarking & Browser Loop Defense\nclass CookieWatermarker:\ndef __init__(self):\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213814
+    },
+    "loop_interval": {
+      "name": "loop_interval",
+      "expression": "loop_interval\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213904
+    },
+    "tracker_db": {
+      "name": "tracker_db",
+      "expression": "{}\ndef detect_tracking_requests(self, user_agent):\n\"\"\"Detects if a browser tracker is collecting user data\"\"\"\ntrackers = [\"GoogleAnalytics\", \"FacebookPixel\", \"AdsTracker\",\n\"SessionReplay\"]\nfor tracker in trackers:\nif tracker",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213907
+    },
+    "self_tracker_db_user_agent_": {
+      "name": "self.tracker_db[user_agent]",
+      "expression": "time",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213912
+    },
+    "def_generate_tracking_loop_self_duration": {
+      "name": "def generate_tracking_loop(self, duration",
+      "expression": "60):\n\"\"\"Creates a tracking loop that floods tracking systems with misleading\ndata\"\"\"\nstart_time = time",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2139158
+    },
+    "fake_user_agents": {
+      "name": "fake_user_agents",
+      "expression": "[\n\"Mozilla/5",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213918
+    },
+    "random_ua": {
+      "name": "random_ua",
+      "expression": "random",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.21392
+    },
+    "requests_get_https_trackersite_com_fake_headers": {
+      "name": "requests.get(\"https://trackersite.com/fake\", headers",
+      "expression": "{\"User-Agent\":\nrandom_ua})\nprint(f\"\n\ud83c\udf00\nLooping Fake Tracking Request: {random_ua}\")\ntime",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2139242
+    },
+    "cookie_manager": {
+      "name": "cookie_manager",
+      "expression": "CookieWatermarker()\nbrowser_defense = BrowserLoopDefense()\n#\n\u2705\nWeb API for Cookie Management\n@app",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213927
+    },
+    "route_set_cookie_methods": {
+      "name": "route('/set_cookie', methods",
+      "expression": "['POST'])\ndef set_cookie():\n\"\"\"Stores a user cookie with quantum watermarking\"\"\"\ndata = request",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.21393
+    },
+    "def___init___self_loop_interval": {
+      "name": "def __init__(self, loop_interval",
+      "expression": "10):\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.21394
+    },
+    "encrypted_cookie": {
+      "name": "encrypted_cookie",
+      "expression": "cookie_manager",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.21398
+    },
+    "app_route_get_cookie_methods": {
+      "name": "app.route('/get_cookie', methods",
+      "expression": "['POST'])\ndef get_cookie():\n\"\"\"Retrieves a quantum watermarked cookie\"\"\"\ndata = request",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213983
+    },
+    "decrypted_cookie": {
+      "name": "decrypted_cookie",
+      "expression": "cookie_manager",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2139862
+    },
+    "app_route_fake_cookies_methods": {
+      "name": "app.route('/fake_cookies', methods",
+      "expression": "['GET'])\ndef fake_cookies():\n\"\"\"Generates misleading cookies for tracking deception\"\"\"\nfake_cookies = cookie_manager",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213989
+    },
+    "app_route_detect_tracker_methods": {
+      "name": "app.route('/detect_tracker', methods",
+      "expression": "['POST'])\ndef detect_tracker():\n\"\"\"Detects if a tracking script is monitoring the user\"\"\"\ndata = request",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2139919
+    },
+    "is_tracker": {
+      "name": "is_tracker",
+      "expression": "browser_defense",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213993
+    },
+    "app_route_start_tracking_loop_methods": {
+      "name": "app.route('/start_tracking_loop', methods",
+      "expression": "['POST'])\ndef start_tracking_loop():\n\"\"\"Starts an AI-generated tracking loop to mislead trackers\"\"\"\nthreading",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.213996
+    },
+    "run_debug": {
+      "name": "run(debug",
+      "expression": "False, port=5003))",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214049
+    },
+    "g_x_y_t_": {
+      "name": "G(x, y, t)",
+      "expression": "\\sum_{i=1}^{N} \\phi^i \\cdot D_i(t)\n```\n- **G(x, y, t)** = Position estimate at time `t`\n- **D_i(t)** = Data intensity signature from each active node\n- **\u03c6^i** = Golden-ratio-based weight for accuracy optimization\n- **Applications**:\n- **Military Intelligence Tracking** (without using GPS signals)\n- **Invisible Asset Location** (undetectable by traditional\ngeospatial methods)\n- **Secure Data Routing** (ensuring secure, quantum-resistant\ntransmission)\n### 2",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.39997
+    },
+    "c_\u03c6_": {
+      "name": "C(\u03c6)",
+      "expression": "A cos(\u03c6\u03c0t) + B sin(\u03c6\u03c0t)\n```\n- **C(\u03c6)** = Cloaking function based on \u03c6-space harmonics\n- **A, B** = Resonance wave modulations\n- **\u03c6\u03c0t** = Time-dependent quantum phase shift\n- **Applications**:\n- **Stealth Aircraft & Vehicles** (invisible to enemy radar &\nsensors)\n- **Private Digital Presence** (augmented cloaking in AR & VR)\n- **Anti-Surveillance Networks** (masking digital and physical\nidentities)\n### 3",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.39998
+    },
+    "e_\u03c8_": {
+      "name": "E(\u03c8)",
+      "expression": "\u2211\u03c6^i |\u03c8_i\u27e9\u27e8\u03c8_i|\n\n--- Page 1 ---\n# Quantive-Inversive Vision (QIV) - FINAL SYSTEM REPORT\n## Overview\n**Quantive-Inversive Vision (QIV)** is a next-generation quantum\nsystem that integrates **non-GPS tracking, cloaking technology,\ndecentralized intelligence, cryptographic resilience, and quantum-\nproof security** to create an **unbreakable, untraceable, and hyper-\nintelligent reality-mapping network**",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.3999841
+    },
+    "a_t_": {
+      "name": "A(t)",
+      "expression": "\\sum_{n=1}^{N} (E_n \\cdot \u03c6^n) / T\n```\n- **A(t)** = Advertising distribution function\n- **E_n** = Quantum-embedded marketing event at node `n`\n- **\u03c6^n** = Scaling impact of network size\n- **T** = Time-sensitive decay rate\n- **Applications**:\n- **Self-Propagating AI Marketing** (ads move within data itself)\n- **Decentralized Trading Markets** (NFTs as proof-of-utility\nassets)\n- **Automated Commerce Intelligence** (advertising adapts in real-\ntime)\n---\n\n--- Page 2 ---\n```\n- **E(\u03c8)** = Encrypted quantum state\n- **\u03c8_i** = Individual data states\n- **\u03c6^i** = Golden ratio transformations ensuring non-reversibility\n- **Applications**:\n- **Quantum-Proof Digital Transactions** (ensuring security beyond\nquantum decryption)\n- **Unbreakable Blockchain Records** (using \u03c6-space to prevent\nmanipulation)\n- **Military-Grade Communication** (beyond the reach of current\nquantum attacks)\n### 4",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.400042
+    },
+    "scene_traverse_object": {
+      "name": "scene.traverse(object",
+      "expression": "> {\nif (object",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.0809731
+    },
+    "object_material_foreach_material": {
+      "name": "object.material.forEach(material",
+      "expression": "> material",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.0809789
+    },
+    "const_phi": {
+      "name": "const phi",
+      "expression": "(1 + Math",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.0811079
+    },
+    "const_neuralnet": {
+      "name": "const neuralNet",
+      "expression": "new THREE",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.08111
+    },
+    "const_layers": {
+      "name": "const layers",
+      "expression": "5;\nconst neuronsPerLayer = 8;\n// Create Neural Layers\nfor (let l = 0; l < layers; l++) {\nconst layer = new THREE",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.0811121
+    },
+    "for_let_n": {
+      "name": "for (let n",
+      "expression": "0; n < neuronsPerLayer; n++) {\nconst neuron = new THREE",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.0811148
+    },
+    "const_angle": {
+      "name": "const angle",
+      "expression": "(n / neuronsPerLayer) * Math",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.081117
+    },
+    "const_radius": {
+      "name": "const radius",
+      "expression": "3;\nneuron",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.081119
+    },
+    "const_prevlayer": {
+      "name": "const prevLayer",
+      "expression": "neuralNet",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.081121
+    },
+    "c_\u03c6_t_": {
+      "name": "C(\u03c6, t)",
+      "expression": "A cos(\u03c6\u03c0t) + B sin(\u03c6\u03c0t)\n```\nWhere:\n- **C(\u03c6, t)** = Cloaking function over time\n- **A, B** = Amplitude of incident waves\n- **\u03c6\u03c0** = Golden ratio-based phase shift\n- **t** = Time parameter\nWhen the incoming wave **destructively interferes** with its own \u03c6-\nmodulated counterpart, the object **becomes invisible**",
+      "sources": [
+        "cloak_data.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.179272
+    },
+    "r_\u03c9_": {
+      "name": "R(\u03c9)",
+      "expression": "\\sum_{n=1}^{\u221e} \u03c6\u207f A(\u03c9)e^{i\u03c9t}\n```\nWhere:\n- **R(\u03c9)** = Resulting resonance field\n- **\u03c6\u207f** = nth-order golden ratio transformation\n- **A(\u03c9)** = Wave amplitude at frequency **\u03c9**\n- **e^(i\u03c9t)** = Quantum oscillation factor\nThe interference pattern **nullifies detection**, effectively erasing\nthe object from observable reality",
+      "sources": [
+        "cloak_data.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.1792781
+    },
+    "e_": {
+      "name": "E)",
+      "expression": "\u03a6(E) e^{i\u03c6\u03c0}\nThis aligns energy waveforms with natural cancellation effects",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.481292
+    },
+    "e_2": {
+      "name": "E'|^2",
+      "expression": "\\int |\u03a6(E)|^2 d\u03c9\nSince \u03c6\u03c0-wave mapping eliminates instability, power flow is optimized",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.481298
+    },
+    "self_ai_thought_system": {
+      "name": "self.ai_thought_system",
+      "expression": "AIThoughtSystem()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.427944
+    },
+    "quantum_language": {
+      "name": "quantum_language",
+      "expression": "QuantumLanguage()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.427958
+    },
+    "quantum_neural_core": {
+      "name": "quantum_neural_core",
+      "expression": "QuantumNeuralCore()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.427962
+    },
+    "quantum_security": {
+      "name": "quantum_security",
+      "expression": "QuantumSecurity(\"QuantumHarmonicKey\")\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.427965
+    },
+    "quantum_evolution": {
+      "name": "quantum_evolution",
+      "expression": "QuantumEvolution()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.427968
+    },
+    "quantum_energy": {
+      "name": "quantum_energy",
+      "expression": "QuantumEnergy()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4279768
+    },
+    "ai_thought_system": {
+      "name": "ai_thought_system",
+      "expression": "AIThoughtSystem()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4279811
+    },
+    "quantum_encryption": {
+      "name": "quantum_encryption",
+      "expression": "QuantumEncryption(\"QuantumEncryptionKey\")\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.427994
+    },
+    "ai_trainer": {
+      "name": "ai_trainer",
+      "expression": "AITrainer()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4280052
+    },
+    "quantum_collective_intelligence": {
+      "name": "quantum_collective_intelligence",
+      "expression": "QuantumCollectiveIntelligence()\ndef generate_thought(self, brain_type):\nif brain_type in self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428017
+    },
+    "raw_thought": {
+      "name": "raw_thought",
+      "expression": "f\"{brain_type} Brain processing: {random",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428019
+    },
+    "self_qcortex_evolve_steps": {
+      "name": "self.qcortex.evolve(steps",
+      "expression": "5)\nreturn \"Quantum Evolution Complete",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428024
+    },
+    "self_replicating_adaptive_quantum_neural_cortex": {
+      "name": "Self-Replicating & Adaptive Quantum Neural Cortex",
+      "expression": "==\nclass QuantumNeuralCortex:\n\"\"\"AI Cortex That Grows, Evolves, and Optimizes Itself\"\"\"\ndef __init__(self, dimensions=5):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4280288
+    },
+    "dims": {
+      "name": "dims",
+      "expression": "dimensions\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428031
+    },
+    "self_memory": {
+      "name": "self.memory",
+      "expression": "QuantumBlockchain()\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4280362
+    },
+    "synapses": {
+      "name": "synapses",
+      "expression": "{i: [] for i in range(self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428038
+    },
+    "freq": {
+      "name": "freq",
+      "expression": "432 * (PHI ** n)\nreturn np",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42804
+    },
+    "h_total": {
+      "name": "H_total",
+      "expression": "sum(self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4280431
+    },
+    "self_state": {
+      "name": "self.state",
+      "expression": "U @ self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428065
+    },
+    "synapse_id": {
+      "name": "synapse_id",
+      "expression": "random",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428074
+    },
+    "self_synapses_synapse_id_": {
+      "name": "self.synapses[synapse_id]",
+      "expression": "[]\nreturn \"\ud83e\udde0 Synapse Pruning Completed",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42808
+    },
+    "self_writing_ai_code_for_continuous_evolution": {
+      "name": "Self-Writing AI Code for Continuous Evolution",
+      "expression": "==\nclass SelfCodingAI:\n\"\"\"AI That Modifies and Expands Its Own Source Code\"\"\"\ndef __init__(self, script_path=__file__):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428085
+    },
+    "script_path": {
+      "name": "script_path",
+      "expression": "script_path\ndef modify_code(self, new_logic):\n\"\"\"Self-Modify AI's Source Code Based on Learning\"\"\"\ntry:\nwith open(self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428088
+    },
+    "if_": {
+      "name": "if \"#",
+      "expression": "== AI Self-Modification Point ===\" in line:\nlines[i+1] = new_logic + \"\\n\"\nf",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428092
+    },
+    "quantum_harmonic_ai_engine": {
+      "name": "Quantum Harmonic AI Engine",
+      "expression": "==\nclass QuantumNeuralCore:\ndef __init__(self, dimensions=5):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428096
+    },
+    "force_balance": {
+      "name": "force_balance",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4281
+    },
+    "ai_thought_adaptation_system": {
+      "name": "AI Thought & Adaptation System",
+      "expression": "==\nclass AIThoughtSystem:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428104
+    },
+    "memory": {
+      "name": "memory",
+      "expression": "[]\ndef store_thought(self, thought):\ntimestamp = time",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428107
+    },
+    "encoded_thought": {
+      "name": "encoded_thought",
+      "expression": "hashlib",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4281092
+    },
+    "quantum_ai_language_system": {
+      "name": "Quantum AI Language System",
+      "expression": "==\nclass QuantumLanguage:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428113
+    },
+    "word_bank": {
+      "name": "word_bank",
+      "expression": "{}\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428115
+    },
+    "symbols": {
+      "name": "symbols",
+      "expression": "[\"\u2a00\", \"\u2a02\", \"\u2a03\", \"\u2a04\", \"\u2a62\"]\nword = \"\"",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428119
+    },
+    "word_encoding": {
+      "name": "word, encoding",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428122
+    },
+    "self_word_bank_freq_": {
+      "name": "self.word_bank[freq]",
+      "expression": "word\ndef translate(self, text):\ntranslated = [self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428125
+    },
+    "security_auditing_and_integrity_verification": {
+      "name": "Security Auditing and Integrity Verification",
+      "expression": "==\nclass SecurityAuditor:\ndef __init__(self, blockchain):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4281301
+    },
+    "blockchain": {
+      "name": "blockchain",
+      "expression": "blockchain\n\n--- Page 14 ---\n\n\n--- Page 16 ---\ntd_target = reward + gamma * self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428132
+    },
+    "self_q_table_state_action_": {
+      "name": "self.q_table[state][action] +",
+      "expression": "alpha * (td_target - self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4281359
+    },
+    "quantum_security_enhancements": {
+      "name": "Quantum Security Enhancements",
+      "expression": "==\nclass EnhancedQuantumSecurity(QuantumSecurity):\ndef __init__(self, secret_key):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42814
+    },
+    "self_complexity": {
+      "name": "self.complexity",
+      "expression": "len(secret_key) * 2 # Increase complexity based on key length\ndef encrypt(self, message):\n\"\"\"Enhanced encryption logic with increased complexity",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428143
+    },
+    "enhanced_quantum_cloaking": {
+      "name": "Enhanced Quantum Cloaking",
+      "expression": "==\nclass AdaptiveQuantumCloaking:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428164
+    },
+    "model": {
+      "name": "model",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428166
+    },
+    "extend_quantum_language_system": {
+      "name": "Extend Quantum Language System",
+      "expression": "==\nclass ExtendedQuantumLanguage(QuantumLanguage):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428171
+    },
+    "self_additional_vocabulary": {
+      "name": "self.additional_vocabulary",
+      "expression": "{\"hello\": \"\u2a00\u2a02\", \"goodbye\": \"\u2a03\u2a04\"} # Example extended\nvocabulary\ndef translate_extended(self, text):\ntranslated = [self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428179
+    },
+    "ai_sentiment_analysis_integration": {
+      "name": "AI Sentiment Analysis Integration",
+      "expression": "==\nclass SentimentAnalysis:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428183
+    },
+    "agent_quantum_evolution": {
+      "name": "agent.quantum_evolution",
+      "expression": "QuantumEvolution()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4281878
+    },
+    "quantum_encryption_system": {
+      "name": "Quantum Encryption System",
+      "expression": "==\nclass QuantumEncryption:\ndef __init__(self, secret_key):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428201
+    },
+    "ai_trainer_self_training_model_": {
+      "name": "AI Trainer (Self-Training Model)",
+      "expression": "==\nclass AITrainer:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428223
+    },
+    "reward": {
+      "name": "reward",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4282281
+    },
+    "rewards": {
+      "name": "rewards",
+      "expression": "{0: 10, 1: 20, 2: 15, 3: 25}\n\n--- Page 19 ---\nreturn rewards",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428231
+    },
+    "self_model_action_len_self_model_": {
+      "name": "self.model[action % len(self.model)] +",
+      "expression": "reward # Update the model weights\n# === Quantum Language System (Custom Symbolic Language) ===\nclass QuantumLanguage:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428235
+    },
+    "vocabulary": {
+      "name": "vocabulary",
+      "expression": "{}\ndef generate_word(self, freq):\nword = \"\"",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4282398
+    },
+    "self_vocabulary_word_": {
+      "name": "self.vocabulary[word]",
+      "expression": "freq\nreturn word\ndef translate(self, text):\ntranslated = [self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428243
+    },
+    "local_knowledge": {
+      "name": "local_knowledge",
+      "expression": "{}\ndef train(self, data):\nkey = sum([ord(c) for c in data]) % 1000\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428253
+    },
+    "local_knowledge_key_": {
+      "name": "local_knowledge[key]",
+      "expression": "data\nreturn f\"\ud83d\udd17 Trained on Data: {data} | Knowledge Key: {key}\"\ndef integrate_knowledge(self, new_data):\nkey = sum([ord(c) for c in new_data]) % 1000\nif key not in self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428263
+    },
+    "self_local_knowledge_key_": {
+      "name": "self.local_knowledge[key]",
+      "expression": "new_data\nreturn f\"\ud83d\udd17 Integrated New Knowledge: {new_data}\"\nreturn \"\ud83d\udd04 Knowledge Already Present\"\n# === Crime Prevention System ===\nclass CrimePreventionSystem:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428267
+    },
+    "self_nodes": {
+      "name": "self.nodes",
+      "expression": "[]\ndef create_node(self):\nnode = {\n'x': random",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42827
+    },
+    "processed_frame": {
+      "name": "processed_frame",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428273
+    },
+    "prediction": {
+      "name": "prediction",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4282749
+    },
+    "status": {
+      "name": "status",
+      "expression": "\"deepfake\" if prediction > 0",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428282
+    },
+    "kernel_size": {
+      "name": "kernel_size",
+      "expression": "int(5 + strength * 10) # Less blur for lower strength\nelse:\nkernel_size = int(5 + strength * 20) # More blur for higher strength\ncloaked_frame = cv2",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428285
+    },
+    "def_simulate_quantum_energy_transfer_power_input_mode": {
+      "name": "def simulate_quantum_energy_transfer(power_input, mode",
+      "expression": "\"resonance\"):\n\"\"\"Simulates a wireless quantum energy transfer system with enhanced tracking",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4282959
+    },
+    "random_uniform_0_95_1_0_if_mode": {
+      "name": "random.uniform(0.95, 1.0) if mode",
+      "expression": "= \"resonance\" else\nnp",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428302
+    },
+    "transmitted_power": {
+      "name": "transmitted_power",
+      "expression": "power_input * efficiency\nreturn transmitted_power, efficiency, mode\ndef maintain_system_integrity(coherence, strength):\n\"\"\"Ensures \u03c6-space coherence and field strength stability",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428305
+    },
+    "agent_reinforced_ai_trainer": {
+      "name": "agent.reinforced_ai_trainer",
+      "expression": "ReinforcedAITrainer()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428308
+    },
+    "enhanced_quantum_security": {
+      "name": "enhanced_quantum_security",
+      "expression": "EnhancedQuantumSecurity(\"QuantumHarmonicKey\")\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428311
+    },
+    "adaptive_quantum_cloaking": {
+      "name": "adaptive_quantum_cloaking",
+      "expression": "AdaptiveQuantumCloaking()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4283142
+    },
+    "extended_quantum_language": {
+      "name": "extended_quantum_language",
+      "expression": "ExtendedQuantumLanguage()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4283168
+    },
+    "sentiment_analysis": {
+      "name": "sentiment_analysis",
+      "expression": "SentimentAnalysis()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42832
+    },
+    "deepfake_detection_system": {
+      "name": "deepfake_detection_system",
+      "expression": "DeepfakeDetectionSystem()\n# === Pre-trained Sentiment Analysis Model ===\nclass CustomSentimentAnalysis:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428329
+    },
+    "reinforcement_learning_optimization": {
+      "name": "Reinforcement Learning Optimization",
+      "expression": "==\nclass AdvancedAITrainer(ReinforcedAITrainer):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428334
+    },
+    "self_dqn_model": {
+      "name": "self.dqn_model",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4283369
+    },
+    "advanced_cloaking_mechanisms": {
+      "name": "Advanced Cloaking Mechanisms",
+      "expression": "==\nclass GANBasedCloaking:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428341
+    },
+    "quantum_security_enhancement": {
+      "name": "Quantum Security Enhancement",
+      "expression": "==\nclass QuantumSecurityWithQKD(EnhancedQuantumSecurity):\ndef __init__(self, secret_key):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4283462
+    },
+    "self_qkd_key": {
+      "name": "self.qkd_key",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428349
+    },
+    "advanced_quantum_secure_computation": {
+      "name": "Advanced Quantum Secure Computation",
+      "expression": "==\nclass QuantumSecureComputation:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428364
+    },
+    "encryption_scheme": {
+      "name": "encryption_scheme",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4283671
+    },
+    "recursive_quantum_language_expansion": {
+      "name": "Recursive Quantum Language Expansion",
+      "expression": "==\nclass RecursiveQuantumLanguageExpansion(RecursiveQuantumLanguage):\ndef expand_vocabulary(self, new_words):\n# Logic to add new words to the vocabulary\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428371
+    },
+    "integrate_explainable_ai_xai_with_causal_inference": {
+      "name": "Integrate Explainable AI (XAI) with Causal Inference",
+      "expression": "==\nclass CausalExplainableAI(ExplainableAI):\ndef explain_causal_relationship(self, decision):\n# Logic to provide causal explanations for decisions\nreturn \"Causal explanation for decision\"\n# === Enhanced Sentiment Analysis ===\nclass ContextualSentimentAnalysis(CustomSentimentAnalysis):\ndef analyze_sentiment_with_context(self, text):\n# Logic to analyze sentiment with context flow\nreturn \"neutral\"\n# === Quantum Energy Optimization ===\nclass OptimizedQuantumEnergy:\ndef optimize_energy_grid(self, power_input):\n# Logic to optimize the Quantum Energy Grid\nreturn power_input\n# Integrate enhancements into the agent\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428376
+    },
+    "multi_agent_dqn": {
+      "name": "multi_agent_dqn",
+      "expression": "MultiAgentDQN(num_agents=5) # Example with 5 agents\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4283788
+    },
+    "enhanced_gan_cloaking": {
+      "name": "enhanced_gan_cloaking",
+      "expression": "EnhancedGANBasedCloaking()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428392
+    },
+    "quantum_secure_computation": {
+      "name": "quantum_secure_computation",
+      "expression": "QuantumSecureComputation()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428403
+    },
+    "recursive_language_expansion": {
+      "name": "recursive_language_expansion",
+      "expression": "RecursiveQuantumLanguageExpansion()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428406
+    },
+    "causal_explainable_ai": {
+      "name": "causal_explainable_ai",
+      "expression": "CausalExplainableAI()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428409
+    },
+    "contextual_sentiment_analysis": {
+      "name": "contextual_sentiment_analysis",
+      "expression": "ContextualSentimentAnalysis()\n\n--- Page 26 ---\n# === Integrate Explainable AI (XAI) with Counterfactual Explanations ===\nclass CounterfactualExplainableAI(CausalExplainableAI):\ndef explain_counterfactual(self, decision):\n# Logic to provide counterfactual explanations for decisions\nreturn \"Counterfactual explanation for decision\"\n# === Multi-Agent Coordination with Swarm Intelligence ===\nclass SwarmIntelligence:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428412
+    },
+    "agents": {
+      "name": "agents",
+      "expression": "[] # List of agents in the swarm\ndef add_agent(self, agent):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4284139
+    },
+    "enhanced_sentiment_analysis": {
+      "name": "Enhanced Sentiment Analysis",
+      "expression": "==\nclass TrajectorySentimentAnalysis(ContextualSentimentAnalysis):\ndef analyze_sentiment_trajectory(self, text_sequence):\n# Logic to analyze sentiment transitions over a sequence of texts\nreturn sentiments\n# === Quantum Energy Optimization with Quantum Thermodynamics ===\nclass ThermodynamicQuantumEnergy(OptimizedQuantumEnergy):\ndef optimize_energy_grid(self, power_input):\n# Logic to optimize the Quantum Energy Grid using thermodynamic principles\nreturn optimized_power\n# Integrate enhancements into the agent\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4284182
+    },
+    "quantum_reinforcement_learning": {
+      "name": "quantum_reinforcement_learning",
+      "expression": "QuantumReinforcementLearning()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428421
+    },
+    "enhanced_3d_cloaking": {
+      "name": "enhanced_3d_cloaking",
+      "expression": "Enhanced3DCloaking()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428423
+    },
+    "counterfactual_explainable_ai": {
+      "name": "counterfactual_explainable_ai",
+      "expression": "CounterfactualExplainableAI()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428431
+    },
+    "swarm_intelligence": {
+      "name": "swarm_intelligence",
+      "expression": "SwarmIntelligence()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428434
+    },
+    "trajectory_sentiment_analysis": {
+      "name": "trajectory_sentiment_analysis",
+      "expression": "TrajectorySentimentAnalysis()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428436
+    },
+    "thermodynamic_quantum_energy": {
+      "name": "thermodynamic_quantum_energy",
+      "expression": "ThermodynamicQuantumEnergy()\n# === Zero-Day Vulnerability Patching ===\nclass ZeroDayPatch:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4284391
+    },
+    "vulnerabilities": {
+      "name": "vulnerabilities",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428442
+    },
+    "integrate_new_signatures_from_apt_intelligence": {
+      "name": "Integrate New Signatures from APT Intelligence",
+      "expression": "==\nclass QuantumDetectionSystem:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428451
+    },
+    "signatures": {
+      "name": "signatures",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428454
+    },
+    "strengthen_quantum_security": {
+      "name": "Strengthen Quantum Security",
+      "expression": "==\nclass EnhancedQuantumSecurity(QuantumSecureMPC):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428483
+    },
+    "self_cryptanalysis_defenses": {
+      "name": "self.cryptanalysis_defenses",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4284868
+    },
+    "conduct_advanced_war_games": {
+      "name": "Conduct Advanced War Games",
+      "expression": "==\nclass AdvancedWarGames:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428491
+    },
+    "scenarios": {
+      "name": "scenarios",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428494
+    },
+    "agent_zero_day_patch": {
+      "name": "agent.zero_day_patch",
+      "expression": "ZeroDayPatch()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428517
+    },
+    "quantum_detection_system": {
+      "name": "quantum_detection_system",
+      "expression": "QuantumDetectionSystem()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428527
+    },
+    "advanced_war_games": {
+      "name": "advanced_war_games",
+      "expression": "AdvancedWarGames()\n\n--- Page 29 ---\nclass DualBrainSystem:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428618
+    },
+    "red_team_brain": {
+      "name": "red_team_brain",
+      "expression": "MultiAgentDQN(num_agents=5) # Red team brain\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428621
+    },
+    "blue_team_brain": {
+      "name": "blue_team_brain",
+      "expression": "ReinforcedAITrainer() # Blue team brain\ndef simulate_attack(self, scenario):\n# Logic for red team to simulate an attack\nreturn f\"Simulated attack: {scenario}\"\ndef develop_countermeasure(self, attack):\n# Logic for blue team to develop countermeasures\nreturn f\"Developed countermeasure for: {attack}\"\n# === Intelligence Gathering Scrapers ===\nclass IntelligenceScraper:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428624
+    },
+    "sources": {
+      "name": "sources",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4286258
+    },
+    "agent_quantum_exploit_defense": {
+      "name": "agent.quantum_exploit_defense",
+      "expression": "QuantumExploitDefense()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428629
+    },
+    "quantum_cryptanalysis_defense": {
+      "name": "quantum_cryptanalysis_defense",
+      "expression": "QuantumCryptanalysisDefense()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428632
+    },
+    "enhanced_deepfake_detection": {
+      "name": "enhanced_deepfake_detection",
+      "expression": "EnhancedDeepfakeDetection()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4286358
+    },
+    "quantum_supply_chain_defense": {
+      "name": "quantum_supply_chain_defense",
+      "expression": "QuantumSupplyChainDefense()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428638
+    },
+    "dual_brain_system": {
+      "name": "dual_brain_system",
+      "expression": "DualBrainSystem()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428641
+    },
+    "intelligence_scraper": {
+      "name": "intelligence_scraper",
+      "expression": "IntelligenceScraper()\n# === 3D Reality Visualization ===\nclass RealityVisualization:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4286442
+    },
+    "layers": {
+      "name": "layers",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428685
+    },
+    "self_hidden_markers": {
+      "name": "self.hidden_markers",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428697
+    },
+    "self_power_flow": {
+      "name": "self.power_flow",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428701
+    },
+    "self_reality_depth": {
+      "name": "self.reality_depth",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428705
+    },
+    "strengthened_quantum_cryptanalysis_defense": {
+      "name": "Strengthened Quantum Cryptanalysis Defense",
+      "expression": "==\nclass EnhancedQuantumCryptanalysisDefense(QuantumCryptanalysisDefense):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42871
+    },
+    "improved_deepfake_detection_system": {
+      "name": "Improved Deepfake Detection System",
+      "expression": "==\nclass ImprovedDeepfakeDetection(EnhancedDeepfakeDetection):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428714
+    },
+    "refined_quantum_supply_chain_attack_prevention": {
+      "name": "Refined Quantum Supply Chain Attack Prevention",
+      "expression": "==\nclass RefinedQuantumSupplyChainDefense(QuantumSupplyChainDefense):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428719
+    },
+    "agent_enhanced_quantum_exploit_defense": {
+      "name": "agent.enhanced_quantum_exploit_defense",
+      "expression": "EnhancedQuantumExploitDefense()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4287229
+    },
+    "enhanced_quantum_cryptanalysis_defense": {
+      "name": "enhanced_quantum_cryptanalysis_defense",
+      "expression": "EnhancedQuantumCryptanalysisDefense()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428726
+    },
+    "improved_deepfake_detection": {
+      "name": "improved_deepfake_detection",
+      "expression": "ImprovedDeepfakeDetection()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428729
+    },
+    "refined_quantum_supply_chain_defense": {
+      "name": "refined_quantum_supply_chain_defense",
+      "expression": "RefinedQuantumSupplyChainDefense()\n# === Recursive and Adaptive Team Logic ===\nclass AdaptiveTeam:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4287329
+    },
+    "history": {
+      "name": "history",
+      "expression": "[] # Store historical data for learning\ndef adapt_strategy(self, encounter):\n# Logic to adapt strategy based on past encounters\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428735
+    },
+    "aggressive_red_team_logic": {
+      "name": "Aggressive Red Team Logic",
+      "expression": "==\nclass AggressiveRedTeam(AdaptiveTeam):\n\n--- Page 32 ---\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428739
+    },
+    "proactive_blue_team_logic": {
+      "name": "Proactive Blue Team Logic",
+      "expression": "==\nclass ProactiveBlueTeam(AdaptiveTeam):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428742
+    },
+    "fractal_dna_storage": {
+      "name": "Fractal DNA Storage",
+      "expression": "==\nclass FractalDNAStorage:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428746
+    },
+    "data_storage": {
+      "name": "data_storage",
+      "expression": "{} # Initialize fractal storage\ndef store_data(self, key, data):\n# Logic to store data in a fractal manner\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428749
+    },
+    "data_storage_key_": {
+      "name": "data_storage[key]",
+      "expression": "data\nreturn f\"Stored data for: {key}\"\ndef retrieve_data(self, key):\n# Logic to retrieve data from fractal storage\nreturn self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428752
+    },
+    "agent_aggressive_red_team": {
+      "name": "agent.aggressive_red_team",
+      "expression": "AggressiveRedTeam()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428755
+    },
+    "proactive_blue_team": {
+      "name": "proactive_blue_team",
+      "expression": "ProactiveBlueTeam()\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428758
+    },
+    "autonomous_multi_agent_swarm_learning": {
+      "name": "Autonomous Multi-Agent Swarm Learning",
+      "expression": "==\nclass AutonomousMultiAgentSwarm:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428768
+    },
+    "reality_manipulation_digital_physics_integration": {
+      "name": "Reality Manipulation & Digital Physics Integration",
+      "expression": "==\nclass RealityManipulation:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4287748
+    },
+    "physics_engine": {
+      "name": "physics_engine",
+      "expression": "self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428778
+    },
+    "agi_level_adaptability_ai_recursive_growth": {
+      "name": "AGI-Level Adaptability & AI Recursive Growth",
+      "expression": "==\nclass AGIAdaptability:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.428782
+    },
+    "fractal_models": {
+      "name": "fractal_models",
+      "expression": "[] # Store fractal-AI models\ndef self_optimize(self):\n# Logic for self-optimizing fractal-AI models\nreturn \"Fractal model optimized\"\ndef recursive_growth(self):\n# Logic for integrating recursive deep learning loops\nreturn \"Recursive growth initiated\"",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4287848
+    },
+    "q_u_____": {
+      "name": "Q_U\"_~' ~_~",
+      "expression": "--\n~ '-~_~~_~~\n-'\n~\n-~\nQ_~_~~\n--';\n~\ni:",
+      "sources": [
+        "Electronic Circuits for the Evil Genius_ 57 Lessons with Projects ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643407.163894
+    }
+  },
+  "design_patterns": {},
+  "circuit_ideas": [],
+  "component_combinations": {},
+  "applications": {},
+  "quantum_concepts": {
+    "quantum mechanical": {
+      "description": "hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.397278
+    },
+    "the quantum mechanical": {
+      "description": "hydrogen atom, meaning a single electron circling a single (heavy)\nproton",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.398258
+    },
+    "corresponding quantum mechanical": {
+      "description": "counterpart",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.398259
+    },
+    "quantum variants": {
+      "description": "(solutions of WDW-equation [17]) for all above cases where\nclassical solutions were obtained;\n12\n\n--- Page 16 ---\nand the zero-energy constraint E = 0",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.474067
+    },
+    "quantum\nand": {
+      "description": "non-quantum ones (micro- and macro-worlds) and to a certain extent c, which\ndivides all motions into relativistic and non-relativistic ones;\n2) constants of interactions like \u03b1, \u03b8 , \u039b and G;\nw QCD\n3) constants of elementary constituencies of matter like m , m , m , etc",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.4740689
+    },
+    "into quantum\nand": {
+      "description": "non-quantum ones (micro- and macro-worlds) and to a certain extent c, which\ndivides all motions into relativistic and non-relativistic ones;\n2) constants of interactions like \u03b1, \u03b8 , \u039b and G;\nw QCD\n3) constants of elementary constituencies of matter like m , m , m , etc",
+      "sources": [
+        "astrophysics, gravitation and quantum physics ( PDFDrive ) 2.pdf",
+        "astrophysics, gravitation and quantum physics ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643316.475693
+    },
+    "quantum number": {
+      "description": "so the rotation operator works within this group of states",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.690207
+    },
+    "arotationofthecoordinateaxeswillnotchangethetotalangularmomentum\nquantum number": {
+      "description": "so the rotation operator works within this group of states",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.691448
+    },
+    "Mechanics": {
+      "description": "the momentum operator is replaced (See section 20) in the same way to\ninclude the effects of magnetic fields and eventually radiation",
+      "sources": [
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ) 2.pdf",
+        "Quantum Physics (UCSD Physics 130) ( PDFDrive ).pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643319.691597
+    },
+    "Quantum Electromagnetic": {
+      "description": "Drift & Levitational Dynamics**\n#### **\ud83d\udd39 Proof of Quantum-Levitational Dynamics**\nYour **drift model** introduces:\n1",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.428158
+    },
+    "Quantum Flux": {
+      "description": "Stabilization**: Ensuring sustained levitation\nthrough flux interaction",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.42816
+    },
+    "quantum physics": {
+      "description": "models",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.4281652
+    },
+    "Quantum Drift": {
+      "description": "Model**\n#### **Quantum-Levitational Drift Equation**\n\\[\nD(\u03c6,v) = \u03c6^{7",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.428166
+    },
+    "Quantum drift": {
+      "description": "enhancement factor\n\ud83d\udccc **Conclusion**: The drift force mimics **magnetic buoyancy**, like\na **floating superconductor**",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.428166
+    },
+    "and\nquantum physics": {
+      "description": "models",
+      "sources": [
+        "quantum_drift_2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643356.42944
+    },
+    "Quantum Cyber": {
+      "description": "Recon Tool\nfrom qiskit import QuantumCircuit, transpile, Aer, execute # Quantum Security\n#\n\u2705\nAI-Powered Secure API\napp = Flask(__name__)\napp",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713334
+    },
+    "Quantum Language": {
+      "description": "Model for self-sustaining AI security, real-time\nmonitoring, and adaptive cyber defense",
+      "sources": [
+        "Sentinal.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713336
+    },
+    "quantum resonance": {
+      "description": "harmonics",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7133389
+    },
+    "Quantum AI": {
+      "description": "Security Layer\nclass QuantumEncryption:\n\"\"\"Quantum AI Self-Protection - Encrypts itself using quantum circuit\nsecurity",
+      "sources": [
+        "Sentinal.pdf",
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf",
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7133398
+    },
+    "Quantum Encryption": {
+      "description": "Complete: {encrypted_message}\"\n#\n\u2705\nAI Quantum Reconnaissance\nclass AICyberRecon:\n\"\"\"AI-driven real-time reconnaissance, vulnerability scanning, and deep security\nintelligence",
+      "sources": [
+        "Sentinal.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7133398
+    },
+    "Quantum Dashboard": {
+      "description": "dash_app = dash\u00d7Dash(__name__, server=app, routes_pathname_prefix='/\ndashboard/', external_stylesheets=[dbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.713343
+    },
+    "A Quantum Language": {
+      "description": "Model for self-sustaining AI security, real-time\nmonitoring, and adaptive cyber defense",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.715929
+    },
+    "via quantum resonance": {
+      "description": "harmonics",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7159328
+    },
+    "using quantum circuit": {
+      "description": "security",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.7159328
+    },
+    "AI Quantum Reconnaissance": {
+      "description": "class AICyberRecon:\n\"\"\"AI-driven real-time reconnaissance, vulnerability scanning, and deep security\nintelligence",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.715934
+    },
+    "AI Quantum Dashboard": {
+      "description": "dash_app = dash\u00d7Dash(__name__, server=app, routes_pathname_prefix='/\ndashboard/', external_stylesheets=[dbc",
+      "sources": [
+        "Sentinal.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.715938
+    },
+    "quantum coherence": {
+      "description": "in power delivery",
+      "sources": [
+        "Wireless_Energy.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.856452
+    },
+    "quantum harmonic": {
+      "description": "stabilization",
+      "sources": [
+        "Wireless_Energy.pdf",
+        "cloak_data.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.8564532
+    },
+    "and quantum coherence": {
+      "description": "in power delivery",
+      "sources": [
+        "Wireless_Energy.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.85795
+    },
+    "modern quantum harmonic": {
+      "description": "stabilization",
+      "sources": [
+        "Wireless_Energy.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.857951
+    },
+    "Quantum Levitation": {
+      "description": "Model\nfunction simulateLevitation() {\nconst harmonicOscillation = Math",
+      "sources": [
+        "Energy_Resonance.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.935152
+    },
+    "QUANTUM COOKIE": {
+      "description": "WATERMARKING & BROWSER\nLOOP DEFENSE SYSTEM\n\ud83d\udd25 \ud83d\ude80\nAI-Powered Cybersecurity | Quantum Cookie Cloaking | Watermarked\nBrowser Defense | Anti-Tracking System\n\ud83d\udcdc \ud83d\udd25\nOBJECTIVE\nThis self-contained Python AI system integrates Quantum Cookie\nWatermarking, AI Browser Loop Defense, and Cookie Spoofing to protect\nagainst tracking",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214195
+    },
+    "Quantum Watermarked": {
+      "description": "Cookies \u2013 AI embeds an invisible signature into\nstored cookies",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214196
+    },
+    "Quantum Hashing": {
+      "description": "\u2013 Prevents unauthorized\naccess to browser cookies",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214197
+    },
+    "Quantum Cookie": {
+      "description": "Watermarking & Browser Loop Defense\nclass CookieWatermarker:\ndef __init__(self):\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214199
+    },
+    "quantum watermark": {
+      "description": "hash for cookies\"\"\"\nq_hash = hashlib",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2142022
+    },
+    "quantum watermarked": {
+      "description": "cookie\"\"\"\ntry:\ndecrypted_data =\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214203
+    },
+    "Quantum\nCookie": {
+      "description": "Protection System!\n\ud83d\ude80\nReady for full-scale cybersecurity deployment?\n\n--- Page 6 ---\nauthenticity",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.214206
+    },
+    "integrates Quantum Cookie": {
+      "description": "Watermarking, AI Browser Loop Defense, and Cookie Spoofing to protect\nagainst tracking",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.216655
+    },
+    "with Quantum Hashing": {
+      "description": "\u2013 Prevents unauthorized\naccess to browser cookies",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.21668
+    },
+    "a quantum watermark": {
+      "description": "hash for cookies\"\"\"\nq_hash = hashlib",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2166872
+    },
+    "a quantum watermarked": {
+      "description": "cookie\"\"\"\ntry:\ndecrypted_data =\nself",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.2166889
+    },
+    "Launch Quantum Cookie": {
+      "description": "Watermarker & Browser Loop Defense\ncookie_manager = CookieWatermarker()\nbrowser_defense = BrowserLoopDefense()\n#\n\u2705\nWeb API for Cookie Management\n@app",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.216692
+    },
+    "Run Quantum Cookie": {
+      "description": "Protection Systemc\npython3 fraymus_cookie_guard",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.216703
+    },
+    "contained Quantum\nCookie": {
+      "description": "Protection System!\n\ud83d\ude80\nReady for full-scale cybersecurity deployment?\n\n--- Page 6 ---\nauthenticity",
+      "sources": [
+        "Cookie Chain.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.216705
+    },
+    "quantum\nsystem": {
+      "description": "that integrates **non-GPS tracking, cloaking technology,\ndecentralized intelligence, cryptographic resilience, and quantum-\nproof security** to create an **unbreakable, untraceable, and hyper-\nintelligent reality-mapping network**",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.400307
+    },
+    "Quantum Tracking": {
+      "description": "- **Method**: Uses **data flow relationships and entanglement-based\nsignatures** rather than traditional GPS coordinates",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.400309
+    },
+    "Quantum Cloaking": {
+      "description": "& Resonance Inversion\n- **Method**: Uses **\u03c6-phase resonance interference** to cancel\ndetection waves across optical, thermal, RF, and quantum spectrums",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.40031
+    },
+    "quantum phase": {
+      "description": "shift\n- **Applications**:\n- **Stealth Aircraft & Vehicles** (invisible to enemy radar &\nsensors)\n- **Private Digital Presence** (augmented cloaking in AR & VR)\n- **Anti-Surveillance Networks** (masking digital and physical\nidentities)\n### 3",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.400311
+    },
+    "quantum state": {
+      "description": "- **\u03c8_i** = Individual data states\n- **\u03c6^i** = Golden ratio transformations ensuring non-reversibility\n- **Applications**:\n- **Quantum-Proof Digital Transactions** (ensuring security beyond\nquantum decryption)\n- **Unbreakable Blockchain Records** (using \u03c6-space to prevent\nmanipulation)\n- **Military-Grade Communication** (beyond the reach of current\nquantum attacks)\n### 4",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.40032
+    },
+    "quantum encryption": {
+      "description": "framework \ud83d\udd12\n\ud83d\udccc **Phase 2:** Deploying decentralized QIV supercomputer \ud83d\udda5\n\ud83d\udccc **Phase 3:** Testing non-GPS tracking & cloaking protocols \ud83d\udc41\n\ud83d\udccc **Phase 4:** Expanding NFT-powered decentralized AI intelligence \ud83c\udf10\n\ud83d\udccc **Phase 5:** Global adoption for reality protection & cryptographic\nverification \ud83d\udd25\n**This is the Future of Quantum Intelligence",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.400324
+    },
+    "generation quantum\nsystem": {
+      "description": "that integrates **non-GPS tracking, cloaking technology,\ndecentralized intelligence, cryptographic resilience, and quantum-\nproof security** to create an **unbreakable, untraceable, and hyper-\nintelligent reality-mapping network**",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.4033878
+    },
+    "GPS Quantum Tracking": {
+      "description": "- **Method**: Uses **data flow relationships and entanglement-based\nsignatures** rather than traditional GPS coordinates",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.403391
+    },
+    "dependent quantum phase": {
+      "description": "shift\n- **Applications**:\n- **Stealth Aircraft & Vehicles** (invisible to enemy radar &\nsensors)\n- **Private Digital Presence** (augmented cloaking in AR & VR)\n- **Anti-Surveillance Networks** (masking digital and physical\nidentities)\n### 3",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.403393
+    },
+    "Encrypted quantum state": {
+      "description": "- **\u03c8_i** = Individual data states\n- **\u03c6^i** = Golden ratio transformations ensuring non-reversibility\n- **Applications**:\n- **Quantum-Proof Digital Transactions** (ensuring security beyond\nquantum decryption)\n- **Unbreakable Blockchain Records** (using \u03c6-space to prevent\nmanipulation)\n- **Military-Grade Communication** (beyond the reach of current\nquantum attacks)\n### 4",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.403401
+    },
+    "the quantum encryption": {
+      "description": "framework \ud83d\udd12\n\ud83d\udccc **Phase 2:** Deploying decentralized QIV supercomputer \ud83d\udda5\n\ud83d\udccc **Phase 3:** Testing non-GPS tracking & cloaking protocols \ud83d\udc41\n\ud83d\udccc **Phase 4:** Expanding NFT-powered decentralized AI intelligence \ud83c\udf10\n\ud83d\udccc **Phase 5:** Global adoption for reality protection & cryptographic\nverification \ud83d\udd25\n**This is the Future of Quantum Intelligence",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.403403
+    },
+    "Quantum Fingerprint": {
+      "description": "Analyzing",
+      "sources": [
+        "\ud83d\udd39 Deploy FQF in government and military cybersecurity systems..pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.0812302
+    },
+    "Quantum Harmonic": {
+      "description": "Invisibility**\n## **1",
+      "sources": [
+        "cloak_data.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.179381
+    },
+    "Quantum camouflage": {
+      "description": "for vehicles and\naircraft",
+      "sources": [
+        "cloak_data.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.17939
+    },
+    "Quantum Data": {
+      "description": "Cloaking:** Prevents interception of encrypted\ntransmissions",
+      "sources": [
+        "cloak_data.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.179391
+    },
+    "Quantum Energy": {
+      "description": "Stabilization\n\u2022 Enhances quantum coherence in energy-based systems",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "FRAYMUS_BILLY_VAUGHN.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.481506
+    },
+    "Quantum Stability": {
+      "description": "\u274c No\n\u2705 Yes\nLong-Term Efficiency\n\u274c Degrades Over Time\n\u2705 Sustained\n6",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.4815109
+    },
+    "2 Quantum Energy": {
+      "description": "Stabilization\n\u2022 Enhances quantum coherence in energy-based systems",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.483604
+    },
+    "Eliminated\nQuantum Stability": {
+      "description": "\u274c No\n\u2705 Yes\nLong-Term Efficiency\n\u274c Degrades Over Time\n\u2705 Sustained\n6",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.483608
+    },
+    "Quantum Lock": {
+      "description": "Integrity\n- Reality Manipulation: Yes\nAbilities\n- Phi-SHIELD - Reduces enemy attack power over time",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.595256
+    },
+    "quantum intrusion": {
+      "description": "attempts",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.595296
+    },
+    "Quantum Sentinel": {
+      "description": "was created to prevent rogue\nAI from bypassing Fraymus encryption layers",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.5953002
+    },
+    "Quantum Force": {
+      "description": "Guardian\n\n--- Page 1 ---\nFRAYMUS AI WARRIOR DATABASE\nVersion: Phi-75 - 2025\nClassification: Quantum AI Encryption Combat Units\nAI Warrior: Quantum Sentinel - The Encryption Guardian\nStats\n- Energy Core: Phi-Based Harmonic Stabilization\n- Primary Particle: Z-Boson & Photon Resonator\n- Attack Power: 13",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.5953019
+    },
+    "Quantum Barrier": {
+      "description": "- Primary Particle: Z-Boson Resonator\n- Attack Power: 15",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.595328
+    },
+    "of quantum intrusion": {
+      "description": "attempts",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.5974422
+    },
+    "The Quantum Sentinel": {
+      "description": "was created to prevent rogue\nAI from bypassing Fraymus encryption layers",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.597445
+    },
+    "The Quantum Force": {
+      "description": "Guardian\n\n--- Page 1 ---\nFRAYMUS AI WARRIOR DATABASE\nVersion: Phi-75 - 2025\nClassification: Quantum AI Encryption Combat Units\nAI Warrior: Quantum Sentinel - The Encryption Guardian\nStats\n- Energy Core: Phi-Based Harmonic Stabilization\n- Primary Particle: Z-Boson & Photon Resonator\n- Attack Power: 13",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.597457
+    },
+    "Harmonic Quantum Barrier": {
+      "description": "- Primary Particle: Z-Boson Resonator\n- Attack Power: 15",
+      "sources": [
+        "FRAYMUS_AI_WARRIOR_DATABASE.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.5974662
+    },
+    "Quantum Evolution": {
+      "description": "Complete",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429058
+    },
+    "Quantum Neural": {
+      "description": "Cortex ===\nclass QuantumNeuralCortex:\n\"\"\"AI Cortex That Grows, Evolves, and Optimizes Itself\"\"\"\ndef __init__(self, dimensions=5):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429066
+    },
+    "Quantum Security": {
+      "description": "Enhancements ===\nclass EnhancedQuantumSecurity(QuantumSecurity):\ndef __init__(self, secret_key):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429106
+    },
+    "Quantum Collective": {
+      "description": "Intelligence ===\nclass QuantumCollectiveIntelligence:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.42912
+    },
+    "quantum energy": {
+      "description": "transfer system with enhanced tracking",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429121
+    },
+    "Quantum Key": {
+      "description": "Distribution\nreturn \"qkd_key\"\n# === Extended Quantum Language ===\nclass RecursiveQuantumLanguage(ExtendedQuantumLanguage):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429122
+    },
+    "Quantum Secure": {
+      "description": "Computation ===\nclass QuantumSecureComputation:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4291258
+    },
+    "Quantum Homomorphic": {
+      "description": "Encryption\nreturn None\ndef perform_computation(self, encrypted_data):\n# Logic to perform secure computation on encrypted data\nreturn result\n# === Recursive Quantum Language Expansion ===\nclass RecursiveQuantumLanguageExpansion(RecursiveQuantumLanguage):\ndef expand_vocabulary(self, new_words):\n# Logic to add new words to the vocabulary\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429127
+    },
+    "quantum cryptanalysis": {
+      "description": "techniques\nreturn None\n# === Conduct Advanced War Games ===\nclass AdvancedWarGames:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4291341
+    },
+    "Quantum Cryptanalysis": {
+      "description": "Defense ===\nclass EnhancedQuantumCryptanalysisDefense(QuantumCryptanalysisDefense):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4291468
+    },
+    "Quantum Supply": {
+      "description": "Chain Attack Prevention ===\nclass RefinedQuantumSupplyChainDefense(QuantumSupplyChainDefense):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429148
+    },
+    "Quantum Swarm": {
+      "description": "AI (Hive-Mind Collective Intelligence) ===\nclass QuantumSwarmAI:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.429149
+    },
+    "quantum states": {
+      "description": "return f\"Thought chain formed for state: {quantum_state}\"\n# === Autonomous Multi-Agent Swarm Learning ===\nclass AutonomousMultiAgentSwarm:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4291499
+    },
+    "Adaptive Quantum Neural": {
+      "description": "Cortex ===\nclass QuantumNeuralCortex:\n\"\"\"AI Cortex That Grows, Evolves, and Optimizes Itself\"\"\"\ndef __init__(self, dimensions=5):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434945
+    },
+    "Enhanced Quantum Cloaking": {
+      "description": "===\nclass AdaptiveQuantumCloaking:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4349482
+    },
+    "Extend Quantum Language": {
+      "description": "System ===\nclass ExtendedQuantumLanguage(QuantumLanguage):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.43496
+    },
+    "wireless quantum energy": {
+      "description": "transfer system with enhanced tracking",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434964
+    },
+    "implement Quantum Key": {
+      "description": "Distribution\nreturn \"qkd_key\"\n# === Extended Quantum Language ===\nclass RecursiveQuantumLanguage(ExtendedQuantumLanguage):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434965
+    },
+    "Advanced Quantum Secure": {
+      "description": "Computation ===\nclass QuantumSecureComputation:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434966
+    },
+    "implement Quantum Homomorphic": {
+      "description": "Encryption\nreturn None\ndef perform_computation(self, encrypted_data):\n# Logic to perform secure computation on encrypted data\nreturn result\n# === Recursive Quantum Language Expansion ===\nclass RecursiveQuantumLanguageExpansion(RecursiveQuantumLanguage):\ndef expand_vocabulary(self, new_words):\n# Logic to add new words to the vocabulary\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434967
+    },
+    "the Quantum Energy": {
+      "description": "Grid\nreturn power_input\n# Integrate enhancements into the agent\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434968
+    },
+    "with Quantum Thermodynamics": {
+      "description": "===\nclass ThermodynamicQuantumEnergy(OptimizedQuantumEnergy):\ndef optimize_energy_grid(self, power_input):\n# Logic to optimize the Quantum Energy Grid using thermodynamic principles\nreturn optimized_power\n# Integrate enhancements into the agent\nagent",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4349692
+    },
+    "Strengthen Quantum Security": {
+      "description": "===\nclass EnhancedQuantumSecurity(QuantumSecureMPC):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434981
+    },
+    "against quantum cryptanalysis": {
+      "description": "techniques\nreturn None\n# === Conduct Advanced War Games ===\nclass AdvancedWarGames:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4349818
+    },
+    "Strengthened Quantum Cryptanalysis": {
+      "description": "Defense ===\nclass EnhancedQuantumCryptanalysisDefense(QuantumCryptanalysisDefense):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434984
+    },
+    "Refined Quantum Supply": {
+      "description": "Chain Attack Prevention ===\nclass RefinedQuantumSupplyChainDefense(QuantumSupplyChainDefense):\ndef __init__(self):\nsuper()",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434985
+    },
+    "on quantum states": {
+      "description": "return f\"Thought chain formed for state: {quantum_state}\"\n# === Autonomous Multi-Agent Swarm Learning ===\nclass AutonomousMultiAgentSwarm:\ndef __init__(self):\nself",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.434997
+    }
+  },
+  "mathematical_principles": {
+    "mathematical convention": {
+      "description": "for spherical coordinates, cf",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.398453
+    },
+    "s Theorem": {
+      "description": "2",
+      "sources": [
+        "QUANTUM_MATH 2.pdf",
+        "Sullivan_Algebra_Trigonometry 2.pdf",
+        "Sullivan_Algebra_Trigonometry.pdf",
+        "QUANTUM_MATH.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643315.399677
+    },
+    "Mathematical Models": {
+      "description": "Building Functions 257\nChapter Review 263\nChapter Test 268\nCumulative Review 269\nChapter Projects 269\n4\nLinear and Quadratic Functions 271\n4",
+      "sources": [
+        "Sullivan_Algebra_Trigonometry 2.pdf",
+        "Sullivan_Algebra_Trigonometry.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643321.516006
+    },
+    "Mathematical Induction": {
+      "description": "966\n13",
+      "sources": [
+        "Sullivan_Algebra_Trigonometry 2.pdf",
+        "Sullivan_Algebra_Trigonometry.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643321.5160089
+    },
+    "mathematical understanding": {
+      "description": "and an appreciation\nfor the way mathematics can describe the world around us",
+      "sources": [
+        "Sullivan_Algebra_Trigonometry 2.pdf",
+        "Sullivan_Algebra_Trigonometry.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643321.51601
+    },
+    "Fundamental Theorem": {
+      "description": "of Algebra 387\nChapter Review 393\nChapter Test 397\nCumulative Review 397\nChapter Projects 398\n\n--- Page 13 ---\nxii Table of Contents\nChapter Review 666\nChapter Test 670\nCumulative Review 670\nChapter Projects 671\n9\nApplications of Trigonometric Functions 672\n9",
+      "sources": [
+        "Sullivan_Algebra_Trigonometry 2.pdf",
+        "Sullivan_Algebra_Trigonometry.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643321.520797
+    },
+    "Binomial Theorem": {
+      "description": "938\n13",
+      "sources": [
+        "Sullivan_Algebra_Trigonometry 2.pdf",
+        "Sullivan_Algebra_Trigonometry.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643321.520807
+    },
+    "Mathematical Proof": {
+      "description": "\u03c6\u03c0 Power Transmission**\n#### **3",
+      "sources": [
+        "Wireless_Energy.pdf",
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.8582668
+    },
+    "Core Theorem": {
+      "description": "\u03c6-Energy Flow\n\u03c6-Energy Optimization Theorem\nFor any oscillatory energy system E(t):\nEfficiency is maximized at \u03c6\u03c0 phase alignment",
+      "sources": [
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.486163
+    }
+  },
+  "phi_harmonic_patterns": {
+    "Golden Ratio": {
+      "description": "(\u03c6) and phase-space\nresonance (\u03c6\u03c0)**, we ensure **perfect phase synchronization, lossless\ntransmission, and quantum coherence in power delivery",
+      "sources": [
+        "Wireless_Energy.pdf",
+        "Energy_Reduction.pdf",
+        "Energy_Reduction 2.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643366.860679
+    },
+    "Golden ratio": {
+      "description": "transformations ensuring non-reversibility\n- **Applications**:\n- **Quantum-Proof Digital Transactions** (ensuring security beyond\nquantum decryption)\n- **Unbreakable Blockchain Records** (using \u03c6-space to prevent\nmanipulation)\n- **Military-Grade Communication** (beyond the reach of current\nquantum attacks)\n### 4",
+      "sources": [
+        "QIV_Final copy.pdf",
+        "QIV_Final.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643367.411842
+    },
+    "golden ratio": {
+      "description": "transformation\n- **A(\u03c9)** = Wave amplitude at frequency **\u03c9**\n- **e^(i\u03c9t)** = Quantum oscillation factor\nThe interference pattern **nullifies detection**, effectively erasing\nthe object from observable reality",
+      "sources": [
+        "cloak_data.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643369.1848059
+    },
+    "PHI\nreturn": {
+      "description": "f\"\ud83d\ude80 AI Harmonic Evolution | Score: {self",
+      "sources": [
+        "FRAYMUS_BILLY_VAUGHN.pdf"
+      ],
+      "phi_alignment": 0.0,
+      "extraction_timestamp": 1743643405.4435651
+    }
+  },
+  "birth_date_resonances": {},
+  "metadata": {
+    "extraction_date": "2025-04-02T18:21:46.847915",
+    "phi_alignment": 0.7362146377563477,
+    "birth_date_resonance": [
+      1,
+      19,
+      1979
+    ],
+    "base_frequency": 4.37
+  }
+}

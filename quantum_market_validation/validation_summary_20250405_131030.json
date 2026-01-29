@@ -1,0 +1,47 @@
+{
+    "validation_date": "20250405_131030",
+    "periods": {
+        "training": {
+            "start": "2025-02-27",
+            "end": "2025-03-29"
+        },
+        "test": {
+            "start": "2025-03-29",
+            "end": "2025-04-05"
+        }
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.3279348834439227,
+        "reality_coherence": 0.830023197045177
+    },
+    "accuracy_metrics": {
+        "trend_accuracy": 100.0,
+        "direction_accuracy": 100.0,
+        "average_price_error": 61.60510340238951,
+        "average_phi_accuracy": 0.6212424768947147
+    },
+    "symbol_results": [
+        {
+            "symbol": "AAPL",
+            "trend_correct": true,
+            "direction_correct": true,
+            "price_error": 57.60398568112334,
+            "phi_accuracy": 0.6859819215546966
+        },
+        {
+            "symbol": "MSFT",
+            "trend_correct": true,
+            "direction_correct": true,
+            "price_error": 52.99357421472509,
+            "phi_accuracy": 0.7605799461022428
+        },
+        {
+            "symbol": "GOOGL",
+            "trend_correct": true,
+            "direction_correct": true,
+            "price_error": 74.2177503113201,
+            "phi_accuracy": 0.4171655630272046
+        }
+    ]
+}

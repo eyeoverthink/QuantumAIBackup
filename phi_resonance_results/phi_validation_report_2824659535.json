@@ -1,0 +1,177 @@
+{
+  "studies_analyzed": 5,
+  "mean_quantum_alignment": 0.0,
+  "harmonic_mean_alignment": 0,
+  "highest_alignment": 0.0,
+  "mean_phi_relevance": 0.47382885518805884,
+  "phi_harmonic_index": "0.0",
+  "timestamp": 1745735599.36577,
+  "best_study_id": 80,
+  "results": [
+    {
+      "study_id": 80,
+      "value_count": 203,
+      "phi_relevance": 0.46981388867679974,
+      "resonance_factors": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.28366544874485555,
+        0.05105733871459961,
+        0.05105733871459961,
+        0.2934005171555327,
+        0.6180339887498949,
+        0.14328575134277344
+      ],
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5301861113232003,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.46981388867679974,
+        "alignment_percentage": 0.0
+      },
+      "phi_amplified_values": [
+        22.82546646574229,
+        22.82546646574229,
+        17.38044355267937,
+        22.82546646574229,
+        10.935420639616794
+      ],
+      "quantum_alignment": 0.0,
+      "timestamp": 1745735598.373431
+    },
+    {
+      "study_id": 81,
+      "value_count": 14,
+      "phi_relevance": 0.431284316591967,
+      "resonance_factors": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.2360679774997898,
+        0.7758822441101074,
+        0.7758822441101074,
+        0.7306511594288168,
+        0.6180339887498949,
+        0.3392324447631836
+      ],
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.568715683408033,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.431284316591967,
+        "alignment_percentage": 0.0
+      },
+      "phi_amplified_values": [
+        22.82546646574229,
+        22.82546646574229,
+        17.38044355267937,
+        22.82546646574229,
+        9.100518392092726
+      ],
+      "quantum_alignment": 0.0,
+      "timestamp": 1745735598.516937
+    },
+    {
+      "study_id": 82,
+      "value_count": 14,
+      "phi_relevance": 0.5274271139881361,
+      "resonance_factors": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.2360679774997898,
+        0.49863672256469727,
+        0.49863672256469727,
+        0.031871050283371005,
+        0.6180339887498949,
+        0.466947078704834
+      ],
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.4725728860118639,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.5274271139881361,
+        "alignment_percentage": 0.0
+      },
+      "phi_amplified_values": [
+        22.82546646574229,
+        22.82546646574229,
+        17.38044355267937,
+        22.82546646574229,
+        9.100518392092726
+      ],
+      "quantum_alignment": 0.0,
+      "timestamp": 1745735598.6582122
+    },
+    {
+      "study_id": 83,
+      "value_count": 711,
+      "phi_relevance": 0.4787710371549284,
+      "resonance_factors": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.7739820199815313,
+        0.41371774673461914,
+        0.41371774673461914,
+        0.6720566266467358,
+        0.6180339887498949,
+        0.4687309265136719
+      ],
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5212289628450716,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.4787710371549284,
+        "alignment_percentage": 0.0
+      },
+      "phi_amplified_values": [
+        22.82546646574229,
+        22.82546646574229,
+        17.38044355267937,
+        22.82546646574229,
+        28.8373277163239
+      ],
+      "quantum_alignment": 0.0,
+      "timestamp": 1745735599.1655722
+    },
+    {
+      "study_id": 84,
+      "value_count": 86,
+      "phi_relevance": 0.46184791952846294,
+      "resonance_factors": [
+        0.6180339887498949,
+        0.6180339887498949,
+        0.4508497187473708,
+        0.6180339887498949,
+        0.06888370749726391,
+        0.5534896850585938,
+        0.5534896850585938,
+        0.4893598623093567,
+        0.6180339887498949,
+        0.31641483306884766
+      ],
+      "validation": {
+        "structure": "astronomical",
+        "observed_value": 0.5381520804715371,
+        "calculated_resonance": 0.0,
+        "expected_resonance": 0.46184791952846294,
+        "alignment_percentage": 0.0
+      },
+      "phi_amplified_values": [
+        22.82546646574229,
+        22.82546646574229,
+        17.38044355267937,
+        22.82546646574229,
+        2.6554954790297387
+      ],
+      "quantum_alignment": 0.0,
+      "timestamp": 1745735599.365024
+    }
+  ]
+}

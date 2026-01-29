@@ -1,0 +1,30 @@
+{
+    "symbol": "JNJ",
+    "analysis_date": "20250405_002730",
+    "data_range": {
+        "start": "2025-03-29",
+        "end": "2025-04-05"
+    },
+    "quantum_metrics": {
+        "coherence": 0.9918,
+        "phi_resonance": 0.16068820943448886,
+        "reality_coherence": 0.830023197045177
+    },
+    "market_analysis": {
+        "trend": "Uptrend",
+        "phi_harmonic_levels": {
+            "0.000": 102.70231872939144,
+            "0.236": 78.46457150925505,
+            "0.382": 63.47003297476391,
+            "0.500": 51.35115936469572,
+            "0.618": 39.232285754627526,
+            "0.786": 21.978296208089763,
+            "1.000": 0.0,
+            "1.618": 166.17235170415532,
+            "2.618": 268.87467043354684
+        },
+        "quantum_prediction": 104.21268500712534,
+        "confidence": 0.9204292137799163
+    },
+    "visualization_path": "quantum_market_analysis/JNJ_analysis_20250405_002730.png"
+}
