@@ -696,10 +696,10 @@ class StreamlitQuantumInterface:
             
         try:
             # Initialize the multi-brain network
-            self.multi_brain_sync.initialize_network()
+            self.multi_brain_sync.initialize_brain_network()
             
             # Connect phi-harmonic processor if available
-            if self.phi_harmonic is not None:
+            if self.phi_harmonic is not None and hasattr(self.multi_brain_sync, 'connect_phi_harmonic_processor'):
                 self.multi_brain_sync.connect_phi_harmonic_processor(self.phi_harmonic)
                 
             print("Multi-brain quantum network initialized successfully")
