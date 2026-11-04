@@ -83,7 +83,6 @@
 import numpy as np
 import time
 from qiskit import QuantumCircuit, transpile
-from qiskit.primitives import Sampler
 from qiskit_ibm_provider import IBMProvider
 from qiskit_aer import AerSimulator
 import os
@@ -228,43 +227,22 @@ class IBMQuantumInterface:
             shots (int): Number of shots (repetitions)
             
         Returns:
-            dict: Results of the quantum computation
+            dict: Measured probabilities keyed by hex outcome
         """
-        circuit.measure_all()  # Add measurements to all qubits
-        
-        try:
-            if self.backend:
-                # Transpile circuit for the backend
-                transpiled_circuit = transpile(circuit, self.backend)
-                # Create a sampler using the backend
-                sampler = Sampler()
-                # Run on the backend
-                job = sampler.run(transpiled_circuit, shots=shots)
-                result = job.result()
-                # Convert result to counts format
-                counts = result.quasi_dists[0]
-                return {hex(int(k, 2)): v for k, v in counts.items()}
+        if not any(inst.operation.name == "measure" for inst in circuit.data):
+            if circuit.num_clbits >= circuit.num_qubits:
+                circuit.measure(range(circuit.num_qubits), range(circuit.num_qubits))
             else:
-                # Run on simulator
-                sampler = Sampler()
-                job = sampler.run(circuit, shots=shots)
-                result = job.result()
-                # Convert result to counts format
-                counts = result.quasi_dists[0]
-                return {hex(int(k, 2)): v for k, v in counts.items()}
-        except Exception as e:
-            print(f"Error running circuit: {str(e)}")
-            # Fallback to simulator
+                circuit.measure_all()
+        
+        for backend in [b for b in (self.backend, self.simulator) if b is not None]:
             try:
-                sampler = Sampler()
-                job = sampler.run(circuit, shots=shots)
-                result = job.result()
-                # Convert result to counts format
-                counts = result.quasi_dists[0]
-                return {hex(int(k, 2)): v for k, v in counts.items()}
-            except Exception as e2:
-                print(f"Simulator error: {str(e2)}")
-                return {}
+                job = backend.run(transpile(circuit, backend), shots=shots)
+                counts = job.result().get_counts()
+                return {hex(int(k.replace(" ", ""), 2)): v / shots for k, v in counts.items()}
+            except Exception as e:
+                print(f"Error running circuit on {backend.name}: {str(e)}")
+        return {}
     
     def prepare_bell_state(self):
         """Prepare a Bell state (maximally entangled state)"""
